@@ -1,2 +1,2 @@
-# Fjalori-Shqip
-Ketu do te definohen rregullat e fjalorit shqip edhe si to de krijohen definicionet e perdorura ne gjuhen shqipe.
+# Si te i perdorim fjalet te cilat jane ne gjuhen angleze kur flasim rreth tyre ne shqip?
+//...
