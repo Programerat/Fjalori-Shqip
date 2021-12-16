@@ -1,301 +1,271 @@
 
-| english | shkurtesa | Shqip
-|---------|-----------|--------
-|A        | n | A [vlera heksadecimale e numrit dhjetor 10]
-A [Ampere] abbr A [amper]
-Å [angstrom] n Å [angstrem]
-A flag [Auxiliary Carry flag] n
-flamur ndihmës i bartjes 
-A series formats n formatet (e
-letrës) e serisë A [A0,...,A10; A0 = 
-841mm×1189mm] 
-a. m. [lat. ante meridiem] abbr p.d.
-[paradite] 
-A/B switch box n kuti komutuese
-(ose ndërprerëse) A-B 
-A/D converter [Analog-to-Digital 
-Converter] n shndërrues A-D
-[shndërrues analog-digjital] 
-A: n A: [identifikator i njësisë së 
-parë të disketave] 
-abacus n abak [numëratore kineze
-me rruaza] 
-abandon v braktis (lë)
-abbr abbr shkurtim
-abbreviate v shkurtoj
-abbreviated adj shkurtuar (i) abbreviated address n adresë e
-shkurtuar 
+| Anglisht | Shkurtesa | Shqip
+|----------|-----------|----------------------------
+A |  n  | A [vlera heksadecimale e numrit dhjetor 10] 
+A [Ampere] |  abbr  | A [amper]
+Å [angstrom] |  n  | Å [angstrem]
+A flag [Auxiliary Carry flag] |  n  | flamur ndihmës i bartjes 
+A series formats |  n  | formatet (e letrës) e serisë A [A0,...,A10; A0 = 841mm×1189mm] 
+a. m. [lat. ante meridiem] |  abbr  | p.d.[paradite] 
+A/B switch box |  n  | kuti komutuese(ose ndërprerëse) A-B 
+A/D converter [Analog-to-Digital Converter] |  n  | shndërrues A-D [shndërrues analog-digjital] 
+A: |  n  | A: [identifikator i njësisë së parë të disketave] 
+abacus |  n  | abak [numëratore kineze me rruaza] 
+abandon |  v  | braktis (lë)
+abbr |  abbr  | shkurtim
+abbreviate |  v  | shkurtoj
+abbreviated adj shkurtuar (i) abbreviated address |  n  | adresë e shkurtuar 
  
-abbreviated addressing n 
-adresim i shkurtuar 
-abbreviated installation n instalim 
+abbreviated addressing |  n  | adresim i shkurtuar 
+abbreviated installation |  n  | instalim 
 i shkurtuar 
-abbreviated keys n çelësa të 
+abbreviated keys |  n  | çelësa të 
 shkurtuar 
-abbreviation n shkurtim 
-Abelian group n grup abelian 
-abend [ABnormal END] abbr 
-mbarim jonormal (i programit) 
-aberration n aberracion ose 
-rravgim ose shmangie 
-ABIOS [Advanced Basic 
-Input/Output System] abbr 
-ABIOS [sistem i avancuar bazë për 
-hyrje-dalje] 
-ablation n ablacion 
-abnormal adj jonormal 
-abnormal end [abend] n mbarim 
-jonormal (i programit) 
-abnormal statement n shprehje 
-(ose komandë) jonormale 
-abnormal termination n 
-përfundim jonormal 
-abort v ndërpres 
-abortion n ndërprerje 
- abs 
- 
-abs abbr abs [funksion nëpërmjet 
-të cilit merret vlera absolute e 
-numrit i cili paraqitet si argument] 
-ABS [absolute] abbr ABS [vlerë 
-absolute] 
-ABS function n funksion ABS 
-abscissa n abshisë 
-absolute adj absolut 
-absolute n vlerë absolute 
-absolute address n adresë 
+abbreviation |  n  | shkurtim 
+Abelian group |  n  | grup abelian 
+abend [ABnormal END] |  abbr  | mbarim jonormal (i programit) 
+aberration |  n  | aberracion ose rravgim ose shmangie 
+ABIOS [Advanced Basic Input/Output System] |  abbr  | ABIOS [sistem i avancuar bazë për hyrje-dalje] 
+ablation |  n  | ablacion 
+abnormal |  adj  | jonormal 
+abnormal end [abend] |  n  | mbarim jonormal (i programit) 
+abnormal statement |  n  | shprehje (ose komandë) jonormale 
+abnormal termination |  n  | përfundim jonormal 
+abort |  v  | ndërpres 
+abortion |  n  | ndërprerje  abs 
+abs |  abbr  | abs [funksion nëpërmjet të cilit merret vlera absolute e numrit i cili paraqitet si argument] 
+ABS [absolute] |  abbr  | ABS [vlerë absolute] 
+ABS function |  n  | funksion ABS 
+abscissa |  n  | abshisë 
+absolute |  adj  | absolut 
+absolute |  n  | vlerë absolute 
+absolute address |  n  | adresë absolute 
+absolute addressing |  n  | adresim absolut 
+absolute assembler |  n  | asembler absolut 
+absolute cell reference |  n  | referim absolut i qelizës 
+absolute code |  n  | kod absolut 
+absolute coding |  n  | kodim absolut 
+absolute command |  n  | urdhër [komandë] absolut 
+absolute coordinates |  n  | koordinata absolute 
+absolute data |  n  | dhëna (të) 
 absolute 
-absolute addressing n adresim 
-absolut 
-absolute assembler n asembler 
-absolut 
-absolute cell reference n referim 
-absolut i qelizës 
-absolute code n kod absolut 
-absolute coding n kodim absolut 
-absolute command n urdhër 
+absolute device |  n  | pajisje absolute 
+absolute error |  n  | gabim absolut 
+absolute expression |  n  | shprehje 
+absolute 
+absolute instruction |  n  | urdhër 
 [komandë] absolut 
-absolute coordinates n koordinata 
-absolute 
-absolute data n dhëna (të) 
-absolute 
-absolute device n pajisje absolute 
-absolute error n gabim absolut 
-absolute expression n shprehje 
-absolute 
-absolute instruction n urdhër 
-[komandë] absolut 
-absolute jump n kapërcim absolut 
+absolute jump |  n  | kapërcim absolut 
  
 10
 abstract data type 
-absolute loader n ngarkues (ose 
+absolute loader |  n  | ngarkues (ose 
 mbushës) absolut 
-absolute movement n zhvendosje 
+absolute movement |  n  | zhvendosje 
 absolute 
-absolute path n shteg absolut 
-absolute pointing device n pajisje 
+absolute path |  n  | shteg absolut 
+absolute pointing device |  n  | pajisje 
 treguese absolute 
-absolute positioning n pozicionim 
+absolute positioning |  n  | pozicionim 
 absolut 
-absolute priority n prioritet absolut 
-absolute program n program 
+absolute priority |  n  | prioritet absolut 
+absolute program |  n  | program 
 absolut 
-absolute programming n 
+absolute programming |  n  | 
 programim absolut 
-absolute skip n kapërcim absolut 
-absolute tab n tabulator absolut 
-absolute value n vlerë absolute 
-absolute vector n vektor absolut 
-absorb v absorboj ose përthith 
-absorbtance n absorbtancë ose 
+absolute skip |  n  | kapërcim absolut 
+absolute tab |  n  | tabulator absolut 
+absolute value |  n  | vlerë absolute 
+absolute vector |  n  | vektor absolut 
+absorb |  v  | absorboj ose përthith 
+absorbtance |  n  | absorbtancë ose 
 koeficient i absorbimit 
-absorption n absorbim ose 
+absorption |  n  | absorbim ose 
 përthithje 
-absorption filter n filtër 
+absorption filter |  n  | filtër 
 absorbues 
-absorption laws n ligjet e 
+absorption laws |  n  | ligjet e 
 absorbimit 
-abstract adj abstrakt 
-abstract automata theory n teori 
+abstract |  adj  | abstrakt 
+abstract automata theory |  n  | teori 
 abstrakte e automateve 
-abstract data type [ADT] n tip 
+abstract data type [ADT] |  n  | tip 
 abstrakt i të dhënave 
  
  abstract machine 
-abstract machine n makinë 
+abstract machine |  n  | makinë 
 abstrakte 
-abstract syntax n sintaksë 
+abstract syntax |  n  | sintaksë 
 abstrakte 
-abstract syntax tree n pemë e 
+abstract syntax tree |  n  | pemë e 
 sintaksës abstrakte 
-abstraction n abstragim 
-AC [Alternating Current] abbr 
+abstraction |  n  | abstragim 
+AC [Alternating Current] |  abbr  | 
 rrymë alternative 
-AC adapter n përshtatës (ose 
+AC adapter |  n  | përshtatës (ose 
 adapter) për rrymë alternative 
-AC amplifier n amplifikator (ose 
+AC amplifier |  n  | amplifikator (ose 
 përforcues) i rrymës alternative 
-AC/DC adapter n përshtatës (ose 
+AC/DC adapter |  n  | përshtatës (ose 
 adapter) alternativ - i vazhduar 
 (AC-DC) 
-ACC [accumulator] abbr 
+ACC [accumulator] |  abbr  | 
 akumulator 
-acceleration n përshpejtim 
-acceleration time n kohë e 
+acceleration |  n  | përshpejtim 
+acceleration time |  n  | kohë e 
 përshpejtimit 
-accelerator n përshpejtues 
-accelerator board n pllakë e 
+accelerator |  n  | përshpejtues 
+accelerator board |  n  | pllakë e 
 përshpejtuesit 
-accelerator card n kartelë e 
+accelerator card |  n  | kartelë e 
 përshpejtuesit 
-accelerator key n tast përshpejtues 
-accent n theks 
-accented adj theksuar (i) [me theks] 
-accept v pranoj 
-acceptable adj pranueshëm (i) 
-acceptable risk level n nivel i 
+accelerator key |  n  | tast përshpejtues 
+accent |  n  | theks 
+accented |  adj  | theksuar (i) [me theks] 
+accept |  v  | pranoj 
+acceptable |  adj  | pranueshëm (i) 
+acceptable risk level |  n  | nivel i 
 pranueshëm i rrezikut 
  
 11
 access level 
-acceptable security class n shkallë 
+acceptable security class |  n  | shkallë 
 e pranueshme e sigurisë 
-acceptable security level n nivel i 
+acceptable security level |  n  | nivel i 
 pranueshëm i sigurisë 
-acceptable use policy n politikë e 
+acceptable use policy |  n  | politikë e 
 pranueshme e përdorimit (ose e 
 shfrytëzimit) 
-acceptance n pranim 
-acceptance angle n kënd i pranimit 
-acceptance of data n pranim i të 
+acceptance |  n  | pranim 
+acceptance angle |  n  | kënd i pranimit 
+acceptance of data |  n  | pranim i të 
 dhënave 
-acceptance test n test i pranimit 
-acceptance testing n testim [provë] 
+acceptance test |  n  | test i pranimit 
+acceptance testing |  n  | testim [provë] 
 i pranimit 
-access v kam akses në 
-access n akses 
-access arm n krah (ose dorezë) e 
+access |  v  | kam akses në 
+access |  n  | akses 
+access arm |  n  | krah (ose dorezë) e 
 aksesit 
-access bus n bus i (ose 
+access bus |  n  | bus i (ose 
 magjistrale e) aksesit 
-access by users n hyrje për 
+access by users |  n  | hyrje për 
 përdoruesit 
-access category n kategori e 
+access category |  n  | kategori e 
 aksesit 
-access charge n pagesë për akses 
-access code n kod i aksesit 
-access control [AC] n kontroll 
+access charge |  n  | pagesë për akses 
+access code |  n  | kod i aksesit 
+access control [AC] |  n  | kontroll 
 [kufizim] i aksesit 
-access control list n listë për kontroll 
+access control list |  n  | listë për kontroll 
 të aksesit 
 access denied ph aksesi nuk lejohet 
-access hole n vrimë për akses 
-access level n nivel i aksesit 
+access hole |  n  | vrimë për akses 
+access level |  n  | nivel i aksesit 
  access line 
-access line n linjë e aksesit 
-access management service n 
+access line |  n  | linjë e aksesit 
+access management service |  n  | 
 shërbim i menaxhimit të aksesit 
-access mechanism n mekanizëm i 
+access mechanism |  n  | mekanizëm i 
 aksesit 
-access method n metodë e aksesit 
-access mode n mënyrë e aksesit 
-access name n emër i aksesit 
-access number n numër i aksesit 
-access path n shteg i aksesit 
+access method |  n  | metodë e aksesit 
+access mode |  n  | mënyrë e aksesit 
+access name |  n  | emër i aksesit 
+access number |  n  | numër i aksesit 
+access path |  n  | shteg i aksesit 
 access period periodë e aksesit 
-access permission n leje për akses 
-access point n pikë e aksesit 
+access permission |  n  | leje për akses 
+access point |  n  | pikë e aksesit 
 [lidhjes] 
-access privileges n privilegje të 
+access privileges |  n  | privilegje të 
 aksesit 
-access procedures n procedura të 
+access procedures |  n  | procedura të 
 aksesit 
-access request n kërkesë për akses 
-access right n drejtë (e) e aksesit 
-access rights n drejtat (të) e aksesit 
-access security control n kontroll i 
+access request |  n  | kërkesë për akses 
+access right |  n  | drejtë (e) e aksesit 
+access rights |  n  | drejtat (të) e aksesit 
+access security control |  n  | kontroll i 
 sigurisë së aksesit 
-access server n server i aksesit 
-access speed n shpejtësi e aksesit 
-access station n stacion i aksesit 
-access technique n teknikë e 
+access server |  n  | server i aksesit 
+access speed |  n  | shpejtësi e aksesit 
+access station |  n  | stacion i aksesit 
+access technique |  n  | teknikë e 
 aksesit
-access time n kohë e aksesit 
-access time for reading n kohë e 
+access time |  n  | kohë e aksesit 
+access time for reading |  n  | kohë e 
 aksesit për lexim 
  
  
 12
 accumulator 
-access time for writing n kohë e 
+access time for writing |  n  | kohë e 
 aksesit për shkrim 
-access to the station n akses në 
+access to the station |  n  | akses në 
 stacion 
-access type n lloj i aksesit 
-access unit n njësi e aksesit 
-access zero n akses zero 
-access-control register n regjistër 
+access type |  n  | lloj i aksesit 
+access unit |  n  | njësi e aksesit 
+access zero |  n  | akses zero 
+access-control register |  n  | regjistër 
 për kontroll të aksesit 
-access-control words n fjalë për 
+access-control words |  n  | fjalë për 
 kontroll të aksesit 
-accessibility n arritshmëri 
-accessories n pajime 
-accessory n pajisje ndihmëse ose 
+accessibility |  n  | arritshmëri 
+accessories |  n  | pajime 
+accessory |  n  | pajisje ndihmëse ose 
 pajisje shtesë 
-account (1) n llogari (bankare) 
-account (2) n llogari (profili i 
+account (1) |  n  | llogari (bankare) 
+account (2) |  n  | llogari (profili i 
 përdoruesit të rrjetit) 
-accounting machine n makinë 
+accounting machine |  n  | makinë 
 kontabiliteti 
-accounting package n pako 
+accounting package |  n  | pako 
 softuerike kontabiliteti 
 ACCU [Association of C and C++ 
-Users] abbr ACCU [Shoqata e 
+Users] |  abbr  | ACCU [Shoqata e 
 përdoruesve të C dhe C++] 
-accumulate (1) v akumuloj 
-accumulate (2) v grumbulloj 
+accumulate (1) |  v  | akumuloj 
+accumulate (2) |  v  | grumbulloj 
 [mbledh] 
-accumulation (1) n akumulim 
-accumulation (2) n grumbullim 
+accumulation (1) |  n  | akumulim 
+accumulation (2) |  n  | grumbullim 
 [mbledhje] 
-accumulator n akumulator 
+accumulator |  n  | akumulator 
 [regjistër] 
  accumulator address 
-accumulator address n adresë e 
+accumulator address |  n  | adresë e 
 akumulatorit 
  
-accumulator bit n bit akumulatori 
-accumulator contents n përmbajtje 
+accumulator bit |  n  | bit akumulatori 
+accumulator contents |  n  | përmbajtje 
 e akumulatorit 
-accumulator jump instruction n 
+accumulator jump instruction |  n  | 
 instruksioni për kapërcim i 
 akumulatorit 
-accumulator register n regjistër i 
+accumulator register |  n  | regjistër i 
 akumulatorit 
-accumulator shift instruction n 
+accumulator shift instruction |  n  | 
 instruksion për zhvendosje në 
 akumulator 
-accumulator transfer instruction n 
+accumulator transfer instruction |  n  | 
 instruksion për transferim në 
 akumulator 
-accumulator width n gjatësi e 
+accumulator width |  n  | gjatësi e 
 akumulatorit 
-accumulator word size n gjatësi e 
+accumulator word size |  n  | gjatësi e 
 fjalës së akumulatorit 
-accuracy n saktësi 
-accurate adj saktë (i) 
+accuracy |  n  | saktësi 
+accurate |  adj  | saktë (i) 
 accurately adv saktësisht 
-achromatic adj jongjyrësor ose 
+achromatic |  adj  | jongjyrësor ose 
 akromatik 
-achromatic color n ngjyrë 
+achromatic color |  n  | ngjyrë 
 jongjyrësore ose ngjyrë akromatike 
 [ngjyra e përhimët] 
-achromatic light n dritë 
+achromatic light |  n  | dritë 
 jongjyrësore ose dritë akromatike 
 ACIA [Asynchronous 
 Communications Interface 
-Adaptor] abbr ACIA [përshtatës 
+Adaptor] |  abbr  | ACIA [përshtatës 
 i ndërfaqes për komunikime 
 asinkrone] 
  
@@ -304,329 +274,329 @@ action
 ACIS [Andy, Charles, Ian's System] 
 abbr ACIS [sistemi Andy, Charles, 
 Ian] 
-ACK [ACKnowledg(e)ment] abbr 
-ACK [verifikim i marrjes)]  ACL [Access Control List] abbr  listë për kontroll të aksesit
+ACK [ACKnowledg(e)ment] |  abbr  | 
+ACK [verifikim i marrjes)]  ACL [Access Control List] |  abbr  |  listë për kontroll të aksesit
 ACM [Association for Computing
-Machinery] abbr ACM [Shoqata
+Machinery] |  abbr  | ACM [Shoqata
 për makinat llogaritëse] 
-acoustic adj akustik
-acoustic coupler n çiftues akustik 
+acoustic |  adj  | akustik
+acoustic coupler |  n  | çiftues akustik 
 [lidhëse akustike]
-acoustic delay line n linjë
+acoustic delay line |  n  | linjë
 akustike e vonesës
-acoustic modem n modem akustik
-acoustic panel n panel akustik 
-acoustic tablet n tabelë (ose 
+acoustic modem |  n  | modem akustik
+acoustic panel |  n  | panel akustik 
+acoustic tablet |  n  | tabelë (ose 
 tabletë) akustike
-acoustical adj akustik
-acoustical feedback n riveprim 
+acoustical |  adj  | akustik
+acoustical feedback |  n  | riveprim 
 akustik
-acoustics n akustikë
-acquisition of information  n mbledhje e informacioneve
+acoustics |  n  | akustikë
+acquisition of information  |  n  | mbledhje e informacioneve
 ACR [Audio Cassette Recorder] n
 magnetofon kasetor
 ACR interface [Audio Cassette
-Recorder interface] n ndërfaqe
+Recorder interface] |  n  | ndërfaqe
 (ose interfejs) magnetofoni kasetor 
-Acrobat n Akrobat [aplikacion
+Acrobat |  n  | Akrobat [aplikacion
 softuerik i Adobe Systems] 
-acronym n shkurtesë 
-action n veprim 
+acronym |  n  | shkurtesë 
+action |  n  | veprim 
  action bar 
-action bar n rresht i veprimit 
-action cod n kod i veprimit 
-action cycle n cikël i veprimeve 
-action list n listë e veprimeve 
-action message n mesazh i 
+action bar |  n  | rresht i veprimit 
+action cod |  n  | kod i veprimit 
+action cycle |  n  | cikël i veprimeve 
+action list |  n  | listë e veprimeve 
+action message |  n  | mesazh i 
 veprimit 
-action object n objekt veprimi 
-action query n pyetës veprues 
-action statement n urdhër veprimi 
-activate v aktivizoj (vë në veprim) 
-activate/select v aktivizoj-përzgjedh 
-activation n aktivizim (vënie në 
+action object |  n  | objekt veprimi 
+action query |  n  | pyetës veprues 
+action statement |  n  | urdhër veprimi 
+activate |  v  | aktivizoj (vë në veprim) 
+activate/select |  v  | aktivizoj-përzgjedh 
+activation |  n  | aktivizim (vënie në 
 veprim) 
-active adj aktiv 
-active application n aplikacion aktiv 
-active area n zonë aktive 
-active buffer address n adresë e 
+active |  adj  | aktiv 
+active application |  n  | aplikacion aktiv 
+active area |  n  | zonë aktive 
+active buffer address |  n  | adresë e 
 buferit aktiv 
-active cell n qelizë aktive 
-active code page n faqe aktive e 
+active cell |  n  | qelizë aktive 
+active code page |  n  | faqe aktive e 
 kodit 
-active computer n kompjuter aktiv 
-active content n përmbajtje aktive 
-active database n bazë aktive e të 
+active computer |  n  | kompjuter aktiv 
+active content |  n  | përmbajtje aktive 
+active database |  n  | bazë aktive e të 
 dhënave 
-active device n pajisje aktive 
-active file n fajl aktiv 
+active device |  n  | pajisje aktive 
+active file |  n  | fajl aktiv 
 Active Framework for Data 
-Warehousing [AFDW] n kornizë 
+Warehousing [AFDW] |  n  | kornizë 
 aktive për ruajtjen e të dhënave 
-active high input n hyrje aktive e 
+active high input |  n  | hyrje aktive e 
 lartë 
  
  
 14
 active-matrix display 
-active hub n përqendrues aktiv 
+active hub |  n  | përqendrues aktiv 
 [nyjë aktive] 
-active icon n ikonë aktive 
-active index register n regjistër 
+active icon |  n  | ikonë aktive 
+active index register |  n  | regjistër 
 aktiv i indeksit 
-active line n linjë aktive 
-active link n lidhje aktive 
-active low input n hyrje e ulët 
+active line |  n  | linjë aktive 
+active link |  n  | lidhje aktive 
+active low input |  n  | hyrje e ulët 
 aktive 
-active master file n fajl kryesor 
+active master file |  n  | fajl kryesor 
 aktiv 
-active memory n memorie aktive 
-active movie n film aktiv 
-active node n nyjë aktive 
-active printer n printer (ose 
+active memory |  n  | memorie aktive 
+active movie |  n  | film aktiv 
+active node |  n  | nyjë aktive 
+active printer |  n  | printer (ose 
 shtypës) aktiv 
-active program n program aktiv 
-active record n regjistresë aktive 
+active program |  n  | program aktiv 
+active record |  n  | regjistresë aktive 
 ose regjistrim aktiv 
-active redundancy n redundancë 
+active redundancy |  n  | redundancë 
 aktive 
-active risk n rrezik aktiv 
-active routine n rutinë aktive 
-active state n gjendje aktive 
-active storage n memorie aktive 
-active switching element n 
+active risk |  n  | rrezik aktiv 
+active routine |  n  | rutinë aktive 
+active state |  n  | gjendje aktive 
+active storage |  n  | memorie aktive 
+active switching element |  n  | 
 element komutues aktiv 
-active task n detyrë aktive 
-active threat n kërcënim aktiv 
-active window n dritare aktive 
-active-matrix display n displej 
+active task |  n  | detyrë aktive 
+active threat |  n  | kërcënim aktiv 
+active window |  n  | dritare aktive 
+active-matrix display |  n  | displej 
 me matricë aktive 
 15
 add table 
  active-matrix screen 
  
-active-matrix screen n ekran me 
+active-matrix screen |  n  | ekran me 
 matricë aktive 
-ActiveMovie n ActiveMovie 
-ActiveX n ActiveX 
-ActiveX controls n kontrolle 
+ActiveMovie |  n  | ActiveMovie 
+ActiveX |  n  | ActiveX 
+ActiveX controls |  n  | kontrolle 
 ActiveX 
-activity n aktivitet ose veprimtari 
-activity level n nivel i aktiviteteve 
-activity light n dritë kontrolluese 
-activity ratio n shkallë e aktivitetit 
-actual (1) adj aktual [i tanishëm] 
-actual (2) adj real [i vërtetë] 
-actual address n adresë aktuale 
-actual argument n argument aktual 
-actual decimal point n pikë 
+activity |  n  | aktivitet ose veprimtari 
+activity level |  n  | nivel i aktiviteteve 
+activity light |  n  | dritë kontrolluese 
+activity ratio |  n  | shkallë e aktivitetit 
+actual (1) |  adj  | aktual [i tanishëm] 
+actual (2) |  adj  | real [i vërtetë] 
+actual address |  n  | adresë aktuale 
+actual argument |  n  | argument aktual 
+actual decimal point |  n  | pikë 
 dhjetore aktuale 
-actual instruction n instruksion 
+actual instruction |  n  | instruksion 
 aktual 
-actual key n çelës aktual 
-actual parameter n parametër 
+actual key |  n  | çelës aktual 
+actual parameter |  n  | parametër 
 aktual 
-actual parameter list n listë e 
+actual parameter list |  n  | listë e 
 parametrave aktualë 
-actual value n vlerë reale 
-actuation n vënie në veprim 
-actuator n aktuator ose lëvizës 
+actual value |  n  | vlerë reale 
+actuation |  n  | vënie në veprim 
+actuator |  n  | aktuator ose lëvizës 
 [mekanizëm vepror] 
-ACU [Automatic Calling Unit] abbr 
+ACU [Automatic Calling Unit] |  abbr  | 
 njësi për thirrje automatike 
-acute angle n kënd i ngushtë 
-A-D converter n shndërrues (ose 
+acute angle |  n  | kënd i ngushtë 
+A-D converter |  n  | shndërrues (ose 
 konvertor) analog-digjital 
  
-Ada n Ada (gjuhë programuese) 
-adaptable adj adaptueshëm (i) 
-adaptable system n sistem i 
+Ada |  n  | Ada (gjuhë programuese) 
+adaptable |  adj  | adaptueshëm (i) 
+adaptable system |  n  | sistem i 
 adaptueshëm 
-adaptation n përshtatje ose adaptim 
-adaptation parameter n parametër 
+adaptation |  n  | përshtatje ose adaptim 
+adaptation parameter |  n  | parametër 
 i përshtatjes 
-adapter n përshtatës ose adapter 
-adaptive adj përshtatës 
-adaptive answering n përgjigje 
+adapter |  n  | përshtatës ose adapter 
+adaptive |  adj  | përshtatës 
+adaptive answering |  n  | përgjigje 
 përshtatëse 
-adaptive channel control n 
+adaptive channel control |  n  | 
 kontroll përshtatës i kanalit 
-adaptive character reader n lexues 
+adaptive character reader |  n  | lexues 
 përshtatës i karaktereve (shenjave) 
-adaptive control system n sistem 
+adaptive control system |  n  | sistem 
 me kontroll përshtatës 
-adaptive process n proces 
+adaptive process |  n  | proces 
 përshtatës 
-adaptive system n sistem përshtatës 
-adaptive system theory n teori e 
+adaptive system |  n  | sistem përshtatës 
+adaptive system theory |  n  | teori e 
 sistemeve përshtatëse 
-adaptor n përshtatës ose adapter 
-adaptor board n pllakë përshtatëse 
-adaptor card n kartelë përshtatëse 
-adaptor plug n prizë përshtatëse 
+adaptor |  n  | përshtatës ose adapter 
+adaptor board |  n  | pllakë përshtatëse 
+adaptor card |  n  | kartelë përshtatëse 
+adaptor plug |  n  | prizë përshtatëse 
 ADC [Analog to Digital Converter] 
 abbr shndërrues (ose konvertor) 
 analog-digjital 
-add v mbledh (shtoj) 
-add v shto 
-add table v shtoj tabelë 
+add |  v  | mbledh (shtoj) 
+add |  v  | shto 
+add table |  v  | shtoj tabelë 
  
  add time 
-add time n kohë e mbledhjes 
+add time |  n  | kohë e mbledhjes 
 [koha për gjetjen e shumës] 
-added adj shtesë (i shtuar) 
-added entry n hyrje shtesë 
-addend n mbledhshmi (i) 
-addend register n regjistër i të 
+added |  adj  | shtesë (i shtuar) 
+added entry |  n  | hyrje shtesë 
+addend |  n  | mbledhshmi (i) 
+addend register |  n  | regjistër i të 
 mbledhshmit 
-adder n mbledhës 
-adder circuit n qark i mbledhësit 
-adder-subtractor n mbledhës-
+adder |  n  | mbledhës 
+adder circuit |  n  | qark i mbledhësit 
+adder-subtractor |  n  | mbledhës-
 zbritës 
-add-in n modul [pajisje, pllakë] 
+add-in |  n  | modul [pajisje, pllakë] 
 shtesë 
-adding circuit n qark për mbledhje 
-adding machine n makinë për 
+adding circuit |  n  | qark për mbledhje 
+adding machine |  n  | makinë për 
 mbledhje 
-addition n mbledhje (shtim) 
-addition item n madhësi plotësuese 
-addition record n regjistresë 
+addition |  n  | mbledhje (shtim) 
+addition item |  n  | madhësi plotësuese 
+addition record |  n  | regjistresë 
 plotësuese ose regjistrim plotësues 
-addition register n regjistër i 
+addition register |  n  | regjistër i 
 mbledhjes 
-addition table n tabelë e mbledhjes 
-additional adj shtesë [plotësues] 
-add-on adj shtesë 
-add-on n modul [pajisje, pllakë] 
+addition table |  n  | tabelë e mbledhjes 
+additional |  adj  | shtesë [plotësues] 
+add-on |  adj  | shtesë 
+add-on |  n  | modul [pajisje, pllakë] 
 shtesë 
-add-on board n pllakë shtesë 
-add-on module n modul shtesë 
-address n adresë 
-address v adresoj [dërgoj, drejtoj] 
-address a point v adresoj një pikë 
+add-on board |  n  | pllakë shtesë 
+add-on module |  n  | modul shtesë 
+address |  n  | adresë 
+address |  v  | adresoj [dërgoj, drejtoj] 
+address a point |  v  | adresoj një pikë 
  
 16
 address mode 
-address accumulator n akumulator 
+address accumulator |  n  | akumulator 
 i adresës 
-address book n adresar ose libër i 
+address book |  n  | adresar ose libër i 
 adresave 
-address buffer n bufer 
+address buffer |  n  | bufer 
 [ndërmemorie] i adresës 
-address bus n bus i adresave ose 
+address bus |  n  | bus i adresave ose 
 magjistrale e adresave 
-address computation n llogaritje e 
+address computation |  n  | llogaritje e 
 adresës 
-address constant n konstante e 
+address constant |  n  | konstante e 
 adresës 
-address conversion n shndërrim 
+address conversion |  n  | shndërrim 
 (ose konvertim) i adresës 
-address counter n numërues i 
+address counter |  n  | numërues i 
 adresës 
-address decoder n dekodues i 
+address decoder |  n  | dekodues i 
 adresave 
-address decoding n dekodim i 
+address decoding |  n  | dekodim i 
 adresës 
-address field n fushë e adresës 
-address file n fajl i adresave 
-address format n format i adresës 
-address generation n gjenerim 
+address field |  n  | fushë e adresës 
+address file |  n  | fajl i adresave 
+address format |  n  | format i adresës 
+address generation |  n  | gjenerim 
 (ose përftim) i adresës 
-address line n linjë e adresës 
-address mapping n pasqyrim i 
+address line |  n  | linjë e adresës 
+address mapping |  n  | pasqyrim i 
 adresës 
-address mapping table n tabelë e 
+address mapping table |  n  | tabelë e 
 pasqyrimit të adresave 
-address mark n shenjë e adresës 
-address mask n maskë e adresës 
-address mode n mënyrë e adresimit 
+address mark |  n  | shenjë e adresës 
+address mask |  n  | maskë e adresës 
+address mode |  n  | mënyrë e adresimit 
  address modification 
  
-address modification n modifikim 
+address modification |  n  | modifikim 
 17
 (ose ndryshim) i adresës 
-address part n pjesë e adresës 
-address pointer n tregues (ose 
+address part |  n  | pjesë e adresës 
+address pointer |  n  | tregues (ose 
 pikatës ose pointer) i adresës 
-address rack n shirit i adresës 
-address register n regjistër i 
+address rack |  n  | shirit i adresës 
+address register |  n  | regjistër i 
 adresës 
-address setup time n kohë e 
+address setup time |  n  | kohë e 
 vendosjes së adresës 
-address sort routine n rutinë për 
+address sort routine |  n  | rutinë për 
 renditje (ose sortim) të adresave 
-address space n hapësirë e adresave 
-address translation n përkthim i 
+address space |  n  | hapësirë e adresave 
+address translation |  n  | përkthim i 
 adresës 
-addressability n adresueshmëri 
+addressability |  n  | adresueshmëri 
 [kapacitet i adresimit, mundësi e 
 adresimit] 
-addressable adj adresueshëm (i) 
-addressable cursor n kursor i 
+addressable |  adj  | adresueshëm (i) 
+addressable cursor |  n  | kursor i 
 adresueshëm 
-addressable point n pikë [pikselë] 
+addressable point |  n  | pikë [pikselë] 
 e adresueshme 
-addressable position n pozicion i 
+addressable position |  n  | pozicion i 
 adresueshëm 
-addressing n adresim 
-addressing capacity n kapacitet i 
+addressing |  n  | adresim 
+addressing capacity |  n  | kapacitet i 
 adresimit 
-addressing conflict n konflikt i 
+addressing conflict |  n  | konflikt i 
 adresimit 
-addressing level n nivel i adresimit 
-addressing method n metodë e 
+addressing level |  n  | nivel i adresimit 
+addressing method |  n  | metodë e 
 adresimit 
  
 ADN 
-addressing mode n mënyrë e 
+addressing mode |  n  | mënyrë e 
 adresimit 
-addressing scheme n skemë e 
+addressing scheme |  n  | skemë e 
 adresimit 
-addressing system n sistem i 
+addressing system |  n  | sistem i 
 adresimit 
-addressless instruction format n 
+addressless instruction format |  n  | 
 format i instruksionit pa adresë 
-add-subtract time n kohë e 
+add-subtract time |  n  | kohë e 
 mbledhjes-zbritjes 
-ADJ [adjacent] abbr fqinjë 
-adjacency n fqinjësi 
-adjacent adj fqinjë 
-adjust (1) v akordoj 
-adjust (2) v përshtat 
-adjust (3) v rregulloj 
-adjustment (1) n akordim 
-adjustment (2) n përshtatje 
-adjustment (3) n rregullim 
-admin [administrator] abbr 
+ADJ [adjacent] |  abbr  | fqinjë 
+adjacency |  n  | fqinjësi 
+adjacent |  adj  | fqinjë 
+adjust (1) |  v  | akordoj 
+adjust (2) |  v  | përshtat 
+adjust (3) |  v  | rregulloj 
+adjustment (1) |  n  | akordim 
+adjustment (2) |  n  | përshtatje 
+adjustment (3) |  n  | rregullim 
+admin [administrator] |  abbr  | 
 administrator [admin] ose drejtues 
-admin user n përdorues admin 
-administrate v administroj ose 
+admin user |  n  | përdorues admin 
+administrate |  v  | administroj ose 
 drejtoj 
-administration n administrim ose 
+administration |  n  | administrim ose 
 qeverisje 
-administrator n administrator ose 
+administrator |  n  | administrator ose 
 drejtues 
 ADN [Advanced Digital Network] 
 abbr ADN [rrjet digjital i 
 përparuar] 
  Adobe Type Manager 
-Adobe Type Manager [ATM] n 
+Adobe Type Manager [ATM] |  n  | 
 ATM [standard i "Adobe"-s për 
 fonte] 
 ADP [Automatic Data Processing] 
- abbr përpunim automatik i të 
+ |  abbr  | përpunim automatik i të 
 dhënave 
 ADSL [Asymmetric Digital 
-Subscriber Line] abbr ADSL [linjë 
+Subscriber Line] |  abbr  | ADSL [linjë 
 asimetrike digjitale e abonentit] 
-ADT [Abstract Data Type] abbr tip 
+ADT [Abstract Data Type] |  abbr  | tip 
 abstrakt i të dhënave 
-advance n avancim ose përparim 
+advance |  n  | avancim ose përparim 
 advanced (1) ad j avancuar (i) ose 
 përparuar (i) 
-advanced (2) adj përmirësuar (i) 
+advanced (2) |  adj  | përmirësuar (i) 
 Advanced Basic Input/Output 
-System [ABIOS] n sistem bazë 
+System [ABIOS] |  n  | sistem bazë 
 hyrës-dalës i përparuar (ose i 
 avancuar) [ABIOS] 
  
@@ -634,192 +604,192 @@ avancuar) [ABIOS]
 AFS 
 Advanced RISC [Advanced 
 Reduced Instruction Set 
-Computing] n RISC i avancuar 
+Computing] |  n  | RISC i avancuar 
 Advanced RISC Computing 
-Specification n specifikimi për 
+Specification |  n  | specifikimi për 
 RISC të avancuar 
 Advanced SCSI Programming 
-Interface [ASPI] n ndërfaqe 
+Interface [ASPI] |  n  | ndërfaqe 
 (ose interfejs) e avancuar për 
 programim të përshtatësve (ose 
 adapterëve) SCSI [ASPI] 
-advanced user n përdorues i 
+advanced user |  n  | përdorues i 
 avancuar (ose përparuar) 
-aerial n antenë 
-aerial (1) adj ajror 
-aerial (2) adj nga lart [i bërë nga 
+aerial |  n  | antenë 
+aerial (1) |  adj  | ajror 
+aerial (2) |  adj  | nga lart [i bërë nga 
 ajri] 
-aerial cable n kabëll mbitokësor 
+aerial cable |  n  | kabëll mbitokësor 
 [ajror] 
 Advanced Digital Network [AND] 
 n rrjet digjital i avancuar 
-advanced filter n filtër i avancuar 
-advanced options n mundësi (ose 
+advanced filter |  n  | filtër i avancuar 
+advanced options |  n  | mundësi (ose 
 opsione) të mëtejshme 
 Advanced Power Management 
-[APM] n menaxhim i avancuar i 
+[APM] |  n  | menaxhim i avancuar i 
 shpenzimit të energjisë 
 Advanced Program-to-Program 
-Communication [APPC] n 
+Communication [APPC] |  n  | 
 komunikim i avancuar ndërmjet 
 programeve 
 Advanced Research Projects 
-Agency Network [ARPANET] n 
+Agency Network [ARPANET] |  n  | 
 Rrjet i Agjencisë (amerikane) për 
 projekte kërkimore të avancuara 
-aerial image n pamje nga lart 
+aerial image |  n  | pamje nga lart 
 AFDW [Active Framework for data 
 Warehousing]abbr AFDW [kornizë 
 aktive për ruajtjen e të dhënave] 
-affiliate v bashkohem me 
-affiliated adj bashkuar (i) me 
-affirmation n pohim ose konfirmim 
-affirmative adj pohues [pozitiv, 
+affiliate |  v  | bashkohem me 
+affiliated |  adj  | bashkuar (i) me 
+affirmation |  n  | pohim ose konfirmim 
+affirmative |  adj  | pohues [pozitiv, 
 konfirmues, “po”] 
 AFIPS [American Federation of 
 Information Processing Societies] 
 abbr AFIPS [Federata amerikane e 
 shoqatave për përpunim të 
 informacioneve] 
-AFS [Andrew File System] abbr 
+AFS [Andrew File System] |  abbr  | 
 AFS [sistemi i fajlave Andrew] 
  
  agent 
-agent (1) n agjent [përfaqësues] 
-agent (2) n agjent [program; shih: 
+agent (1) |  n  | agjent [përfaqësues] 
+agent (2) |  n  | agjent [program; shih: 
  
 intelegent agent, SNMP] 
-AI [Artificial Intelligence] abbr 
+AI [Artificial Intelligence] |  abbr  | 
 inteligjencë artificiale 
 AIFF [Audio Interchange File 
-Format] abbr AIFF [format për 
+Format] |  abbr  | AIFF [format për 
 shkëmbimin e fajlave audio] 
-alarm n alarm 
-algebra n algjebër 
-algebraic adj algjebrik 
-algebraic language n gjuhë 
+alarm |  n  | alarm 
+algebra |  n  | algjebër 
+algebraic |  adj  | algjebrik 
+algebraic language |  n  | gjuhë 
 algjebrike 
-algebraic structure n strukturë 
+algebraic structure |  n  | strukturë 
 algjebrike 
 19
 alphamozaic 
 all-points-addressable graphic 
-[APA Graphic] n grafikë e 
+[APA Graphic] |  n  | grafikë e 
 adresueshme në të gjitha pikat 
 [grafik APA] 
-all-purpose computer n kompjuter 
+all-purpose computer |  n  | kompjuter 
 universal 
-Alpha (1) n Alfa [mikroprocesor 
+Alpha (1) |  n  | Alfa [mikroprocesor 
 RISC 64-bitësh i kompanisë DEC] 
-alpha (2) n alfa [prodhim harduerik 
+alpha (2) |  n  | alfa [prodhim harduerik 
 ose softuerik i gatshëm për testim 
 laboratorik] 
-Alpha box n kompjuter Alfa 
-alpha channel n kanal alfa 
-Alpha chip n çip Alfa 
+Alpha box |  n  | kompjuter Alfa 
+alpha channel |  n  | kanal alfa 
+Alpha chip |  n  | çip Alfa 
 [DECchip21064] 
 ALGOL [ALGOrithmic Language] 
 n ALGOL [gjuhë programuese: 
 gjuhë algoritmike] 
-algorithm n algoritëm 
-algorithmic adj algoritmik 
-algorithmic animation n animacion 
+algorithm |  n  | algoritëm 
+algorithmic |  adj  | algoritmik 
+algorithmic animation |  n  | animacion 
 algoritmik 
-algorithmic dictionary n fjalor 
+algorithmic dictionary |  n  | fjalor 
 algoritmik 
-algorithmic language n gjuhë 
+algorithmic language |  n  | gjuhë 
 algoritmike [gjuhë ALGOL: Ada, 
 BASIC, Pascal, C, C++] 
-alias (1) n pseudonim ose nofkë 
-alias (2) n sinjal ose emër i 
+alias (1) |  n  | pseudonim ose nofkë 
+alias (2) |  n  | sinjal ose emër i 
 rrejshëm 
-allowed adj lejuar (i) 
-all-points addressable [APA] adj 
+allowed |  adj  | lejuar (i) 
+all-points addressable [APA] |  adj  | 
 adresueshëm (i) në të gjitha pikat 
 [APA] 
  
-alpha particle n grimcë alfa 
-alpha processor n procesor alfa 
-alpha radiation n rrezatim alfa 
-alpha test n test alfa [prova e parë] 
-alpha testing n testim alfa 
-alphabet n alfabet 
-alphabetic adj alfabetik 
-alphabetic code n kod alfabetik 
-alphabetic string n varg (ose string) 
+alpha particle |  n  | grimcë alfa 
+alpha processor |  n  | procesor alfa 
+alpha radiation |  n  | rrezatim alfa 
+alpha test |  n  | test alfa [prova e parë] 
+alpha testing |  n  | testim alfa 
+alphabet |  n  | alfabet 
+alphabetic |  adj  | alfabetik 
+alphabetic code |  n  | kod alfabetik 
+alphabetic string |  n  | varg (ose string) 
 alfabetik 
-alphabetical order n rend alfabetik 
+alphabetical order |  n  | rend alfabetik 
 ose radhë alfabetike 
-alphabetically n alfabetikisht 
+alphabetically |  n  | alfabetikisht 
 [sipas rendit alfabetik] 
-alphageometric adj alfagjeometrik 
-alphameric (USA) adj alfanumerik 
-alphamozaic adj alfamozaikor ose 
+alphageometric |  adj  | alfagjeometrik 
+alphameric (USA) |  adj  | alfanumerik 
+alphamozaic |  adj  | alfamozaikor ose 
 alfamozaik 
  alphanumeric 
-alphanumeric adj alfanumerik 
+alphanumeric |  adj  | alfanumerik 
 [shkronjor-numerik] 
  
 20
 Amiga 
-ALU [Arithmetic Logic Unit] abbr 
+ALU [Arithmetic Logic Unit] |  abbr  | 
 njësi aritmetiko-logjike 
-alphanumeric character n karakter 
+alphanumeric character |  n  | karakter 
 alfanumerik 
-alphanumeric code n kod 
+alphanumeric code |  n  | kod 
 alfanumerik 
-alphanumeric display terminal n 
+alphanumeric display terminal |  n  | 
 terminal për paraqitje (përshfaqje) 
 alfanumerike 
-alphanumeric fields n fusha 
+alphanumeric fields |  n  | fusha 
 alfanumerike 
-alphanumeric mode n mënyrë 
+alphanumeric mode |  n  | mënyrë 
 alfanumerike ose mod alfanumerik 
-alphanumeric sort n radhitje (ose 
+alphanumeric sort |  n  | radhitje (ose 
 renditje) alfanumerike 
-alphaphotographic adj 
+alphaphotographic |  adj  | 
 alfafotografik 
-ALT [ALT key] abbr tasti ALT 
-Alt key n tasti Alt 
-Altair 8800 n Altair 8800 
+ALT [ALT key] |  abbr  | tasti ALT 
+Alt key |  n  | tasti Alt 
+Altair 8800 |  n  | Altair 8800 
 [kompjuter] 
-AltaVista n AltaVista [makinë e 
+AltaVista |  n  | AltaVista [makinë e 
 kërkimit] 
-alter v ndryshoj ose modifikoj 
-altering n modifikim 
-alternate [ALT] (1) adj alternativ 
+alter |  v  | ndryshoj ose modifikoj 
+altering |  n  | modifikim 
+alternate [ALT] (1) |  adj  | alternativ 
 [tjetëror] 
-alternate [ALT] (2) adj alternues 
-alternate route n rrugë alternative 
+alternate [ALT] (2) |  adj  | alternues 
+alternate route |  n  | rrugë alternative 
 [rrugë tjetër] 
-alternating current [AC] n 
+alternating current [AC] |  n  | 
 rrymë alternative 
-alternation n alternim [alternacion] 
+alternation |  n  | alternim [alternacion] 
  
-AM [Amplitude Modulation] abbr 
+AM [Amplitude Modulation] |  abbr  | 
 AM [modulim në amplitudë; me 
 amplitudë të moduluar] 
-ambient light n dritë ambienti [dritë 
+ambient light |  n  | dritë ambienti [dritë 
 e difuzuar] 
-ambiguity n dykuptimësi 
-ambiguous adj dykuptimshëm (i) 
-ambiguous filename n emër i 
+ambiguity |  n  | dykuptimësi 
+ambiguous |  adj  | dykuptimshëm (i) 
+ambiguous filename |  n  | emër i 
 dykuptimshëm fajli 
-ambiguous grammar n gramatikë 
+ambiguous grammar |  n  | gramatikë 
 e dykuptimshme 
-America Online [AOL] n America 
+America Online [AOL] |  n  | America 
 Online [kompani interneti] 
 American Association for Artificial 
-Intelligence [AAAI] n Shoqata 
+Intelligence [AAAI] |  n  | Shoqata 
 Amerikane për Inteligjencë 
 Artificiale [AAA] 
 American Federation of 
 Information Processing Societies 
-[AFIPS] n Federata amerikane e 
+[AFIPS] |  n  | Federata amerikane e 
 shoqatave për përpunim të 
 informacioneve 
 American National Standards 
-Institute [ANSI] n Instituti 
+Institute [ANSI] |  n  | Instituti 
 nacional amerikan për standarde 
 [ANSI] 
 American Standard Code for 
@@ -827,831 +797,831 @@ Information Interchange [ASCII]
 n Kodi standard amerikan për 
 shkëmbim të informacioneve 
 [ASCII] 
-AMI BIOS abbr AMI BIOS 
-Amiga n Amiga [kompjuteri 
+AMI BIOS |  abbr  | AMI BIOS 
+Amiga |  n  | Amiga [kompjuteri 
 Amiga] 
  amp 
-amp [ampere] abbr amper [A] 
-AMP [amplifier] abbr 
+amp [ampere] |  abbr  | amper [A] 
+AMP [amplifier] |  abbr  | 
 amplifikator ose përforcues 
-ampere [A] n amper [A] 
-amplifier n amplifikator ose 
+ampere [A] |  n  | amper [A] 
+amplifier |  n  | amplifikator ose 
 përforcues 
-amplitude n amplitudë 
-amplitude modulation [AM] n 
+amplitude |  n  | amplitudë 
+amplitude modulation [AM] |  n  | 
 modulim në amplitudë ose 
 modulim sipas amplitudës [AM] 
-AMT [address mapping table] n 
+AMT [address mapping table] |  n  | 
 tabelë e pasqyrimit të adresave 
-analog adj analog [jodigjital] 
-analog adder n mbledhës analog 
-analog channel n kanal analog 
-analog circuit n qark analog 
-analog comparator n krahasues 
+analog |  adj  | analog [jodigjital] 
+analog adder |  n  | mbledhës analog 
+analog channel |  n  | kanal analog 
+analog circuit |  n  | qark analog 
+analog comparator |  n  | krahasues 
 (ose komparator) analog 
-analog computer n kompjuter 
+analog computer |  n  | kompjuter 
 analog 
-analog data n dhëna (të) analoge 
-analog display n displej analog 
-analog input card n kartelë 
+analog data |  n  | dhëna (të) analoge 
+analog display |  n  | displej analog 
+analog input card |  n  | kartelë 
 [pllakë e shtypur] hyrjeje analoge 
-analog line n linjë analoge 
-analog millimeter n multimetër 
+analog line |  n  | linjë analoge 
+analog millimeter |  n  | multimetër 
 [instrument matës] analog 
-analog modem n modem analog 
-analog monitor n monitor analog 
-analog output card n kartelë 
+analog modem |  n  | modem analog 
+analog monitor |  n  | monitor analog 
+analog output card |  n  | kartelë 
 [pllakë e shtypur] daljeje analoge 
-analog plotter n vizatues (ose 
+analog plotter |  n  | vizatues (ose 
 ploter) analog 
  
  
 21
 AND gate 
-analog recording n regjistrim 
+analog recording |  n  | regjistrim 
 analog 
-analog representation n paraqitje 
+analog representation |  n  | paraqitje 
 analoge 
-analog signal n sinjal analog 
-analog signal generator n 
+analog signal |  n  | sinjal analog 
+analog signal generator |  n  | 
 gjenerator i sinjalit analog 
-analog system n sistem analog 
-analog transmission n transmetim 
+analog system |  n  | sistem analog 
+analog transmission |  n  | transmetim 
 analog 
-analog video n video analoge 
+analog video |  n  | video analoge 
 analog/digital converter [ADC] n
  shndërrues (ose konvertor) 
 analog-digjital 
 analog-to-digital converter [ADC] 
 n shndërrues (ose konvertor) 
 analog-digjital 
-analogue adj analog 
-analysis n analizë 
-analyst n analist 
-analytic adj analitik 
-analytical adj analitik 
-Analytical Engine n makinë 
+analogue |  adj  | analog 
+analysis |  n  | analizë 
+analyst |  n  | analist 
+analytic |  adj  | analitik 
+analytical |  adj  | analitik 
+Analytical Engine |  n  | makinë 
 analitike 
-analyzer n analizator ose analizues 
-analyzer n analizator 
-anchor n spirancë 
-ancillary equipment n pajisje 
+analyzer |  n  | analizator ose analizues 
+analyzer |  n  | analizator 
+anchor |  n  | spirancë 
+ancillary equipment |  n  | pajisje 
 ndihmëse 
-AND n DHE (operacion logjik) 
-AND circuit n qark (logjik) DHE 
+AND |  n  | DHE (operacion logjik) 
+AND circuit |  n  | qark (logjik) DHE 
 [portë DHE] 
-AND gate n portë DHE 
+AND gate |  n  | portë DHE 
  AND instruction 
-AND instruction n urdhër DHE 
-AND operation n veprim (ose 
+AND instruction |  n  | urdhër DHE 
+AND operation |  n  | veprim (ose 
 operacion) DHE 
-AND-OR gate n portë DHE-OSE 
-Andrew File System [AFS] n 
+AND-OR gate |  n  | portë DHE-OSE 
+Andrew File System [AFS] |  n  | 
 Sistemi i fajlave Andrew 
-android n android ose sinjeri 
+android |  n  | android ose sinjeri 
 [robot si njeriu] 
-angle n kënd 
-angle bracket n kllapa këndore < > 
-angle of incidence n kënd i rënies 
-angle of reflection n kënd i 
+angle |  n  | kënd 
+angle bracket |  n  | kllapa këndore < > 
+angle of incidence |  n  | kënd i rënies 
+angle of reflection |  n  | kënd i 
 reflektimit 
-angle of refraction n kënd i 
+angle of refraction |  n  | kënd i 
 thyerjes 
-angstrom [Å] n angstrem [1 Å = 
+angstrom [Å] |  n  | angstrem [1 Å = 
 10-10 m = 0,1 nm] 
-animated cursors n kursorë të 
+animated cursors |  n  | kursorë të 
 animuar 
-animated GIF n GIF i animuar 
-animation n animacion 
+animated GIF |  n  | GIF i animuar 
+animation |  n  | animacion 
 ANN [Artificial Neural Network] 
 abbr rrjet neural artificial 
-annotation n shënim ose koment 
-annoybot n robot për bezdisje 
+annotation |  n  | shënim ose koment 
+annoybot |  n  | robot për bezdisje 
 (ose pengim) 
-anode n anodë 
-anonymity n anonimitet 
-anonymous n anonim 
-anonymous adj anonim [i paemër] 
-anonymous FTP n FTP [protokoll 
+anode |  n  | anodë 
+anonymity |  n  | anonimitet 
+anonymous |  n  | anonim 
+anonymous |  adj  | anonim [i paemër] 
+anonymous FTP |  n  | FTP [protokoll 
 për transferin e fajlave] anonim 
-anonymous post n dërgesë anonime 
+anonymous post |  n  | dërgesë anonime 
  
  
 22
 anti-glare screen 
-anonymous remailer n server 
+anonymous remailer |  n  | server 
 ridërgues anonim (për përcjellje të 
 postës elektronike) 
-anonymous server n server anonim 
+anonymous server |  n  | server anonim 
 ANSI [American National Standards 
-Institute] abbr ANSI [Instituti 
+Institute] |  abbr  | ANSI [Instituti 
 nacional amerikan për standarde] 
-ANSI C n ANSI C [Version i 
+ANSI C |  n  | ANSI C [Version i 
 gjuhës programuese C i 
 standardizuar nga ANSI] 
-ANSI.SYS n ANSI.SYS 
+ANSI.SYS |  n  | ANSI.SYS 
 ANSI/SPARC [American National 
 Standards Institute Standards 
 Planning And Requirements 
-Committee] abbr ANSI/SPARC 
+Committee] |  abbr  | ANSI/SPARC 
 [Komiteti për planifikimin e 
 standardeve dhe për kërkesa i 
 Institutit nacional amerikan për 
 standarde] 
-answer mode n mënyrë e përgjigjes 
+answer mode |  n  | mënyrë e përgjigjes 
 automatike 
-answer/originate modem n modem 
+answer/originate modem |  n  | modem 
 përgjigjës-nisës (ose përgjigjës-
 pranues) [marrës-dërgues] 
-answer-only modem n modem 
+answer-only modem |  n  | modem 
 përgjigjës [modem vetëm për 
 përgjigje] 
-antenna n antenë 
+antenna |  n  | antenë 
 anti- pref kundër- (anti-) 
-anticlockwise rotation n rrotullim 
+anticlockwise rotation |  n  | rrotullim 
 kundërorar [në drejtim të kundërt të 
 akrepave të orës] 
-anti-glare adj kundërverbues ose 
+anti-glare |  adj  | kundërverbues ose 
 kundër refleksionit të dritës 
-anti-glare screen n ekran 
+anti-glare screen |  n  | ekran 
 kundërverbues (ose antireflekt) 
  anti-glare shield 
-anti-glare shield n ekran 
+anti-glare shield |  n  | ekran 
 mbrojtës kundërverbues 
-antistatic device n pajisje antistatike 
-anti-static device n pajisje 
+antistatic device |  n  | pajisje antistatike 
+anti-static device |  n  | pajisje 
 antistatike 
-antiviral program n program 
+antiviral program |  n  | program 
 antirvirus 
-antiviral software n softuer 
+antiviral software |  n  | softuer 
 antirvirus 
-antivirus n antivurus ose program 
+antivirus |  n  | antivurus ose program 
 antivirus 
-antivirus program n program 
+antivirus program |  n  | program 
 antivirus 
-anti-virus program n program 
+anti-virus program |  n  | program 
 antivirus 
-anti-virus software n softuer 
+anti-virus software |  n  | softuer 
 antivirus 
-antonym n antonim 
-any key n cilido tast 
-any-to-any connectivity n lidhje 
+antonym |  n  | antonim 
+any key |  n  | cilido tast 
+any-to-any connectivity |  n  | lidhje 
 cilido me cilindo [mundësia e 
 lidhjes së secilit me secilin] 
-AOL [America Online] n AOL 
+AOL [America Online] |  n  | AOL 
 [kompani interneti] 
-APA [All-Points Addressable] abbr 
+APA [All-Points Addressable] |  abbr  | 
 APA [adresueshëm (i) në të gjitha 
 pikat] 
 APA graphic [All-Points 
-Addressable graphics] n grafikë e 
+Addressable graphics] |  n  | grafikë e 
 adresueshme në të gjitha pikat 
 APC [asynchronous procedure call] 
 abbr APC [thirrje asinkrone e 
 procedurës] 
-aperture n hapje [aperturë] 
+aperture |  n  | hapje [aperturë] 
  
  
 23
 AppleTalk 
 API [Applications Programming 
-Interface] abbr API [ndërfaqe e 
+Interface] |  abbr  | API [ndërfaqe e 
 programimit të aplikacioneve] 
 APL [A Programming Language] 
 abbr APL (gjuhë programuese) 
 APM [Advanced Power 
-Management] abbr APM 
+Management] |  abbr  | APM 
 [menaxhim i avancuar i shpenzimit 
 të energjisë] 
-app [application] abbr aplikacion ose 
+app [application] |  abbr  | aplikacion ose 
 aplikim 
 APPC [Advanced Program-to-
-Program Communication] abbr 
+Program Communication] |  abbr  | 
 APPC [komunikimi i avancuar 
 ndërmjet programeve] 
-appearance n dukje (paraqitje) 
-append (to) v shtoj (në fund të) 
-append to file n shtoj (i) fajlit 
-appendix n shtojcë [shtesë e një 
+appearance |  n  | dukje (paraqitje) 
+append (to) |  v  | shtoj (në fund të) 
+append to file |  n  | shtoj (i) fajlit 
+appendix |  n  | shtojcë [shtesë e një 
 libri, dokumenti] 
-Apple key n tasti "Apple" 
-Apple Macintosh n Apple 
+Apple key |  n  | tasti "Apple" 
+Apple Macintosh |  n  | Apple 
 Macintosh 
-Apple Newton n Apple Newton 
-AppleDraw n AppleDraw 
+Apple Newton |  n  | Apple Newton 
+AppleDraw |  n  | AppleDraw 
 [Aplikacioni për vizatim te 
 kompjuterët Macintosh] 
-AppleShare n AppleShare [lloj 
+AppleShare |  n  | AppleShare [lloj 
 softueri] 
-applet n aplet [program që 
+applet |  n  | aplet [program që 
 transmetohet nëpërmjet internetit 
 dhe ekzekutohet te kompjuteri 
 pranues] 
-AppleTalk n AppleTalk [rrjet 
+AppleTalk |  n  | AppleTalk [rrjet 
 kompjuterësh i firmës Apple] 
  application 
  
-application (1) n aplikacion ose 
+application (1) |  n  | aplikacion ose 
 zbatim [program kompjuteri] 
 24
 apply 
 programore e aplikacionit (ose 
 zbatimit) [API] 
-application (2) n kërkesë (lutje) 
+application (2) |  n  | kërkesë (lutje) 
 me shkrim 
-application binary interface n 
+application binary interface |  n  | 
 ndërfaqe binare e aplikacionit (ose 
 zbatimit) 
-application developer n zhvillues 
+application developer |  n  | zhvillues 
 i aplikacioneve (ose zbatimeve) 
 application development 
-environment n rrethinë për 
+environment |  n  | rrethinë për 
 zhvillim të aplikacionit (ose 
 zbatimit) 
 application programming interface 
-[API] n ndërfaqe programore e 
+[API] |  n  | ndërfaqe programore e 
 zbatimit ose interfejs programor i 
 aplikacionit [API] 
-application protocols n protokolle 
+application protocols |  n  | protokolle 
 të aplikacionit (ose zbatimit) 
-application server n server i 
+application server |  n  | server i 
 aplikacioneve (ose aplikacionit) 
-application shortcut key n tast i 
+application shortcut key |  n  | tast i 
 shkurtores së aplikacionit (ose 
 zbatimit) 
 application development language 
 n gjuhë për zhvillim të aplikacionit 
-application development system n 
+application development system |  n  | 
 sistem për zhvillim të aplikacionit 
 (ose zbatimit) 
-application file n fajl i aplikacionit 
+application file |  n  | fajl i aplikacionit 
 (ose zbatimit) 
-application generator n gjenerator 
+application generator |  n  | gjenerator 
 i aplikacionit (ose zbatimit) 
-application icon n ikonë e 
+application icon |  n  | ikonë e 
 aplikacionit (ose zbatimit) 
-application layer n shtresë e 
+application layer |  n  | shtresë e 
 aplikacionit (ose zbatimit) 
-application package n paketë (ose 
+application package |  n  | paketë (ose 
 pako) [softuerike] e aplikacionit 
 (ose zbatimit) 
-application processor n procesor 
+application processor |  n  | procesor 
 i aplikacionit (ose zbatimit) 
-application program n program i 
+application program |  n  | program i 
 aplikacionit (ose zbatimit) 
 application program interface 
-[API] n ndërfaqe (ose interfejs) 
+[API] |  n  | ndërfaqe (ose interfejs) 
  
-application software n softuer 
+application software |  n  | softuer 
 aplikativ 
-application window n dritare e 
+application window |  n  | dritare e 
 aplikacionit (ose zbatimit) 
-application-centric adj përqëndruar 
+application-centric |  adj  | përqëndruar 
 (i) në aplikacion (ose zbatim) 
-applications package n paketë (ose 
+applications package |  n  | paketë (ose 
 pako) e aplikacioneve (ose 
 zbatimeve) 
-applications program n program i 
+applications program |  n  | program i 
 aplikacioneve (ose zbatimeve) 
-applications programmer n 
+applications programmer |  n  | 
 programues i aplikacioneve (ose 
 zbatimit) 
-applicative language n gjuhë 
+applicative language |  n  | gjuhë 
 aplikative 
-applied adj zbatuar (i) ose aplikuar 
+applied |  adj  | zbatuar (i) ose aplikuar 
 (i) 
-applied mathematics n matematikë 
+applied mathematics |  n  | matematikë 
 e zbatuar 
-applied robotics n robotikë e zbatuar 
-apply n zbatoj (aplikoj, përdor) 
+applied robotics |  n  | robotikë e zbatuar 
+apply |  n  | zbatoj (aplikoj, përdor) 
 25
  apply filter 
-apply filter v aplikoj filtrin 
-approach n qasje [mënyrë, 
+apply filter |  v  | aplikoj filtrin 
+approach |  n  | qasje [mënyrë, 
 metodë] 
  
-approximated adj përafërt (i) 
-approximated curve n lakore e 
+approximated |  adj  | përafërt (i) 
+approximated curve |  n  | lakore e 
 përafrimit 
-approximation (1) n përafrim 
-approximation (2) n përafërsi 
+approximation (1) |  n  | përafrim 
+approximation (2) |  n  | përafërsi 
 [vlerë e përafërt] 
-approximation theory n teori e 
+approximation theory |  n  | teori e 
 përafrimeve 
-Arabic number n shifër arabe ose 
+Arabic number |  n  | shifër arabe ose 
 numër arab 
-Arabic numeral n shifër arabe ose 
+Arabic numeral |  n  | shifër arabe ose 
 numër arab 
-arbitration n arbitrim ose arbitrazh 
-arbization n arabizim 
-arc n hark [degë e grafit] 
-arcade game n lojë e arkadës 
-Archie [Archive] n Archie 
+arbitration |  n  | arbitrim ose arbitrazh 
+arbization |  n  | arabizim 
+arc |  n  | hark [degë e grafit] 
+arcade game |  n  | lojë e arkadës 
+Archie [Archive] |  n  | Archie 
 [makinë e kërkimit] 
-Archie client n klient Archie 
-Archie server n server Archie 
-architecture n arkitekturë 
-architecture of computer n 
+Archie client |  n  | klient Archie 
+Archie server |  n  | server Archie 
+architecture |  n  | arkitekturë 
+architecture of computer |  n  | 
 arkitekturë e kompjuterit 
-archival adj arkivor 
-archival disk n disk (optik) i 
+archival |  adj  | arkivor 
+archival disk |  n  | disk (optik) i 
 arkivimit 
-archival storage n memorie 
+archival storage |  n  | memorie 
 arkivimi 
-archive n arkiv 
-archive v arkivoj 
+archive |  n  | arkiv 
+archive |  v  | arkivoj 
  
 arithmetic underflow 
-archive attribute n atribut arkive 
-archive bit n bit arkivor 
-archive file n fajl arkivor 
-archive server n server i arkivave 
-archive site n vend i arkivimit 
-archived file n fajl i arkivuar 
-archiving n arkivim 
-area chart n diagram hapësinor 
-area search n kërkim i hapësirës 
-arg [argument] abbr argument 
-argument n argument 
-arithmetic adj aritmetik ose 
+archive attribute |  n  | atribut arkive 
+archive bit |  n  | bit arkivor 
+archive file |  n  | fajl arkivor 
+archive server |  n  | server i arkivave 
+archive site |  n  | vend i arkivimit 
+archived file |  n  | fajl i arkivuar 
+archiving |  n  | arkivim 
+area chart |  n  | diagram hapësinor 
+area search |  n  | kërkim i hapësirës 
+arg [argument] |  abbr  | argument 
+argument |  n  | argument 
+arithmetic |  adj  | aritmetik ose 
 aretmitikor 
-arithmetic n aritmetikë 
-arithmetic and logic unit [ALU] n 
+arithmetic |  n  | aritmetikë 
+arithmetic and logic unit [ALU] |  n  | 
 njësi aritmetike dhe logjike 
-arithmetic expression n shprehje 
+arithmetic expression |  n  | shprehje 
 aritmetike (ose aritmetikore) 
-arithmetic logic unit [ALU] n njësi 
+arithmetic logic unit [ALU] |  n  | njësi 
 aritmetiko-logjike 
-arithmetic mean n mesatare 
+arithmetic mean |  n  | mesatare 
 aritmetike 
-arithmetic operation n veprim 
+arithmetic operation |  n  | veprim 
 [operacion] aritmetik 
-arithmetic operator n operator 
+arithmetic operator |  n  | operator 
 aritmetik (ose aretmitikor) 
-arithmetic overflow n mbirrjedhje 
+arithmetic overflow |  n  | mbirrjedhje 
 (ose vërshim) aritmetik 
-arithmetic shift n zhvendosje 
+arithmetic shift |  n  | zhvendosje 
 aritmetike 
-arithmetic underflow n 
+arithmetic underflow |  n  | 
 nënrrjedhje aritmetike 
  
  arithmetic unit 
-arithmetic unit [AU] n njësi 
+arithmetic unit [AU] |  n  | njësi 
 aritmetike [AU] 
-arithmetical n aritmetik 
-arithmetic-logic unit [ALU] n 
+arithmetical |  n  | aritmetik 
+arithmetic-logic unit [ALU] |  n  | 
 njësi aritmetike-logjike [ALU] 
 ARP [Address Resolution Protocol] 
 abbr ARP [Protokoll për 
 zbërthimin e adresës] 
-ARP request n kërkesë ARP 
+ARP request |  n  | kërkesë ARP 
 ARPANET [Advanced Research 
-Project Agency] n ARPANET 
+Project Agency] |  n  | ARPANET 
 [Rrjeti i agjencisë (amerikane) për 
 projekte kërkimore të avancuara] 
-array n fushë ose matricë 
-array element n element i fushës 
+array |  n  | fushë ose matricë 
+array element |  n  | element i fushës 
 (ose matricës) 
-arrow n shigjetë 
-arrow key n tasti me shigjetë 
-arrow pointer n tregues [pikatës] 
+arrow |  n  | shigjetë 
+arrow key |  n  | tasti me shigjetë 
+arrow pointer |  n  | tregues [pikatës] 
 shigjetë 
-article (1) n artikull 
-article (2) n nen 
-artificial intelligence [AI] n 
+article (1) |  n  | artikull 
+article (2) |  n  | nen 
+artificial intelligence [AI] |  n  | 
 intelegjencë artificiale 
-artificial language n gjuhë 
+artificial language |  n  | gjuhë 
 artificiale 
-artificial life n jetë artificiale 
-artificial neural network [ANN] n 
+artificial life |  n  | jetë artificiale 
+artificial neural network [ANN] |  n  | 
 rrjet neural artificial 
 as far as I know ph me sa di unë 
 as soon as possible [ASAP] ph sa 
 më shpejt (që të jetë e mundur) 
-ASAP [As Soon As Possible] abbr 
+ASAP [As Soon As Possible] |  abbr  | 
 sa më shpejt (që të jetë e mundur) 
  
 26
 assemble 
-ASC server n server ASC [server 
+ASC server |  n  | server ASC [server 
 i komunikimeve asinkrone] 
-ascender n rritës ose asender 
-ascending adj rritës [ngjitës] 
+ascender |  n  | rritës ose asender 
+ascending |  adj  | rritës [ngjitës] 
 ASCII [American Standard Code for 
-Information Interchange] abbr 
+Information Interchange] |  abbr  | 
 ASCII [kodi standard amerikan për 
 shkëmbimin e informacioneve] 
-ASCII character set n set 
+ASCII character set |  n  | set 
 [grumbull] karakteresh [shenjash, 
 simbolesh] në ASCII 
-ASCII EOL value n Vlera ASCII 
+ASCII EOL value |  n  | Vlera ASCII 
 EOL [vlera e simbolit ASCII për 
 fund të rreshtit] 
-ASCII file n fajl ASCII 
-ASCII transfer n transferim 
+ASCII file |  n  | fajl ASCII 
+ASCII transfer |  n  | transferim 
 [bartje] ASCII 
-ASCIIZ string n varg (ose string) 
+ASCIIZ string |  n  | varg (ose string) 
 ASCIIZ [varg simbolesh që 
 përfundon me simbolin NUL] 
 ASIC [Application Specific 
-Integrated Circuit] n ASIC [qark i 
+Integrated Circuit] |  n  | ASIC [qark i 
 integruara për funksion të posaçëm] 
 ASN.1 [Abstract Syntax Notation 
-One] n ASN.1 [shënimi Një i 
+One] |  n  | ASN.1 [shënimi Një i 
 sintaksës abstrakte] 
 ASPI [Advanced SCSI Programming 
-Interface] abbr ASPI [ndërfaqe e 
+Interface] |  abbr  | ASPI [ndërfaqe e 
 avancuar për programim të 
 përshtatësve SCSI] 
 ASR [Automatic System 
-Reconfiguration] abbr 
+Reconfiguration] |  abbr  | 
 rikonfigurim automatik i sistemit 
-assemble n përkthim nëpërmjet 
+assemble |  n  | përkthim nëpërmjet 
 asemblerit 
  assembler 
  
-assembler n asembler [përkthyes 
+assembler |  n  | asembler [përkthyes 
 programesh të shkruara në 
 asembler në kod të makinës] 
-assembly (1) n asemblim 
+assembly (1) |  n  | asemblim 
 [konvertim programi] 
-assembly (2) n montim ose 
+assembly (2) |  n  | montim ose 
 asemblim 
-assembly code n kod i asemblerit 
-assembly language n gjuhë 
+assembly code |  n  | kod i asemblerit 
+assembly language |  n  | gjuhë 
 asembler 
-assembly program n program 
+assembly program |  n  | program 
 asembleri [asembler] 
-assembly routine n rutinë 
+assembly routine |  n  | rutinë 
 asembleri 
-assignment operator n operator i 
+assignment operator |  n  | operator i 
 shoqërimit 
-assignment statement n urdhër i 
+assignment statement |  n  | urdhër i 
 shoqërimit 
-associate v shoqëroj 
+associate |  v  | shoqëroj 
 Association for Computing 
-Machinery [ACM] n Shoqata për 
+Machinery [ACM] |  n  | Shoqata për 
 Makina Llogaritëse [ACM] 
 Association of C and C++ Users 
-[ACCU] n Shoqata e përdoruesve 
+[ACCU] |  n  | Shoqata e përdoruesve 
 të gjuhës C dhe C++ [ACCU] 
-associative adj shoqërues ose 
+associative |  adj  | shoqërues ose 
 asociativ 
-associative addressing n adresim 
+associative addressing |  n  | adresim 
 shoqërues (ose asociativ) 
-associative law n ligji i 
+associative law |  n  | ligji i 
 shoqërimit ose ligji asociativ 
-associative memory n memorie 
+associative memory |  n  | memorie 
 shoqëruese (ose asociative) 
-associative processor n procesor 
+associative processor |  n  | procesor 
 shoqërues (ose asociativ) 
  
 27
 asynchronous procedure call 
-associative search n kërkim 
+associative search |  n  | kërkim 
 shoqërues (ose asociativ) 
-asterisk [*] n yll ose asterisk 
+asterisk [*] |  n  | yll ose asterisk 
 [simboli *] 
 asymmetric digital subscriber line 
-[ADSL] n linjë digjitale asimetrike 
+[ADSL] |  n  | linjë digjitale asimetrike 
 e abonentit (ose pajtimtarit ose 
 parapaguesit) 
 asymmetric digital subscriber loop 
 n lak (ose unazë ose cikël) digjital 
 asimetrik i abonentit (ose 
 pajtimtarit ose parapaguesit) 
-asymmetrical transmission n 
+asymmetrical transmission |  n  | 
 transmetim asimetrik 
-asynchronous adj asinkron 
-asynchronous access n akses 
+asynchronous |  adj  | asinkron 
+asynchronous access |  n  | akses 
 asinkron 
-asynchronous communication n 
+asynchronous communication |  n  | 
 komunikim asinkron 
 asynchronous communications 
-server n server i komunikimeve 
+server |  n  | server i komunikimeve 
 asinkrone 
-asynchronous computer n 
+asynchronous computer |  n  | 
 kompjuter asinkron 
-asynchronous counter n numërues 
+asynchronous counter |  n  | numërues 
 asinkron 
-asynchronous device n pajisje 
+asynchronous device |  n  | pajisje 
 asinkrone 
-asynchronous mode n mod 
+asynchronous mode |  n  | mod 
 [regjim] asinkron ose mënyrë 
 asinkrone 
-asynchronous operation n 
+asynchronous operation |  n  | 
 operacion asinkron 
 asynchronous procedure call 
-[APC] n thirrje asinkrone e 
+[APC] |  n  | thirrje asinkrone e 
 procedurës 
  Asynchronous Protocol 
 Asynchronous Protocol 
-Specification n specifikim i 
+Specification |  n  | specifikim i 
 protokolit asinkron 
  
-asynchronous signal n sinjal 
+asynchronous signal |  n  | sinjal 
 asinkron 
-asynchronous transmission n 
+asynchronous transmission |  n  | 
 transmetim asinkron 
-asynchronous working n punë 
+asynchronous working |  n  | punë 
 asinkrone 
-at [@ sign] n te ose kërmilli 
+at [@ sign] |  n  | te ose kërmilli 
 [shenja @] 
-AT [Advanced Technology] abbr 
+AT [Advanced Technology] |  abbr  | 
 AT [teknologji e avancuar: 
 standard i kompjuterëve personalë 
 me procesor 16-bitësh] 
-AT bus n bus (ose magjistrale) AT 
-at sign n kërmilli [shenja @)] 
-AT&T System V n AT&T 
+AT bus |  n  | bus (ose magjistrale) AT 
+at sign |  n  | kërmilli [shenja @)] 
+AT&T System V |  n  | AT&T 
 System V 
 ATA [Advanced Technology 
-Attachment] abbr ATA [pajisje 
+Attachment] |  abbr  | ATA [pajisje 
 shtesë për teknologji të avancuar] 
-ATA hard disk drive card n kartelë 
+ATA hard disk drive card |  n  | kartelë 
 ATA e njësisë së diskut 
-ATA/IDE hard disk drive n njësi e 
+ATA/IDE hard disk drive |  n  | njësi e 
 diskut ATA/IDE 
-ATAPI n ATAPI [ndërfaqe ose 
+ATAPI |  n  | ATAPI [ndërfaqe ose 
 interfejs për CD ROM] 
-Atari ST™ n Atari ST 
+Atari ST™ |  n  | Atari ST 
 [kompjuterë të prodhuar nga Atari 
 Corporation] 
-ATDP [ATtention Dial Pulse] abbr 
+ATDP [ATtention Dial Pulse] |  abbr  | 
 ATDP [fillim i thirrjes/zgjedhjes 
 impulsive] 
  
 28
 audience 
-ATDT [ATtention Dial Tone] abbr 
+ATDT [ATtention Dial Tone] |  abbr  | 
 ATDT [fillim i thirrjes/zgjedhjes 
 tonike] 
-atlas n atlas 
+atlas |  n  | atlas 
 ATM [Asynchronous Transfer 
-Mode] abbr ATM [regjim i 
+Mode] |  abbr  | ATM [regjim i 
 transferimit asinkron] 
-ATM Forum n Forumi ATM 
-atom n atom [njësi elementare e 
+ATM Forum |  n  | Forumi ATM 
+atom |  n  | atom [njësi elementare e 
 pandashme] 
-atomic operation n operacion 
+atomic operation |  n  | operacion 
 atomik ose operacion i pandashëm 
-attach v bashkëngjit 
-attached adj bashkëngjitur (i) 
-attached document n dokument i 
+attach |  v  | bashkëngjit 
+attached |  adj  | bashkëngjitur (i) 
+attached document |  n  | dokument i 
 bashkëngjitur 
-attachment n shtojcë 
-attention (1) n vëmendje 
-attention (2) n kujdes [përkujdesje] 
-attenuation n dobësim [shuarje] 
-attn [attention] abbr vëmendje 
+attachment |  n  | shtojcë 
+attention (1) |  n  | vëmendje 
+attention (2) |  n  | kujdes [përkujdesje] 
+attenuation |  n  | dobësim [shuarje] 
+attn [attention] |  abbr  | vëmendje 
 (kujdes) 
 atto- [10–18] pref atto- [10–18] 
-attribute (1) n atribut ose veti 
-attribute (2) n veçori [karakteristikë 
+attribute (1) |  n  | atribut ose veti 
+attribute (2) |  n  | veçori [karakteristikë 
 grafike: ngjyrë, ngjyrim etj.] 
-attribute byte n bajt i atributit 
-ATX abbr ATX 
-audible (1) adj dëgjueshëm (i) [që 
+attribute byte |  n  | bajt i atributit 
+ATX |  abbr  | ATX 
+audible (1) |  adj  | dëgjueshëm (i) [që 
 mund të dëgjohet] 
-audible (2) adj zanor 
-audible cue n sinjal zanor 
-audience n audiencë 
+audible (2) |  adj  | zanor 
+audible cue |  n  | sinjal zanor 
+audience |  n  | audiencë 
  audio 
-audio n audio 
-audio adj audio 
+audio |  n  | audio 
+audio |  adj  | audio 
 audio- pref audio- 
-audio board n pllakë audio 
-audio card n kartë (ose kartelë) 
+audio board |  n  | pllakë audio 
+audio card |  n  | kartë (ose kartelë) 
 audio 
-audio compression n ngjeshje 
+audio compression |  n  | ngjeshje 
 (ose komprimim) audio 
-audio conference n 
+audio conference |  n  | 
 audiokonferencë 
-audio file n fajl audio ose audiofajl 
+audio file |  n  | fajl audio ose audiofajl 
 [fajl zanor] 
-audio input n hyrje audio [sinjali 
+audio input |  n  | hyrje audio [sinjali 
 zanor hyrës] 
-audio mixer n mikser audio ose 
+audio mixer |  n  | mikser audio ose 
 audiomikser [mikser i fajlave 
 zanorë] 
-audio output n dalje audio ose 
+audio output |  n  | dalje audio ose 
 audiodalje 
-audio output port n port dalës 
+audio output port |  n  | port dalës 
 audio ose audioport dalës 
-audio read interface n ndërfaqe 
+audio read interface |  n  | ndërfaqe 
 (ose intrefejs) leximi audio 
-audio read speed n shpejtësi 
+audio read speed |  n  | shpejtësi 
 leximi audio 
-audio response n përgjigje audio 
-audio track n gjurmë audio 
-audiocatalog n audiokatalog 
-audiotex n audioteks 
-audiotext n audiotekst 
-audiovisual n audiovizual 
-auditability n kontrollueshmëri 
-augend n mbledhësi i parë 
+audio response |  n  | përgjigje audio 
+audio track |  n  | gjurmë audio 
+audiocatalog |  n  | audiokatalog 
+audiotex |  n  | audioteks 
+audiotext |  n  | audiotekst 
+audiovisual |  n  | audiovizual 
+auditability |  n  | kontrollueshmëri 
+augend |  n  | mbledhësi i parë 
  
  
 29
 auto answer 
-augmented addressing n adresim i 
+augmented addressing |  n  | adresim i 
 zgjeruar 
-augmented transition network n 
+augmented transition network |  n  | 
 rrjet i zgjeruar kalimtar 
 AUI [Attachment Unit Interface] 
 abbr AUI [ndërfaqe (ose 
 interfejs) e njësisë shtesë] 
-AUI cable n kabllo AUI 
-AUI connector n konektor AUI 
-authenticate v vërtetësoj [vërtetoj 
+AUI cable |  n  | kabllo AUI 
+AUI connector |  n  | konektor AUI 
+authenticate |  v  | vërtetësoj [vërtetoj 
 autenticitetin] 
-authentication n vërtetësim ose 
+authentication |  n  | vërtetësim ose 
 autentifikim [vërtetim i 
 autenticitetit] 
-authenticity n vërtetësi ose 
+authenticity |  n  | vërtetësi ose 
 autenticitet 
-author n autor 
-author v hartoj (përpiloj) 
-authoring language n gjuhë autor 
+author |  n  | autor 
+author |  v  | hartoj (përpiloj) 
+authoring language |  n  | gjuhë autor 
 [gjuhë për krijimin e aplikacioneve 
 multimediale] 
-authoring system n sistem për 
+authoring system |  n  | sistem për 
 krijimin e aplikacioneve 
 multimediale 
-authority n autoritet 
-authorization n autorizim 
-authorization code n kod i 
+authority |  n  | autoritet 
+authorization |  n  | autorizim 
+authorization code |  n  | kod i 
 autorizimit 
-authorize v autorizoj 
-authorized dealer n rishitës [diler] i 
+authorize |  v  | autorizoj 
+authorized dealer |  n  | rishitës [diler] i 
 autorizuar 
-auto advance n avancim automatik 
-auto answer n përgjigje automatike 
+auto advance |  n  | avancim automatik 
+auto answer |  n  | përgjigje automatike 
  auto calculate 
-auto calculate n llogaritje 
+auto calculate |  n  | llogaritje 
 automatike 
-auto dial n thirrje automatike 
-auto fill n vetëmbushje 
-auto filter n autofilter [filter 
+auto dial |  n  | thirrje automatike 
+auto fill |  n  | vetëmbushje 
+auto filter |  n  | autofilter [filter 
 automatik] 
-auto format n autoformat 
-auto index n indeksim automatik 
-auto install program n program 
+auto format |  n  | autoformat 
+auto index |  n  | indeksim automatik 
+auto install program |  n  | program 
 për instalim automatik 
-auto load n ngarkim automatik ose 
+auto load |  n  | ngarkim automatik ose 
 mbushje automatike 
-auto parking n parkim automatik 
-auto repeat n përsëritje automatike 
-auto restart n rilëshim automatik 
+auto parking |  n  | parkim automatik 
+auto repeat |  n  | përsëritje automatike 
+auto restart |  n  | rilëshim automatik 
 ose rinisje automatike 
-auto sum n shumë automatike 
-auto text n autotekst 
-auto verify n verifikim automatik 
-auto-answer n përgjigje automatike 
-auto-answer mode n mënyrë (ose 
+auto sum |  n  | shumë automatike 
+auto text |  n  | autotekst 
+auto verify |  n  | verifikim automatik 
+auto-answer |  n  | përgjigje automatike 
+auto-answer mode |  n  | mënyrë (ose 
 mod) e përgjigjes automatike 
-AutoCorrect n AutoCorrect 
+AutoCorrect |  n  | AutoCorrect 
 [korrigjim automatik] 
-autodecrement n dekrement 
+autodecrement |  n  | dekrement 
 [zvogëlim] automatik 
-autodetect v vetëzbuloj ose 
+autodetect |  v  | vetëzbuloj ose 
 vetëdetektoj ose autodetektoj 
-AUTOEXEC.BAT n 
+AUTOEXEC.BAT |  n  | 
 AUTOEXEC.BAT 
-autoformating n vetëformatim 
+autoformating |  n  | vetëformatim 
 ose autoformatm 
-auto-key n tast automatik 
+auto-key |  n  | tast automatik 
  
  
 30
 automatic dialing 
 automata theoryn teori e 
 automatizimit 
-automate v automatizoj 
-automated adj automatizuar (i) 
+automate |  v  | automatizoj 
+automated |  adj  | automatizuar (i) 
 automated data processing [ADP] 
 n përpunim i automatizuar i të 
 dhënave 
-automated office n zyrë e 
+automated office |  n  | zyrë e 
 automatizuar 
-automated tape library n 
+automated tape library |  n  | 
 bibliotekë e automatizuar e 
 shiritave 
-automatic adj automatik 
+automatic |  adj  | automatik 
 automatic call distribution [ACD] 
 n shpërndarje automatike e thirrjeve 
-automatic callback n rithirrje 
+automatic callback |  n  | rithirrje 
 automatike 
-automatic calling unit n njësi për 
+automatic calling unit |  n  | njësi për 
 thirrje automatike 
-automatic check n kontrollim 
+automatic check |  n  | kontrollim 
 automatik 
-automatic coding n kodim 
+automatic coding |  n  | kodim 
 automatik 
-automatic control n komandim 
+automatic control |  n  | komandim 
 automatik 
-automatic data conversion n 
+automatic data conversion |  n  | 
 shndërrim automatik i të dhënave 
-automatic data processing n 
+automatic data processing |  n  | 
 përpunim automatik i të dhënave 
-automatic data recording n 
+automatic data recording |  n  | 
 regjistrim automatik i të dhënave 
-automatic dialing n zgjedhje 
+automatic dialing |  n  | zgjedhje 
 automatike e numrave (të telefonit) 
  automatic error correction 
-automatic error correction n 
+automatic error correction |  n  | 
 korrigjim automatik i gabimeve 
-automatic font change [AFC] n 
+automatic font change [AFC] |  n  | 
 ndërrim automatik i llojit të 
 shkronjave [fontit] 
-automatic indexing n indeksim 
+automatic indexing |  n  | indeksim 
 automatik 
  
 31
 average 
-autosave n ruajtje automatike 
-autosizing n rregullim automatik i 
+autosave |  n  | ruajtje automatike 
+autosizing |  n  | rregullim automatik i 
 madhësisë 
-autostart routine n rutinë për rinisje 
+autostart routine |  n  | rutinë për rinisje 
 automatike 
-automatic restoration n restaurim 
+automatic restoration |  n  | restaurim 
 automatik 
-automatic selection n zgjedhje 
+automatic selection |  n  | zgjedhje 
 automatike 
 automatic system reconfiguration 
-[ASR] n rikonfigurim automatik 
+[ASR] |  n  | rikonfigurim automatik 
 i sistemit 
-automatic test equipment n pajisje 
+automatic test equipment |  n  | pajisje 
 për test (provë) automatik 
-automatics n automatikë 
-automation n automacion 
-automatization n automatizim 
-automaton n automat 
-autonomous network n rrjet 
+automatics |  n  | automatikë 
+automation |  n  | automacion 
+automatization |  n  | automatizim 
+automaton |  n  | automat 
+autonomous network |  n  | rrjet 
 autonom 
-AutoPlay n AutoPlay [funksion i 
+AutoPlay |  n  | AutoPlay [funksion i 
 Windowsit] 
-autoplotter n vizatues (ose 
+autoplotter |  n  | vizatues (ose 
 ploter) automatik 
-autopolling n kontroll periodik i 
+autopolling |  n  | kontroll periodik i 
 statusit 
 auto-pref auto- ose vetë- 
 [automatik] 
-auto-repeat n përsëritje automatike 
-auto-reply n përgjigje automatike 
-autorestart n rinisje automatike 
+auto-repeat |  n  | përsëritje automatike 
+auto-reply |  n  | përgjigje automatike 
+autorestart |  n  | rinisje automatike 
 ose ristartim automatik 
  
-autotrace n trasim automatik 
-AUX [auxiliary] n AUX [emër 
+autotrace |  n  | trasim automatik 
+AUX [auxiliary] |  n  | AUX [emër 
 logjik për pajisje ndihmëse] 
-auxiliary adj ndihmës 
-auxiliary carry flag [AC flag] n 
+auxiliary |  adj  | ndihmës 
+auxiliary carry flag [AC flag] |  n  | 
 flamur ndihmës i bartjes 
-auxiliary data n dhëna (të) 
+auxiliary data |  n  | dhëna (të) 
 ndihmëse 
-auxiliary file n fajl ndihmës 
-auxiliary memory n memorie 
+auxiliary file |  n  | fajl ndihmës 
+auxiliary memory |  n  | memorie 
 ndihmëse 
-auxiliary memory unit n njësi 
+auxiliary memory unit |  n  | njësi 
 memorike ndihmëse 
-auxiliary processor n procesor 
+auxiliary processor |  n  | procesor 
 ndihmës 
-auxiliary storage n pajisje 
+auxiliary storage |  n  | pajisje 
 memorike ndihmëse 
-availability n disponueshmëri ose 
+availability |  n  | disponueshmëri ose 
 dispozueshmëri 
-available adj në dispozicion [i 
+available |  adj  | në dispozicion [i 
 përdorshëm] 
-available cartridge n kasetë në 
+available cartridge |  n  | kasetë në 
 dispozicion 
-available choice n opcion në 
+available choice |  n  | opcion në 
 dispozicion 
-available list n listë në dispozicion 
-available time n kohë në dispozicion 
-average adj mesatar 
+available list |  n  | listë në dispozicion 
+available time |  n  | kohë në dispozicion 
+average |  adj  | mesatar 
  
-axiomatic semantics n semantikë 
+axiomatic semantics |  n  | semantikë 
 aksiomatike 
-axiomatic system n sistem 
+axiomatic system |  n  | sistem 
 aksiomatik 
-axiomatics n aksiomatikë 
-axis (1) n bosht (aks) 
-axis (2) n bosht i koordinatave 
-axonometric projection n 
+axiomatics |  n  | aksiomatikë 
+axis (1) |  n  | bosht (aks) 
+axis (2) |  n  | bosht i koordinatave 
+axonometric projection |  n  | 
 projeksion aksonometrik 
-azerty keyboard n tastierë azerty 
+azerty keyboard |  n  | tastierë azerty 
  average 
-average n mesatare 
-AVI [Audio Video Interleaved] abbr 
+average |  n  | mesatare 
+AVI [Audio Video Interleaved] |  abbr  | 
  
 32
 AVI [ndërfutje audio-video] 
-avoid v shmang [mënjanoj, largoj] 
+avoid |  v  | shmang [mënjanoj, largoj] 
 away from keyboard ph largohu 
 ose larg nga tastiera 
-axiom n aksiomë 
-axiomatic method n metodë 
+axiom |  n  | aksiomë 
+axiomatic method |  n  | metodë 
 aksiomatike 
  
  
@@ -1664,93 +1634,93 @@ aksiomatike
  
  
 B 
-backend n prapafund 
-backend processor n procesor 
+backend |  n  | prapafund 
+backend processor |  n  | procesor 
 prapafundor 
-back-end processor n procesor 
+back-end processor |  n  | procesor 
 në prapavijë (që varet nga procesori 
 kryesor) 
-back-face elimination n heqje e 
+back-face elimination |  n  | heqje e 
 (sipër)faqeve të pasme 
-background adj në prapavijë [në 
+background |  adj  | në prapavijë [në 
 plan të dytë, me prioritet më të ulët] 
-background n sfond ose prapavijë 
+background |  n  | sfond ose prapavijë 
 [plan (rrafsh) i prapmë] 
-background application n zbatim 
+background application |  n  | zbatim 
 në sfond (ose prapavijë) [zbatim 
 plandytë] 
-background color n ngjyrë e 
+background color |  n  | ngjyrë e 
 sfondit (ose prapavijës) 
-background job n punë [detyrë] 
+background job |  n  | punë [detyrë] 
 plandytë [në prapavijë] 
-background music n muzikë e 
+background music |  n  | muzikë e 
 sfondit [në prapavijë] 
-background noise n zhurmë e 
+background noise |  n  | zhurmë e 
 sfondit [zhurmë bazë] 
-background printing n printim 
+background printing |  n  | printim 
 (ose shtypje) plandytë [në 
 prapavijë] 
-B n B [vlera heksadecimale e 
+B |  n  | B [vlera heksadecimale e 
 numrit dhjetor 11] 
-b [baud] abbr b [bod] 
-b [binary] abbr b [binar] 
-b [bit] abbr b [bit] 
-B [byte] abbr B [bajt] 
-B series formats n formatet (e 
+b [baud] |  abbr  | b [bod] 
+b [binary] |  abbr  | b [binar] 
+b [bit] |  abbr  | b [bit] 
+B [byte] |  abbr  | B [bajt] 
+B series formats |  n  | formatet (e 
 letrës) e serisë B [B0, B1,..., B10; 
 B0 = 1000 mm×1414 mm] 
-B: abbr B: [identifikator i njësisë 
+B: |  abbr  | B: [identifikator i njësisë 
 së dytë të disketave] 
-back door n deriçkë ose derë e 
+back door |  n  | deriçkë ose derë e 
 prapme [akses në kompjuter duke e 
 anashkaluar sistemin e tij mbrojtës] 
-back panel n pllakë e pasme 
-back up v bëj një kopje rezervë 
-back up adj kopjeje (i një) rezervë 
-back up (1) n kopje rezervë 
-back up (2) n bërje e kopjes rezervë 
-backbone n shtyllë kurrizore 
+back panel |  n  | pllakë e pasme 
+back up |  v  | bëj një kopje rezervë 
+back up |  adj  | kopjeje (i një) rezervë 
+back up (1) |  n  | kopje rezervë 
+back up (2) |  n  | bërje e kopjes rezervë 
+backbone |  n  | shtyllë kurrizore 
 [rrjet kryesor] 
-backbone network n rrjet kryesor 
+backbone network |  n  | rrjet kryesor 
 [rrjet kurrizor] 
-backbone network n rrjet kurrizor 
-back-clipping plane n rrafsh i 
+backbone network |  n  | rrjet kurrizor 
+back-clipping plane |  n  | rrafsh i 
 pasmë i prerjes 
  
  background process 
-background process n proces 
+background process |  n  | proces 
 plandytë [në prapavijë] 
-background processing n 
+background processing |  n  | 
 përpunim plandytë [në prapavijë] 
-background program n program 
+background program |  n  | program 
 plandytë [në prapavijë] 
-background task n detyrë 
+background task |  n  | detyrë 
 plandytë [në prapavijë] 
-backlighted adj prapandriçuar (i) 
-backlighting n prapandriçim 
-back-lit display n displej me 
+backlighted |  adj  | prapandriçuar (i) 
+backlighting |  n  | prapandriçim 
+back-lit display |  n  | displej me 
 ndriçim të pasmë [me dritë në 
 prapavijë] 
-backplane n plan [rrafsh] i pasmë 
-backslash n vija e pjerrët mbrapsht 
+backplane |  n  | plan [rrafsh] i pasmë 
+backslash |  n  | vija e pjerrët mbrapsht 
 [shenja \] 
-Backspace key n tasti kthyes 
+Backspace key |  n  | tasti kthyes 
 [tasti për zhvendosje pas] 
-backup v bëj një kopje rezervë 
-backup (2) n kopje rezervë 
-backup and recovery n bërje e 
+backup |  v  | bëj një kopje rezervë 
+backup (2) |  n  | kopje rezervë 
+backup and recovery |  n  | bërje e 
 kopjes rezervë dhe rikthim 
-backup and restore n bërje e kopjes 
+backup and restore |  n  | bërje e kopjes 
 rezervë dhe rivendosje 
-backup copy n kopje rezervë 
-backup file n fajl rezervë 
-backup server n server rezervë ose 
+backup copy |  n  | kopje rezervë 
+backup file |  n  | fajl rezervë 
+backup server |  n  | server rezervë ose 
 server bekapimi 
-backup system n sistem rezervë 
+backup system |  n  | sistem rezervë 
 ose sistem bekapimi 
-backup tape n shirit rezervë ose 
+backup tape |  n  | shirit rezervë ose 
 shirit bekapimi 
-backward adj prapavajtës 
+backward |  adj  | prapavajtës 
 [kundërt (i)] 
  
  
@@ -1759,910 +1729,910 @@ balance
 backward (1) adv prapa 
 backward (2) adv së prapthi 
 backward (3) adv mbrapsht 
-backward chaining n lidhje 
+backward chaining |  n  | lidhje 
 zinxhirore kthyese 
-backward error correction n 
+backward error correction |  n  | 
 korrigjim prapavajtës i gabimit 
-backward error protection n 
+backward error protection |  n  | 
 korrigjim prapavajtës i gabimit 
-backward file recovery n restaurim 
+backward file recovery |  n  | restaurim 
 me prapavajtje [restaurim me 
 anulimin e përditësimit] 
-backward jump n kapërcim prapa 
-backward read n lexim prapa 
-backward search n kërkim prapa 
-backward signal n sinjal kthyes 
-bacterium n bakter [virus në 
+backward jump |  n  | kapërcim prapa 
+backward read |  n  | lexim prapa 
+backward search |  n  | kërkim prapa 
+backward signal |  n  | sinjal kthyes 
+bacterium |  n  | bakter [virus në 
 kompjuter] 
-bad block n bllok i dëmtuar 
-bad break n ndërprerje e keqe 
+bad block |  n  | bllok i dëmtuar 
+bad break |  n  | ndërprerje e keqe 
 [fjalëndarje e gabuar] 
-bad command n komandë e keqe 
+bad command |  n  | komandë e keqe 
 (komandë e gabuar) 
-bad copy n kopje e keqe 
+bad copy |  n  | kopje e keqe 
 [dorëshkrim i palexueshëm] 
-bad sector n sektor i dëmtuar 
-bad track n gjurmë (ose shteg) e 
+bad sector |  n  | sektor i dëmtuar 
+bad track |  n  | gjurmë (ose shteg) e 
 dëmtuar 
-badge n fletëhyrje (bexh) 
-badge reader n lexues fletëhyrjesh 
+badge |  n  | fletëhyrje (bexh) 
+badge reader |  n  | lexues fletëhyrjesh 
 (ose bexhash) 
-balance (1) n baraspeshë [balancë] 
-balance (2) n bilanc 
+balance (1) |  n  | baraspeshë [balancë] 
+balance (2) |  n  | bilanc 
 35
 base register 
-bar code reader n lexues i barkodit 
-bar code scanner n skaner i 
+bar code reader |  n  | lexues i barkodit 
+bar code scanner |  n  | skaner i 
 barkodit 
  balanced binary tree 
-balanced binary tree [B-tree] n 
+balanced binary tree [B-tree] |  n  | 
 pemë binare e baraspeshuar (ose 
 balancuar) 
  
-balanced line n vijë e baraspeshuar 
+balanced line |  n  | vijë e baraspeshuar 
 (ose balancuar) 
-balanced tree [B-tree] n pemë 
+balanced tree [B-tree] |  n  | pemë 
 (binare) e baraspeshuar (ose 
 balancuar) 
-ball printer n shtypës me sferë 
-balloon help n ndihmë në formë 
+ball printer |  n  | shtypës me sferë 
+balloon help |  n  | ndihmë në formë 
 balloni 
-band (1) n brez (i frekuencave) 
-band (2) n shirit 
-band matrix n matricë brezi 
-bandpass filter n filtër brezlëshues 
-band-pass filter n filtër brezlëshues 
-band-reject filter n filtër 
+band (1) |  n  | brez (i frekuencave) 
+band (2) |  n  | shirit 
+band matrix |  n  | matricë brezi 
+bandpass filter |  n  | filtër brezlëshues 
+band-pass filter |  n  | filtër brezlëshues 
+band-reject filter |  n  | filtër 
 brezpengues 
-band-rejection filter n filtër 
+band-rejection filter |  n  | filtër 
 brezpengues 
-band-stop filter n filtër brezpengues 
-bandwidth (1) n gjerësi brezi [në: 
+band-stop filter |  n  | filtër brezpengues 
+bandwidth (1) |  n  | gjerësi brezi [në: 
 Hz] 
-bandwidth (2) n brez kalimi (brez 
+bandwidth (2) |  n  | brez kalimi (brez 
 i lëshimit) [kapacitet i transmetimit 
 në: Mbps] 
-bank (1) n bankë 
-banner n banderolë (mbishkrim 
+bank (1) |  n  | bankë 
+banner |  n  | banderolë (mbishkrim 
 reklamues) 
-banner page n ballinë 
-bar chart n diagram me kolona 
+banner page |  n  | ballinë 
+bar chart |  n  | diagram me kolona 
 (ose shtylla) 
-bar code n barkod [kod me shoka] 
+bar code |  n  | barkod [kod me shoka] 
  
-bar graph n diagram (graf) me 
+bar graph |  n  | diagram (graf) me 
 kolona (ose shtylla) 
-bare board n pllakë e zbrazët 
+bare board |  n  | pllakë e zbrazët 
 [pllakë e shtypur pa elemente] 
-bare bones adj thjeshtuar (i) 
+bare bones |  adj  | thjeshtuar (i) 
 [zhveshur (i), me konfiguracion 
 minimal] 
-base (1) n bazë (e sistemit numerik) 
-base (2) n bazë (e transistorit) 
-base 2 adj me bazë 2 
-base 8 adj me bazë 8 
-base 10 adj me bazë 10 
-base 12 adj me bazë 12 
-base 16 adj me bazë 16 
-base address n adresë bazë 
+base (1) |  n  | bazë (e sistemit numerik) 
+base (2) |  n  | bazë (e transistorit) 
+base 2 |  adj  | me bazë 2 
+base 8 |  adj  | me bazë 8 
+base 10 |  adj  | me bazë 10 
+base 12 |  adj  | me bazë 12 
+base 16 |  adj  | me bazë 16 
+base address |  n  | adresë bazë 
 [fillestare] (ose themelore) 
-base addressing n adresim bazë 
-base band n brez bazë 
-base class n klasë themelore 
-base font n font bazë (ose bazik) 
-base language n gjuhë bazë (ose 
+base addressing |  n  | adresim bazë 
+base band |  n  | brez bazë 
+base class |  n  | klasë themelore 
+base font |  n  | font bazë (ose bazik) 
+base language |  n  | gjuhë bazë (ose 
 bazike) 
-base line n rresht bazë (ose bazik) 
-base memory n memorie bazë 
+base line |  n  | rresht bazë (ose bazik) 
+base memory |  n  | memorie bazë 
 (ose themelore) 
-base module n modul bazë (ose 
+base module |  n  | modul bazë (ose 
 bazik) 
-base RAM n RAM themelor 
-base register n regjistër bazë 
+base RAM |  n  | RAM themelor 
+base register |  n  | regjistër bazë 
  base station 
-base station n stacion bazë 
-baseband adj brezbazë (ose me 
+base station |  n  | stacion bazë 
+baseband |  adj  | brezbazë (ose me 
 brez themelor) 
-baseband modem n modem 
+baseband modem |  n  | modem 
 brezbazë 
-baseband network n rrjet brezbazë 
+baseband network |  n  | rrjet brezbazë 
 ose rrjet me brez themelor 
 BASIC [Beginner’s All-purpose 
-Symbolic Instruction Code] abbr 
+Symbolic Instruction Code] |  abbr  | 
 BASIC [gjuhë programuese: "Kod 
 udhëzues simbolik universal për 
 fillestarë"] 
 basic input output system [BIOS] 
 n sistem bazë hyrje–dalje [BIOS] 
-basic instruction n urdhër bazë ose 
+basic instruction |  n  | urdhër bazë ose 
 themelor 
-Basic Rate Interface [BRI] n 
+Basic Rate Interface [BRI] |  n  | 
 ndërfaqe (ose interfejs) e 
 shpejtësisë themelore 
-batch n grup ose pako (programesh) 
-batch file transmission [BFT] n 
+batch |  n  | grup ose pako (programesh) 
+batch file transmission [BFT] |  n  | 
 bartje grupore (ose paketore) e të 
 dhënave 
-batch job n punë (ose detyrë) 
+batch job |  n  | punë (ose detyrë) 
 grupore (ose paketore) 
-batch processing n përpunim 
+batch processing |  n  | përpunim 
 grupor (ose paketor) [përpunim me 
 rigrupim] 
-batch program n program 
+batch program |  n  | program 
 komandues 
-batch system n sistem i 
+batch system |  n  | sistem i 
 përpunimit grupor 
-batch total n shumë grupore 
-battery n bateri 
+batch total |  n  | shumë grupore 
+battery |  n  | bateri 
  
  
 36
 beep 
-battery backup n furnizim 
+battery backup |  n  | furnizim 
 rezervë nëpërmjet baterisë 
-battery meter n instrument matës 
+battery meter |  n  | instrument matës 
 me bateri 
-baud [= bits/s] n bod [= bit/s] 
-baud rate n shpejtësi në boda 
-Baudot code n kodi i Bodit 
-bay n platformë [vendqëndrim në 
+baud [= bits/s] |  n  | bod [= bit/s] 
+baud rate |  n  | shpejtësi në boda 
+Baudot code |  n  | kodi i Bodit 
+bay |  n  | platformë [vendqëndrim në 
 depo] 
-BBL [Be Back Later] abbr 
+BBL [Be Back Later] |  abbr  | 
 kthehem më vonë 
-BBS [Be Back Soon] abbr 
+BBS [Be Back Soon] |  abbr  | 
 kthehem së shpejti 
-BBS [Bulletin Board System] abbr 
+BBS [Bulletin Board System] |  abbr  | 
 tabelë elektronike për shpallje 
-bcc [blind courtesy copy] abbr 
+bcc [blind courtesy copy] |  abbr  | 
 kopje e verbër 
-BCD [binary coded decimal] abbr 
+BCD [binary coded decimal] |  abbr  | 
 BCD [numër dhjetor me kodim 
 binar] 
-BCD adder n mbledhës BCD 
+BCD adder |  n  | mbledhës BCD 
 BDC [Binary-to Decimal 
-Conversion] abbr shndërrim 
+Conversion] |  abbr  | shndërrim 
 binar–dhjetor 
 be right back ph kthehem 
 menjëherë 
-beam n tufë 
-bearer channel n kanal bartës 
-BeBox n BeBox [kompjuter i 
+beam |  n  | tufë 
+bearer channel |  n  | kanal bartës 
+BeBox |  n  | BeBox [kompjuter i 
 fuqishëm shumëprocesorësh i 
 prodhuesit Be, Inc.] 
-beep v pipëtin [bën bip-pip] 
-beep n pipëtimë ose bip [sinjal 
+beep |  v  | pipëtin [bën bip-pip] 
+beep |  n  | pipëtimë ose bip [sinjal 
 akustik: bip] 
  
  beeper 
-beeper n pipëtues; pejxher 
-begin field n fushë fillimi 
-beginning n fillim 
-beginning of information mark n 
+beeper |  n  | pipëtues; pejxher 
+begin field |  n  | fushë fillimi 
+beginning |  n  | fillim 
+beginning of information mark |  n  | 
 shenjë e fillimit të informacionit 
-beginning-of-file [BOF] n fillim i 
+beginning-of-file [BOF] |  n  | fillim i 
 fajlit 
-behavior n sjellje [mënyrë e të 
+behavior |  n  | sjellje [mënyrë e të 
 sjellit] 
-bell character n karakter i ziles 
+bell character |  n  | karakter i ziles 
 [sinjalizim akustik] 
-Bell communications standards n 
+Bell communications standards |  n  | 
 standardet e komunikimeve (ose 
 komunikuese) të Bellit 
-Bell-compatible modem n modem i 
+Bell-compatible modem |  n  | modem i 
 pajtueshëm me të Bellit 
-benchmark v mas performansat (e 
+benchmark |  v  | mas performansat (e 
 harduerit ose të softuerit ose të një 
 sistemi) [vë në bankë prove] 
-benchmark n test i performansave (të 
+benchmark |  n  | test i performansave (të 
 harduerit ose të softuerit ose të një 
 sistemi) [testi i bankës së provës] 
-benign virus n virus jokeqëbërës 
-BeOS [Be Operating System] n BeOs 
+benign virus |  n  | virus jokeqëbërës 
+BeOS [Be Operating System] |  n  | BeOs 
 [sistem operativ i kompanisë Be, 
 Inc.] 
-Bernoulli box n kuti e Bernulit 
-Bernoulli distribution n përndarje e 
+Bernoulli box |  n  | kuti e Bernulit 
+Bernoulli distribution |  n  | përndarje e 
 Bernulit 
-Bernoulli process n proces i 
+Bernoulli process |  n  | proces i 
 Bernulit 
 Bernoulli sampling process n
  proces mostrues i Bernulit 
  
 37
-big endian 
-best of breed adj më i miri në llojin e 
+big |  end | ian 
+best of breed |  adj  | më i miri në llojin e 
 vet 
-beta adj beta (softuer ose harduer) 
-beta site n sajt beta ose sajt për testim 
-beta test n test beta 
-beta testing n testim (provë) beta 
-Bézier curve n lakore e Bezierit 
-Bézier surface n sipërfaqe e Bezier-
+beta |  adj  | beta (softuer ose harduer) 
+beta site |  n  | sajt beta ose sajt për testim 
+beta test |  n  | test beta 
+beta testing |  n  | testim (provë) beta 
+Bézier curve |  n  | lakore e Bezierit 
+Bézier surface |  n  | sipërfaqe e Bezier-
 it 
-bias (2) n zhvendosje 
-bibliographic information n 
+bias (2) |  n  | zhvendosje 
+bibliographic information |  n  | 
 informata (ose të dhëna) 
 bibliografike 
-bibliography n bibliografi 
-bidirectional adj dykahësh 
-bidirectional bus n bus dykahësh 
+bibliography |  n  | bibliografi 
+bidirectional |  adj  | dykahësh 
+bidirectional bus |  n  | bus dykahësh 
 ose magjistrale dykahshe 
-bidirectional communication n 
+bidirectional communication |  n  | 
 komunikim dykahësh 
-bidirectional parallel port n port 
+bidirectional parallel port |  n  | port 
 paralel dykahësh 
-bidirectional printer n shtypës (ose 
+bidirectional printer |  n  | shtypës (ose 
 printer) dykahësh 
-bidirectional printing n shtypje 
+bidirectional printing |  n  | shtypje 
 [printim] dykahëshe 
-bi-endian adj nga të dy skajet 
-bifurcation n bigëzim ose degëzim 
+bi-endian |  adj  | nga të dy skajet 
+bifurcation |  n  | bigëzim ose degëzim 
 Big Blue [International Business 
-Machines Corporation (IBM)] n 
+Machines Corporation (IBM)] |  n  | 
 madhi (I) i Kaltër (emër joformal 
 për IBM-në) 
-big endian adj nga skaji më i madh 
+big endian |  adj  | nga skaji më i madh 
  big red switch 
  
 38
-big red switch [BRS] n ndërprerësi i 
+big red switch [BRS] |  n  | ndërprerësi i 
 madh i kuq 
-biggest available block n blloku më 
+biggest available block |  n  | blloku më 
 i madh i mundshëm 
 billi- [= 10–9] pref bili- [= 10–9] 
-billion (1) n bilion [= 1012] – në 
+billion (1) |  n  | bilion [= 1012] – në 
 Mbretërinë e Bashkuar 
-billion (2) n miliard [109] – në SHBA 
-billisecond (1) n bilisekondë [10-12 
+billion (2) |  n  | miliard [109] – në SHBA 
+billisecond (1) |  n  | bilisekondë [10-12 
 s] – në Mbretërinë e Bashkuar 
-billisecond (2) n nanosekondë [10-
+billisecond (2) |  n  | nanosekondë [10-
 9s] – në SHBA 
-bimetrics n biometri 
-binary n binar 
-binary [bin.] adj binar (dyjar) 
-binary adder n mbledhës binar 
-binary addition n mbledhje binare 
-binary arithmetic n aritmetikë 
+bimetrics |  n  | biometri 
+binary |  n  | binar 
+binary [bin.] |  adj  | binar (dyjar) 
+binary adder |  n  | mbledhës binar 
+binary addition |  n  | mbledhje binare 
+binary arithmetic |  n  | aritmetikë 
 binare 
-binary cell n qelizë binare 
-binary character n karakter binar 
+binary cell |  n  | qelizë binare 
+binary character |  n  | karakter binar 
 binary chop [binary search] n
  kërkim binar 
-binary code n kod binar 
-binary code conversion n shndërrim 
+binary code |  n  | kod binar 
+binary code conversion |  n  | shndërrim 
 në kod binar 
-binary coded character n karakter 
+binary coded character |  n  | karakter 
 i koduar binarisht [karakter me kod 
 binar] 
-binary coded decimal [BCD] n 
+binary coded decimal [BCD] |  n  | 
 numër dhjetor i koduar binarisht 
 [numër dhjetor me kod binar] 
  
 binary hexadecimal 
 binary coded decimal code [BCD 
-code] n kod i numrit dhjetor të 
+code] |  n  | kod i numrit dhjetor të 
 koduar binarisht 
 binary coded decimal notation 
-[BCD notation] n shënim dhjetor 
+[BCD notation] |  n  | shënim dhjetor 
 me kod binar [shënimi BCD] 
 binary coded decimal 
-representation [BCD code] n 
+representation [BCD code] |  n  | 
 paraqitje dhjetore me kod binar 
-binary coded hexadecimal n numër 
+binary coded hexadecimal |  n  | numër 
 heksadecimal me kod binar 
-binary coded information n 
+binary coded information |  n  | 
 informacion i koduar binarisht 
-binary coded octal n numër oktal i 
+binary coded octal |  n  | numër oktal i 
 koduar binarisht 
-binary compatibility n pajtueshmëri 
+binary compatibility |  n  | pajtueshmëri 
 (kompatibilitet) binare 
-binary conversion n shndërrim ose 
+binary conversion |  n  | shndërrim ose 
 konvertim binar 
-binary counter n numërues binar 
-binary device n pajisje binare 
-binary digit n shifër binare 
-binary digit [bit] n shifër binare [bit] 
-binary digital signal n sinjal 
+binary counter |  n  | numërues binar 
+binary device |  n  | pajisje binare 
+binary digit |  n  | shifër binare 
+binary digit [bit] |  n  | shifër binare [bit] 
+binary digital signal |  n  | sinjal 
 digjital binar 
-binary encoding n kodim binar 
-binary exponent n eksponent binar 
-binary file n fajl binar 
-binary file transfer [BFT] n bartje e 
+binary encoding |  n  | kodim binar 
+binary exponent |  n  | eksponent binar 
+binary file |  n  | fajl binar 
+binary file transfer [BFT] |  n  | bartje e 
 fajlave binarë 
-binary format n format binar 
-binary fraction n thyesë binare 
-binary hexadecimal n heksadecimal 
+binary format |  n  | format binar 
+binary fraction |  n  | thyesë binare 
+binary hexadecimal |  n  | heksadecimal 
 binar 
  binary logic 
-binary logic n logjikë binare 
-binary multiplication n shumëzim 
+binary logic |  n  | logjikë binare 
+binary multiplication |  n  | shumëzim 
 binar 
-binary notation n shënim ose 
+binary notation |  n  | shënim ose 
 notacion binar 
-binary number n numër binar 
-binary number system n sistem 
+binary number |  n  | numër binar 
+binary number system |  n  | sistem 
 binar i numrave 
-binary numeration system n sistem 
+binary numeration system |  n  | sistem 
 binar i numërimit 
-binary operation n veprim binar 
-binary operator n operator binar 
-binary place n vend binar 
-binary point n pikë binare 
-binary recording n regjistrim binar 
-binary relation n relacion binar 
-binary representation n paraqitje 
+binary operation |  n  | veprim binar 
+binary operator |  n  | operator binar 
+binary place |  n  | vend binar 
+binary point |  n  | pikë binare 
+binary recording |  n  | regjistrim binar 
+binary relation |  n  | relacion binar 
+binary representation |  n  | paraqitje 
 binare 
-binary search n kërkim binar 
+binary search |  n  | kërkim binar 
 binary search algorithm n
  algoritëm i kërkimit binar 
-binary search tree n pemë e kërkimit 
+binary search tree |  n  | pemë e kërkimit 
 binar 
-binary signal n sinjal binar 
-binary string n varg binar 
-binary subtraction n zbritje binare 
+binary signal |  n  | sinjal binar 
+binary string |  n  | varg binar 
+binary subtraction |  n  | zbritje binare 
 binary synchronous protocol 
-[BISYNC] n protokoll sinkron 
+[BISYNC] |  n  | protokoll sinkron 
 binar 
-binary system n sistem binar 
-binary transfer n transferim ose 
+binary system |  n  | sistem binar 
+binary transfer |  n  | transferim ose 
 transfer binar 
-binary tree n pemë binare 
+binary tree |  n  | pemë binare 
  
  
 39
 BIS 
-binary-to-decimal conversion n 
+binary-to-decimal conversion |  n  | 
 shndërrim binar – dhjetor 
 binary-to-hexadecimal conversion 
 n shndërrim binar – heksadecimal 
-binary-to-octal conversion n 
+binary-to-octal conversion |  n  | 
 shndërrim binar – oktal 
-binaural sound n zë ose tingull 
+binaural sound |  n  | zë ose tingull 
 stereo 
-bind (1) v lidh (programet) 
-bind (2) v lidh (fletët e librit) 
-binding order n radhë e lidhjes 
-binding time n kohë e lidhjes 
-binding width n gjerësi e lidhjes 
-BinHex n BinHeks [metodë 
+bind (1) |  v  | lidh (programet) 
+bind (2) |  v  | lidh (fletët e librit) 
+binding order |  n  | radhë e lidhjes 
+binding time |  n  | kohë e lidhjes 
+binding width |  n  | gjerësi e lidhjes 
+BinHex |  n  | BinHeks [metodë 
 shndërrimi binar-heksadecimal] 
-binomial distribution n shpërndarje 
+binomial distribution |  n  | shpërndarje 
 binomiale ose distribucion 
 binomik 
-binomial equation n ekuacion 
+binomial equation |  n  | ekuacion 
 binomial 
-binomial theorem n teoremë 
+binomial theorem |  n  | teoremë 
 binomiale 
-biocybernetics n biokibernetikë 
-bionics n bionikë 
+biocybernetics |  n  | biokibernetikë 
+bionics |  n  | bionikë 
 BIOS [Basic Input/Output System] 
 abbr BIOS [sistem bazë hyrje-
 dalje] 
-bipolar adj bipolar ose dypolar 
-bipolar transistor n transistor 
+bipolar |  adj  | bipolar ose dypolar 
+bipolar transistor |  n  | transistor 
 bipolar 
-biquinary code n kod bikuinar 
+biquinary code |  n  | kod bikuinar 
 BIS [Business Information System]
- abbr BIS [sistem afarist i 
+ |  abbr  | BIS [sistem afarist i 
 informacionit] 
  bistable 
-bistable adj bistabël 
-bistable n bistabël 
-bistable circuit n qark bistabël 
-bistable multivibrator n 
+bistable |  adj  | bistabël 
+bistable |  n  | bistabël 
+bistable circuit |  n  | qark bistabël 
+bistable multivibrator |  n  | 
 multivibrator bistabël ose flip-flop 
 BISYNC [BInary SYNChronous 
-communications protocol] abbr 
+communications protocol] |  abbr  | 
 BISYNC [protokoll binar sinkron i 
 komunikimeve] 
-bit [binary digit] n bit [shifër binare] 
-bit addressing n adresim i bitit 
-bit block n bit-bllok 
-bit block transfer n bartje e bit-
+bit [binary digit] |  n  | bit [shifër binare] 
+bit addressing |  n  | adresim i bitit 
+bit block |  n  | bit-bllok 
+bit block transfer |  n  | bartje e bit-
 bllokut 
-bit bucket n deponi bitesh (të 
+bit bucket |  n  | deponi bitesh (të 
 hedhura) 
-bit density n dendësi e biteve 
-bit depth n thellësi e biteve 
-bit error n gabim biti (bit i gabuar) 
-bit error rate [BER] n përqindje e 
+bit density |  n  | dendësi e biteve 
+bit depth |  n  | thellësi e biteve 
+bit error |  n  | gabim biti (bit i gabuar) 
+bit error rate [BER] |  n  | përqindje e 
 biteve të gabuara [BER] 
-bit flipping n inversion i biteve 
-bit manipulation n manipulim me 
+bit flipping |  n  | inversion i biteve 
+bit manipulation |  n  | manipulim me 
 bite 
-bit map n bitmapë 
-bit matrix n matricë e biteve 
-bit parallel n bartje paralele e bitëve 
-bit pattern n model i bitëve ose 
+bit map |  n  | bitmapë 
+bit matrix |  n  | matricë e biteve 
+bit parallel |  n  | bartje paralele e bitëve 
+bit pattern |  n  | model i bitëve ose 
 mostar e bitëve 
-bit per inch [bpi] n bite për inç 
+bit per inch [bpi] |  n  | bite për inç 
 [numri i bitëve për inç] 
  
  
 40
 bit-plane 
-bit per second [bps] n bite për 
+bit per second [bps] |  n  | bite për 
 sekondë [numri i bitëve për 
 sekondë] 
-bit plane n rrafsh i biteve ose rrafsh 
+bit plane |  n  | rrafsh i biteve ose rrafsh 
 binar 
-bit position n pozicion i bitit 
-bit rate n shpejtësi në bite 
-bit serial n bartje seri e bitëve 
-bit stream n rrëke ose rrjedhë bitesh 
-bit string n varg bitesh 
-bit stuffing n ndërfutje ose insertim e 
+bit position |  n  | pozicion i bitit 
+bit rate |  n  | shpejtësi në bite 
+bit serial |  n  | bartje seri e bitëve 
+bit stream |  n  | rrëke ose rrjedhë bitesh 
+bit string |  n  | varg bitesh 
+bit stuffing |  n  | ndërfutje ose insertim e 
 ose i biteve [mbushje me bite] 
-bit synchronization n sinkronizim i 
+bit synchronization |  n  | sinkronizim i 
 biteve 
-bit test n test biti [provë në bit] 
-bit transfer rate n shpejtësi e 
+bit test |  n  | test biti [provë në bit] 
+bit transfer rate |  n  | shpejtësi e 
 transmetimit në bite 
 bitblt [bit block transfer] abbr
  transfer i bit-bllokut [bitblt] 
-bitmap n bitmapë [tablo bitësh] 
-bitmapped font n font i bitmapuar 
-bitmapped graphics n grafikë e 
+bitmap |  n  | bitmapë [tablo bitësh] 
+bitmapped font |  n  | font i bitmapuar 
+bitmapped graphics |  n  | grafikë e 
 bitmapuar [e përbërë nga pikat] 
-bit-mapped graphics n grafikë e 
+bit-mapped graphics |  n  | grafikë e 
 bitmapuar [e përbërë nga pikat] 
 BITNET [Because It’s Time 
-NETwork] n BITNET [rrjeti 
+NETwork] |  n  | BITNET [rrjeti 
 BITNET] 
-bit-oriented adj orientuar (i) në bit 
-bit-oriented protocol n protokoll me 
+bit-oriented |  adj  | orientuar (i) në bit 
+bit-oriented protocol |  n  | protokoll me 
 orientim binar 
-bit-plane n rrafsh i biteve 
+bit-plane |  n  | rrafsh i biteve 
  bits per inch [bpi] 
-bits per inch [bpi] n bite për inç 
+bits per inch [bpi] |  n  | bite për inç 
 [bpi] [numri i bitëve për inç] 
-bits per second [bps] n bite për 
+bits per second [bps] |  n  | bite për 
 sekondë [bps] [numri i biteve për 
 sekondë] 
-bits per track [bpt] n bite për 
+bits per track [bpt] |  n  | bite për 
 gjurmë (ose shteg) [bpt] 
  
 41
 block diagram 
-blank document n dokument i 
+blank document |  n  | dokument i 
 zbrazët (dokument i paplotësuar) 
-blank line n rresht i zbrazët 
-blank tape n shirit i zbrazët 
-blank the entire disk v fshij (zbraz) 
+blank line |  n  | rresht i zbrazët 
+blank tape |  n  | shirit i zbrazët 
+blank the entire disk |  v  | fshij (zbraz) 
 komplet diskun 
 BIX [BYTE Information Exchange]
- n BIX [këmbim i informacioneve 
+ |  n  | BIX [këmbim i informacioneve 
 i Bajtit - servis i inicuar nga revista 
 BYTE] 
-biz. newsgroups n grupe diskutuese 
+biz. newsgroups |  n  | grupe diskutuese 
 për biznes 
-BkSp [backspace] abbr 
+BkSp [backspace] |  abbr  | 
 prapazhvendosje [zhvendosje pas] 
-black adj zi (i) 
-black box adj kuti e zezë 
-black box testing n testim [provë] 
+black |  adj  | zi (i) 
+black box |  adj  | kuti e zezë 
+black box testing |  n  | testim [provë] 
 me kuti të zezë 
-black out v errësoj (plotësisht) 
-blackout (1) n ndërprerje e 
+black out |  v  | errësoj (plotësisht) 
+blackout (1) |  n  | ndërprerje e 
 furnizimit [mungesë e plotë e 
 energjisë elektrike] 
-blackout (2) n errësim i plotë 
+blackout (2) |  n  | errësim i plotë 
 [shuarje] 
-blank v lë zbrazëti 
-blank adj zbrazët (i) [paplotësuar (i), 
+blank |  v  | lë zbrazëti 
+blank |  adj  | zbrazët (i) [paplotësuar (i), 
 bardhë (i)] 
-blank (1) n zbrazëtirë 
-blank a track v fshij (zbraz) 
+blank (1) |  n  | zbrazëtirë 
+blank a track |  v  | fshij (zbraz) 
 gjurmën (trasenë) 
-blank a track tail v fshij (zbraz) 
+blank a track tail |  v  | fshij (zbraz) 
 fundin e gjurmës (trasesë) 
-blank disk n disk i zbrazët 
+blank disk |  n  | disk i zbrazët 
  
-blanking in progress n fshirje 
+blanking in progress |  n  | fshirje 
 (zbrazja) vazhdon 
-blast n shkruarje elektronike 
-bleed n lëshim 
-bleep n pipëtimë ose bip [sinjal 
+blast |  n  | shkruarje elektronike 
+bleed |  n  | lëshim 
+bleep |  n  | pipëtimë ose bip [sinjal 
 akustik: bip 
-blind carbon copy n kopje e verbër 
-blind courtesy copy n kopje e verbër 
-blind search n kërkim symbyllur 
-blink v pulson ose pulit (kapsallit) 
-blink speed n shpejtësi e pulsimit 
-blip n shenjë për detektim optik 
-bloatware n softuer i fryrë 
-block n bllok [grup] 
-block (1) v grupoj (në blloqe) 
-block (2) v bllokoj 
-block buffer n bufer [ndërmemorie] 
+blind carbon copy |  n  | kopje e verbër 
+blind courtesy copy |  n  | kopje e verbër 
+blind search |  n  | kërkim symbyllur 
+blink |  v  | pulson ose pulit (kapsallit) 
+blink speed |  n  | shpejtësi e pulsimit 
+blip |  n  | shenjë për detektim optik 
+bloatware |  n  | softuer i fryrë 
+block |  n  | bllok [grup] 
+block (1) |  v  | grupoj (në blloqe) 
+block (2) |  v  | bllokoj 
+block buffer |  n  | bufer [ndërmemorie] 
 i bllokut 
-block check n kontroll blloku 
-block cipher n shifër e bllokut 
-block code n kod blloku 
-block compaction n ngjeshje blloku 
-block copy n kopje blloku 
-block cursor n kursori bllok 
-block diagram n bllok-diagram 
+block check |  n  | kontroll blloku 
+block cipher |  n  | shifër e bllokut 
+block code |  n  | kod blloku 
+block compaction |  n  | ngjeshje blloku 
+block copy |  n  | kopje blloku 
+block cursor |  n  | kursori bllok 
+block diagram |  n  | bllok-diagram 
 [bllok-skemë] 
  block gap 
-block gap n largësi ose distancë 
+block gap |  n  | largësi ose distancë 
 ndërmjet blloqeve 
-block header n krye ose titull i 
+block header |  n  | krye ose titull i 
 bllokut 
-block length n gjatësi e bllokut 
-block move n zhvendosje e bllokut 
-block retrieval n rimarrje e bllokut 
-block scheme n bllok-skemë 
-block separator n veçor (ose 
+block length |  n  | gjatësi e bllokut 
+block move |  n  | zhvendosje e bllokut 
+block retrieval |  n  | rimarrje e bllokut 
+block scheme |  n  | bllok-skemë 
+block separator |  n  | veçor (ose 
 separator) i blloqeve 
-block size n madhësi e bllokut 
-block structure n strukturë në 
+block size |  n  | madhësi e bllokut 
+block structure |  n  | strukturë në 
 formë blloqesh 
-blocked adj bllokuar (i) 
-blocked process n proces i 
+blocked |  adj  | bllokuar (i) 
+blocked process |  n  | proces i 
 bllokuar 
-blocking (1) n grupim (në bllok) 
-blocking (2) n bllokim [pengim] 
-blocking factor n faktor [koeficient] 
+blocking (1) |  n  | grupim (në bllok) 
+blocking (2) |  n  | bllokim [pengim] 
+blocking factor |  n  | faktor [koeficient] 
 i grupimit (ose bllokimit) [numri i 
 regjistresave në një bllok] 
-block-structured language n gjuhë 
+block-structured language |  n  | gjuhë 
 e strukturuar [organizuar] në blloqe 
-blow v shkruarje elektronike 
-blow up n përfundim jonormal 
-blower n ventilator 
-blue ribbon program n program 
+blow |  v  | shkruarje elektronike 
+blow up |  n  | përfundim jonormal 
+blower |  n  | ventilator 
+blue ribbon program |  n  | program 
 i shiritit të kaltër 
-blue screen n ekran i kaltër 
-BNC connector n konektor BNC 
-board n pllakë 
-board computer n kompjuter në 
+blue screen |  n  | ekran i kaltër 
+BNC connector |  n  | konektor BNC 
+board |  n  | pllakë 
+board computer |  n  | kompjuter në 
 pllakë 
  
  
 42
 Boolean search 
-board level n nivel i pllakës 
-body (1) n trup 
-body (2) n trup i dokumentit ose 
+board level |  n  | nivel i pllakës 
+body (1) |  n  | trup 
+body (2) |  n  | trup i dokumentit ose 
 pjesë kryesore e dokumentit 
-body face n font i trupit të 
+body face |  n  | font i trupit të 
 dokumentit 
-BOF [Beginning Of File] abbr 
+BOF [Beginning Of File] |  abbr  | 
 fillim i fajlit 
-BOF [Birds Of a Feather] abbr BOF 
-bold adj zeza (të) [shkronja] 
-bold printing n shtypshkrim me 
+BOF [Birds Of a Feather] |  abbr  | BOF 
+bold |  adj  | zeza (të) [shkronja] 
+bold printing |  n  | shtypshkrim me 
 shkronja të zeza 
-bolded font n font i trashur 
-boldface n shkronja gjysmë të 
+bolded font |  n  | font i trashur 
+boldface |  n  | shkronja gjysmë të 
 zeza 
-boldfacing n shtypje me shkronja 
+boldfacing |  n  | shtypje me shkronja 
 gjysmë të zeza 
-bookmark n faqeshenjoj [vë 
+bookmark |  n  | faqeshenjoj [vë 
 faqeshenjuesin] 
-bookmark n faqeshenjues ose 
+bookmark |  n  | faqeshenjues ose 
 shënues në libër 
-bookmark file n fajl i faqeshenjuesit 
+bookmark file |  n  | fajl i faqeshenjuesit 
 ose fajl i shënuesit në libër 
-Boolean adj Bulit (i) ose bulian 
-Boolean algebra n algjebër e Bulit 
-Boolean expression n shprehje e 
+Boolean |  adj  | Bulit (i) ose bulian 
+Boolean algebra |  n  | algjebër e Bulit 
+Boolean expression |  n  | shprehje e 
 Bulit 
-Boolean function n funksion i Bulit 
-Boolean logic n logjikë e Bulit 
-Boolean operation n operacion 
+Boolean function |  n  | funksion i Bulit 
+Boolean logic |  n  | logjikë e Bulit 
+Boolean operation |  n  | operacion 
 [veprim] i Bulit [operacion bulian] 
-Boolean operator n operator i Bulit 
-Boolean search n kërkim i Bulit 
+Boolean operator |  n  | operator i Bulit 
+Boolean search |  n  | kërkim i Bulit 
  Boolean value 
  
-Boolean value n vlerë e Bulit ose 
+Boolean value |  n  | vlerë e Bulit ose 
 vlerë buliane [vlerë logjike] 
-Boolean variable n ndryshore 
+Boolean variable |  n  | ndryshore 
 [variabël] e Bulit ose ndryshore 
 buliane 
-boot v ngre (sistemin) [inicializoj] 
-boot n ngritje e sistemit 
+boot |  v  | ngre (sistemin) [inicializoj] 
+boot |  n  | ngritje e sistemit 
 [inicializim] 
-boot block n bllok për ngritje të 
+boot block |  n  | bllok për ngritje të 
 sistemit [për inicializim] 
-boot disk n disk për ngritje të 
+boot disk |  n  | disk për ngritje të 
 sistemit [për inicializim] 
-boot drive n njësi e diskut për 
+boot drive |  n  | njësi e diskut për 
 ngritje të sistemit 
-boot failure n ngritje e 
+boot failure |  n  | ngritje e 
 pasuksesshme e sistemit 
-boot partition n particion për 
+boot partition |  n  | particion për 
 ngritje të sistemit 
-Boot Protocol n protokol për 
+Boot Protocol |  n  | protokol për 
 ngritje të sistemit 
-boot record n regjistresë (ose 
+boot record |  n  | regjistresë (ose 
 regjistrim) për ngritje të sistemit 
-boot sector n sektor për ngritje të 
+boot sector |  n  | sektor për ngritje të 
 sistemit 
-boot up n ngritje e sistemit 
+boot up |  n  | ngritje e sistemit 
 [inicializim] 
-bootable adj aftë (i) për ngritje 
+bootable |  adj  | aftë (i) për ngritje 
 [inicializueshëm (i)] 
-bootable adj nisës 
-bootable CD n CD nisëse 
-bootable floppy n disketë nisëse 
-booting n ngritje e sistemit 
+bootable |  adj  | nisës 
+bootable CD |  n  | CD nisëse 
+bootable floppy |  n  | disketë nisëse 
+booting |  n  | ngritje e sistemit 
 [inicializim] 
  
 43
 bounding box 
-BOOTP n protokoll për ngritje të 
+BOOTP |  n  | protokoll për ngritje të 
 sistemit 
-bootstrap n ngritje e sistemit 
+bootstrap |  n  | ngritje e sistemit 
 [inicializim] 
-border color n ngjyrë e anësores 
+border color |  n  | ngjyrë e anësores 
 [bordurës] 
-boss screen n ekrani i drejtorit 
-bot n robot 
-BOT [Beginning Of Tape] n fillim i 
+boss screen |  n  | ekrani i drejtorit 
+bot |  n  | robot 
+BOT [Beginning Of Tape] |  n  | fillim i 
 shiritit 
-bottom margin n margjinë e 
+bottom margin |  n  | margjinë e 
 poshtme 
-bottom space n hapësirë e poshtme 
-bottom-up adj nga poshtë lart [që 
+bottom space |  n  | hapësirë e poshtme 
+bottom-up |  adj  | nga poshtë lart [që 
 ngjitet përpjetë] 
-bottom-up design n projektim 
+bottom-up design |  n  | projektim 
 (disenjim) "nga poshtë lart" 
-bottom-up development n zhvillim 
+bottom-up development |  n  | zhvillim 
 "nga poshtë lart" 
-bottom-up parsing n analizë 
+bottom-up parsing |  n  | analizë 
 sintaktike "nga poshtë lart" 
 bottom-up programming n
  programim "nga poshtë lart" 
-bottom-up technique n teknikë 
+bottom-up technique |  n  | teknikë 
 "nga poshtë lart" 
-BounceKeys n BounceKeys 
-bound n kufi 
-bound adj kufizuar (i) 
-boundary n kufi [vijë kufiri] 
-boundary protection n mbrojtje e 
+BounceKeys |  n  | BounceKeys 
+bound |  n  | kufi 
+bound |  adj  | kufizuar (i) 
+boundary |  n  | kufi [vijë kufiri] 
+boundary protection |  n  | mbrojtje e 
 kufirit 
-boundary register n regjistër kufiri 
-bounding box n kornizë kufitare 
+boundary register |  n  | regjistër kufiri 
+bounding box |  n  | kornizë kufitare 
  box 
-box n kuti ose kornizë 
-boxing n kutizim ose kornizim 
+box |  n  | kuti ose kornizë 
+boxing |  n  | kutizim ose kornizim 
 [futje në kuti] 
-bozo n bashkëbisedues i 
+bozo |  n  | bashkëbisedues i 
 padëshiruar (ose bezdisës) 
-bozo filter n filtër për 
+bozo filter |  n  | filtër për 
 bashkëbisedues të padëshiruar 
-bpi [bits per inch] abbr bpi [bite 
+bpi [bits per inch] |  abbr  | bpi [bite 
 për inç] 
-Bpi [bytes per inch] abbr Bpi 
+Bpi [bytes per inch] |  abbr  | Bpi 
 [bajta për inç] 
-bps [bits per second] abbr bps 
+bps [bits per second] |  abbr  | bps 
 [bite për sekondë] 
-Bps [bytes Per Second] abbr Bps 
+Bps [bytes Per Second] |  abbr  | Bps 
 [bajta për sekondë] 
-bpt [Bits Per Track] abbr bpt [bite 
+bpt [Bits Per Track] |  abbr  | bpt [bite 
 shteg] 
-braces n kllapa të përdredhura { } 
-brackets n kllapa [të rrumbullakta 
+braces |  n  | kllapa të përdredhura { } 
+brackets |  n  | kllapa [të rrumbullakta 
 ( ), katrore [ ], të përdredhura { }] 
-Braille printer n printer i Brajit 
+Braille printer |  n  | printer i Brajit 
 (për të verbër) 
-braindamaged adj me 
+braindamaged |  adj  | me 
 inteligjencë të dëmtuar 
-branch n degë 
-branch v degëzohet 
-branch instruction n komandë 
+branch |  n  | degë 
+branch |  v  | degëzohet 
+branch instruction |  n  | komandë 
 degëzimi 
-branch instructions n urdhra 
+branch instructions |  n  | urdhra 
 degëzimi 
-branch prediction n parashikim i 
+branch prediction |  n  | parashikim i 
 degëzimit 
-branching n degëzim 
-branching point n pikë degëzimi 
+branching |  n  | degëzim 
+branching point |  n  | pikë degëzimi 
  
  
 44
 brightness 
-branchpoint n pikë degëzimi 
-brand n markë (e një prodhimi) 
-BRB [Be Right Back] abbr kthehem 
+branchpoint |  n  | pikë degëzimi 
+brand |  n  | markë (e një prodhimi) 
+BRB [Be Right Back] |  abbr  | kthehem 
 menjëherë 
-break n ndërprerje (së punuari) 
-break (1) v ndërprej 
-break (2) v thyej 
-break (3) v shpoj 
-break down v pëson avari 
-break in v ndërprej (një proces) 
-break key n tast (ose pullë) për 
+break |  n  | ndërprerje (së punuari) 
+break (1) |  v  | ndërprej 
+break (2) |  v  | thyej 
+break (3) |  v  | shpoj 
+break down |  v  | pëson avari 
+break in |  v  | ndërprej (një proces) 
+break key |  n  | tast (ose pullë) për 
 ndërprerje (të programit) 
-break page n ndërprerje e faqes 
-breakdown n avari 
-breakout box n kuti ndërprerëse 
-breakpoint n pikë ndërprerëse 
+break page |  n  | ndërprerje e faqes 
+breakdown |  n  | avari 
+breakout box |  n  | kuti ndërprerëse 
+breakpoint |  n  | pikë ndërprerëse 
 [pikëndërprerje] 
-BRI [Basic Rate Interface] n BRI 
+BRI [Basic Rate Interface] |  n  | BRI 
 [ndërfaqe e shpejtësisë bazë] 
-bridge n urë 
-bridge v urëzoj 
-bridge router [brouter] n urë 
+bridge |  n  | urë 
+bridge |  v  | urëzoj 
+bridge router [brouter] |  n  | urë 
 rrugëzuese ose urë drejtuese 
-bridging n urëzim 
-bridging product n prodhim 
+bridging |  n  | urëzim 
+bridging product |  n  | prodhim 
 urëzimi 
-Briefcase n Valixhe 
-briefcase computer n kompjuter 
+Briefcase |  n  | Valixhe 
+briefcase computer |  n  | kompjuter 
 çante 
-bright adj ndritshëm (i) 
-brightness n ndritshmëri ose 
+bright |  adj  | ndritshëm (i) 
+brightness |  n  | ndritshmëri ose 
 qartësi 
  broadband 
-broadband adj brezgjerë 
-broadband modem n modem 
+broadband |  adj  | brezgjerë 
+broadband modem |  n  | modem 
 brezgjerë 
-broadband network n rrjet 
+broadband network |  n  | rrjet 
 brezgjerë [rrjet me brez shumë të 
 gjerë] 
-broadcast adj radiopërhapës ose 
+broadcast |  adj  | radiopërhapës ose 
 radiodifuziv 
-broadcast v transmetoj (radio ose 
+broadcast |  v  | transmetoj (radio ose 
 TV) programin 
-broadcast stom n stuhi (ose 
+broadcast stom |  n  | stuhi (ose 
 furtunë) radiodifuzive 
-broadcasting n radiopërhapje 
-brochure n broshurë 
-broken n prishur (i), shkatërruar 
+broadcasting |  n  | radiopërhapje 
+brochure |  n  | broshurë 
+broken |  n  | prishur (i), shkatërruar 
 (i), papërdorshëm (i) 
-brother n vëlla 
-Brouter [bridge router] n Rrugëtues 
+brother |  n  | vëlla 
+Brouter [bridge router] |  n  | Rrugëtues 
 urë ose urë drejtuese 
-brown-out n mungesë e pjesëshme 
+brown-out |  n  | mungesë e pjesëshme 
 e energjisë elektrike 
-brown-out n mungesë e pjesëshme 
+brown-out |  n  | mungesë e pjesëshme 
 e energjisë elektrike 
-browse (1) v navigoj 
-browse (2) v shfletoj 
-browser (for Internet) n kërkues i 
+browse (1) |  v  | navigoj 
+browse (2) |  v  | shfletoj 
+browser (for Internet) |  n  | kërkues i 
 uebit 
-browsing (1) n navigim 
-browsing (2) n shfletim 
-BRS [big red switch] n BRS 
+browsing (1) |  n  | navigim 
+browsing (2) |  n  | shfletim 
+BRS [big red switch] |  n  | BRS 
 [ndërprerës i madhë i kuq, nga) 
-brush n brushë 
+brush |  n  | brushë 
  
  
 45
 bug 
-BS [BackSpace character] abbr 
+BS [BackSpace character] |  abbr  | 
 karakter i prapazhvendosjes 
-BSC abbr BSC [protokoll 
+BSC |  abbr  | BSC [protokoll 
 komunikues binar sinkron] 
-BSD UNIX n BSD UNIX [Berkli 
+BSD UNIX |  n  | BSD UNIX [Berkli 
 UNIX] 
-B-tree [Binary tree] n pemë B 
+B-tree [Binary tree] |  n  | pemë B 
 [pemë binare] 
-btw [By The Way] abbr meqë ra 
+btw [By The Way] |  abbr  | meqë ra 
 fjala 
-BTW [By The Way] abbr meqë 
+BTW [By The Way] |  abbr  | meqë 
 ra fjala 
-bubble n fluskë 
-bubble board n pllakë e 
+bubble |  n  | fluskë 
+bubble board |  n  | pllakë e 
 memories me fluska 
-bubble jet printer n shtypës (ose 
+bubble jet printer |  n  | shtypës (ose 
 printer) me vrushkuj ngjyre 
-buffer n bufer [ndërmemorie, 
+buffer |  n  | bufer [ndërmemorie, 
 memorie ndërmjetësuese] 
-buffer v vë në bufer [vendos në 
+buffer |  v  | vë në bufer [vendos në 
 ndërmemorie] 
-buffer storage (1) n bufer 
+buffer storage (1) |  n  | bufer 
 [memorie ndërmjetësuese] 
-buffer storage (2) n vendosje në 
+buffer storage (2) |  n  | vendosje në 
 bufer 
-buffered device n pajisje e 
+buffered device |  n  | pajisje e 
 buferuar [pajisje me ndërmemorie] 
-buffered memory n memorie e 
+buffered memory |  n  | memorie e 
 buferuar [memorie me 
 ndërmemorie] 
-buffering n buferim 
+buffering |  n  | buferim 
 [ndërmemorim, përdorim i 
 ndërmemories] 
-bug n gabim [“tartabiq” ose 
+bug |  n  | gabim [“tartabiq” ose 
 “çimkë”] [gabim logjik; problem] 
  buggy 
-buggy adj me plot gabime 
-building-block principle n parim 
+buggy |  adj  | me plot gabime 
+building-block principle |  n  | parim 
  
 46
 [princip] i blloqeve përbërëse 
-built-in adj inkorporuar (i) 
+built-in |  adj  | inkorporuar (i) 
 [integruar (i)] 
-built-in font n font i inkorporuar 
+built-in font |  n  | font i inkorporuar 
 (ose zbatuar) 
-built-in function n funksion i 
+built-in function |  n  | funksion i 
 inkorporuar 
-built-in groups n grupe të 
+built-in groups |  n  | grupe të 
 inkorporuara (ose zbatuara) 
-built-in variable n ndryshore 
+built-in variable |  n  | ndryshore 
 (ose variabël) e inkorporuar 
-bulk eraser n fshirëse 
+bulk eraser |  n  | fshirëse 
 përmbledhëse 
-bulk memory n memorie e 
+bulk memory |  n  | memorie e 
 vëllimshme [masive] 
-bulky adj masiv [kaba, i 
+bulky |  adj  | masiv [kaba, i 
 vëllimshëm; i rëndë] 
-bulletproof adj pashpueshëm (i) 
-bureau n byro [agjenci] 
-burn n shkruarje elektronike 
-burn v shkruaj elektronikisht 
-burn in v djeg 
-burst (1) n bërst [grup i 
+bulletproof |  adj  | pashpueshëm (i) 
+bureau |  n  | byro [agjenci] 
+burn |  n  | shkruarje elektronike 
+burn |  v  | shkruaj elektronikisht 
+burn in |  v  | djeg 
+burst (1) |  n  | bërst [grup i 
 pandërprerë të dhënash; bllok] 
-burst (2) n shkëputje 
-burster n shkëputës 
-bursty adj me ndërprerje 
-bus n bus ose magjistrale 
-bus arbitration n arbitrim i busit 
+burst (2) |  n  | shkëputje 
+burster |  n  | shkëputës 
+bursty |  adj  | me ndërprerje 
+bus |  n  | bus ose magjistrale 
+bus arbitration |  n  | arbitrim i busit 
 (ose magjistrales) 
  
 buzz 
-bus buffer n bufer i busit (ose 
+bus buffer |  n  | bufer i busit (ose 
 magjistrales) 
-bus driver n ngarës ose drajver i 
+bus driver |  n  | ngarës ose drajver i 
 busit (ose magjistrales) 
-bus enumerator n kodues i busit 
+bus enumerator |  n  | kodues i busit 
 (ose magjistrales) 
-bus extender n zgjatës i busit 
+bus extender |  n  | zgjatës i busit 
 (ose magjistrales) 
-bus monitor n monitor i busit (ose 
+bus monitor |  n  | monitor i busit (ose 
 magjistrales) 
-bus sender n dërgues busi (ose 
+bus sender |  n  | dërgues busi (ose 
 magjistraleje) 
-bus structure n strukturë e busit 
+bus structure |  n  | strukturë e busit 
 (ose magjistrales) 
-bus system n sistem i busit (ose 
+bus system |  n  | sistem i busit (ose 
 magjistrales) 
-bus terminator n përfundues i busit 
+bus terminator |  n  | përfundues i busit 
 ose terminator i magjistrales 
-business n biznes 
-business information system n 
+business |  n  | biznes 
+business information system |  n  | 
 sistem informativ afarist 
-business partner n partner biznesi 
-busy adj zënë (i) (me punë) 
-busy hour n kohë e zënies 
-busy signal n sinjal i zënies 
-busy tone n ton (sinjal) i zënies 
-button n buton ose pullë 
-button bomb n buton (ose pullë) 
+business partner |  n  | partner biznesi 
+busy |  adj  | zënë (i) (me punë) 
+busy hour |  n  | kohë e zënies 
+busy signal |  n  | sinjal i zënies 
+busy tone |  n  | ton (sinjal) i zënies 
+button |  n  | buton ose pullë 
+button bomb |  n  | buton (ose pullë) 
 bombë 
-button help n ndihmë me buton 
+button help |  n  | ndihmë me buton 
 (ose pullë) 
-buy v blej 
-buzz n zukatje 
+buy |  v  | blej 
+buzz |  n  | zukatje 
 47
  
 Byte Information Exchange [BIX] 
 n BIX [këmbim i informacioneve i 
 Bajtit - servis i inicuar nga revista 
 BYTE] 
-byte register n regjistër bajti 
-bytecode n bajtkod 
-byte-oriented protocol n protokol i 
+byte register |  n  | regjistër bajti 
+bytecode |  n  | bajtkod 
+byte-oriented protocol |  n  | protokol i 
 orientuar në bajte 
-bytes per inch [Bpi] n bajte për 
+bytes per inch [Bpi] |  n  | bajte për 
 inç [Bpi] 
  
  buzzer 
-buzzer n zukatës 
-by default adj nënkuptuar (i) ose 
+buzzer |  n  | zukatës 
+by default |  adj  | nënkuptuar (i) ose 
 paracaktuar (i) [paravendosur (i)] 
 ose standard (i) 
 by the way ph me që ra fjala 
-bypass n urëzim ose anëkalesë 
+bypass |  n  | urëzim ose anëkalesë 
 [bajpas] 
-bypass v urëzoj ose anëkaloj 
-byte [B] n bajt [B] 
-byte address n adresë e bajtit 
+bypass |  v  | urëzoj ose anëkaloj 
+byte [B] |  n  | bajt [B] 
+byte address |  n  | adresë e bajtit 
  
  
 48
@@ -2674,43 +2644,43 @@ byte address n adresë e bajtit
  
  
 C 
-cache card n kartelë e memories 
-C n C [vlera heksadecimale e numrit 
+cache card |  n  | kartelë e memories 
+C |  n  | C [vlera heksadecimale e numrit 
 dhjetor 12] 
 kesh 
-C [programming language] n C 
+C [programming language] |  n  | C 
 [gjuhë programuese] 
-C flag [Carry flag] n flamur i 
+C flag [Carry flag] |  n  | flamur i 
 mbartjes ose bartjes 
-C series formats n formatet (e letrës) 
+C series formats |  n  | formatet (e letrës) 
 e serisë C [C0, C1,...,C10; C0 = 
 917 mm×1297 mm] 
-C: n C: [identifikator i njësisë së 
+C: |  n  | C: [identifikator i njësisë së 
 diskut të ngurtë] 
-C++ [programming language] n C++ 
+C++ [programming language] |  n  | C++ 
 [gjuhë programuese] 
-cable n kabëll [kabllo] 
-cable connector n konektor i kabllit 
-cable matcher n përshtatës i kabllit 
-cable modem n modem kabllor 
-cable problems n problem i kabllit 
-cable television n televizion kabllor 
-cabling diagram n diagram i 
+cable |  n  | kabëll [kabllo] 
+cable connector |  n  | konektor i kabllit 
+cable matcher |  n  | përshtatës i kabllit 
+cable modem |  n  | modem kabllor 
+cable problems |  n  | problem i kabllit 
+cable television |  n  | televizion kabllor 
+cabling diagram |  n  | diagram i 
 kabllimit [skemë e lidhjeve] 
-cache n memorie kesh [memorie e 
+cache |  n  | memorie kesh [memorie e 
 gatshme; memorie për akses të 
 shpejtë; paramemorie] 
-cache v vë në memorie kesh [vë në 
+cache |  v  | vë në memorie kesh [vë në 
 paramemorie] 
-cache controller n kontrollues i 
+cache controller |  n  | kontrollues i 
 keshit [paramemories] 
-cache memory n memorie kesh 
+cache memory |  n  | memorie kesh 
 [memorie e gatshme, paramemorie] 
-cache memory controller n 
+cache memory controller |  n  | 
 kontrollues i memories kesh 
-cache storage n memorie kesh 
+cache storage |  n  | memorie kesh 
 [memorie e gatshme, paramemorie] 
-cache-disk n disk kesh 
+cache-disk |  n  | disk kesh 
 [paramemorie] 
 CAD [Computer-Aided Design] 
 abbr CAD [projektim me 
@@ -2718,222 +2688,222 @@ kompjuter]
 CAD [Computer-Aided Drafting] 
 abbr CAD [skicim me kompjuter] 
 CAD [Computer-Aided Drawing]
- abbr CAD [vizatim me 
+ |  abbr  | CAD [vizatim me 
 kompjuter] 
 CAD/CAM [Computer-Aided 
 Design/Computer-Aided 
-Manufacturing] abbr CAD-CAM 
+Manufacturing] |  abbr  | CAD-CAM 
 [projektim-fabrikim me kompjuter] 
 CADD [Computer-Aided Design and 
-Drafting] abbr CADD [projektim 
+Drafting] |  abbr  | CADD [projektim 
 dhe skicim me kompjuter] 
  
  
  caddy 
-caddy n kuti për CD-ROM 
+caddy |  n  | kuti për CD-ROM 
 CAE [Computer-Aided Engineering]
- abbr CAE [inxhiniering me anë 
+ |  abbr  | CAE [inxhiniering me anë 
 të kompjuterit] 
 CAI [Computer Aided Instruction] 
 abbr CAI [arsimim me kompjuter] 
 CAI [Computer-Assisted Instruction] 
- abbr CAI [udhëzim përmes 
+ |  abbr  | CAI [udhëzim përmes 
 kompjuterit] 
 CAL [Computer Aided Learning] 
 abbr CAL [mësim me ndihmën e 
 kompjuterit] 
 CAL [Computer-Augmented 
-Learning] abbr CAL [mësim me 
+Learning] |  abbr  | CAL [mësim me 
 ndihmën e kompjuterit] 
-calculate v llogarit 
-calculate automatically v llogarit 
+calculate |  v  | llogarit 
+calculate automatically |  v  | llogarit 
 automatikisht 
-calculate size v llogarit madhësinë 
-calculation n llogaritje 
-calculator n kalkulator 
-calendar program n kalendar 
+calculate size |  v  | llogarit madhësinë 
+calculation |  n  | llogaritje 
+calculator |  n  | kalkulator 
+calendar program |  n  | kalendar 
 elektronik 
-calender n kalendar 
-calibrate v kalibroj 
-calibration n kalibrim 
-call v thërras 
-call n thirrje 
-call by address n thirrje sipas adresës 
-call by name n thirrje sipas emrit 
-call by reference n thirrje sipas 
+calender |  n  | kalendar 
+calibrate |  v  | kalibroj 
+calibration |  n  | kalibrim 
+call |  v  | thërras 
+call |  n  | thirrje 
+call by address |  n  | thirrje sipas adresës 
+call by name |  n  | thirrje sipas emrit 
+call by reference |  n  | thirrje sipas 
 referimit 
-call by value n thirrje sipas vlerës 
+call by value |  n  | thirrje sipas vlerës 
  
 49
 camera position 
-call detail recording [CDR] n 
+call detail recording [CDR] |  n  | 
 regjistrim i të dhënave të 
 komunikimeve 
-call duration n kohëzgjatje e thirrjes 
-call forwarding [CFW] n përcjellje 
+call duration |  n  | kohëzgjatje e thirrjes 
+call forwarding [CFW] |  n  | përcjellje 
 (automatike) e thirrjeve 
-CALL instruction n komanda CALL 
-callback adj thirrjes (i) kthyese 
-callback (1) n thirrje kthyese 
-callback modem n modem me 
+CALL instruction |  n  | komanda CALL 
+callback |  adj  | thirrjes (i) kthyese 
+callback (1) |  n  | thirrje kthyese 
+callback modem |  n  | modem me 
 thirrje kthyese 
-caller n thirrës 
-calling name display n paraqitje 
+caller |  n  | thirrës 
+calling name display |  n  | paraqitje 
 (përshfaqje) e numrit të thirrësit 
-calling sequence n sekuencë 
+calling sequence |  n  | sekuencë 
 thirrëse 
 CAM [Computer Aided 
-Manufacturing] abbr CAM 
+Manufacturing] |  abbr  | CAM 
 [fabrikim me ndihmën e 
 kompjuterit] 
 CAM [Computer-Aided 
-Manufacturing] abbr CAM 
+Manufacturing] |  abbr  | CAM 
 [fabrikim me ndihmën e 
 kompjuterit] 
-camera (1) n kamerë (televizive, 
+camera (1) |  n  | kamerë (televizive, 
 kinematografike) 
-camera (2) n aparat fotografik 
-camera angle n kënd i kamerës 
+camera (2) |  n  | aparat fotografik 
+camera angle |  n  | kënd i kamerës 
 (virtuale) 
-camera direction n orientim i 
+camera direction |  n  | orientim i 
 kamerës (virtuale) 
-camera position n vendndodhje 
+camera position |  n  | vendndodhje 
 [pozicion] e kamerës (virtuale) 
  camera view point 
-camera view point n kënd i 
+camera view point |  n  | kënd i 
 vrojtimit i kamerës (virtuale) 
-camera-ready adj gatshëm (i) për 
+camera-ready |  adj  | gatshëm (i) për 
 fotografim 
-campuswide information system n 
+campuswide information system |  n  | 
 sistem i informacionit i kampusit (i 
 universitetit) 
-cancel v anuloj 
-cancel (1) v pezulloj 
-cancel (1) n anulim 
-cancel (2) n anulim 
-cancel (2) v anuloj 
-cancel message n mesazh për 
+cancel |  v  | anuloj 
+cancel (1) |  v  | pezulloj 
+cancel (1) |  n  | anulim 
+cancel (2) |  n  | anulim 
+cancel (2) |  v  | anuloj 
+cancel message |  n  | mesazh për 
 anulim 
-cancelbot [Cancel robot] n robot për 
+cancelbot [Cancel robot] |  n  | robot për 
 anulim [program për ndalim të 
 mesazheve të padëshirueshme] 
-cancellation (1) n pezullim 
-cancellation (2) n anulim 
-candela [cd] n kandelë [cd] 
-candidate key n çelës i mundshëm 
+cancellation (1) |  n  | pezullim 
+cancellation (2) |  n  | anulim 
+candela [cd] |  n  | kandelë [cd] 
+candidate key |  n  | çelës i mundshëm 
 ose çelës-kandidat 
-canonical form n formë kanonike 
-capacitance n kapacitet 
-capacitor n kondensator 
-capacity n kapacitet 
-capital letter n shkronjë (germë) e 
+canonical form |  n  | formë kanonike 
+capacitance |  n  | kapacitet 
+capacitor |  n  | kondensator 
+capacity |  n  | kapacitet 
+capital letter |  n  | shkronjë (germë) e 
 madhe 
-caps n shkronja të mëdha 
-capture n kapje [regjistrim i të 
+caps |  n  | shkronja të mëdha 
+capture |  n  | kapje [regjistrim i të 
 dhënave në formë elektronike] 
  
 50
 Cartesian product 
-capture board n pllakë për kapje 
-capture card n kartelë për përkapje 
-carbon copy n kopje 
-carbon ribbon n shirit karbonik 
-card (1) n kartelë ose kartë 
-card (2) n kartelë [pllakë elektronike] 
-card cage n rrjetë për kartela 
-card code n kod i kartës 
-card reader n lexues i kartelave 
-cardinal number n numër themelor 
-careware n keruer [softuer për 
+capture board |  n  | pllakë për kapje 
+capture card |  n  | kartelë për përkapje 
+carbon copy |  n  | kopje 
+carbon ribbon |  n  | shirit karbonik 
+card (1) |  n  | kartelë ose kartë 
+card (2) |  n  | kartelë [pllakë elektronike] 
+card cage |  n  | rrjetë për kartela 
+card code |  n  | kod i kartës 
+card reader |  n  | lexues i kartelave 
+cardinal number |  n  | numër themelor 
+careware |  n  | keruer [softuer për 
 qëllime bamirëse] 
-carriage n sajëz (karrel) [mbajtës i 
+carriage |  n  | sajëz (karrel) [mbajtës i 
 cilindrit] 
-carrier n bartëse (bartës) 
-Carrier Detect n detektim i bartëses 
-carrier frequency n frekuencë 
+carrier |  n  | bartëse (bartës) 
+Carrier Detect |  n  | detektim i bartëses 
+carrier frequency |  n  | frekuencë 
 bartëse 
-carrier signal n sinjal bartës 
-carrier system n sistem i bartëses 
+carrier signal |  n  | sinjal bartës 
+carrier system |  n  | sistem i bartëses 
 (bartësit) 
-carrier wave n valë bartëse 
+carrier wave |  n  | valë bartëse 
 (bartësja) 
-carry v mbart ose bart (një shifër) 
-carry n bartje (e një shifre) 
-carry bit n bit i bartjes 
-carry flag n flamur i bartjes 
-carry out v kryej [bëj; zbatoj] 
-Cartesian coordinates n koordinata 
+carry |  v  | mbart ose bart (një shifër) 
+carry |  n  | bartje (e një shifre) 
+carry bit |  n  | bit i bartjes 
+carry flag |  n  | flamur i bartjes 
+carry out |  v  | kryej [bëj; zbatoj] 
+Cartesian coordinates |  n  | koordinata 
 karteziane 
-capture v përkap [regjistroj të dhënat 
+capture |  v  | përkap [regjistroj të dhënat 
 në formë elektronike] 
-Cartesian product n prodhim 
+Cartesian product |  n  | prodhim 
 kartezian 
  
  cartridge 
  
-cartridge n kasetë [bobinë (shiriti)] 
-cascadable counter n numërues 
+cartridge |  n  | kasetë [bobinë (shiriti)] 
+cascadable counter |  n  | numërues 
 kaskadë 
-cascade n kaskadë 
-cascade v kaskadoj [vë në kaskadë] 
-cascade connection n lidhje kaskadë 
-cascaded list n listë në kaskadë 
-cascaded menu n meny në kaskadë 
-cascading v vënie në kaskadë, 
+cascade |  n  | kaskadë 
+cascade |  v  | kaskadoj [vë në kaskadë] 
+cascade connection |  n  | lidhje kaskadë 
+cascaded list |  n  | listë në kaskadë 
+cascaded menu |  n  | meny në kaskadë 
+cascading |  v  | vënie në kaskadë, 
 mbivendosje 
-cascading choice n opsion në 
+cascading choice |  n  | opsion në 
 kaskadë 
-cascading menu n meny kaskadë 
-cascading style sheets [CSS] n listat 
+cascading menu |  n  | meny kaskadë 
+cascading style sheets [CSS] |  n  | listat 
 kaskadë (ose kaskadike) të stileve 
 [CSS] 
-case (1) n rast 
-case (3) n shtëpizë 
-case (4) n kuti 
+case (1) |  n  | rast 
+case (3) |  n  | shtëpizë 
+case (4) |  n  | kuti 
 CASE [Computer-Aided Software 
-Engineering] abbr CASE 
+Engineering] |  abbr  | CASE 
 [projektimi i softuerit me anë të 
 kompjuterit] 
-case sensitivity n ndjeshmëri në 
+case sensitivity |  n  | ndjeshmëri në 
 shkronja të vogla dhe të mëdha 
-case statement n urdhri "case" 
-case-sensitive search n kërkim duke 
+case statement |  n  | urdhri "case" 
+case-sensitive search |  n  | kërkim duke 
 i dalluar shkronjat e vogla dhe të 
 mëdha 
-cassette n kasetë 
-cassette memory n memorie kasetore 
-cassette storage n memorie kasetore 
+cassette |  n  | kasetë 
+cassette memory |  n  | memorie kasetore 
+cassette storage |  n  | memorie kasetore 
  
 51
 CBL 
-cassette tape n shirit kasete ose shirit 
+cassette tape |  n  | shirit kasete ose shirit 
 me kasetë 
 CAT [Computer-Aided Testing] 
 abbr CAT [testim me anë të 
 kompjuterit] 
-catalog n katalog 
-catalogage n katalogim 
-catalogue n katalog 
-catastrophic error n gabim 
+catalog |  n  | katalog 
+catalogage |  n  | katalogim 
+catalogue |  n  | katalog 
+catastrophic error |  n  | gabim 
 katastrofik 
-catastrophic failure n prishje (ose 
+catastrophic failure |  n  | prishje (ose 
 avari) katastrofike 
-catch v kap (zë) 
-category n kategori 
-catena n bashkëlidhje [zinxhir, varg 
+catch |  v  | kap (zë) 
+category |  n  | kategori 
+catena |  n  | bashkëlidhje [zinxhir, varg 
 elementesh] 
-cathode n katodë 
-cathode screen n ekran katodik 
+cathode |  n  | katodë 
+cathode screen |  n  | ekran katodik 
 cathode-ray oscilloscope n
  osciloskop katodik 
-cathode-ray tube [CRT] n gyp 
+cathode-ray tube [CRT] |  n  | gyp 
 katodik ose gyp me rreze katodike 
 CATV [Community Antenna 
-TeleVision] abbr CATV [televizion 
+TeleVision] |  abbr  | CATV [televizion 
 kabllor] 
 CBEMA [Computer and Business 
 Equipment Manufacturers 
-Association] abbr CBEMA 
+Association] |  abbr  | CBEMA 
 [Shoqata e prodhuesve të 
 kompjuterëve e pajisjeve afariste] 
 CBL [Computer-Based Learning] 
@@ -2947,672 +2917,672 @@ kompjuterit
 CCD [Charge-Coupled Device] 
 abbr CCD [pajisje (ose element) 
 me ngarkesa të çiftuara] 
-CCI [Common Client Inteface] abbr 
+CCI [Common Client Inteface] |  abbr  | 
 CCI [ndërfaqe ose interfejs e 
 përbashkët e klientit] 
 CCITT [Comité Consultatif 
 International Télégraphique et 
-Téléphonique] abbr CCITT 
+Téléphonique] |  abbr  | CCITT 
 [Komiteti këshillëdhënës 
 ndërkombëtar për telegrafi dhe 
 telefoni] 
-CCITT Groups 1-4 n Grupet 1-4 të 
+CCITT Groups 1-4 |  n  | Grupet 1-4 të 
 CCITT-së 
-CCITT V series n Seritë V të 
+CCITT V series |  n  | Seritë V të 
 CCITT-së 
-CCITT X series n Seritë X të 
+CCITT X series |  n  | Seritë X të 
 CCITT-së 
 ccNUMA [cache-coherent Non-
-Uniform Memory Access] abbr 
+Uniform Memory Access] |  abbr  | 
 ccNUMA [kesh koherent për akses 
 jo të njëtrajtshëm memories] 
 CCP [Certifikate in Computer 
-Programming] abbr CCP 
+Programming] |  abbr  | CCP 
 [Certifikatë për programim 
 kompjuterik] 
-CD [Carrier Detect] abbr CD 
+CD [Carrier Detect] |  abbr  | CD 
 [detektim i bartëses ose bartësit] 
-cd [change directory] abbr cd 
+cd [change directory] |  abbr  | cd 
 [ndërrim i direktoriumit] 
-CD [Compact Disk] abbr CD 
+CD [Compact Disk] |  abbr  | CD 
 [kompakt-disk] 
  
 52
 CD-R/W 
-CD burner n regjistrues ose rekorder 
+CD burner |  n  | regjistrues ose rekorder 
 CD 
-CD Plus n CD Plus 
-CD recorder n regjistrues ose 
+CD Plus |  n  | CD Plus 
+CD recorder |  n  | regjistrues ose 
 rekorder CD 
-CD Video n video CD [video 
+CD Video |  n  | video CD [video 
 kompakt-disk] 
 CD-E [Compact Disk Eresable]
- abbr CD-E [kompakt-disk i 
+ |  abbr  | CD-E [kompakt-disk i 
 fshijshëm] 
-cdev [control panel device] abbr 
+cdev [control panel device] |  abbr  | 
 cdev [panel kontrolli] 
-CDFS [CD-ROM File System] abbr 
+CDFS [CD-ROM File System] |  abbr  | 
 CDFS [sistem i fajlave të CD 
 ROM-it] 
 CD-I [Compact Disc-Interactive] 
 abbr CD-I [kompakt-disk 
 ndërveprues (ose interaktiv)] 
 CDP [Certificate in Data Processing]
- abbr CDP [certifikatë në lëmin 
+ |  abbr  | CDP [certifikatë në lëmin 
 e përpunimit të të dhënave] 
 CDPD [Cellurar Digital Packet Data]
- abbr CDPD [dhëna (të) celulare 
+ |  abbr  | CDPD [dhëna (të) celulare 
 digjitale paketore] 
 CD-R [Compact Disc-Recordable] 
 abbr CD-R [kompakt-disk i 
 regjistrueshëm] 
-CD-R machine n regjistrues (ose 
+CD-R machine |  n  | regjistrues (ose 
 rekorder) CD 
 CD-R/E [Compact Disk-Recordable 
-and Erasable] abbr CD-R/E 
+and Erasable] |  abbr  | CD-R/E 
 [kompakt-disk i regjistrueshëm - i 
 fshijshëm] 
-CD-R/W [Read/Write CD] abbr CD 
+CD-R/W [Read/Write CD] |  abbr  | CD 
 e fshijshme dhe e rishkrueshme 
  
  CD-ROM 
 CD-ROM [Compact Disc Read-
-Only-Memory] abbr CD–ROM 
+Only-Memory] |  abbr  | CD–ROM 
 [kompakt-disk ROM] 
-CD-ROM burner n regjistrues CD-
+CD-ROM burner |  n  | regjistrues CD-
 ROM 
-CD-ROM drive n njësi e CD-ROM-
+CD-ROM drive |  n  | njësi e CD-ROM-
 it 
 CD-ROM Extended Architecture 
-[CD-ROM ose XA] n arkitekturë e 
+[CD-ROM ose XA] |  n  | arkitekturë e 
 zgjeruar e CD-ROM-it, CD-ROM 
 ose XA 
-CD-ROM File System [CDFS] n 
+CD-ROM File System [CDFS] |  n  | 
 sistemi i fajlave të CD-ROM-it 
 [CDFS] 
-CD-ROM jukebox n xhuboksi i 
+CD-ROM jukebox |  n  | xhuboksi i 
 CD-ROM-it 
 CD-RW [Compact Disk-Rewritable]
- n kompakt-disk i riregjistrueshëm 
-CD-writer n CD-shkrues 
-cell n qelizë ose celulë 
-cell address n adresë e qelizës 
-cell modem n modem celular 
+ |  n  | kompakt-disk i riregjistrueshëm 
+CD-writer |  n  | CD-shkrues 
+cell |  n  | qelizë ose celulë 
+cell address |  n  | adresë e qelizës 
+cell modem |  n  | modem celular 
 (qelizor) 
-cell reference n reference e qelizës 
-cellular automata n automate 
+cell reference |  n  | reference e qelizës 
+cellular automata |  n  | automate 
 celulare 
-Cellular Digital Packet Data n 
+Cellular Digital Packet Data |  n  | 
 dhëna (të) celulare digjitale 
 paketore 
-cellular phone n telefon celular 
-censorship n censurë 
-censorware n softuer i censurës 
-center n qendër 
-center v qendërzoj (centroj) 
+cellular phone |  n  | telefon celular 
+censorship |  n  | censurë 
+censorware |  n  | softuer i censurës 
+center |  n  | qendër 
+center |  v  | qendërzoj (centroj) 
  
  
 53
 chained file 
-center text v qendërzoj tekstin 
+center text |  v  | qendërzoj tekstin 
 centi pref centi [e qindta] 
-central adj qendror 
-central processing unit n njësia 
+central |  adj  | qendror 
+central processing unit |  n  | njësia 
 qendrore e përpunimit 
-central processing unit [CPU] n 
+central processing unit [CPU] |  n  | 
 procesor qendror [njësi qendrore e 
 përpunimit] 
-central processor n procesor 
+central processor |  n  | procesor 
 qendror 
-centralized processing n përpunim i 
+centralized processing |  n  | përpunim i 
 centralizuar 
-centre n qendër 
-CEO [Chief Executive Officer] abbr 
+centre |  n  | qendër 
+CEO [Chief Executive Officer] |  abbr  | 
 CEO [drejtor i përgjithshëm] 
-ceramic tip pen n penë qeramike 
+ceramic tip pen |  n  | penë qeramike 
 [penë me maje qeramike] 
 CERN [Conseil Européen pour la 
-Recherche Nucléaire] n CERN 
+Recherche Nucléaire] |  n  | CERN 
 [Këshilli Evropian për Kërkime 
 Bërthamore] 
-CERN server n serveri CERN 
-certification n certifikim 
-CFW [Call ForWarding] abbr 
+CERN server |  n  | serveri CERN 
+certification |  n  | certifikim 
+CFW [Call ForWarding] |  abbr  | 
 përcjellje (automatike) e thirrjeve 
 CGI script [Common Gateway 
-Interface script] n skript CGI 
+Interface script] |  n  | skript CGI 
 cgi-bin [Common Gateway 
-Interface-binaries] abbr CGI-bin 
+Interface-binaries] |  abbr  | CGI-bin 
 [fajla binarë për CGI] 
-chain n zinxhir (ose vargua) 
-chain printer n shtypës (ose 
+chain |  n  | zinxhir (ose vargua) 
+chain printer |  n  | shtypës (ose 
 printer) zinxhiror 
-chained file n fajl zinxhir 
+chained file |  n  | fajl zinxhir 
  
  chained list 
-chained list n listë e lidhur 
-chaining n lidhje zinxhirore 
-chalkware n softuer i paralajmëruar 
-change v ndryshoj (ndërroj) 
-change file n fajl i ndërrimeve 
-channel n kanal 
-channel v kanalizoj 
-channel access n akses në kanal 
-channel adapter n përshtatës (ose 
+chained list |  n  | listë e lidhur 
+chaining |  n  | lidhje zinxhirore 
+chalkware |  n  | softuer i paralajmëruar 
+change |  v  | ndryshoj (ndërroj) 
+change file |  n  | fajl i ndërrimeve 
+channel |  n  | kanal 
+channel |  v  | kanalizoj 
+channel access |  n  | akses në kanal 
+channel adapter |  n  | përshtatës (ose 
 adapter) i kanalit 
-channel adaptor n përshtatës (ose 
+channel adaptor |  n  | përshtatës (ose 
 adapter) kanalesh 
-channel capacity n kapacitet i 
+channel capacity |  n  | kapacitet i 
 kanalit 
-channel controller n kontrollues i 
+channel controller |  n  | kontrollues i 
 kanalit 
-channel hop v kalim prej një kanali 
+channel hop |  v  | kalim prej një kanali 
 në tjetrin 
-channel op n operatori i kanalit 
-character n karakter [shenjë grafike: 
+channel op |  n  | operatori i kanalit 
+character |  n  | karakter [shenjë grafike: 
 shkronjë, numër, simbol] 
-character cell n qelizë (ose qeli) e 
+character cell |  n  | qelizë (ose qeli) e 
 karakterit 
-character code n kod i karakterit 
+character code |  n  | kod i karakterit 
 [kod i shenjës grafike] 
-character combine n kombinim i 
+character combine |  n  | kombinim i 
 karaktereve 
-character definition table n tabelë 
+character definition table |  n  | tabelë 
 e përkufizimit të karaktereve 
-character density n dendësi (ose 
+character density |  n  | dendësi (ose 
 densitet) e karaktereve 
-character device n pajisje 
+character device |  n  | pajisje 
 karakteresh 
  
 54
 characters per inch 
-character display n displej 
+character display |  n  | displej 
 karakteresh 
-character generator n gjenerator i 
+character generator |  n  | gjenerator i 
 karaktereve [gj. i shenjave grafike] 
-character image n figurë (ose 
+character image |  n  | figurë (ose 
 fotografi) e karakterit 
-character map n hartë (ose mapë) e 
+character map |  n  | hartë (ose mapë) e 
 karaktereve 
-character mode n mënyrë tekstuale 
+character mode |  n  | mënyrë tekstuale 
 ose mod tekstual 
-character printer n printer ose 
+character printer |  n  | printer ose 
 shtypës i karaktereve [printer 
 alfanumerik] 
-character recognition n njohje e 
+character recognition |  n  | njohje e 
 karaktereve 
-character set n set (ose grumbull) i 
+character set |  n  | set (ose grumbull) i 
 karaktereve 
-character string n largësia e shenjës 
+character string |  n  | largësia e shenjës 
 grafike 
-character style n stil i karaktereve 
-character user interface [CUI] n 
+character style |  n  | stil i karaktereve 
+character user interface [CUI] |  n  | 
 varg (ose string) i karaktereve 
-character width n gjerësi e 
+character width |  n  | gjerësi e 
 karakterit 
-character-based system n sistem i 
+character-based system |  n  | sistem i 
 bazuar në karaktere 
-characteristic n karakteristikë 
-character-oriented protocol n 
+characteristic |  n  | karakteristikë 
+character-oriented protocol |  n  | 
 protokoll me orientim tekstual 
-characters map n hartë e 
+characters map |  n  | hartë e 
 karaktereve 
-characters per inch [CPI] n 
+characters per inch [CPI] |  n  | 
 karaktere për inç 
  characters per line 
-characters per line [CPL] n 
+characters per line [CPL] |  n  | 
 karaktere për rresht 
-characters per second [CPS] n 
+characters per second [CPS] |  n  | 
 karaktere për sekondë 
-charge n ngarkesë (ngarkesë 
+charge |  n  | ngarkesë (ngarkesë 
 elektrike) 
-charge v ngarkoj 
-charge coupled device [CCD] n 
+charge |  v  | ngarkoj 
+charge coupled device [CCD] |  n  | 
 pajisje me ngarkesa të çiftuara 
 [CCD] 
-chart n diagram ose grafik 
-chassis n shasi 
-chat v bisedoj (nëpërmjet internetit) 
-check n kontroll 
-check v kontrolloj 
-check bit n bit kontrollues 
-check digit n numër kontrollues 
-check for error v kontrolloj për 
+chart |  n  | diagram ose grafik 
+chassis |  n  | shasi 
+chat |  v  | bisedoj (nëpërmjet internetit) 
+check |  n  | kontroll 
+check |  v  | kontrolloj 
+check bit |  n  | bit kontrollues 
+check digit |  n  | numër kontrollues 
+check for error |  v  | kontrolloj për 
 gabime 
-check mark n shenjë kontrolli [X] 
-checkbox n kuti për kontroll 
-checked adj kontrolluar (i) 
-checkpoint n pikë kontrolli 
-checksum n shumë kontrolluese 
-cheking n kontrollim 
-chiclet keyboard n tastierë 
+check mark |  n  | shenjë kontrolli [X] 
+checkbox |  n  | kuti për kontroll 
+checked |  adj  | kontrolluar (i) 
+checkpoint |  n  | pikë kontrolli 
+checksum |  n  | shumë kontrolluese 
+cheking |  n  | kontrollim 
+chiclet keyboard |  n  | tastierë 
 minimale 
-child n fëmijë [pasardhës] 
-child directory n nëndirektorium 
-child meny n nënmeny 
-child process n proces pasardhës 
-chimes of doom n sinjal alarmues 
+child |  n  | fëmijë [pasardhës] 
+child directory |  n  | nëndirektorium 
+child meny |  n  | nënmeny 
+child process |  n  | proces pasardhës 
+chimes of doom |  n  | sinjal alarmues 
  
  
 55
 ciphertext 
-chip n çip [qark i integruar] 
-chip label n etiketë e çipit 
-chipset n çipset [grup ose grumbull 
+chip |  n  | çip [qark i integruar] 
+chip label |  n  | etiketë e çipit 
+chipset |  n  | çipset [grup ose grumbull 
 çipash] 
-chipsocket n fole çipi 
-choice device n përzgjedhës 
-choke n induktor 
+chipsocket |  n  | fole çipi 
+choice device |  n  | përzgjedhës 
+choke |  n  | induktor 
 choosev zgjedh 
-Chooser n zgjedhës 
-Chooser extension n zgjerim i 
+Chooser |  n  | zgjedhës 
+Chooser extension |  n  | zgjerim i 
 zgjedhësit 
-chroma n intensiteti i ngjyrës 
+chroma |  n  | intensiteti i ngjyrës 
 [kromë] 
-chromatic color n ngjyrë ngjyrësore 
+chromatic color |  n  | ngjyrë ngjyrësore 
 (kromatike) 
-cicero n cicero [lloj shkronjash] 
+cicero |  n  | cicero [lloj shkronjash] 
 CIFS [Common Internet File 
-System] abbr CIFS[sistem i 
+System] |  abbr  | CIFS[sistem i 
 përbashkët i fajlave të internetit] 
 CIM [Computer-Input from 
-Microfilm] abbr CIM [hyrje 
+Microfilm] |  abbr  | CIM [hyrje 
 mikrofilmike në kompjuter] 
 CIM [Computer-Integrated 
-Manifacturing] abbr CIM 
+Manifacturing] |  abbr  | CIM 
 [prodhimi me integrim të 
 kompjuterit] 
-cipher v shifroj 
-cipher (1) n shifër [kod i fshehtë] 
-cipher (2) n zero [shenja 0] 
-cipher-code n kod shifre 
-ciphering n shifrim [përfshehje, 
+cipher |  v  | shifroj 
+cipher (1) |  n  | shifër [kod i fshehtë] 
+cipher (2) |  n  | zero [shenja 0] 
+cipher-code |  n  | kod shifre 
+ciphering |  n  | shifrim [përfshehje, 
 kriptim] 
-ciphertext n tekst i shifruar 
+ciphertext |  n  | tekst i shifruar 
  
  circle 
-circle n rreth 
-circuit n qark (elektrik) 
-circuit analyzer n analizator i qarkut 
-circuit breaker n ndërprerës i 
+circle |  n  | rreth 
+circuit |  n  | qark (elektrik) 
+circuit analyzer |  n  | analizator i qarkut 
+circuit breaker |  n  | ndërprerës i 
 qarkut 
-circuit card n kartelë e shtypur [e 
+circuit card |  n  | kartelë e shtypur [e 
 stampuar] 
-circuit switched adj me komutim të 
+circuit switched |  adj  | me komutim të 
 qarkut 
-circuit switching n komutim i 
+circuit switching |  n  | komutim i 
 qarqeve ose qarkut 
-circular list n listë qarkore ose 
+circular list |  n  | listë qarkore ose 
 rrethore 
-circular shift n zhvendosje rrethore 
+circular shift |  n  | zhvendosje rrethore 
 CISC [Complex Instruction Set 
-Computing] abbr CISC [llogaritje 
+Computing] |  abbr  | CISC [llogaritje 
 me set të përbërë instruksionesh] 
 CISC [Complex-Instruction-Set-
-Computer] abbr CISC [kompjuter 
+Computer] |  abbr  | CISC [kompjuter 
 me set të përbërë/kompleks të 
 urdhrave] 
-citation n citat 
-city n qyteti 
+citation |  n  | citat 
+city |  n  | qyteti 
 CIX [Commercial Internet 
-Exchange] abbr CIX [Shoqata e 
+Exchange] |  abbr  | CIX [Shoqata e 
 ndërmjetësuesve komercialë për 
 shërbime të internetit] 
-class n klasë 
-Class A network n rrjet i klasës A 
-classic architecture computer n 
+class |  n  | klasë 
+Class A network |  n  | rrjet i klasës A 
+classic architecture computer |  n  | 
 kompjuter me arkitekturë klasike 
-classification n klasifikim 
-clean v pastroj 
+classification |  n  | klasifikim 
+clean |  v  | pastroj 
  
 56
 client-side image maps 
-clean boot n ngritje e pastër 
+clean boot |  n  | ngritje e pastër 
 [inicializim i pastër; aktivizim i 
 pastër] 
-clean install n instalim i pastër 
-clean room n dhomë e pastër 
-clear n fshirje (shlyerje) 
-clear v shlyej 
+clean install |  n  | instalim i pastër 
+clean room |  n  | dhomë e pastër 
+clear |  n  | fshirje (shlyerje) 
+clear |  v  | shlyej 
 clear all ph pastro tërë 
-Clear key n tasti Clear 
-clear list v fshij listën 
-Clear To Send [CTS] n sinjali i 
+Clear key |  n  | tasti Clear 
+clear list |  v  | fshij listën 
+Clear To Send [CTS] |  n  | sinjali i 
 linjës së lirë [CTS] 
-cleartext n tekst i pashifruar 
-click v klikoj [trus tastin e miut] 
-click speed n shpejtësi e klikimit [sh. 
+cleartext |  n  | tekst i pashifruar 
+click |  v  | klikoj [trus tastin e miut] 
+click speed |  n  | shpejtësi e klikimit [sh. 
 e shtypjes së tastit të miut] 
-clickable maps n hartat ose mapat 
+clickable maps |  n  | hartat ose mapat 
 për klikim 
-clicking n klikim [shkrepje] 
-client n klient 
-client application n aplikacion 
+clicking |  n  | klikim [shkrepje] 
+client |  n  | klient 
+client application |  n  | aplikacion 
 klienti 
-client error n gabimi i klientit 
-client program n program klienti 
-client/server architecture n 
+client error |  n  | gabimi i klientit 
+client program |  n  | program klienti 
+client/server architecture |  n  | 
 arkitekturë klient-server 
-client/server computing n 
+client/server computing |  n  | 
 informatikë klient-server 
-client/server networking n rrjet 
+client/server networking |  n  | rrjet 
 klient-server 
-client-side image maps n hartat me 
+client-side image maps |  n  | hartat me 
 figura (ose mapat me fotografi) nga 
 ana e klientit 
  clip art 
-clip art n klipart [bibliotekë e 
+clip art |  n  | klipart [bibliotekë e 
 fotografive të gatshme] 
-clip rectangle n drejtkëndësh i 
+clip rectangle |  n  | drejtkëndësh i 
 prerjes 
-clipboard n klipboard ose 
+clipboard |  n  | klipboard ose 
 letërmbajtëse [memorie e 
 përkohshme] 
-Clipper Chip n çipi kliper 
-clipping n prerje 
-clipping algorithm n algoritëm i 
+Clipper Chip |  n  | çipi kliper 
+clipping |  n  | prerje 
+clipping algorithm |  n  | algoritëm i 
 prerjes 
-clipping path n shteg (ose rrugë) i 
+clipping path |  n  | shteg (ose rrugë) i 
 prerjes 
-clipping plan n rrafsh i prerjes 
-clock (1) n takt 
-clock (2) n gjenerator i taktit 
-clock (3) n orë [sahat] 
-clock doubling n dyfishim i 
+clipping plan |  n  | rrafsh i prerjes 
+clock (1) |  n  | takt 
+clock (2) |  n  | gjenerator i taktit 
+clock (3) |  n  | orë [sahat] 
+clock doubling |  n  | dyfishim i 
 dendurisë (ose frekuencës) së taktit 
-clock pulse n impuls i taktit 
-clock rate n denduri (ose frekuencë) 
+clock pulse |  n  | impuls i taktit 
+clock rate |  n  | denduri (ose frekuencë) 
 e taktit 
-clock speed n shpejtësi [denduri ose 
+clock speed |  n  | shpejtësi [denduri ose 
 frekuencë] e taktit 
-clock tick n impuls i taktit 
-clock/calendar n ora-kalendari 
-clocking n sinkronizim 
+clock tick |  n  | impuls i taktit 
+clock/calendar |  n  | ora-kalendari 
+clocking |  n  | sinkronizim 
 clockwise adv orar [në drejtim të 
 akrepave të orës] 
-clockwise rotation n rrotullim orar 
+clockwise rotation |  n  | rrotullim orar 
 [në drejtim të akrepave të orës] 
-clone n klon [kompjuter kopje 
+clone |  n  | klon [kompjuter kopje 
 identike] 
  
  
 57
 co- 
-close v mbyll 
-close n mbyllje 
-close v mbyll 
-close box n ikonë për mbyllje 
-close button n butoni (ose pulla) për 
+close |  v  | mbyll 
+close |  n  | mbyllje 
+close |  v  | mbyll 
+close box |  n  | ikonë për mbyllje 
+close button |  n  | butoni (ose pulla) për 
 mbyllje 
-close file v mbyll fajlin 
-close last session v shkyç sesionin e 
+close file |  v  | mbyll fajlin 
+close last session |  v  | shkyç sesionin e 
 fundit 
-closed adj mbyllur (i) 
-closed file n fajl i mbyllur 
-closed loop n lak i mbyllur 
-closed system n sistem i mbyllur 
-closest match n përputhje më e mirë 
-CLUT [Color LookUp Table] abbr 
+closed |  adj  | mbyllur (i) 
+closed file |  n  | fajl i mbyllur 
+closed loop |  n  | lak i mbyllur 
+closed system |  n  | sistem i mbyllur 
+closest match |  n  | përputhje më e mirë 
+CLUT [Color LookUp Table] |  abbr  | 
 tabelë e ngjyrave 
 CMOS [Complementary Metal 
-Oxide Semiconductor] n CMOS 
+Oxide Semiconductor] |  n  | CMOS 
 [metal-oksid-gjysmëpërçues 
 komplementar] 
 CMOS [Complementary Metal-
-Oxide Semiconductor] abbr 
+Oxide Semiconductor] |  abbr  | 
 CMOS [metal-oksid gjysmëpërçues 
 komplementar] 
 CMS [color management system] 
 abbr CMS [sistem i menaxhimit të 
 ngjyrave] 
-CMY [Cyan-Magenta-Yellow] abbr 
+CMY [Cyan-Magenta-Yellow] |  abbr  | 
 CMY [e kaltër-e kuqe-e verdhë] 
 CMYK [Cyan-Magenta-Yellow-
-Black] abbr CMYK [e kaltër-e 
+Black] |  abbr  | CMYK [e kaltër-e 
 kuqe-e verdhë-e zezë] 
 co- pref bashkë- 
  Coax 
-Coax [COAXial cable] n koaks 
+Coax [COAXial cable] |  n  | koaks 
 [kabëll koaksial] 
-coaxial cable n kabëll koaksial 
+coaxial cable |  n  | kabëll koaksial 
 COBOL [COmmon Business-
-Oriented Language] abbr COBOL 
+Oriented Language] |  abbr  | COBOL 
 [gjuhë programuese; gjuhë e 
 përgjithshme e orientuar në biznes] 
-cobweb site n sajt [vendndodhje] i 
+cobweb site |  n  | sajt [vendndodhje] i 
 vjetruar 
 CODASYL [Conference on Data 
-Systems Languages] abbr 
+Systems Languages] |  abbr  | 
 CODASYL [Konferenca për gjuhët 
 e sistemeve të të dhënave] 
-code n kod 
-code v kodoj 
-code base n bazë e kodit 
-code converter n shndërrues (ose 
+code |  n  | kod 
+code |  v  | kodoj 
+code base |  n  | bazë e kodit 
+code converter |  n  | shndërrues (ose 
 konvertues) i kodit 
-code hiding n fshehje e kodit 
-code length n gjatësi e kodit 
-code page n faqe e kodit 
-code segment n segment i kodit 
-code snippet n pjesë e kodit 
-code word n fjalë kodi 
-codec [coder ose decoder] n kodek 
+code hiding |  n  | fshehje e kodit 
+code length |  n  | gjatësi e kodit 
+code page |  n  | faqe e kodit 
+code segment |  n  | segment i kodit 
+code snippet |  n  | pjesë e kodit 
+code word |  n  | fjalë kodi 
+codec [coder ose decoder] |  n  | kodek 
 [kodues-dekodues] 
-coded image n figurë e koduar 
-coder n kodues 
+coded image |  n  | figurë e koduar 
+coder |  n  | kodues 
 coder ose decoder [CODEC] n
  kodues-dekodues 
-coding n kodim 
-coding form n formular për kodim 
+coding |  n  | kodim 
+coding form |  n  | formular për kodim 
 [programim] 
  
  
 58
 color management 
-codivizion n bashkëndarje 
-coefficient n koeficient 
-coercion n shndërrim (ose 
+codivizion |  n  | bashkëndarje 
+coefficient |  n  | koeficient 
+coercion |  n  | shndërrim (ose 
 konvertim) i tipave 
-coherence n koherencë 
-cohesion n kohezion [tërheqje 
+coherence |  n  | koherencë 
+cohesion |  n  | kohezion [tërheqje 
 reciproke] 
-coil n bobinë 
-cold fault n gabim në gjendje të 
+coil |  n  | bobinë 
+cold fault |  n  | gabim në gjendje të 
 ftohtë 
-cold link n lidhje e ftohtë 
-collaborative filtering n filtrim 
+cold link |  n  | lidhje e ftohtë 
+collaborative filtering |  n  | filtrim 
 bashkëpunues 
-collect v mbledh [grumbulloj] 
-collector n kolektor 
-co-locate v bashkëlokalizoj 
-co-location n bashkëlokalizim 
-colon [ : ] n dy pika [ : ] 
-color n ngjyrë 
-color bits n bitet e ngjyrës 
-color box n paletë me ngjyra 
-color burst n impuls i sinkronizimit 
+collect |  v  | mbledh [grumbulloj] 
+collector |  n  | kolektor 
+co-locate |  v  | bashkëlokalizoj 
+co-location |  n  | bashkëlokalizim 
+colon [ : ] |  n  | dy pika [ : ] 
+color |  n  | ngjyrë 
+color bits |  n  | bitet e ngjyrës 
+color box |  n  | paletë me ngjyra 
+color burst |  n  | impuls i sinkronizimit 
 të sinjalit të ngjyrës 
-color coding n kodim i ngjyrave 
-color cycling n ndërrim ciklik i 
+color coding |  n  | kodim i ngjyrave 
+color cycling |  n  | ndërrim ciklik i 
 ngjyrës 
-color display n ekran me ngjyra 
-color look-up table n tabela e 
+color display |  n  | ekran me ngjyra 
+color look-up table |  n  | tabela e 
 ngjyrave 
-color management n menaxhim i 
+color management |  n  | menaxhim i 
 ngjyrave 
  color management system 
  
-color management system n sistem 
+color management system |  n  | sistem 
 i menaxhimit të ngjyrave 
-color model n model i ngjyrave 
-color monitor n monitor me ngjyra 
+color model |  n  | model i ngjyrave 
+color monitor |  n  | monitor me ngjyra 
 Color ose Graphics Adapter n
  përshtatës (ose adapter) grafik me 
 ngjyra 
-color palette n paletë (tabelë) e 
+color palette |  n  | paletë (tabelë) e 
 ngjyrave 
-color plane n rrafsh i ngjyrave 
-color printer n printer (ose shtypës) 
+color plane |  n  | rrafsh i ngjyrave 
+color printer |  n  | printer (ose shtypës) 
 me ngjyra 
-color saturation n ngopje e ngjyrave 
-color scanner n skaner me ngjyra 
-color screen n ekran me ngjyra 
-color separation n tabelë e ngjyrave 
-color space n hapësirë ngjyrash 
+color saturation |  n  | ngopje e ngjyrave 
+color scanner |  n  | skaner me ngjyra 
+color screen |  n  | ekran me ngjyra 
+color separation |  n  | tabelë e ngjyrave 
+color space |  n  | hapësirë ngjyrash 
 [hapësirë kromatike] 
-color table n tabelë e ngjyrave 
-colorimeter n kolorimetër 
-colorimetry n kolorimetri 
-coloring n ngjyrosje 
-colorization n ngjyrëzim 
-colour n ngjyrë 
-colour depth n thellësi e ngjyrës 
-colour graphics adapter [CGA] n 
+color table |  n  | tabelë e ngjyrave 
+colorimeter |  n  | kolorimetër 
+colorimetry |  n  | kolorimetri 
+coloring |  n  | ngjyrosje 
+colorization |  n  | ngjyrëzim 
+colour |  n  | ngjyrë 
+colour depth |  n  | thellësi e ngjyrës 
+colour graphics adapter [CGA] |  n  | 
 përshtatës (ose adapter) i grafikës 
 me ngjyra 
-colour monitor n monitor me 
+colour monitor |  n  | monitor me 
 ngjyra 
-colour printer n shtypës (ose 
+colour printer |  n  | shtypës (ose 
 printer) me ngjyra 
-colour saturation n ngopje e ngjyrës 
+colour saturation |  n  | ngopje e ngjyrës 
  
 59
 combinatorial explosion 
-column n kolonë ose shtyllë 
-column break n ndërprerje kolone 
-column chart n diagram me kolona 
+column |  n  | kolonë ose shtyllë 
+column break |  n  | ndërprerje kolone 
+column chart |  n  | diagram me kolona 
 (ose shtylla) 
-column heading n kokë e (ose krye 
+column heading |  n  | kokë e (ose krye 
 i) kolonës 
-column width n gjerësi e kolonës 
+column width |  n  | gjerësi e kolonës 
 COM [Computer-Output on 
-Microfilm] abbr COM [mikrofilm 
+Microfilm] |  abbr  | COM [mikrofilm 
 dalës nga kompjuteri] 
-COM port n port COM [port 
+COM port |  n  | port COM [port 
 komunikues] 
-COM recorder n regjistrues (ose 
+COM recorder |  n  | regjistrues (ose 
 rekorder) COM [rekorder i 
 mikrofilmit dalës nga kompjuteri] 
-COM1 abbr COM1 [porti 
+COM1 |  abbr  | COM1 [porti 
 komunikues serik 1] 
-COM2 abbr COM2 [porti 
+COM2 |  abbr  | COM2 [porti 
 komunikues serik 2] 
-COM3 abbr COM3 [porti 
+COM3 |  abbr  | COM3 [porti 
 komunikues serik 3] 
-combination n kombinim 
-combination box n kuti 
+combination |  n  | kombinim 
+combination box |  n  | kuti 
 kombinimesh 
-combinational adj kombinatorik 
-combinational logic circuit n qark 
+combinational |  adj  | kombinatorik 
+combinational logic circuit |  n  | qark 
 logjik kombinatorik (ose 
 kombinues) 
-combinational logic network n 
+combinational logic network |  n  | 
 rrjet logjik kombinatorik (ose 
 kombinues) 
-combinatorial explosion n 
+combinatorial explosion |  n  | 
 shpërthim (ose eksplozion) 
 kombinatorik 
  combinatorics 
-combinatorics n kombinatorikë 
-combine v kombinoj 
-combine files v kombinoj fajlat 
-combined adj kombinuar (i) 
-combined addressing mode n 
+combinatorics |  n  | kombinatorikë 
+combine |  v  | kombinoj 
+combine files |  v  | kombinoj fajlat 
+combined |  adj  | kombinuar (i) 
+combined addressing mode |  n  | 
 mënyrë e (ose mod i) kombinuar e/i 
 adresimit 
-COMDEX abbr COMDEX 
+COMDEX |  abbr  | COMDEX 
 Comité Consultatif International 
 Télégraphique et Téléphonique 
-[CCITT] [fr.] n Komiteti 
+[CCITT] [fr.] |  n  | Komiteti 
 këshillëdhënës ndërkombëtar për 
 telegrafi dhe telefoni [CCITT] 
-comm port n port COM [port 
+comm port |  n  | port COM [port 
 komunikues] 
-comma [ , ] n presje [ , ] 
-comma operator n operatori presje 
-comma separated adj ndarë (i) me 
+comma [ , ] |  n  | presje [ , ] 
+comma operator |  n  | operatori presje 
+comma separated |  adj  | ndarë (i) me 
 presje 
-comma separated values n vlera 
+comma separated values |  n  | vlera 
 të ndara me presje 
-command n komandë 
-command v komandoj 
-command buffer n bufer 
+command |  n  | komandë 
+command |  v  | komandoj 
+command buffer |  n  | bufer 
 [ndërmemorie] i komandës 
-command button n buton 
+command button |  n  | buton 
 komandues ose pullë komanduese 
-command file n fajl i komandave 
-command file processor n procesor 
+command file |  n  | fajl i komandave 
+command file processor |  n  | procesor 
 i fajlit të komandave 
-command interpreter n interpret 
+command interpreter |  n  | interpret 
 (ose interpreter) i komandave 
-Command key n tasti Command 
+Command key |  n  | tasti Command 
  
  
 60
 common 
-command language n gjuhë e 
+command language |  n  | gjuhë e 
 komandave 
-command line n rresht i komandës 
-command line interpreter n 
+command line |  n  | rresht i komandës 
+command line interpreter |  n  | 
 interpret (ose interpreter )i rreshtit 
 me komanda 
-command mode n mënyrë e (ose 
+command mode |  n  | mënyrë e (ose 
 mod i) komandës 
-command processor n procesor i 
+command processor |  n  | procesor i 
 urdhrave [komandave] 
-command state n gjendje e 
+command state |  n  | gjendje e 
 komandës 
-command window n dritare e 
+command window |  n  | dritare e 
 urdhrave 
-COMMAND.COM abbr 
+COMMAND.COM |  abbr  | 
 COMMAND.COM [interpretues i 
 komandave] 
-command-line interface n ndërfaqe 
+command-line interface |  n  | ndërfaqe 
 me rreshtin e komandës 
-comment n koment 
-comment v komentoj 
-comment field n fushë e komentit 
-comment out v bllokim me koment 
-commerce server n server tregtar 
-commercial access provider n 
+comment |  n  | koment 
+comment |  v  | komentoj 
+comment field |  n  | fushë e komentit 
+comment out |  v  | bllokim me koment 
+commerce server |  n  | server tregtar 
+commercial access provider |  n  | 
 provajder (ose ndërmjetësues) për 
 akses komercial 
 Commercial Internet Exchange 
-[CIX] n Shoqata e ndërmjetësuesve 
+[CIX] |  n  | Shoqata e ndërmjetësuesve 
 komercial për shërbime të internetit 
 [CIX] 
-committee n komitet ose komision 
-common (1) adj përbashkët (i) 
+committee |  n  | komitet ose komision 
+common (1) |  adj  | përbashkët (i) 
  common 
-common (2) adj përbashkët (i); 
+common (2) |  adj  | përbashkët (i); 
 përgjithshëm (i) ose universal 
-Common Access Method [CAM] n 
+Common Access Method [CAM] |  n  | 
 metodë e aksesit të përbashkët 
 common buiseness oriented 
-language [COBOL] n gjuha Kobol 
+language [COBOL] |  n  | gjuha Kobol 
 [COBOL: gjuhë universale e 
 orientuar në biznes 
-Common Client Interface n 
+Common Client Interface |  n  | 
 ndërfaqe e (ose interfejs i) 
 përbashkët e klientit 
-Common Internet File System n 
+Common Internet File System |  n  | 
 sistemi i përbashkët i fajlave të 
 internetit 
-common word dictionary n fjalor i 
+common word dictionary |  n  | fjalor i 
 fjalëve më të shpeshta 
-communicate v komunikoj 
-communication (1) n komunikim 
-communication (2) n komunikatë 
-communication link n lidhje e 
+communicate |  v  | komunikoj 
+communication (1) |  n  | komunikim 
+communication (2) |  n  | komunikatë 
+communication link |  n  | lidhje e 
 komunikimit 
-communication network n rrjet i 
+communication network |  n  | rrjet i 
 telekomunikacionit 
-communication protocol n protokoll 
+communication protocol |  n  | protokoll 
 i komunikimit [protokoll i 
 transmetimit] 
-communication server n server i 
+communication server |  n  | server i 
 komunikacionit 
-communications n komunikime 
+communications |  n  | komunikime 
 Communications Act of 1934 n
  Ligji mbi komunikimet i vitit 
 1934 
@@ -3622,147 +3592,147 @@ communications buffern bufer
  
 61
 communications system 
-communications card n kartelë 
+communications card |  n  | kartelë 
 komunikimi 
-communications channel n kanal 
+communications channel |  n  | kanal 
 komunikues 
-communications controller n 
+communications controller |  n  | 
 kontrollues i komunikimeve 
-communications interface n 
+communications interface |  n  | 
 ndërfaqe (ose interfejs) komunikimi 
-communications link n lidhje 
+communications link |  n  | lidhje 
 komunikuese 
-communications network n rrjet 
+communications network |  n  | rrjet 
 komunikimi (ose komunikues) 
-communications parameter n 
+communications parameter |  n  | 
 parametër i komunikimeve 
-communications port n port 
+communications port |  n  | port 
 komunikimi (ose komunikues) 
-communications processor n 
+communications processor |  n  | 
 procesor i komunikimeve ose 
 komunikues 
-communications program n 
+communications program |  n  | 
 program i komunikimeve (ose 
 komunikues) 
-communications protocol n 
+communications protocol |  n  | 
 protokoll i komunikimeve 
-communications satellite n satelit i 
+communications satellite |  n  | satelit i 
 komunikimeve 
 communications servern server i 
 komunikimeve 
-communications slot n slot i 
+communications slot |  n  | slot i 
 komunikimeve (ose komunikues) 
-communications software n softuer 
+communications software |  n  | softuer 
 komunikimi 
-communications system n sistem 
+communications system |  n  | sistem 
 komunikimi (ose komunikues) 
  Communications Terminal 
 Communications Terminal 
-Protocol n protokoll i 
+Protocol |  n  | protokoll i 
 komunikimeve ose komunikues i 
 terminalit 
-community n bashkësi (komunitet) 
+community |  n  | bashkësi (komunitet) 
 community antenna televizion 
-[CATV] n televizion kabllor 
-commutative group n grup 
+[CATV] |  n  | televizion kabllor 
+commutative group |  n  | grup 
 komutativ 
-commutative law n ligj komutativ 
+commutative law |  n  | ligj komutativ 
 commutative operationn veprim ose 
 operacion komutativ 
-commutator n komutator 
-compact disc [CD] n disk kompakt 
+commutator |  n  | komutator 
+compact disc [CD] |  n  | disk kompakt 
 ose kompakt-disk [CD] 
-compact disc-erasable n kompakt-
+compact disc-erasable |  n  | kompakt-
 disk i fshijshëm 
-compact disc-interactive n 
+compact disc-interactive |  n  | 
 kompakt-disk ndërveprues ose 
 interaktiv 
 compact disc-recordable and 
-erasable adj kompakt-disk i 
+erasable |  adj  | kompakt-disk i 
 regjistrueshëm dhe i fshijshëm 
-compact disc-rewritable n 
+compact disc-rewritable |  n  | 
 kompakt-disk i riregjistrueshëm 
-compact model n model kompakt 
-compacting algorithm n algoritëm i 
+compact model |  n  | model kompakt 
+compacting algorithm |  n  | algoritëm i 
 ngjeshjes 
-compaction n ngjeshje 
-companion viruses n viruse 
+compaction |  n  | ngjeshje 
+companion viruses |  n  | viruse 
 shoqëruese 
-company n kompani (firmë) ose 
+company |  n  | kompani (firmë) ose 
 shoqëri 
  
  
 62
 complement 
-comparator n krahasor 
+comparator |  n  | krahasor 
 [komparator, krahasues] 
-compare v krahasoj 
-compare instruction n urdhër 
+compare |  v  | krahasoj 
+compare instruction |  n  | urdhër 
 krahasimi 
 compare instruction immediate 
-addresing n urdhër krahasimi me 
+addresing |  n  | urdhër krahasimi me 
 adresim të drejtpërdrejtë 
 compare instruction register 
-addresing n urdhër krahasimi me 
+addresing |  n  | urdhër krahasimi me 
 adresim regjistri 
-comparison n krahasim 
+comparison |  n  | krahasim 
 compatibilityn pajtueshmëri 
 compatibilityn përputhshmëri 
-compatible adj pajtueshëm (i) 
+compatible |  adj  | pajtueshëm (i) 
 [kompatibël] 
-compilation n kompilim 
-compile v kompiloj ose përkthej 
-compile phase n fazë kompilimi 
-compile time n kohë e kompilimit 
-compile-and-go v kompilo dhe 
+compilation |  n  | kompilim 
+compile |  v  | kompiloj ose përkthej 
+compile phase |  n  | fazë kompilimi 
+compile time |  n  | kohë e kompilimit 
+compile-and-go |  v  | kompilo dhe 
 ekzekuto 
-compiled language n gjuhë e 
+compiled language |  n  | gjuhë e 
 kompiluar 
-compiler n kompilues ose 
+compiler |  n  | kompilues ose 
 kompilator ose kompiler 
 [përkthyes] 
-compiler construction n 
+compiler construction |  n  | 
 konstruktim ose konstruktesë 
 [ndërtim] e kompiluesit 
-compiler diagnostics n diagnostikë 
+compiler diagnostics |  n  | diagnostikë 
 e kompiluesit 
-complement n komplement ose 
+complement |  n  | komplement ose 
 plotësues 
  complement accumulator 
 complement accumulator 
-instruction n urdhër i 
+instruction |  n  | urdhër i 
 komplementimit të akumulatorit 
-complement carry instruction n 
+complement carry instruction |  n  | 
 urdhër i komplementimit të 
 flamurit të mbartjes 
-complement instruction n urdhër 
+complement instruction |  n  | urdhër 
 komplementimi 
-complementary adj komplementar 
+complementary |  adj  | komplementar 
 [plotësues] 
-complementary color n ngjyrë 
+complementary color |  n  | ngjyrë 
 komplementare 
 complementary metal oxide 
-semiconductor [CMOS] n metal-
+semiconductor [CMOS] |  n  | metal-
 oksid-gjysmëpërçues 
 komplementar [CMOS] 
 complementary metal-oxide 
-semiconductor [CMOS] n metal-
+semiconductor [CMOS] |  n  | metal-
 oksid-gjysmëpërçues 
 komplementar [CMOS] 
-complementary MOS [CMOS] n 
+complementary MOS [CMOS] |  n  | 
 metal-oksid-gjysmëpërçues 
 komplementar [CMOS] 
-complementary operation n veprim 
+complementary operation |  n  | veprim 
 plotësues ose operacion 
 komplementar 
-complementig n komplementim 
+complementig |  n  | komplementim 
 complex instruction set computer 
-[CISC] n CISC [kompjuter me set 
+[CISC] |  n  | CISC [kompjuter me set 
 kompleks (ose të përbërë) të 
 instruksioneve] 
-complex number n numër 
+complex number |  n  | numër 
 kompleks 
-component n përbërës 
+component |  n  | përbërës 
  
  
 63
@@ -3770,179 +3740,179 @@ computational eror
 Component Object Model [COM] 
 n modeli objekt i komponenteve 
 [COM] 
-composite document n dokument 
+composite document |  n  | dokument 
 i përbërë 
-composite key n tast i përbërë 
-composite video display n 
+composite key |  n  | tast i përbërë 
+composite video display |  n  | 
 videodisplej i përbërë 
-compound adj kombinuar (i) 
-comprehensive adj plotë (i), 
+compound |  adj  | kombinuar (i) 
+comprehensive |  adj  | plotë (i), 
 tërësor, gjithëpërfshirës 
-compress v ngjesh ose komprimoj 
-compressed adj ngjeshur (i) ose 
+compress |  v  | ngjesh ose komprimoj 
+compressed |  adj  | ngjeshur (i) ose 
 kompresuar (i) 
-compressed disk n disk i ngjeshur 
+compressed disk |  n  | disk i ngjeshur 
 (ose komprimuar) 
-compressed drive n njësi e ngjeshur 
+compressed drive |  n  | njësi e ngjeshur 
 (ose komprimuar) e diskut 
-compressed file n fajl i ngjeshur 
+compressed file |  n  | fajl i ngjeshur 
 (ose komprimuar) 
-compression n ngjeshje ose 
+compression |  n  | ngjeshje ose 
 kompresion 
-compression algorithm n algoritëm i 
+compression algorithm |  n  | algoritëm i 
 ngjeshjes [i kompresionit] 
-compression rate n shkallë e 
+compression rate |  n  | shkallë e 
 ngjeshjes (ose kompresionit) 
-compressor n ngjeshës ose 
+compressor |  n  | ngjeshës ose 
 kompresor 
-CompuServe n KompuServ [emri i 
+CompuServe |  n  | KompuServ [emri i 
 një serveri amerikan] 
-computable adj llogaritshëm (i) 
-computation n llogaritje 
-computational eror n gabim i 
+computable |  adj  | llogaritshëm (i) 
+computation |  n  | llogaritje 
+computational eror |  n  | gabim i 
 llogaritjes 
  computational linguistics 
  
-computational linguistics n gjuhësi 
+computational linguistics |  n  | gjuhësi 
 64
 kompjuterike 
-computation-bound adj kufi i 
+computation-bound |  adj  | kufi i 
 llogaritjes 
-compute (1) v llogaris 
-compute (2) v përpunoj në 
+compute (1) |  v  | llogaris 
+compute (2) |  v  | përpunoj në 
 kompjuter 
-computer n kompjuter 
-computer aided design [CAD] n 
+computer |  n  | kompjuter 
+computer aided design [CAD] |  n  | 
 dizanjim me kompjuter [CAD] 
-computer aided drafting [CAD] n 
+computer aided drafting [CAD] |  n  | 
 skicim me anë të kompjuterit 
 [CAD] 
-computer aided drawing [CAD] n 
+computer aided drawing [CAD] |  n  | 
 vizatim me anë të kompjuterit 
 [CAD] 
 computer aided instruction [CAI] 
 n udhëzim përmes kompjuterit 
 [CAI] 
-computer aided learning [CAL] n 
+computer aided learning [CAL] |  n  | 
 mësim përmes kompjuterit [CAL] 
 computer aided manufacturing 
-[CAM] n fabrikim (prodhim) 
+[CAM] |  n  | fabrikim (prodhim) 
 përmes kompjuterit [CAM] 
 Computer and Business 
 Equipment Manufacturers 
-Association [CBEMA] n Shoqata 
+Association [CBEMA] |  n  | Shoqata 
 e prodhuesve të kompjuterëve dhe 
 pajisjeve afariste [CBEMA] 
-computer animation n animacion 
+computer animation |  n  | animacion 
 me kompjuter 
-computer architecture n arkitekturë 
+computer architecture |  n  | arkitekturë 
 e kompjuterit 
-computer art n art kompjuterik 
+computer art |  n  | art kompjuterik 
  
 computer graphics 
-computer assisted design [CAD] n 
+computer assisted design [CAD] |  n  | 
 projektim (ose dizajnim) me 
 ndihmën e kompjuterit [CAD] 
 computer assisted manufacturing 
-[CAM] n prodhim ose fabrikim me 
+[CAM] |  n  | prodhim ose fabrikim me 
 ndihmën e kompjuterit [CAM] 
-computer based learning [CBL] n 
+computer based learning [CBL] |  n  | 
 mësimi i bazuar në kompjuter 
 [CBL] 
-computer buff n tifoz kompjuteri 
+computer buff |  n  | tifoz kompjuteri 
 [kompjuterdashës] 
-computer cartography n hartografi 
+computer cartography |  n  | hartografi 
 kompjuterike 
-computer center n qendër 
+computer center |  n  | qendër 
 kompjuterike 
-computer conferencing n 
+computer conferencing |  n  | 
 konferencim me kompjuter 
 [telekonferencë kompjuterike] 
-computer console n konsol 
+computer console |  n  | konsol 
 kompjuteri [panel komandimi i 
 kompjuterit] 
-computer control console n 
+computer control console |  n  | 
 konsol kontrollues i kompjuterit 
-computer crime n krim kompjuterik 
-computer disaster n fatkeqësi 
+computer crime |  n  | krim kompjuterik 
+computer disaster |  n  | fatkeqësi 
 kompjuterike (informatike) 
-computer engineer n inxhinier 
+computer engineer |  n  | inxhinier 
 kompjuterësh 
-computer engineering n 
+computer engineering |  n  | 
 inxhiniering kompjuterik 
-computer family n familje 
+computer family |  n  | familje 
 kompjuterësh 
-computer game n lojë kompjuterike 
-computer graphics n grafikë 
+computer game |  n  | lojë kompjuterike 
+computer graphics |  n  | grafikë 
 kompjuterike [infografi] 
  Computer Graphics Metafile 
 Computer Graphics Metafile 
-[CGM] n metafajl i grafikës 
+[CGM] |  n  | metafajl i grafikës 
 kompjuterike [CGM] 
-computer instruction (1) n 
+computer instruction (1) |  n  | 
 instruksion kompjuterik 
-computer instruction (2) n mësim 
+computer instruction (2) |  n  | mësim 
 kompjuterik 
-computer interface unit n ndërfaqe 
+computer interface unit |  n  | ndërfaqe 
 (ose interfejs) kompjuterike 
-computer jargon n zhargon i 
+computer jargon |  n  | zhargon i 
 kompjuterikës 
-computer monitoring n 
+computer monitoring |  n  | 
 monitorim kompjuterik 
-computer name n emri i kompjuterit 
-computer network n rrjet 
+computer name |  n  | emri i kompjuterit 
+computer network |  n  | rrjet 
 kompjuterik 
-computer power n fuqi e kompjuterit 
+computer power |  n  | fuqi e kompjuterit 
 Computer Press Association [CPA]
- n Shoqata e botuesve të shtypit 
+ |  n  | Shoqata e botuesve të shtypit 
 kompjuterik 
-computer program n program 
+computer program |  n  | program 
 kompjuterik 
-computer programmer n 
+computer programmer |  n  | 
 programues kompjuterik 
-computer revolution n revolucion 
+computer revolution |  n  | revolucion 
 kompjuterik 
-computer sciences n shkenca 
+computer sciences |  n  | shkenca 
 kompjuterike 
-computer simulation n simulim 
+computer simulation |  n  | simulim 
 kompjuterik 
-computer system n sistem 
+computer system |  n  | sistem 
 kompjuterik 
 computer telephone integration 
-[CTI] n integrim kompjuter-telefon 
+[CTI] |  n  | integrim kompjuter-telefon 
  
  
 65
 computer-assisted teaching 
-computer users' group n grup i 
+computer users' group |  n  | grup i 
 përdoruesve të kompjuterit 
-computer virus n virus kompjuteri 
-computer vision n vizion [vizionikë: 
+computer virus |  n  | virus kompjuteri 
+computer vision |  n  | vizion [vizionikë: 
 shikim, vështrim kompjuterik] 
-computer-aided design n projektim 
+computer-aided design |  n  | projektim 
 me anë të kompjuterit [CAD] 
 computer-aided design and 
-drafting [CADD] n projektim dhe 
+drafting [CADD] |  n  | projektim dhe 
 planifikimi me anë të kompjuterit 
 [CADD] 
 computer-aided engineering [CAE]
- n inxhiniering me anë të 
+ |  n  | inxhiniering me anë të 
 kompjuterit [CAE] 
 computer-aided instruction [CAI] 
 n udhëzim (i nxënësve) nëpërmjet 
 kompjuterit [CAI] 
 computer-aided manufacturing 
-[CAM] n prodhim me anë të 
+[CAM] |  n  | prodhim me anë të 
 kompjuterit [CAM] 
-computer-aided testing [CAT] n 
+computer-aided testing [CAT] |  n  | 
 testim me anë të kompjuterit [CAT] 
-computer-assisted diagnosis n 
+computer-assisted diagnosis |  n  | 
 dijagnostikë kompjuterike 
 computer-assisted instruction 
-[CAI] n aftësim nëpërmjet 
+[CAI] |  n  | aftësim nëpërmjet 
 kompjuterit [CAI] 
 computer-assisted instruction 
-[CAI] n udhëzim (i nxënësve) 
+[CAI] |  n  | udhëzim (i nxënësve) 
 nëpërmjet kompjuterit [CAI] 
 computer-assisted learning [CAL] 
 n mësim me anë të kompjuterit 
@@ -3953,463 +3923,463 @@ kompjuterit [CAT]
 conditional branch 
  computer-based learning 
 66
-computer-based learning [CBL] n 
+computer-based learning [CBL] |  n  | 
  
 mësim i bazuar në kompjuter 
 [CBL] 
-computer-based training n trajnim 
+computer-based training |  n  | trajnim 
 me kompjuter [CBT] 
-computer-dependent adj varur (i) 
+computer-dependent |  adj  | varur (i) 
 nga kompjuteri 
-computer-independent language n 
+computer-independent language |  n  | 
 gjuhë e pavarur nga kompjuteri 
-computer-input microfilm [CIM] n 
+computer-input microfilm [CIM] |  n  | 
 hyrje mikrofilmike në kompjuter 
 [CIM] 
 computer-integrated 
-manufacturing [CIM] n prodhimi 
+manufacturing [CIM] |  n  | prodhimi 
 me integrim të kompjuterit CIM 
-computerization n kompjuterizim 
-computerize n kompjuterizoj 
-computerized axial tomography n 
+computerization |  n  | kompjuterizim 
+computerize |  n  | kompjuterizoj 
+computerized axial tomography |  n  | 
 tomografi kompjuterike aksiale 
-computer-managed instruction n 
+computer-managed instruction |  n  | 
 udhëzim i menaxhuar me 
 kompjuter [CMI] 
 computer-output microfilm [COM]
- n mikrofilm për dalje 
+ |  n  | mikrofilm për dalje 
 kompjuterike 
-computerphile n dashamir i 
+computerphile |  n  | dashamir i 
 kompjuterit 
-computer-readable adj 
+computer-readable |  adj  | 
 kompjuterikisht i lexueshëm 
-CON abbr CON [konsol] 
-concatenate v vargëzoj [lidh varg] 
-concatenated data set n set 
+CON |  abbr  | CON [konsol] 
+concatenate |  v  | vargëzoj [lidh varg] 
+concatenated data set |  n  | set 
 [grumbull] i vargëzuar i të dhënave 
-concatenation v vargëzim [lidhje 
+concatenation |  v  | vargëzim [lidhje 
 varg] 
  
-concave adj konkave (ose e lugët) 
-concave surface v sipërfaqe konkave 
+concave |  adj  | konkave (ose e lugët) 
+concave surface |  v  | sipërfaqe konkave 
 (ose e lugët) 
-concentrator n përqendrues ose 
+concentrator |  n  | përqendrues ose 
 koncentrator 
-conceptual schema n skemë 
+conceptual schema |  n  | skemë 
 konceptuale 
-conclusion n përfundim 
+conclusion |  n  | përfundim 
 [konkluzion] 
-concordance n bashkëpërkim ose 
+concordance |  n  | bashkëpërkim ose 
 konkordancë 
-concordance file n fail 
+concordance file |  n  | fail 
 bashkëpërkimi 
-concurrency n njëkohshmëri 
-concurrent adj njëkohshëm (i) 
-concurrent execution n ekzekutim 
+concurrency |  n  | njëkohshmëri 
+concurrent |  adj  | njëkohshëm (i) 
+concurrent execution |  n  | ekzekutim 
 konkurrent (i njëkohshëm) 
-concurrent operation n punë e 
+concurrent operation |  n  | punë e 
 njëkohshme (ose konkurrente) 
-concurrent processing n përpunim i 
+concurrent processing |  n  | përpunim i 
 njëkohshëm (ose konkurrent) 
-concurrent program execution n 
+concurrent program execution |  n  | 
 ekzekutim konkurrent i programit 
-concurrent programming n 
+concurrent programming |  n  | 
 programim i njëkohshëm 
 concurrently adv njëkohësisht 
-condensed adj ngjeshur (i) 
-condition (1) n gjendje 
-condition (1) n kusht 
-condition code n kod i kushtëzuar 
-conditional adj kushtëzuar (i) 
-conditional branch n degëzim i 
+condensed |  adj  | ngjeshur (i) 
+condition (1) |  n  | gjendje 
+condition (1) |  n  | kusht 
+condition code |  n  | kod i kushtëzuar 
+conditional |  adj  | kushtëzuar (i) 
+conditional branch |  n  | degëzim i 
 kushtëzuar 
  conditional breakpoint 
-conditional breakpoint n 
+conditional breakpoint |  n  | 
 pikëndërprerje e kushtëzuar 
-conditional compilation n 
+conditional compilation |  n  | 
 kompilim i kushtëzuar 
-conditional expression n shprehje 
+conditional expression |  n  | shprehje 
 e kushtëzuar 
-conditional jump n kërcim i 
+conditional jump |  n  | kërcim i 
 kushtëzuar 
-conditional loop n lak i (ose 
+conditional loop |  n  | lak i (ose 
 unazë e) kushtëzuar 
-conditional statement n urdhër i 
+conditional statement |  n  | urdhër i 
 kushtëzuar 
-conditional transfer n transferim 
+conditional transfer |  n  | transferim 
 (ose transfer) i kushtëzuar 
-conditioning n përmirësim i formës 
+conditioning |  n  | përmirësim i formës 
 (ose gjendjes) së sinjalit 
-conduction n përçim (i rrymës) 
-conductivity n përçueshmëri 
-conductor n përçues (i rrymës) 
-conective n lidhëz 
-conference n konferencë 
-conference group n grup konference 
+conduction |  n  | përçim (i rrymës) 
+conductivity |  n  | përçueshmëri 
+conductor |  n  | përçues (i rrymës) 
+conective |  n  | lidhëz 
+conference |  n  | konferencë 
+conference group |  n  | grup konference 
 Conference on Data Systems 
-Languages [CODASYL] n 
+Languages [CODASYL] |  n  | 
 Konferenca për gjuhët e sistemeve 
 të të dhënave [CODASYL] 
-conferencing n konferencim 
-confidence interval n interval 
+conferencing |  n  | konferencim 
+confidence interval |  n  | interval 
 [nivel] mirëbesimi 
-confidence level n nivel mirëbesimi 
-confidential adj sekret [i fshehtë] 
-confidential data n dhëna (të) të 
+confidence level |  n  | nivel mirëbesimi 
+confidential |  adj  | sekret [i fshehtë] 
+confidential data |  n  | dhëna (të) të 
 sekrete 
  
  
 67
 connector 
-confidential information n 
+confidential information |  n  | 
 informacion sekret 
-confidentiality n fshehtësi 
+confidentiality |  n  | fshehtësi 
 [mirëbesim] 
-CONFIG.SYS abbr CONFIG.SYS 
-configuration n konfigurim 
-configuration n formësim ose 
+CONFIG.SYS |  abbr  | CONFIG.SYS 
+configuration |  n  | konfigurim 
+configuration |  n  | formësim ose 
 konfigurim 
-configuration file n fajl konfigurues 
-configure n konfiguroj 
-confirm v vërtetoj [konfirmoj] 
-confirmation n vërtetim [konfirmim] 
-confirmation of receipt n vërtetim 
+configuration file |  n  | fajl konfigurues 
+configure |  n  | konfiguroj 
+confirm |  v  | vërtetoj [konfirmoj] 
+confirmation |  n  | vërtetim [konfirmim] 
+confirmation of receipt |  n  | vërtetim 
 ose konfirmim i marrjes (pranimit) 
-conflict v bie ndesh (me) 
-conflict n konflikt 
-congestion n kongjestion 
+conflict |  v  | bie ndesh (me) 
+conflict |  n  | konflikt 
+congestion |  n  | kongjestion 
 [mbipopullim] 
-conjunction n ndërthurje 
+conjunction |  n  | ndërthurje 
 [koniunksion] 
-connect v lidh 
-connect charge n pagesë për lidhje 
-connect time n kohëzgjatje ose 
+connect |  v  | lidh 
+connect charge |  n  | pagesë për lidhje 
+connect time |  n  | kohëzgjatje ose 
 zgjatje e lidhjes 
-connected graph n graf i lidhur 
-connection n lidhje 
+connected graph |  n  | graf i lidhur 
+connection |  n  | lidhje 
 connection refused ph lidhje e 
 refuzuar [lidhja është refuzuar] 
 connection-orientedadj orientuar (i) 
 në lidhje direkte 
-connectoid n silidhëz ose konektoid 
-connector n lidhëzor ose konektor 
+connectoid |  n  | silidhëz ose konektoid 
+connector |  n  | lidhëzor ose konektor 
  consecutive 
-consecutive adj pasues [i 
+consecutive |  adj  | pasues [i 
 njëpasnjëshëm] 
-consequence n rrjedhim [pasojë] 
-consequential loss n humbje 
+consequence |  n  | rrjedhim [pasojë] 
+consequential loss |  n  | humbje 
 indirekte 
-consistency n konsistencë [lidhje 
+consistency |  n  | konsistencë [lidhje 
 logjike] 
-consistency check n kontroll i 
+consistency check |  n  | kontroll i 
 konsistencës (ose besnikërisë) 
-consistent adj konsistent 
+consistent |  adj  | konsistent 
 [qëndrueshëm (i)] 
-console n konsol [panel komandimi] 
-constant adj konstant [i 
+console |  n  | konsol [panel komandimi] 
+constant |  adj  | konstant [i 
 pandryshueshëm] 
-constant n konstante 
-constant angular velocity [CAV] n 
+constant |  n  | konstante 
+constant angular velocity [CAV] |  n  | 
 shpejtësi këndore konstante 
-constant expression n shprehje 
+constant expression |  n  | shprehje 
 konstante 
-constant linear velocity [CLV] n 
+constant linear velocity [CLV] |  n  | 
 shpejtësi lineare konstante 
-constant shading n ngjyrosje 
+constant shading |  n  | ngjyrosje 
 [hijezim] e njëtrajtshme 
-constellation n konstelacion [yllësi; 
+constellation |  n  | konstelacion [yllësi; 
 plejadë] 
-constraint n kufizim 
-construct n ndërtim [konstrukt] 
-consultant n këshillues ose 
+constraint |  n  | kufizim 
+construct |  n  | ndërtim [konstrukt] 
+consultant |  n  | këshillues ose 
 këshilltar ose konsulent ose 
 konsultant 
-consultation n konsultë [këshillim] 
-consumption n harxhim ose 
+consultation |  n  | konsultë [këshillim] 
+consumption |  n  | harxhim ose 
 shpenzim 
  
  
 68
 contiguous data 
-contact n kontakt (i konektorit; i 
+contact |  n  | kontakt (i konektorit; i 
 komutatorit) 
-contact v kontaktoj [komunikoj] 
-contactor n kontaktor 
-container n kontejner 
-content n përmbajtje 
-contention n konkurrencë 
-contents directory n direktorium i 
+contact |  v  | kontaktoj [komunikoj] 
+contactor |  n  | kontaktor 
+container |  n  | kontejner 
+content |  n  | përmbajtje 
+contention |  n  | konkurrencë 
+contents directory |  n  | direktorium i 
 përmbajtjes 
-contents field n fushë e 
+contents field |  n  | fushë e 
 përmbajtjes 
-context n kontekst 
-context dependent adj varur (i) 
+context |  n  | kontekst 
+context dependent |  adj  | varur (i) 
 nga konteksti 
-context switching n ndërrimi i 
+context switching |  n  | ndërrimi i 
 kontekstit 
-context-free adj jokontekstual 
-context-free grammar n 
+context-free |  adj  | jokontekstual 
+context-free grammar |  n  | 
 gramatikë jokontekstuale 
-context-free language n gjuhë 
+context-free language |  n  | gjuhë 
 jokontekstuale 
-context-sensitive adj kontekstual 
-context-sensitive grammar n 
+context-sensitive |  adj  | kontekstual 
+context-sensitive grammar |  n  | 
 gramatikë kontekstuale 
-context-sensitive menu n meny e 
+context-sensitive menu |  n  | meny e 
 ndjeshme në kontekst 
-contextual adj kontekstual [sipas 
+contextual |  adj  | kontekstual [sipas 
 kontekstit] 
-contextual help n ndihmë 
+contextual help |  n  | ndihmë 
 kontekstuale 
-contiguous adj fqinjë 
-contiguous data n dhëna (të) fqinje 
+contiguous |  adj  | fqinjë 
+contiguous data |  n  | dhëna (të) fqinje 
 (ose kontinuale) 
  contiguous data structure 
-contiguous data structure n 
+contiguous data structure |  n  | 
 strukturë e të dhënave të puthitura 
 (ose fqinje) 
-contiguous file n fajl fqinjë (ose 
+contiguous file |  n  | fajl fqinjë (ose 
 kontinual) 
-contingency plan n plan i sigurisë (i 
+contingency plan |  n  | plan i sigurisë (i 
 urgjencës) 
-continue n vazhdoj 
-continue anyway v vazhdo 
+continue |  n  | vazhdoj 
+continue anyway |  v  | vazhdo 
 sidoqoftë 
-continuity n vazhdimësi (e të 
+continuity |  n  | vazhdimësi (e të 
 dhënave) 
-continuity of service n vazhdimësi 
+continuity of service |  n  | vazhdimësi 
 e shërbimit 
-continuous adj vazhdueshëm, 
+continuous |  adj  | vazhdueshëm, 
 pandërprerë 
-continuous feed n ushqim i 
+continuous feed |  n  | ushqim i 
 pandërprerë 
-continuous form n letër e 
+continuous form |  n  | letër e 
 pandërprerë 
-continuous paper n letër e 
+continuous paper |  n  | letër e 
 pandërprerë 
-continuous processing n përpunim 
+continuous processing |  n  | përpunim 
 pa ndërprerje 
-continuous-form paper n letër e 
+continuous-form paper |  n  | letër e 
 pandërprerë 
-continuous-tone printer n printer 
+continuous-tone printer |  n  | printer 
 me tonim të vijueshëm ose 
 kontinual 
-contour n përvijesë ose kontur 
-contouring n përvijim ose konturim 
+contour |  n  | përvijesë ose kontur 
+contouring |  n  | përvijim ose konturim 
 ose paraqitje konturale 
-contradiction n kundërti 
-contrary adj kundërt (i) 
+contradiction |  n  | kundërti 
+contrary |  adj  | kundërt (i) 
  
  
 69
 control panel 
-contrast n kontrast ose kundërshti 
-control (1) n kontroll 
-control (1) v kontrolloj 
-control (2) n komandim 
-control (2) v komandoj 
-control (3) n rregullim 
-control (3) v rregulloj 
-control bus n bus ose magjistrale 
+contrast |  n  | kontrast ose kundërshti 
+control (1) |  n  | kontroll 
+control (1) |  v  | kontrolloj 
+control (2) |  n  | komandim 
+control (2) |  v  | komandoj 
+control (3) |  n  | rregullim 
+control (3) |  v  | rregulloj 
+control bus |  n  | bus ose magjistrale 
 kontrollues ose kontrolluese 
-control character n karakter 
+control character |  n  | karakter 
 kontrollues 
-control circuit n qark kontrollues 
+control circuit |  n  | qark kontrollues 
 [komandues] 
-control cod n kod kontrollues 
-control code n kod kontrollues 
-control console n konsol 
+control cod |  n  | kod kontrollues 
+control code |  n  | kod kontrollues 
+control console |  n  | konsol 
 komandues [panel komandimi] 
-control cycle n cikël kontrolli 
+control cycle |  n  | cikël kontrolli 
 [komandimi] 
-control data n dhëna (të) 
+control data |  n  | dhëna (të) 
 kontrolluese 
-control element n element kontrolli 
-control field n fushë kontrolli 
-control flow n kontroll i rrjedhës 
-control information n informacion 
+control element |  n  | element kontrolli 
+control field |  n  | fushë kontrolli 
+control flow |  n  | kontroll i rrjedhës 
+control information |  n  | informacion 
 kontrolli 
-Control key n tasti "control" 
-control language n gjuhë kontrolli 
-control line n linjë kontrolli 
-control logic n logjikë komanduese 
-control panel n panel kontrollues 
+Control key |  n  | tasti "control" 
+control language |  n  | gjuhë kontrolli 
+control line |  n  | linjë kontrolli 
+control logic |  n  | logjikë komanduese 
+control panel |  n  | panel kontrollues 
 [panel komandimi] 
  control program 
-control program n program 
+control program |  n  | program 
 kontrolli [komandimi] 
-control sequence n sekuencë 
+control sequence |  n  | sekuencë 
 kontrolluese 
-control signal n sinjal kontrollues 
-control statement n urdhër 
+control signal |  n  | sinjal kontrollues 
+control statement |  n  | urdhër 
 kontrollues 
-control strip n shirit kontrollues 
-control structure n strukturë 
+control strip |  n  | shirit kontrollues 
+control structure |  n  | strukturë 
 kontrolluese 
-control unit [CU] n njësi 
+control unit [CU] |  n  | njësi 
 kontrolluese [CU] 
-control variable n ndryshore (ose 
+control variable |  n  | ndryshore (ose 
 variabël) kontrolluese 
-control word n fjalë kontrolluese 
-controller n kontrollues ose 
+control word |  n  | fjalë kontrolluese 
+controller |  n  | kontrollues ose 
 kontroller 
-convention (1) n marrëveshje 
-convention (2) n konventë ose 
+convention (1) |  n  | marrëveshje 
+convention (2) |  n  | konventë ose 
 konvencion 
-conventional n konvencional 
-conventional equipment n pajim 
+conventional |  n  | konvencional 
+conventional equipment |  n  | pajim 
 konvencional 
-conventional memory n memorie 
+conventional memory |  n  | memorie 
 konvencionale 
-convergence n konvergjencë 
-conversational compiler n 
+convergence |  n  | konvergjencë 
+conversational compiler |  n  | 
 kompilues bisedor 
-conversational language n gjuhë 
+conversational language |  n  | gjuhë 
 bashkëbisedimi 
-converse n anasjellë 
-converse adj kundërt (i) [anasjelltë 
+converse |  n  | anasjellë 
+converse |  adj  | kundërt (i) [anasjelltë 
 (i)] 
  
  
 70
 coordinated universal time 
-conversion n shndërrim ose 
+conversion |  n  | shndërrim ose 
 konvertim ose konversion 
-conversion diagram n diagram 
+conversion diagram |  n  | diagram 
 shndërrimi 
-conversion equipment n pajisje 
+conversion equipment |  n  | pajisje 
 shndërrimi 
-conversion program n program i 
+conversion program |  n  | program i 
 shndërrimit 
-conversion software n softuer i 
+conversion software |  n  | softuer i 
 shndërrimit 
-conversion table n tabelë shndërrimi 
+conversion table |  n  | tabelë shndërrimi 
 ose tabelë konvertuese 
-convert n shndërroj [kthej, 
+convert |  n  | shndërroj [kthej, 
 konvertoj] 
-convert table to text v kthej ose 
+convert table to text |  v  | kthej ose 
 konvertoj tabelën në tekst 
-convert text to table v kthej ose 
+convert text to table |  v  | kthej ose 
 konvertoj tekstin në tabelë 
-converter n shndërrues ose konvertor 
-converting n shndërrim [konvertim] 
-convex surface n sipërfaqe 
+converter |  n  | shndërrues ose konvertor 
+converting |  n  | shndërrim [konvertim] 
+convex surface |  n  | sipërfaqe 
 konvekse (e mysët) 
-convey v dërgoj [bart, transportoj] 
-convolution n konvolucion 
-cooperative processing n përpunim i 
+convey |  v  | dërgoj [bart, transportoj] 
+convolution |  n  | konvolucion 
+cooperative processing |  n  | përpunim i 
 përbashkët ose kooperativ 
-coordinate v bashkërendoj 
-coordinate n koordinatë 
-coordinate dimensioning n 
+coordinate |  v  | bashkërendoj 
+coordinate |  n  | koordinatë 
+coordinate dimensioning |  n  | 
 dimensionim i koordinatave 
-coordinate system n sistem 
+coordinate system |  n  | sistem 
 koordinativ 
 coordinated universal time format 
 n format kohor universal 
  
  coordinates 
-coordinates n koordinatat 
-coprocessor n bashkëprocesor 
-copy n kopje 
-copy v kopjoj 
+coordinates |  n  | koordinatat 
+coprocessor |  n  | bashkëprocesor 
+copy |  n  | kopje 
+copy |  v  | kopjoj 
 copy disk ph kopjimi i diskut 
-copy holder n mbajtës i kopjeve (të 
+copy holder |  n  | mbajtës i kopjeve (të 
 letrës) 
-copy on-the-fly v kopjo fluturimthi 
-copy program n program për kopjim 
-copy protection n mbrojtje nga 
+copy on-the-fly |  v  | kopjo fluturimthi 
+copy program |  n  | program për kopjim 
+copy protection |  n  | mbrojtje nga 
 kopjimi 
-copyleft n licencë publike e 
+copyleft |  n  | licencë publike e 
 përgjithshme ose gjenerale 
-copyright n drejtat (të) e autorit ose 
+copyright |  n  | drejtat (të) e autorit ose 
 drejtë (e) autoriale e mbrojtur 
-copyright information n informatë 
+copyright information |  n  | informatë 
 mbi të drejtat e autorit 
 CORBA [Common Object Request 
-Broker Architecture] abbr CORBA 
+Broker Architecture] |  abbr  | CORBA 
 [arkitekture e përgjithshme e 
 ndërmjetësuesit të kërkesave për 
 objekte] 
-cordless adj pa tel 
-cordless mouse adj mi pa tel [me 
+cordless |  adj  | pa tel 
+cordless mouse |  adj  | mi pa tel [me 
 rreze infrakuqe] 
-core (1) n bërthamë magnetike 
-core (2) n bërthamë (e fijes optike) 
-core (3) n memorie kryesore ose 
+core (1) |  n  | bërthamë magnetike 
+core (2) |  n  | bërthamë (e fijes optike) 
+core (3) |  n  | memorie kryesore ose 
 memorie operative 
-core dump n zbrazje e memories 
-core memory n memorie kryesore 
-core program n program në 
+core dump |  n  | zbrazje e memories 
+core memory |  n  | memorie kryesore 
+core program |  n  | program në 
 memorien kryesore 
  
 71
 corrupt 
-corectness proof n vërtetim i 
+corectness proof |  n  | vërtetim i 
 rregullsisë 
-coresident adj korezident ose 
+coresident |  adj  | korezident ose 
 bashkëpranishëm (i) 
-corona wire n përçues [tel] i 
+corona wire |  n  | përçues [tel] i 
 koronës 
-coroutine n bashkërutinë ose 
+coroutine |  n  | bashkërutinë ose 
 korutinë 
-corporate (1) adj korporatës (i) 
-corporate (2) adj institucional 
-corporation n korporatë 
-correct adj drejtë (i) [saktë (i); 
+corporate (1) |  adj  | korporatës (i) 
+corporate (2) |  adj  | institucional 
+corporation |  n  | korporatë 
+correct |  adj  | drejtë (i) [saktë (i); 
 rregullt (i)] 
-correct v korrigjoj (gabimin), ndreq 
-correction n korrigjim 
-corrective maintenance n 
+correct |  v  | korrigjoj (gabimin), ndreq 
+correction |  n  | korrigjim 
+corrective maintenance |  n  | 
 mirëmbajtje korrektuese 
-correctness proof n vërtetim (provë) 
+correctness proof |  n  | vërtetim (provë) 
 i rregullsisë 
-correlation n bashkëlidhje ose 
+correlation |  n  | bashkëlidhje ose 
 korrelacion 
-correlation analysis n korrelacioni i 
+correlation analysis |  n  | korrelacioni i 
 analizës 
-correspondence (1) n përputhje 
-correspondence (2) n letërkëmbim 
+correspondence (1) |  n  | përputhje 
+correspondence (2) |  n  | letërkëmbim 
 ose korrespondencë 
-correspondent adj korrespondent [që 
+correspondent |  adj  | korrespondent [që 
 përputhet] 
-correspondent n korrespondent; 
+correspondent |  n  | korrespondent; 
 partner afarist 
-corresponding adj përkatës [që 
+corresponding |  adj  | përkatës [që 
 përputhet] 
-corrupt v korruptoj 
+corrupt |  v  | korruptoj 
  corrupt 
-corrupt v prish [dëmtoj] 
-corrupt (1) adj korruptuar (i) 
+corrupt |  v  | prish [dëmtoj] 
+corrupt (1) |  adj  | korruptuar (i) 
 [papastër (i)] 
  
-corrupt (2) adj prishur (i) [dëmtuar 
+corrupt (2) |  adj  | prishur (i) [dëmtuar 
 (i)] 
-corruption (1) n prishje [dëmtim] 
-corruption (2) n korruptim 
-cost n çmim 
-coulomb [C] n kulon [C] 
-count v numëroj 
-count n numërim 
-count lines v numëroj rreshtat 
-count words v numëroj fjalët 
-counter n numërues 
-counterclokwise adj kundërorar 
+corruption (1) |  n  | prishje [dëmtim] 
+corruption (2) |  n  | korruptim 
+cost |  n  | çmim 
+coulomb [C] |  n  | kulon [C] 
+count |  v  | numëroj 
+count |  n  | numërim 
+count lines |  v  | numëroj rreshtat 
+count words |  v  | numëroj fjalët 
+counter |  n  | numërues 
+counterclokwise |  adj  | kundërorar 
 [kundër akrepave të orës] 
-counting loop n lak numërues ose 
+counting loop |  n  | lak numërues ose 
 unazë numëruese 
-counting problem n problem 
+counting problem |  n  | problem 
 numërimi 
-country v vend [shtet] 
-country code n kod i shtetit 
-country-specific adj specifik për 
+country |  v  | vend [shtet] 
+country code |  n  | kod i shtetit 
+country-specific |  adj  | specifik për 
 shtetin 
-couple v çiftoj 
-coupled adj çiftuar (i) 
-coupler n çiftues 
-covariance n bashkëvariancë ose 
+couple |  v  | çiftoj 
+coupled |  adj  | çiftuar (i) 
+coupler |  n  | çiftues 
+covariance |  n  | bashkëvariancë ose 
 kovariancë 
-CP/M [Control Program/Monitor] n 
+CP/M [Control Program/Monitor] |  n  | 
 CP/M [program 
 komandues/monitor] 
  
@@ -4418,175 +4388,175 @@ CRC
 CPA [Computer Press Association] 
 n CPA [Shoqata e botuesve të 
 shtypit kompjuterik] 
-cpi [characters per inch] n cpi 
+cpi [characters per inch] |  n  | cpi 
 [simbole për inç] 
-CPM [critical path method] n 
+CPM [critical path method] |  n  | 
 metodë e shtegut kritik 
-cps [characters per second] n cps 
+cps [characters per second] |  n  | cps 
 [simbole për sekondë] 
 CPSR [Computer Professionals for 
-Social Responsibility] n specialistë 
+Social Responsibility] |  n  | specialistë 
 (ose profesionistë) kompjuterikë 
 për përgjegjësi sociale 
-CPU [Central Processing Unit] n 
+CPU [Central Processing Unit] |  n  | 
 CPU [njësia qendrore e përpunimit, 
 procesori qendror] 
-CPU cache n memorie kesh [e 
+CPU cache |  n  | memorie kesh [e 
 gatshme] e CPU-së 
-CPU cycle n cikël i CPU-së 
-CPU fan n ventilator (ose ftohës) i 
+CPU cycle |  n  | cikël i CPU-së 
+CPU fan |  n  | ventilator (ose ftohës) i 
 CPU-së 
-CPU speed n shpejtësi e CPU-së 
-CPU time n kohë e CPU-së 
-crack v thyej 
-crack n thyerje 
-cracker n kraker [thyerës, pirat 
+CPU speed |  n  | shpejtësi e CPU-së 
+CPU time |  n  | kohë e CPU-së 
+crack |  v  | thyej 
+crack |  n  | thyerje 
+cracker |  n  | kraker [thyerës, pirat 
 informatik] 
-crash v bie (sistemi) 
-crash n prishje 
-crash n rënie (e sistemit) 
-Cray-1 n Cray-1 
+crash |  v  | bie (sistemi) 
+crash |  n  | prishje 
+crash |  n  | rënie (e sistemit) 
+Cray-1 |  n  | Cray-1 
 CRC [Cyclical (Cyclic) Redudancy 
-Check] abbr CRC [kontroll ciklik 
+Check] |  abbr  | CRC [kontroll ciklik 
 i teprisë ose redudancës] 
  create 
-create v krijoj 
-create a copy v krijoj një kopje 
-create directory v krijoj një 
+create |  v  | krijoj 
+create a copy |  v  | krijoj një kopje 
+create directory |  v  | krijoj një 
 direktorium 
-create -on drag n krijim me 
+create -on drag |  n  | krijim me 
 tërheqje (zvarritje) 
-creation n krijim 
-creation data n datë e krijimit 
-creator n krijues [program krijues] 
-crippled version n version jo i plotë 
-criteria n kriter 
-critical data n dhëna (të) kritike 
-critical error n gabim kritik 
-critical path method [CPM] n 
+creation |  n  | krijim 
+creation data |  n  | datë e krijimit 
+creator |  n  | krijues [program krijues] 
+crippled version |  n  | version jo i plotë 
+criteria |  n  | kriter 
+critical data |  n  | dhëna (të) kritike 
+critical error |  n  | gabim kritik 
+critical path method [CPM] |  n  | 
 metodë e shtegut kritik 
-crop n prerje 
-crop v pres (figurën) 
-crop mark n shenjë për prerje 
-crop marks n shenja për prerje 
-cross n kryq 
-cross assembler n asembler kryqak 
+crop |  n  | prerje 
+crop |  v  | pres (figurën) 
+crop mark |  n  | shenjë për prerje 
+crop marks |  n  | shenja për prerje 
+cross |  n  | kryq 
+cross assembler |  n  | asembler kryqak 
 (ose tërthoras) 
-cross hairs n tregues kryqak [tregues 
+cross hairs |  n  | tregues kryqak [tregues 
 në formë kryqi] 
-cross talk n ndërdëgjim [diafoni] 
-cross-assembler n asembler kryqak 
-cross-check v kontroll kryqëzues 
-cross-compiler n kompiler kryqak 
+cross talk |  n  | ndërdëgjim [diafoni] 
+cross-assembler |  n  | asembler kryqak 
+cross-check |  v  | kontroll kryqëzues 
+cross-compiler |  n  | kompiler kryqak 
 (ose tërthoras) 
-cross-linked files n fajla të 
+cross-linked files |  n  | fajla të 
 kryqëzuar 
-cross-platform adj mesplatformike 
+cross-platform |  adj  | mesplatformike 
  
  
 73
 CTI 
-crosstalk n ndërdëgjim ose diafoni 
+crosstalk |  n  | ndërdëgjim ose diafoni 
 CRT [Cathode-Ray Tube] abb gyp 
 katodik 
-CRT controller n kontrollor CRT 
-cryoelectronic adj krioelektronik 
-cryogenic memory n memorie 
+CRT controller |  n  | kontrollor CRT 
+cryoelectronic |  adj  | krioelektronik 
+cryogenic memory |  n  | memorie 
 kriogjenike 
-cryogenics n kriogjenikë 
-cryptanalisys n kriptanalizë 
+cryogenics |  n  | kriogjenikë 
+cryptanalisys |  n  | kriptanalizë 
 crypto- pref kripto- [i fshehtë; i 
 shifruar] 
-cryptoanalysis n kriptoanaliza 
+cryptoanalysis |  n  | kriptoanaliza 
 [analiza e shifrimit] 
-cryptogram n kriptogram 
-cryptographic key n çelës i 
+cryptogram |  n  | kriptogram 
+cryptographic key |  n  | çelës i 
 shifrimit 
-cryptography n kriptografi ose 
+cryptography |  n  | kriptografi ose 
 shifrim 
-cryptography algorithm n 
+cryptography algorithm |  n  | 
 algoritëm kriptografik 
-cryptography key n çelës 
+cryptography key |  n  | çelës 
 kriptografik 
-cryptology n kriptologji 
+cryptology |  n  | kriptologji 
 CSO [Computing Services Office] 
 abbr CSO [zyrë për shërbime 
 kompjuterike] 
-CSS [cascading style sheets] n CSS 
+CSS [cascading style sheets] |  n  | CSS 
 [lista kaskadë të stileve] 
 CTERM [Communications Terminal 
-Protocol] n CTERM [protokoll 
+Protocol] |  n  | CTERM [protokoll 
 komunikues i terminalit] 
 CTI [Computer-Telephony 
-Integration] n integrim i 
+Integration] |  n  | integrim i 
 kompjuterit dhe telefonisë 
  CTL 
  
-CTL [ConTroL] n CTL [kontrolli] 
-CTRL [ConTRoL] abbr tast CTRL 
-Ctrl [Control] abbr tast Ctrl 
-Ctrl-Alt-Delete n CTRL-ALT-
+CTL [ConTroL] |  n  | CTL [kontrolli] 
+CTRL [ConTRoL] |  abbr  | tast CTRL 
+Ctrl [Control] |  abbr  | tast Ctrl 
+Ctrl-Alt-Delete |  n  | CTRL-ALT-
 Delete [kombinim i tasteve Ctrl, 
 Alt dhe Del] 
-Ctrl-C n CTRL-C [kombinim i 
+Ctrl-C |  n  | CTRL-C [kombinim i 
 tasteve Ctrl dhe C] 
-Ctrl-S n CTRL-S [kombinim i 
+Ctrl-S |  n  | CTRL-S [kombinim i 
 tasteve Ctrl dhe S] 
-CTS [Clear To Send] n sinjal i 
+CTS [Clear To Send] |  n  | sinjal i 
 linjës së lirë 
-CU [Control Unit] abbr njësi 
+CU [Control Unit] |  abbr  | njësi 
 kontrolli 
-CUA [Common User Access] n CUA 
+CUA [Common User Access] |  n  | CUA 
 [akses i përbashkët i përdoruesit 
 (ose shfrytëzuesit)] 
-CUI [character user interface] n 
+CUI [character user interface] |  n  | 
 CUI [ndërfaqe (ose interfejs) 
 tekstuale e përdoruesit] 
-currency n monedhë 
-current n rrymë (elektrike) 
-current (1) adj aktual [tanishëm (i), 
+currency |  n  | monedhë 
+current |  n  | rrymë (elektrike) 
+current (1) |  adj  | aktual [tanishëm (i), 
 aktiv] 
-current (2) adj vijues [në vazhdim] 
-current address register n 
+current (2) |  adj  | vijues [në vazhdim] 
+current address register |  n  | 
 regjistër i adresës aktuale 
-current cell n qelizë aktuale 
+current cell |  n  | qelizë aktuale 
 [aktive] 
-current copy n kopje aktuale 
-current job n punë aktuale [në 
+current copy |  n  | kopje aktuale 
+current job |  n  | punë aktuale [në 
 vazhdim] 
-current settings n gjendjet aktuale 
-current status n gjendja aktuale 
+current settings |  n  | gjendjet aktuale 
+current status |  n  | gjendja aktuale 
  
 74
 cyan/magenta/yellow color 
-cursor n kursor 
-cursor blink speed n shpejtësi e 
+cursor |  n  | kursor 
+cursor blink speed |  n  | shpejtësi e 
 pulsimit të kursorit 
-cursor control n kontroll me kursor 
-cursor control key n tast i kontrollit 
+cursor control |  n  | kontroll me kursor 
+cursor control key |  n  | tast i kontrollit 
 [komandimit] të kursorit 
-cursor key n tast i kursorit 
-cursor program n program i kursorit 
-curve n lakore 
-curve generator n gjenerator i 
+cursor key |  n  | tast i kursorit 
+cursor program |  n  | program i kursorit 
+curve |  n  | lakore 
+curve generator |  n  | gjenerator i 
 lakores 
-customer n klient [shfrytëzues] 
-customer support n mbështetje 
+customer |  n  | klient [shfrytëzues] 
+customer support |  n  | mbështetje 
 klientëve (ose shfrytëzuesve) 
-customize v përshtat 
-customized adj përshtatur (i) klientit 
+customize |  v  | përshtat 
+customized |  adj  | përshtatur (i) klientit 
 (ose shfrytëzuesit) 
-cut n prerje 
-cut v pres 
-cut and paste v pres dhe ngjit ose 
+cut |  n  | prerje 
+cut |  v  | pres 
+cut and paste |  v  | pres dhe ngjit ose 
 pres dhe përcjell 
-CV [computer vision] n vizion 
+CV [computer vision] |  n  | vizion 
 kompjuterik 
 CWIS [Campuswide information 
-system] abbr CWIS [sistem i 
+system] |  abbr  | CWIS [sistem i 
 informacionit i universitetit 
 (kampusit)] 
-cyan adj kaltër (e) ose kaltër (e) e 
+cyan |  adj  | kaltër (e) ose kaltër (e) e 
 çelët [cian] 
 cyan/magenta/yellow color model 
 n model trengjyrësh CMY [cian-
@@ -4594,42 +4564,42 @@ purpurt-verdhë]
  
 75
  
-cybernaut n kibernaut [internaut; 
+cybernaut |  n  | kibernaut [internaut; 
 përdorues i internetit] 
-cybernetics n kibernetikë 
-cyberpunk n kiberpank 
-cyberspace n kiberhapësirë 
+cybernetics |  n  | kibernetikë 
+cyberpunk |  n  | kiberpank 
+cyberspace |  n  | kiberhapësirë 
 [hapësirë virtuale] 
-cycle n cikël 
-cyclic access n akses ciklik 
-cyclic binary code n kod binar ciklik 
-cyclic redundancy check [CRC] n 
+cycle |  n  | cikël 
+cyclic access |  n  | akses ciklik 
+cyclic binary code |  n  | kod binar ciklik 
+cyclic redundancy check [CRC] |  n  | 
 kontroll ciklik i redundancës [CRC] 
 cyclical redundancy check [CRC] n
  kontroll ciklik i redundancës 
 [CRC] 
-Cycolor n Cycolor 
-cylinder n cilindër (i rruginave në 
+Cycolor |  n  | Cycolor 
+cylinder |  n  | cilindër (i rruginave në 
 disk) 
-cypher n shifër [kod i fshehtë] 
+cypher |  n  | shifër [kod i fshehtë] 
  cyan/magenta/yellow/black 
 cyan/magenta/yellow/black color 
-model n model katërngjyrësh 
+model |  n  | model katërngjyrësh 
 CMYB [cian-purpurt-verdhë-zi] 
 cyber- pref kiber- [virtual] 
-cyber café n kiberkafe [internet-
+cyber café |  n  | kiberkafe [internet-
 kafe] 
-cyberart n kiberart [art elektronik] 
-cybercafe n kiberkafe [internet-kafe] 
-cybercash n kiberkesh 
-cyberchat n kiberbisedë 
-cybercommunity n kiberkomunitet 
+cyberart |  n  | kiberart [art elektronik] 
+cybercafe |  n  | kiberkafe [internet-kafe] 
+cybercash |  n  | kiberkesh 
+cyberchat |  n  | kiberbisedë 
+cybercommunity |  n  | kiberkomunitet 
 [komunitet elektronik] 
-cybercop n kiberpolic 
-cyberculture n kiberkulturë [kulturë 
+cybercop |  n  | kiberpolic 
+cyberculture |  n  | kiberkulturë [kulturë 
 elektronike] 
-Cyberdog n Cyberdog 
-cyberholic n kibermaniak 
+Cyberdog |  n  | Cyberdog 
+cyberholic |  n  | kibermaniak 
  
  
  
@@ -4641,2175 +4611,2175 @@ cyberholic n kibermaniak
  
 76
 D 
-D n D [vlera heksadecimal e numrit 
+D |  n  | D [vlera heksadecimal e numrit 
 dhjetor 13] 
 D/A Converter [Digital-to-Analog 
-Converter] abbr shndërrues (ose 
+Converter] |  abbr  | shndërrues (ose 
 konvertor) digjital-analog 
 DAC [digital-to-analog converter] 
 abbr shndërrues (ose konvertor) 
 digjital-analog 
-DAD [Digital Audio Disc] abbr 
+DAD [Digital Audio Disc] |  abbr  | 
 disk audio digjital 
-daemon n demon [program që 
+daemon |  n  | demon [program që 
 ekzekutohet në prapaplan] 
 DAF [Destination Address Field] 
 abbr fushë e adresës së vendarritjes 
 ose destinacionit 
-daisy chain n vargua [lidhje zinxhir] 
-daisy chaining n vargim [lidhje 
+daisy chain |  n  | vargua [lidhje zinxhir] 
+daisy chaining |  n  | vargim [lidhje 
 zinxhir] 
-daisychain n vargua [lidhje zinxhir] 
-daisy-chain v vargoj [lidh zinxhir] 
-DAM [Direct Access Method] abbr 
+daisychain |  n  | vargua [lidhje zinxhir] 
+daisy-chain |  v  | vargoj [lidh zinxhir] 
+DAM [Direct Access Method] |  abbr  | 
 DAM [metodë e aksesit të 
 drejtpërdrejtë] 
-damage n dëmtim 
-damage v dëmtoj 
-damaged adj dëmtuar (i) 
+damage |  n  | dëmtim 
+damage |  v  | dëmtoj 
+damaged |  adj  | dëmtuar (i) 
  
-DAP [Directory Access Protocol] n 
+DAP [Directory Access Protocol] |  n  | 
 DAP [protokoll për akses 
 direktoriumit] 
-dark adj errët (i) 
-dark blue adj blu e errët (e mbylltë) 
-dark current n rrymë e errësirës 
-dark fiber n fije (optike) e 
+dark |  adj  | errët (i) 
+dark blue |  adj  | blu e errët (e mbylltë) 
+dark current |  n  | rrymë e errësirës 
+dark fiber |  n  | fije (optike) e 
 pashfrytëzuar 
-dark gray adj përhimët (e) e errët 
-dark green adj gjelbër (e) e errët 
-dark red adj kuqe (e) e errët 
-dark room n dhomë e errët 
-Darlington circuit n qark i 
+dark gray |  adj  | përhimët (e) e errët 
+dark green |  adj  | gjelbër (e) e errët 
+dark red |  adj  | kuqe (e) e errët 
+dark room |  n  | dhomë e errët 
+Darlington circuit |  n  | qark i 
 Darlingtonit 
-Darlington pair n çift i Darlingtonit 
+Darlington pair |  n  | çift i Darlingtonit 
 DARPA [Defense Advenced 
-Research Projects Agency] n 
+Research Projects Agency] |  n  | 
 DARPA [Agjencia për projekte 
 kërkimore të avancuara pranë 
 ministrisë së mbrojtjes së SHBA] 
 DARPANET [Defense Advenced 
 Research Projects Agency 
-Network] abbr DARPANET 
+Network] |  abbr  | DARPANET 
 [Rrjeti i Agjencisë për projekte 
 kërkimore të avancuara pranë 
 ministrisë së mbrojtjes së SHBA] 
-dash [–] n vizë (ndarëse) [–] 
+dash [–] |  n  | vizë (ndarëse) [–] 
  DAT 
  
-DAT [digital audio tape] abbr shirit 
+DAT [digital audio tape] |  abbr  | shirit 
 77
 audio digjital 
 DAT [dynamic address translation] 
 abbr përkthim dinamik i adresave 
-data n dhëna (të) 
-data acces n akses në të dhëna 
-data acquisition n grumbullim i të 
+data |  n  | dhëna (të) 
+data acces |  n  | akses në të dhëna 
+data acquisition |  n  | grumbullim i të 
 dhënave 
-data acquisition card n kartelë për 
+data acquisition card |  n  | kartelë për 
 mbledhjen e të dhënave 
-data acquisition system n sistem 
+data acquisition system |  n  | sistem 
 për mbledhjes së të dhënave 
-data analysis n analizë e të dhënave 
-data area n zonë e të dhënave 
-data attribute n atribut i të dhënave 
-data automation n automatizim i të 
+data analysis |  n  | analizë e të dhënave 
+data area |  n  | zonë e të dhënave 
+data attribute |  n  | atribut i të dhënave 
+data automation |  n  | automatizim i të 
 dhënave 
-data bank n bankë e të dhënave 
-data base n bazë e të dhënave 
-data base file n fajl i bazës së të 
+data bank |  n  | bankë e të dhënave 
+data base |  n  | bazë e të dhënave 
+data base file |  n  | fajl i bazës së të 
 dhënave 
-data bit n bit i të dhënave 
-data block n bllok i të dhënave 
-data buffer n bufer [ndërmemorie] i 
+data bit |  n  | bit i të dhënave 
+data block |  n  | bllok i të dhënave 
+data buffer |  n  | bufer [ndërmemorie] i 
 të dhënave 
-data bus n bus i (ose magjistrale 
+data bus |  n  | bus i (ose magjistrale 
 e) të dhënave 
-data cable n kabëll për 
+data cable |  n  | kabëll për 
 transmetimin (ose bartjen) e të 
 dhënave 
-data capture n kapje e të dhënave 
-data capturing n përkapje 
+data capture |  n  | kapje e të dhënave 
+data capturing |  n  | përkapje 
 [përfshirje] e të dhënave 
  
 data communications 
-data carrier n bartëse e të 
+data carrier |  n  | bartëse e të 
 dhënave ose bartës i të dhënave 
-Data Carrier Detected [DCD] n 
+Data Carrier Detected [DCD] |  n  | 
 bartësja e (ose bartësi i) të dhënave 
 e/i detektuar 
-data carrier storage n memorie 
+data carrier storage |  n  | memorie 
 bartëse e të dhënave 
-data cartridge n kasetë e të dhënave 
-data center n qendër e të dhënave 
-data centre n qendër llogaritëse 
+data cartridge |  n  | kasetë e të dhënave 
+data center |  n  | qendër e të dhënave 
+data centre |  n  | qendër llogaritëse 
 [qendër për përpunimin e të 
 dhënave] 
-data chain n varg [zinxhir] i të 
+data chain |  n  | varg [zinxhir] i të 
 dhënave 
-data chaining n vargëzim i të 
+data chaining |  n  | vargëzim i të 
 dhënave [vendosje e të dhënave në 
 varg] 
-data channel n kanal i të dhënave 
+data channel |  n  | kanal i të dhënave 
 [kanal për bartje të të dhënave] 
-data check n kontroll i të dhënave 
-data circuit n qark i të dhënave 
+data check |  n  | kontroll i të dhënave 
+data circuit |  n  | qark i të dhënave 
 [qark për të dhëna] 
-data cleaning n spastrim i të 
+data cleaning |  n  | spastrim i të 
 dhënave 
-data code n kod i të dhënave 
-data collection (1) n koleksion i 
+data code |  n  | kod i të dhënave 
+data collection (1) |  n  | koleksion i 
 të dhënave 
-data collection (2) n mbledhje 
+data collection (2) |  n  | mbledhje 
 [grumbullim] e të dhënave 
-data communication network n 
+data communication network |  n  | 
 rrjet për transmetimin (ose bartjen) 
 e të dhënave 
-data communications n transmetim i 
+data communications |  n  | transmetim i 
 (ose bartje e) të dhënave 
  data communications network 
  
-data communications network n 
+data communications network |  n  | 
 rrjet për transmetim të të dhënave 
-data compaction n ngjeshje e të 
+data compaction |  n  | ngjeshje e të 
 dhënave 
-data compression n ngjeshje e (ose 
+data compression |  n  | ngjeshje e (ose 
 kompresim i) të dhënave 
-data concentrator n përqendrues 
+data concentrator |  n  | përqendrues 
 i të dhënave 
-data control n kontroll i të dhënave 
-data conversion n shndërrim (ose 
+data control |  n  | kontroll i të dhënave 
+data conversion |  n  | shndërrim (ose 
 konvertim) i të dhënave 
 78
 data flow language 
-data distribution n përndarje e të 
+data distribution |  n  | përndarje e të 
 dhënave 
-data division n ndarje e të dhënave 
+data division |  n  | ndarje e të dhënave 
 ose divizion i të dhënave 
-data element n element i të dhënave 
-data element dictionary n fjalor i 
+data element |  n  | element i të dhënave 
+data element dictionary |  n  | fjalor i 
 elementeve të të dhënave 
-data element separator n ndarës i 
+data element separator |  n  | ndarës i 
 elementit të të dhënave 
-data encryption n shifrim i të 
+data encryption |  n  | shifrim i të 
 dhënave 
-data converter n shndërrues (ose 
+data converter |  n  | shndërrues (ose 
 konvertues) i të dhënave 
-data encryption key n çelës për 
+data encryption key |  n  | çelës për 
 shifrim të të dhënave 
-data corruption n dëmtim ose 
+data corruption |  n  | dëmtim ose 
 korruptim i të dhënave 
-data counter n numërues i të 
+data counter |  n  | numërues i të 
 dhënave 
-data declaration n deklarim i të 
+data declaration |  n  | deklarim i të 
 dhënave 
-data definition language [DDL] n 
+data definition language [DDL] |  n  | 
 gjuhë për përkufizimin e të dhënave 
 [DDL] 
-data delimiter n ndarës i të dhënave 
-data density n dendësi e të dhënave 
-data depedence graph n diagram i 
+data delimiter |  n  | ndarës i të dhënave 
+data density |  n  | dendësi e të dhënave 
+data depedence graph |  n  | diagram i 
 varësisë së të dhënave 
-data description language [DDL] n 
+data description language [DDL] |  n  | 
 gjuhë për përshkrimin e të dhënave 
-data descriptor n përshkrues i të 
+data descriptor |  n  | përshkrues i të 
 dhënave 
-data dictionary n fjalor i të dhënave 
-data directory n direktorium i të 
+data dictionary |  n  | fjalor i të dhënave 
+data directory |  n  | direktorium i të 
 dhënave 
-data display n displej i të dhënave 
+data display |  n  | displej i të dhënave 
  
-data encryption standard n 
+data encryption standard |  n  | 
 standard për shifrim të të dhënave 
 Data Encryption Standard [DES] 
 n standard për shifrimin e të 
 dhënave 
-data entry n përfshirje e të dhënave 
-data entry terminal n terminal për 
+data entry |  n  | përfshirje e të dhënave 
+data entry terminal |  n  | terminal për 
 përfshirje të të dhënave 
-data error n gabim i të dhënave 
-data field n fushë (zonë) e të 
+data error |  n  | gabim i të dhënave 
+data field |  n  | fushë (zonë) e të 
 dhënave 
-data field masking n maskim i 
+data field masking |  n  | maskim i 
 fushës së të dhënave 
-data file n fajl i të dhënave 
-data flow n rrjedhje e të dhënave 
-data flow control [DFC] n 
+data file |  n  | fajl i të dhënave 
+data flow |  n  | rrjedhje e të dhënave 
+data flow control [DFC] |  n  | 
 kontroll i rrjedhjes së të dhënave 
-data flow diagram [DFD] n 
+data flow diagram [DFD] |  n  | 
 diagram i rrjedhjes së të dhënave 
-data flow language n gjuhë e 
+data flow language |  n  | gjuhë e 
 rrjedhjes së të dhënave 
  data flow system 
-data flow system n sistemi i 
+data flow system |  n  | sistemi i 
 rrjedhjes së të dhënave 
  
 79
 data organization 
-data link layer n shtresë e lidhjes 
+data link layer |  n  | shtresë e lidhjes 
 mes të dhënave 
-data flowchart n diagram i rrjedhjes 
+data flowchart |  n  | diagram i rrjedhjes 
 së dhënave [organigram i të 
 dhënave] 
-data format n format i të dhënave 
-data formating n formatim i të 
+data format |  n  | format i të dhënave 
+data formating |  n  | formatim i të 
 dhënave 
-data frame n kuadër ose kornizë i 
+data frame |  n  | kuadër ose kornizë i 
 ose e të dhënave 
-data generator n gjenerator i të 
+data generator |  n  | gjenerator i të 
 dhënave 
-data hierarchy n hierarki e të 
+data hierarchy |  n  | hierarki e të 
 dhënave 
-data highway n autostradë e të 
+data highway |  n  | autostradë e të 
 dhënave 
-data independence n pavarësi e të 
+data independence |  n  | pavarësi e të 
 dhënave 
-data integrity n integritet i të 
+data integrity |  n  | integritet i të 
 dhënave 
-data interchange n këmbim i të 
+data interchange |  n  | këmbim i të 
 dhënave 
-data interchange format [DIF] n 
+data interchange format [DIF] |  n  | 
 format për shkëmbim të të dhënave 
 [DIF] 
-data item n element (logjik) i të 
+data item |  n  | element (logjik) i të 
 dhënave 
-data level n nivel i të dhënave 
-data library n bibliotekë e të 
+data level |  n  | nivel i të dhënave 
+data library |  n  | bibliotekë e të 
 dhënave 
-data link n lidhje për bartje të të 
+data link |  n  | lidhje për bartje të të 
 dhënave 
-Data Link Control [DLC] n 
+Data Link Control [DLC] |  n  | 
 kontroll i lidhjes për bartjen e të 
 dhënave [DLC] 
  
-data link level n nivel i lidhjes së të 
+data link level |  n  | nivel i lidhjes së të 
 dhënave 
-data logger n regjistrues (automatik) 
+data logger |  n  | regjistrues (automatik) 
 i të dhënave 
-data logging n regjistrim 
+data logging |  n  | regjistrim 
 (automatik) i të dhënave 
-data loss n humbje e të dhënave 
-data management n menaxhim i të 
+data loss |  n  | humbje e të dhënave 
+data management |  n  | menaxhim i të 
 dhënave ose menaxhim me të 
 dhëna 
-data management program n 
+data management program |  n  | 
 program për menaxhimin e të 
 dhënave 
 data manipulation language [DML] 
- n gjuhë për punë me të dhëna 
-data mart n qendër e të dhënave 
-data medium n mjedis [medium] 
+ |  n  | gjuhë për punë me të dhëna 
+data mart |  n  | qendër e të dhënave 
+data medium |  n  | mjedis [medium] 
 për të dhëna 
-data model n model i të dhënave 
-data modeling n modelim i të 
+data model |  n  | model i të dhënave 
+data modeling |  n  | modelim i të 
 dhënave 
-data move instruction n 
+data move instruction |  n  | 
 instruksion për zhvendosje të të 
 dhënave 
-data name n emër i të dhënave 
-data network n rrjet i të dhënave 
+data name |  n  | emër i të dhënave 
+data network |  n  | rrjet i të dhënave 
 data network identification code 
-[DNIC] n kod i identifikimit të 
+[DNIC] |  n  | kod i identifikimit të 
 rrjetit të të dhënave 
-data object n objekt i të dhënave 
-data organization n organizim i të 
+data object |  n  | objekt i të dhënave 
+data organization |  n  | organizim i të 
 dhënave 
  
  data packet 
-data packet n pako e të dhënave 
-data path n shteg i të dhënave 
-data plotter n ploter (i të dhënave) 
-data point n pikë e të dhënave 
-data pointer n tregues ose pointer i 
+data packet |  n  | pako e të dhënave 
+data path |  n  | shteg i të dhënave 
+data plotter |  n  | ploter (i të dhënave) 
+data point |  n  | pikë e të dhënave 
+data pointer |  n  | tregues ose pointer i 
 të dhënave 
-data preparation n përgatitje e të 
+data preparation |  n  | përgatitje e të 
 dhënave 
-data processing n përpunim i të 
+data processing |  n  | përpunim i të 
 dhënave 
-data processing [DP] n përpunim i 
+data processing [DP] |  n  | përpunim i 
 të dhënave 
-data processing centre n qendër e 
+data processing centre |  n  | qendër e 
 përpunimit të të dhënave 
 Data Processing Management 
-Association [DPMA] n Shoqatë 
+Association [DPMA] |  n  | Shoqatë 
 për udhëheqje me përpunimin e të 
 dhënave [DPMA] 
-data processing manager [DPM] n 
+data processing manager [DPM] |  n  | 
 menaxher i përpunimit të të 
 dhënave [DPM] 
-data processing system n sistem për 
+data processing system |  n  | sistem për 
 përpunimin e të dhënave 
-data processor n procesor (i të 
+data processor |  n  | procesor (i të 
 dhënave) 
-data protection n mbrojtje e të 
+data protection |  n  | mbrojtje e të 
 dhënave 
-data protection officer n zyrtar për 
+data protection officer |  n  | zyrtar për 
 mbrojtjen e të dhënave 
-data purification n dëlirje (pastrim) 
+data purification |  n  | dëlirje (pastrim) 
 e të dhënave 
-data quality n cilësi e të dhënave 
-data range n diapazon (zonë) i të 
+data quality |  n  | cilësi e të dhënave 
+data range |  n  | diapazon (zonë) i të 
 dhënave 
  
 80
 data set migration 
-data rate n shpejtësi e transmetimit 
+data rate |  n  | shpejtësi e transmetimit 
 të të dhënave 
-data record (1) n regjistrim i të 
+data record (1) |  n  | regjistrim i të 
 dhënave 
-data record (2) n regjistresë ose 
+data record (2) |  n  | regjistresë ose 
 regjistrim me të dhëna 
-data reduction n reduktim ose 
+data reduction |  n  | reduktim ose 
 pakësim [ngjeshje] i të dhënave 
-data representation n paraqitje e të 
+data representation |  n  | paraqitje e të 
 dhënave 
-data retrievial n gjetje e të dhënave 
-data rules n rregullat për të dhëna 
-data security n siguri e të dhënave 
-data security officer n zyrtar për 
+data retrievial |  n  | gjetje e të dhënave 
+data rules |  n  | rregullat për të dhëna 
+data security |  n  | siguri e të dhënave 
+data security officer |  n  | zyrtar për 
 sigurimin e të dhënave 
-data segment n segment i të dhënave 
-data segment cod n kod i segmentit 
+data segment |  n  | segment i të dhënave 
+data segment cod |  n  | kod i segmentit 
 të të dhënave 
-data segment identifier n 
+data segment identifier |  n  | 
 identifikator i segmentit të të 
 dhënave 
-data segment tag n identifikator i 
+data segment tag |  n  | identifikator i 
 segmentit të të dhënave 
-data segment terminator n 
+data segment terminator |  n  | 
 përfundues (ose terminator) i 
 segmentit të të dhënave 
-data selector n përzgjedhës ose 
+data selector |  n  | përzgjedhës ose 
 selektor i të dhënave 
-data set n grumbull [bashkësi] të 
+data set |  n  | grumbull [bashkësi] të 
 dhënash [datotekë] 
-data set label n etiketë (ose labelë) e 
+data set label |  n  | etiketë (ose labelë) e 
 bashkësisë së të të dhënave 
-data set migration n zhvendosje e 
+data set migration |  n  | zhvendosje e 
 bashkësisë së të dhënave 
  data set organization 
  
-data set organization n organizim i 
+data set organization |  n  | organizim i 
 bashkësisë së të dhënave 
 81
 data/fax modem 
-data sharing n bashkëndarje e të 
+data sharing |  n  | bashkëndarje e të 
 dhënave [shfrytëzimi i përbashkët i 
 të dhënave] 
-data signal n sinjal i të dhënave 
-data signaling rate n shpejtësi e 
+data signal |  n  | sinjal i të dhënave 
+data signaling rate |  n  | shpejtësi e 
 sinjalizimit të të dhënave 
-data sink n marrës i të dhënave 
-data sort n renditje e (ose sortim i) 
+data sink |  n  | marrës i të dhënave 
+data sort |  n  | renditje e (ose sortim i) 
 të dhënave 
-data source n burim i të dhënave 
-data stabilization n stabilizim i të 
+data source |  n  | burim i të dhënave 
+data stabilization |  n  | stabilizim i të 
 dhënave 
-data station n stacion i të dhënave 
-data station control n kontroll i 
+data station |  n  | stacion i të dhënave 
+data station control |  n  | kontroll i 
 stacionit të të dhënave 
-data stream n rrjedhë e të dhënave 
-data structure n strukturë e të 
+data stream |  n  | rrjedhë e të dhënave 
+data structure |  n  | strukturë e të 
 dhënave 
-data system n sistem i të dhënave 
-data system integration n integrim 
+data system |  n  | sistem i të dhënave 
+data system integration |  n  | integrim 
 i sistemit të të dhënave 
-data system interface n ndërfaqe ose 
+data system interface |  n  | ndërfaqe ose 
 interfejs e sistemit të të dhënave 
-data system specification n 
+data system specification |  n  | 
 specifikim i sistemit të të dhënave 
-data terminal n terminal i të 
+data terminal |  n  | terminal i të 
 dhënave 
-data terminal equipment [DTE] n 
+data terminal equipment [DTE] |  n  | 
 pajisje e terminalit të të dhënave 
 [DTE] 
  
-Data Terminal Ready [DTR] n 
+Data Terminal Ready [DTR] |  n  | 
 sinjal i gatishmërisë së terminalit 
 për bartje të të dhënave [DTR] 
-data track n shteg i të dhënave 
-data traffic n komunikacion i të 
+data track |  n  | shteg i të dhënave 
+data traffic |  n  | komunikacion i të 
 dhënave 
-data transcription equipment n 
+data transcription equipment |  n  | 
 pajisje për transkriptim të të 
 dhënave 
-data transfer n transferim (ose 
+data transfer |  n  | transferim (ose 
 bartje) i të dhënave 
-data transfer instruction n urdhër i 
+data transfer instruction |  n  | urdhër i 
 transferimit të të dhënave 
-data transfer rate n shpejtësi e 
+data transfer rate |  n  | shpejtësi e 
 transferimit (ose bartjes) të të 
 dhënave 
-data transfer time n kohë e 
+data transfer time |  n  | kohë e 
 transferimit të të dhënave 
-data transmission n transmetim (ose 
+data transmission |  n  | transmetim (ose 
 bartje) i të dhënave 
-data transmission equipment n 
+data transmission equipment |  n  | 
 pajisje për bartje të të dhënave 
-data type n tip (ose lloj) i të dhënave 
-data unit n njësi e të dhënave 
-data value n vlerë e së dhënës 
-data vetting n verifikim i të 
+data type |  n  | tip (ose lloj) i të dhënave 
+data unit |  n  | njësi e të dhënave 
+data value |  n  | vlerë e së dhënës 
+data vetting |  n  | verifikim i të 
 dhënave 
-data warehouse n depo [bankë] e të 
+data warehouse |  n  | depo [bankë] e të 
 dhënave 
-data word n fjalë e të dhënave 
-data/address register n regjistër i të 
+data word |  n  | fjalë e të dhënave 
+data/address register |  n  | regjistër i të 
 dhënave/i adresës 
-data/fax modem n modem i të 
+data/fax modem |  n  | modem i të 
 dhënave-faksit [faksmodem] 
  databank 
-databank n bankë e të dhënave 
-database n bazë e të dhënave 
-database [DB] n bazë e të dhënave 
-database administrator n 
+databank |  n  | bankë e të dhënave 
+database |  n  | bazë e të dhënave 
+database [DB] |  n  | bazë e të dhënave 
+database administrator |  n  | 
 administrator i bazës së të dhënave 
-database administrator [DBA] n 
+database administrator [DBA] |  n  | 
 administrator i bazës së të dhënave 
-database analyst n analizues i 
+database analyst |  n  | analizues i 
 bazës së të dhënave 
-database definition n përkufizim 
+database definition |  n  | përkufizim 
 [përshkrim] i bazës së të dhënave 
-database designer n projektues i 
+database designer |  n  | projektues i 
 bazës së të dhënave 
-database engine n makinë ose 
+database engine |  n  | makinë ose 
 mekanizëm e ose i bazës së të 
 dhënave 
-database file n fajl i bazës së të 
+database file |  n  | fajl i bazës së të 
 dhënave 
-database integrity n integritet i bazës 
+database integrity |  n  | integritet i bazës 
 së të dhënave 
-database key n çelës i bazës së të 
+database key |  n  | çelës i bazës së të 
 dhënave 
-database language n gjuhë e bazës 
+database language |  n  | gjuhë e bazës 
 së të dhënave 
-database machine n makinë (ose 
+database machine |  n  | makinë (ose 
 mekanizëm) e bazës së të dhënave 
 database management system 
-[DBMS] n sistem për menaxhim 
+[DBMS] |  n  | sistem për menaxhim 
 të bazës së të dhënave [DBMS] 
-database manager n menaxher i 
+database manager |  n  | menaxher i 
 bazës së të dhënave 
-database publishing n publikim i 
+database publishing |  n  | publikim i 
 bazës së të dhënave 
  
  
 82
 data-reduction system 
-database server n server i bazës së 
+database server |  n  | server i bazës së 
 të dhënave 
-database sharing n bashkëndarje e 
+database sharing |  n  | bashkëndarje e 
 bazës së të dhënave 
-database structure n strukturë e 
+database structure |  n  | strukturë e 
 bazës së të dhënave 
-database system n sistem i bazës së 
+database system |  n  | sistem i bazës së 
 të dhënave 
-datacom n këmbimi i të dhënave 
-data-driven processing n 
+datacom |  n  | këmbimi i të dhënave 
+data-driven processing |  n  | 
 përpunim i udhëhequr nga të dhënat 
-data-encrypting key n çelës i 
+data-encrypting key |  n  | çelës i 
 shifrimit të të dhënave 
-data-file object n objekt fajlit me të 
+data-file object |  n  | objekt fajlit me të 
 dhëna 
-dataflow n rrjedhje e të dhënave 
-datagram n datagram 
+dataflow |  n  | rrjedhje e të dhënave 
+datagram |  n  | datagram 
 datagram delivery protocol [DDP] 
 n protokoll i dërgimit të 
 datogramit [DDP] 
-datagram segment n segment i 
+datagram segment |  n  | segment i 
 datogramit 
-data-iniciated control n kontroll i 
+data-iniciated control |  n  | kontroll i 
 filluar (ose iniciuar) me të dhëna 
-data-link layer n shtresë e lidhjes 
+data-link layer |  n  | shtresë e lidhjes 
 së të dhënave 
-datamation n automatizim i të 
+datamation |  n  | automatizim i të 
 dhënave 
-data-processing center n qendra për 
+data-processing center |  n  | qendra për 
 përpunim të të dhënave 
-data-processing machine n makinë 
+data-processing machine |  n  | makinë 
 për përpunimin e të dhënave 
-data-reduction system n sistemi për 
+data-reduction system |  n  | sistemi për 
 reduktim ose pakësim të të dhënave 
 83
  
  date 
-date n datë 
-date v vë datën 
-date stamping n shënim i datës 
-datum n dhënë (e) 
+date |  n  | datë 
+date |  v  | vë datën 
+date stamping |  n  | shënim i datës 
+datum |  n  | dhënë (e) 
 DAV connector [digital audio/video 
-connector] n konektor digjital 
+connector] |  n  | konektor digjital 
 audio-video 
-day clock n orë 
-DB [database] abbr bazë e të 
+day clock |  n  | orë 
+DB [database] |  abbr  | bazë e të 
 dhënave 
-dB [decibel] abbr dB [decibel] 
+dB [decibel] |  abbr  | dB [decibel] 
 DB connector [data bus connector] 
 n konektor (ose lidhëzor) DB 
-DBA [database administrator] abbr 
+DBA [database administrator] |  abbr  | 
 administrator i bazës së të dhënave 
-DBA [database administrator] abbr 
+DBA [database administrator] |  abbr  | 
 DBA [administrator i bazës së të 
 dhënave] 
 DBMS [database management 
-system] abbr DBMS [sistem i 
+system] |  abbr  | DBMS [sistem i 
 menaxhimit të bazës së të dhënave] 
-DC [Data Chaining] abbr DC 
+DC [Data Chaining] |  abbr  | DC 
 [vargim i të dhënave] 
-DC [direct current] abbr rrymë e 
+DC [direct current] |  abbr  | rrymë e 
 vazhduar 
 DCA [Document Content 
-Architecture] n arkitekturë e 
+Architecture] |  n  | arkitekturë e 
 përmbajtjes së dokumentit 
-DCD [Data Carrier Detected] n DCD 
+DCD [Data Carrier Detected] |  n  | DCD 
 [bartës i detektuar i të dhënave i ] 
 DCE [Data Communications 
-Equipment] n DCE [pajisje për 
+Equipment] |  n  | DCE [pajisje për 
 bartje të të dhënave] 
  
 deadlock 
 DCOM [Distributed Component 
-Object Model] n DCOM [modeli 
+Object Model] |  n  | DCOM [modeli 
 objekt i komponenteve të 
 shpërndara ose distribuara] 
 DCTL [direct-coupled transistor 
-logic] n DCTL [logjikë 
+logic] |  n  | DCTL [logjikë 
 transistorike me lidhje direkte] 
 DDBMS [distributed database 
-management system] abbr 
+management system] |  abbr  | 
 DDBMS [sistemi i udhëheqjes me 
 bazën e shpërndarë të të dhënave] 
-DDC [Display Data Channel] n 
+DDC [Display Data Channel] |  n  | 
 DDC [kanali të dhënave për displej 
 (ekran)] 
-DDE [Dynamic Data Exchange] n 
+DDE [Dynamic Data Exchange] |  n  | 
 shkëmbim (këmbim) dinamik i të 
 dhënave 
-DDL [data definition language] abbr 
+DDL [data definition language] |  abbr  | 
 DDL [gjuhë për përkufizimin e të 
 dhënave] 
 DDP [Datagram Delivery Protocol] 
 abbr DDP [protokoll i dërgimit të 
 datagramit] 
-de facto standard n standard de 
+de facto standard |  n  | standard de 
 fakto [standardi faktik] 
-de jure standard n standard de jure 
+de jure standard |  n  | standard de jure 
 [standardi juridik] 
-deactivate n çaktivizoj 
-dead adj jashtë përdorimi [prishur (i)] 
-dead halt n ndalje e pakthyeshme 
-dead key n tast i vdekur ose joaktiv 
-dead spot n zonë e vdekur 
-deadline n afati i fundit [koha e 
+deactivate |  n  | çaktivizoj 
+dead |  adj  | jashtë përdorimi [prishur (i)] 
+dead halt |  n  | ndalje e pakthyeshme 
+dead key |  n  | tast i vdekur ose joaktiv 
+dead spot |  n  | zonë e vdekur 
+deadline |  n  | afati i fundit [koha e 
 skadencës] 
-deadlock n bllokim i plotë 
+deadlock |  n  | bllokim i plotë 
  deadly embrace 
-deadly embrace n bllokadë ose 
+deadly embrace |  n  | bllokadë ose 
 ndërprerje 
-deal with v merrem me 
-dealer n rishitës [diler] 
-deblock (1) v zhbllokoj 
-deblock (2) v zhgrupoj 
-deblocking (1) n zhbllokim 
-de-blocking (1) n zhbllokim 
-deblocking (2) n zhgrupim 
-de-blocking (2) n zhgrupim 
-debug v spastroj (nga gabimet) ose 
+deal with |  v  | merrem me 
+dealer |  n  | rishitës [diler] 
+deblock (1) |  v  | zhbllokoj 
+deblock (2) |  v  | zhgrupoj 
+deblocking (1) |  n  | zhbllokim 
+de-blocking (1) |  n  | zhbllokim 
+deblocking (2) |  n  | zhgrupim 
+de-blocking (2) |  n  | zhgrupim 
+debug |  v  | spastroj (nga gabimet) ose 
 eliminoj gabimet 
-debug on-line n eliminimi i 
+debug on-line |  n  | eliminimi i 
 gabimeve gjatë punës 
-debugger n spastrues (i gabimeve) 
+debugger |  n  | spastrues (i gabimeve) 
 [programi për eliminim të 
 gabimeve, debager] 
-debugging n spastrim (nga gabimet) 
-debugging routine n rutinë për 
+debugging |  n  | spastrim (nga gabimet) 
+debugging routine |  n  | rutinë për 
 ndreqjen [mënjanimin] e gabimeve 
-debugging statement n urdhër për 
+debugging statement |  n  | urdhër për 
 mënjanim të gabimeve 
-debunching n zhgrupim ose 
+debunching |  n  | zhgrupim ose 
 degrupim 
-decade counter n numërues dhjetor 
+decade counter |  n  | numërues dhjetor 
 (ose decimal ose dekad) 
-deceleration time n kohë e 
+deceleration time |  n  | kohë e 
 ngadalësimit 
-decentralized data processing n 
+decentralized data processing |  n  | 
 përpunim i decentralizuar i të 
 dhënave 
-decentralized processing n 
+decentralized processing |  n  | 
 përpunim i decentralizuar 
  
  
 84
 decision element 
-decibel [dB] n decibel [dB] 
-decimal adj dhjetor ose decimal 
-decimal (1) n numër dhjetor 
-decimal (2) n presje dhjetore 
-decimal character n karakter 
+decibel [dB] |  n  | decibel [dB] 
+decimal |  adj  | dhjetor ose decimal 
+decimal (1) |  n  | numër dhjetor 
+decimal (2) |  n  | presje dhjetore 
+decimal character |  n  | karakter 
 [shenjë] dhjetor 
-decimal classification n klasifikim 
+decimal classification |  n  | klasifikim 
 dhjetor 
-decimal code n kod dhjetor (ose 
+decimal code |  n  | kod dhjetor (ose 
 decimal) 
-decimal digit n shifër dhjetore 
-decimal notation n paraqitje 
+decimal digit |  n  | shifër dhjetore 
+decimal notation |  n  | paraqitje 
 dhjetore ose shënim dhjetor 
-decimal number n numër dhjetor 
-decimal number system n sistem 
+decimal number |  n  | numër dhjetor 
+decimal number system |  n  | sistem 
 dhjetor i numrave 
-decimal numeral n numër dhjetor 
-decimal place n vend dhjetor 
-decimal point n pikë dhjetore 
-decimal procesor n kod dhjetor (ose 
+decimal numeral |  n  | numër dhjetor 
+decimal place |  n  | vend dhjetor 
+decimal point |  n  | pikë dhjetore 
+decimal procesor |  n  | kod dhjetor (ose 
 decimal) 
-decimal system n sistem dhjetor 
-decimal-to-binary conversion n 
+decimal system |  n  | sistem dhjetor 
+decimal-to-binary conversion |  n  | 
 shndërrim dhjetor-binar ose 
 konvertim decimal-binar 
-decipher v deshifroj 
-deciphering n deshifrim [të 
+decipher |  v  | deshifroj 
+deciphering |  n  | deshifrim [të 
 deshifruarit] 
-decipherment n deshifrim 
-decision circuit n qark i vendimit 
+decipherment |  n  | deshifrim 
+decision circuit |  n  | qark i vendimit 
 (ose vendosjes) 
-decision element n element i 
+decision element |  n  | element i 
 vendimit ose element për vendosje 
  decision gate 
-decision gate n portë e vendimit 
-decision instruction n urdhër i 
+decision gate |  n  | portë e vendimit 
+decision instruction |  n  | urdhër i 
 vendimit 
-decision mechanism n mekanizëm 
+decision mechanism |  n  | mekanizëm 
 për vendosje [vendim] 
-decision support system [DSS] n 
+decision support system [DSS] |  n  | 
 sistem vendimmbështetës 
-decision symbol n simbol i vendimit 
-decision table n tabelë e vendimit 
+decision symbol |  n  | simbol i vendimit 
+decision table |  n  | tabelë e vendimit 
 (ose vendosjes) 
-decision tree n pemë e vendimit (ose 
+decision tree |  n  | pemë e vendimit (ose 
 vendosjes) 
-decision-making n vendimmarrje 
-declaration n deklaratë ose deklarim 
-declarative language n gjuhë 
+decision-making |  n  | vendimmarrje 
+declaration |  n  | deklaratë ose deklarim 
+declarative language |  n  | gjuhë 
 deklarative 
-declarative macroinstruction n 
+declarative macroinstruction |  n  | 
 makroinstruksion deklarativ 
-declarative markup language n 
+declarative markup language |  n  | 
 gjuhë shënjuese [markuese] 
 deklarative 
-declarative statement n urdhër 
+declarative statement |  n  | urdhër 
 deklarativ 
-declare n deklaroj 
-decode v dekodoj 
-decoder n dekodues 
-decoder/demultiplexer n dekoder-
+declare |  n  | deklaroj 
+decode |  v  | dekodoj 
+decoder |  n  | dekodues 
+decoder/demultiplexer |  n  | dekoder-
 demultiplekser 
-decoding n dekodim 
-decollate (1) v ndaj 
-decollate (2) v veçoj 
-decompiler n shkompilues, 
+decoding |  n  | dekodim 
+decollate (1) |  v  | ndaj 
+decollate (2) |  v  | veçoj 
+decompiler |  n  | shkompilues, 
 dekompilator 
  
  
 85
 default 
-decomposition n shpërbërje ose 
+decomposition |  n  | shpërbërje ose 
 dekompozim 
-decompress v çngjesh ose 
+decompress |  v  | çngjesh ose 
 dekomprimoj ose dekompresoj 
-decompression n çngjeshje 
-decrease v ul; pakësoj; zvogëloj; bie 
-decrement (1) n zvogëlim ose 
+decompression |  n  | çngjeshje 
+decrease |  v  | ul; pakësoj; zvogëloj; bie 
+decrement (1) |  n  | zvogëlim ose 
 dekrement 
-decrement (2) n dekrement [mat.] 
-decrypt v deshifroj (shpërfsheh) 
-decryption n deshifrim ose 
+decrement (2) |  n  | dekrement [mat.] 
+decrypt |  v  | deshifroj (shpërfsheh) 
+decryption |  n  | deshifrim ose 
 dekriptim 
-dedicated adj dedikuar (i) [posaçëm 
+dedicated |  adj  | dedikuar (i) [posaçëm 
 (i), kushtuar (i)] 
-dedicated application n aplikacion 
+dedicated application |  n  | aplikacion 
 [zbatim] i posaçëm 
-dedicated channel n kanal i dedikuar 
+dedicated channel |  n  | kanal i dedikuar 
 [i posaçëm, i pakomutuar] 
-dedicated circuit n qark i dedikuar 
+dedicated circuit |  n  | qark i dedikuar 
 (i pakomutuar) 
-dedicated computer n kompjuter i 
+dedicated computer |  n  | kompjuter i 
 dedikuar [i posaçëm] 
-dedicated line n linjë e dedikuar [e 
+dedicated line |  n  | linjë e dedikuar [e 
 posaçme] 
-dedicated modem n modem i 
+dedicated modem |  n  | modem i 
 dedikuar [i posaçëm] 
-dedicated server n server i dedikuar 
+dedicated server |  n  | server i dedikuar 
 [i posaçëm] 
-dedicated terminal n terminal i 
+dedicated terminal |  n  | terminal i 
 rezervuar 
-deduction n deduksion 
-deep copy n kopje e detajizuar 
-default adj nënkuptuar (i) ose 
+deduction |  n  | deduksion 
+deep copy |  n  | kopje e detajizuar 
+default |  adj  | nënkuptuar (i) ose 
 paracaktuar (i) [paravendosur (i)] 
  default drive 
-default drive n njësi disku e 
+default drive |  n  | njësi disku e 
 nënkuptuar (ose e paracaktuar) 
-default home page n faqe amë e 
+default home page |  n  | faqe amë e 
 paracaktuar 
-default write mod n mënyrë shkrimi 
+default write mod |  n  | mënyrë shkrimi 
 e paracaktuar (ose nënkuptuar) 
-defect n defekt 
+defect |  n  | defekt 
 Defense Advanced Research 
-Projects Agency [DARPA] n 
+Projects Agency [DARPA] |  n  | 
 Agjencia për projekte kërkimore të 
 avanacuara pranë ministrisë së 
 mbrojtjes së SHBA [DARPA] 
-deferred processing n përpunim i 
+deferred processing |  n  | përpunim i 
 shtyrë 
-define v përcaktoj 
-define (1) v përcaktoj 
-define (2) v përkufizoj [definoj] 
-definition (1) n përkufizim 
+define |  v  | përcaktoj 
+define (1) |  v  | përcaktoj 
+define (2) |  v  | përkufizoj [definoj] 
+definition (1) |  n  | përkufizim 
 [definicion] 
-definition (2) n qartësi [rezolucion, 
+definition (2) |  n  | qartësi [rezolucion, 
 definicion] 
-deflect v shmang 
-deflection n shmangie 
-defocus n shfokusoj [zhvatërzoj] 
-deformation n shformim 
+deflect |  v  | shmang 
+deflection |  n  | shmangie 
+defocus |  n  | shfokusoj [zhvatërzoj] 
+deformation |  n  | shformim 
 (deformim) 
-defragment v shfragmentoj 
-defragmentation n shfragmentim 
-de-fragmentation n shfragmentim 
-degauss v çmagnetizoj 
-degausser n çmagnetizues 
-degradation n degradim 
-degree n shkallë ose gradë 
+defragment |  v  | shfragmentoj 
+defragmentation |  n  | shfragmentim 
+de-fragmentation |  n  | shfragmentim 
+degauss |  v  | çmagnetizoj 
+degausser |  n  | çmagnetizues 
+degradation |  n  | degradim 
+degree |  n  | shkallë ose gradë 
  
  
 86
 demand 
-deinstall v çinstaloj 
-DEK [data encryption key] n çelës 
+deinstall |  v  | çinstaloj 
+DEK [data encryption key] |  n  | çelës 
 për shifrim të të dhënave 
-DEL [delete character] abbr fshij 
+DEL [delete character] |  abbr  | fshij 
 [anuloj] (karakterin, shenjën 
 grafike] 
-delay n vonesë; shtyrje 
-delay v vonoj; shtyj 
-delete v fshij [heq] 
-delete n fshirje [heqje] 
+delay |  n  | vonesë; shtyrje 
+delay |  v  | vonoj; shtyj 
+delete |  v  | fshij [heq] 
+delete |  n  | fshirje [heqje] 
 delete aborted ph fshirja e ndërprerë 
 [fshirja është ndërprerë] 
-delete coloumn v fshij kolonën 
-Delete key n tasti Delete [t. i 
+delete coloumn |  v  | fshij kolonën 
+Delete key |  n  | tasti Delete [t. i 
 fshirjes] 
-delete row v fshij rreshtin 
+delete row |  v  | fshij rreshtin 
 delete successfull ph fshirja e 
 suksesshme [fshirja është kryer me 
 sukses] 
-delete tracks v fshij gjurmët 
-deleting tracks n fshirje e gjurmëve 
-deletion n fshirje [heqje (suprimim)] 
-deletion operator n operator për 
+delete tracks |  v  | fshij gjurmët 
+deleting tracks |  n  | fshirje e gjurmëve 
+deletion |  n  | fshirje [heqje (suprimim)] 
+deletion operator |  n  | operator për 
 fshirje 
-deletion record n regjistrim për 
+deletion record |  n  | regjistrim për 
 fshirje 
-delimit v përcaktoj kufijtë (ose 
+delimit |  v  | përcaktoj kufijtë (ose 
 caqet) 
-deliver v dorëzoj [livroj] 
-delivery n dorëzim [livrim] 
-demagnetize v çmagnetizoj 
-demagnetizer n çmagnetizues 
-demand n kërkesë 
+deliver |  v  | dorëzoj [livroj] 
+delivery |  n  | dorëzim [livrim] 
+demagnetize |  v  | çmagnetizoj 
+demagnetizer |  n  | çmagnetizues 
+demand |  n  | kërkesë 
  demand 
-demand v kërkoj [kam nevojë për] 
-demand multiplexing n 
+demand |  v  | kërkoj [kam nevojë për] 
+demand multiplexing |  n  | 
 multipleksim me kërkesë 
-demand processing n përpunim me 
+demand processing |  n  | përpunim me 
 kërkesë 
-demand reading n lexim me kërkesë 
-demand writing n shtypje me 
+demand reading |  n  | lexim me kërkesë 
+demand writing |  n  | shtypje me 
 kërkesë 
-demand-driven processing n 
+demand-driven processing |  n  | 
 përpunim i udhëhequr me kërkesat 
-demarcation (1) n demarkacion ose 
+demarcation (1) |  n  | demarkacion ose 
 kufizim 
-demarcation (2) n pajisje ndarëse 
-demo n demo (versioni) 
-demo (1) [demodulator] abbr 
+demarcation (2) |  n  | pajisje ndarëse 
+demo |  n  | demo (versioni) 
+demo (1) [demodulator] |  abbr  | 
 demodulator 
-demo (2) [demonstration] abbr 
+demo (2) [demonstration] |  abbr  | 
 demonstrim 
-demo program n program demo 
-democratic network n rrjet 
+demo program |  n  | program demo 
+democratic network |  n  | rrjet 
 demokratik [me të drejta të 
 barabarta] 
-demodifier n demodifikues 
-demodulate v demoduloj 
-demodulation n demodulim 
-demodulator n demodulator 
-demonstrate v demonstroj 
-demonstration n demonstrim 
-demonstration model n model 
+demodifier |  n  | demodifikues 
+demodulate |  v  | demoduloj 
+demodulation |  n  | demodulim 
+demodulator |  n  | demodulator 
+demonstrate |  v  | demonstroj 
+demonstration |  n  | demonstrim 
+demonstration model |  n  | model 
 demonstrimi 
-demonstration program n program 
+demonstration program |  n  | program 
 demonstrues 
  
  
 87
 dequeue 
-demonstration software n softuer 
+demonstration software |  n  | softuer 
 demonstrimi 
-demultiplex v demultipleksoj 
-demultiplexer n demultiplekser 
-denial n mospranim, refuzim 
-denial of servis n refuzim i 
+demultiplex |  v  | demultipleksoj 
+demultiplexer |  n  | demultiplekser 
+denial |  n  | mospranim, refuzim 
+denial of servis |  n  | refuzim i 
 shërbimit, mospranim i shërbimit 
-dense list n listë e ngjeshur 
-densitometer n dendësimatës, 
+dense list |  n  | listë e ngjeshur 
+densitometer |  n  | dendësimatës, 
 densitometër 
-density n dendësi ose densitet 
-deny v refuzoj ose nuk pranoj 
-deny access to v refuzoj aksesin në 
+density |  n  | dendësi ose densitet 
+deny |  v  | refuzoj ose nuk pranoj 
+deny access to |  v  | refuzoj aksesin në 
 ose nuk pranoj aksesin në 
-dependence n varësi 
-dependent adj varur (i) 
-dependent variable n ndryshore 
+dependence |  n  | varësi 
+dependent |  adj  | varur (i) 
+dependent variable |  n  | ndryshore 
 (ose variabël) e varur 
-deployment n shpërndarje [instalim, 
+deployment |  n  | shpërndarje [instalim, 
 implementim] 
-deposit v depozitoj 
-deposit v shtresëzoj 
-deposition n shtresëzim 
-deposition n depozitim 
-depress v shtyp 
-depress v trus 
-depress key v shtyp tastin 
-depth adj thellësi 
-depth queuing v radhitje sipas 
+deposit |  v  | depozitoj 
+deposit |  v  | shtresëzoj 
+deposition |  n  | shtresëzim 
+deposition |  n  | depozitim 
+depress |  v  | shtyp 
+depress |  v  | trus 
+depress key |  v  | shtyp tastin 
+depth |  adj  | thellësi 
+depth queuing |  v  | radhitje sipas 
 thellësisë 
-dequeue [Double-Ended QUEue] n 
+dequeue [Double-Ended QUEue] |  n  | 
 radhë pritjeje dyanëshe 
  dereference 
-dereference v dereferencim 
-derivation sequence n sekuencë e 
+dereference |  v  | dereferencim 
+derivation sequence |  n  | sekuencë e 
 prejardhjes 
-derivation tree n pemë e prejardhjes 
-derive v nxjerr; derivoj (mat.); e ka 
+derivation tree |  n  | pemë e prejardhjes 
+derive |  v  | nxjerr; derivoj (mat.); e ka 
 prejardhjen (nga) 
-derived class n klasë e nxjerrë 
-derived font n font i nxjerrë 
-derived relation n relacion i nxjerrë 
+derived class |  n  | klasë e nxjerrë 
+derived font |  n  | font i nxjerrë 
+derived relation |  n  | relacion i nxjerrë 
 DES [Data Encryption Standard] 
 abbr standard për shifrimin e të 
 dhënave 
-descendant n pasardhës 
-descender n zbritës 
-descending adj zbritës 
-descending order n rend zbritës ose 
+descendant |  n  | pasardhës 
+descender |  n  | zbritës 
+descending |  adj  | zbritës 
+descending order |  n  | rend zbritës ose 
 radhë zbritëse 
-description n përshkrim 
-descriptor n përshkrues 
-deselect v anuloj përzgjedhjen 
-design v disenjoj [dizajnoj, projektoj, 
+description |  n  | përshkrim 
+descriptor |  n  | përshkrues 
+deselect |  v  | anuloj përzgjedhjen 
+design |  v  | disenjoj [dizajnoj, projektoj, 
 sajoj, krijoj, përftoj] 
-design n dizajn [projekt, skicë, plan] 
-design cycle n cikël i dizajnimit 
+design |  n  | dizajn [projekt, skicë, plan] 
+design cycle |  n  | cikël i dizajnimit 
 [projektimit] 
-desk n tryezë ose tavolinë shkrimi 
-desk accessory n vegla të tavolinës 
-desk calculator n kalkulator 
+desk |  n  | tryezë ose tavolinë shkrimi 
+desk accessory |  n  | vegla të tavolinës 
+desk calculator |  n  | kalkulator 
 tavoline 
-desktop adj tavoline [i tavolinës, i 
+desktop |  adj  | tavoline [i tavolinës, i 
 zyrës] 
-desktop (1) n desktop 
+desktop (1) |  n  | desktop 
  
  
 88
 destruction 
-desktop (2) n tryezë (ose tavolinë) 
+desktop (2) |  n  | tryezë (ose tavolinë) 
 pune [vend i punës] 
-desktop accessory n vegla të 
+desktop accessory |  n  | vegla të 
 desktopit 
-desktop computer n kompjuter 
+desktop computer |  n  | kompjuter 
 tavoline ose kompjuter zyre 
-desktop conferencing n 
+desktop conferencing |  n  | 
 telekonferencë ose video 
 konferencë 
-Desktop file n fajl i sipërfaqes 
+Desktop file |  n  | fajl i sipërfaqes 
 punuese [Desktop-it] 
 Desktop Management Interface 
-[DMI] n ndërfaqe (ose interfejs) për 
+[DMI] |  n  | ndërfaqe (ose interfejs) për 
 menaxhim të desktopit [DMI] 
 Desktop Management Task Force 
-[DMTF] n grup punues për 
+[DMTF] |  n  | grup punues për 
 udhëheqje nga desktopi 
-despatch n dërgim 
-destination n vendarritje ose 
+despatch |  n  | dërgim 
+destination |  n  | vendarritje ose 
 destinacion 
-destination address n adresë e 
+destination address |  n  | adresë e 
 vendarritjes [destinacionit] 
-destination address field [DAF] n 
+destination address field [DAF] |  n  | 
 fushë e adresës së vendarritjes 
 [destinacionit] 
-destination logical unit [DLU] n 
+destination logical unit [DLU] |  n  | 
 njësi logjike e vendarritjes 
 [destinacionit] 
-destination node n nyjë vendarritjeje 
+destination node |  n  | nyjë vendarritjeje 
 [destinacionit] 
-destination port n port vendarritjeje 
+destination port |  n  | port vendarritjeje 
 [destinacionit] 
-destruction n shkatërrim 
+destruction |  n  | shkatërrim 
 [destruksion] 
  destructive addition 
-destructive addition n mbledhje 
+destructive addition |  n  | mbledhje 
 shkatërruese 
-destructive cursor n kursor 
+destructive cursor |  n  | kursor 
 shkatërrues 
-destructive memory n memorie 
+destructive memory |  n  | memorie 
 shkatërruese 
-destructive read n lexim shkatërrues 
-destructive reading n lexim 
+destructive read |  n  | lexim shkatërrues 
+destructive reading |  n  | lexim 
 shkatërrues 
-destructive readout memory n 
+destructive readout memory |  n  | 
 memorie me lexim shkatërrues 
-destructive storage n memorie 
+destructive storage |  n  | memorie 
 shkatërruese 
-detail n detaj [imti, hollësi] 
-detail v jap me hollësi [detajisht] 
-detail file n fajl i transakcioneve 
-detail printing n shtypje e detajizuar 
+detail |  n  | detaj [imti, hollësi] 
+detail |  v  | jap me hollësi [detajisht] 
+detail file |  n  | fajl i transakcioneve 
+detail printing |  n  | shtypje e detajizuar 
 [printim i detajizuar] 
-detailed adj hollësishëm (i) [i 
+detailed |  adj  | hollësishëm (i) [i 
 detajizuar] 
-detailed account n llogari e 
+detailed account |  n  | llogari e 
 hollësishme [e detajizuar] 
-detect v detektoj ose zbuloj 
-detectable adj detektueshëm (i) 
+detect |  v  | detektoj ose zbuloj 
+detectable |  adj  | detektueshëm (i) 
 [dallueshëm (i)] 
-detectable element n element i 
+detectable element |  n  | element i 
 detektueshëm [i dallueshëm] 
-detectable group n grup i 
+detectable group |  n  | grup i 
 detektueshëm (i dallueshëm) 
-detected adj detektuar (i) ose 
+detected |  adj  | detektuar (i) ose 
 zbuluar (i) 
-detected error n gabim i zbuluar 
+detected error |  n  | gabim i zbuluar 
 (ose i detektuar) 
-detection n detektim ose zbulim 
+detection |  n  | detektim ose zbulim 
  
  
 89
 device flag 
-detektor n detektor 
-determinant n përcaktor ose 
+detektor |  n  | detektor 
+determinant |  n  | përcaktor ose 
 determinantë 
-determination n përcaktim 
-determinism n determinizëm 
-deterministic adj përcaktues 
+determination |  n  | përcaktim 
+determinism |  n  | determinizëm 
+deterministic |  adj  | përcaktues 
 [deterministik] 
-DEV [Device address field] abbr 
+DEV [Device address field] |  abbr  | 
 DEV [fushë e adresës së pajisjes] 
-develop v zhvilloj 
-developer n zhvillues 
-developer's toolkit n komplet i 
+develop |  v  | zhvilloj 
+developer |  n  | zhvillues 
+developer's toolkit |  n  | komplet i 
 veglave zhvilluese 
-development n zhvillim 
-development cycle n cikël i 
+development |  n  | zhvillim 
+development cycle |  n  | cikël i 
 zhvillimit 
-deviation n shmangie 
-device n pajisje 
-device (1) n komponente [element] 
-device (2) n pajisje 
-device address n adresë e pajisjes 
-device code n kod i pajisjes 
-device control character n simboli 
+deviation |  n  | shmangie 
+device |  n  | pajisje 
+device (1) |  n  | komponente [element] 
+device (2) |  n  | pajisje 
+device address |  n  | adresë e pajisjes 
+device code |  n  | kod i pajisjes 
+device control character |  n  | simboli 
 për komandim të pajisjes 
-device controller n kontrollues i 
+device controller |  n  | kontrollues i 
 pajisjes 
-device coordinates n koordinata të 
+device coordinates |  n  | koordinata të 
 pajisjes [aparatit] 
-device dependence n varësi nga 
+device dependence |  n  | varësi nga 
 pajisja 
-device driver n ngasës ose drajver i 
+device driver |  n  | ngasës ose drajver i 
 pajisjes 
-device flag n flamur i pajisjes 
+device flag |  n  | flamur i pajisjes 
  device independence 
  
 90
-device independence n pavarësi nga 
+device independence |  n  | pavarësi nga 
 diagonal cut 
-DFS [distributed file system] n DFS 
+DFS [distributed file system] |  n  | DFS 
 pajisja 
 [sistemi i shpërndarë i fajlave] 
-device manager n program 
+device manager |  n  | program 
 komandues i pajisjes 
-Device Manager n programi 
+Device Manager |  n  | programi 
 Device Manager 
-device name n emër i pajisjes 
-device number n numër i pajisjes 
-device object n objekt i pajisje 
-device priority n prioritet i pajisjes 
-device queue n radhë pritjeje e 
+device name |  n  | emër i pajisjes 
+device number |  n  | numër i pajisjes 
+device object |  n  | objekt i pajisje 
+device priority |  n  | prioritet i pajisjes 
+device queue |  n  | radhë pritjeje e 
 pajisjes 
-device resolution n rezolucion i 
+device resolution |  n  | rezolucion i 
 pajisjes 
-device selector n selektor (ose 
+device selector |  n  | selektor (ose 
 përzgjedhës) i pajisjes 
-device space n hapësirë e pajisjes 
-device status word [DSW] n fjalë e 
+device space |  n  | hapësirë e pajisjes 
+device status word [DSW] |  n  | fjalë e 
 statusit të pajisjes 
-device-dependent adj varur (i) nga 
+device-dependent |  adj  | varur (i) nga 
 pajisja 
-device-end condition n kusht për 
+device-end condition |  n  | kusht për 
 fund të punës së pajisjes 
-device-independent adj pavarur (i) 
+device-independent |  adj  | pavarur (i) 
 nga pajisja 
 device-independent bitmap [DIB] 
 n bitmapë e pavarur nga pajisja 
 [DIB] 
-Devices-Setup n rregullime pajisjesh 
-devise v sajoj, krijoj, shpik 
-DFC [Data Flow Control] abbr 
+Devices-Setup |  n  | rregullime pajisjesh 
+devise |  v  | sajoj, krijoj, shpik 
+DFC [Data Flow Control] |  abbr  | 
 kontroll i rrjedhjes së të dhënave 
-DFD [Data Flow Diagram] abbr 
+DFD [Data Flow Diagram] |  abbr  | 
 diagram i rrjedhjes së të dhënave 
  
 DHCP [Dynamic Host Configuration 
-Protocol] n DHCP [protokoll për 
+Protocol] |  n  | DHCP [protokoll për 
 konfigurim dinamik të kompjuterit 
 kryesor] 
-Dhrystone n Drajston [masë e 
+Dhrystone |  n  | Drajston [masë e 
 performansave të kompjuterit] 
 DIA [Document Interchange 
-Architecture] abbr DIA 
+Architecture] |  abbr  | DIA 
 [arkitekturë e shkëmbimit të 
 dokumenteve] 
-diacritical character n shenjë 
+diacritical character |  n  | shenjë 
 [karakter] diakritike 
-diagnose v diagnostikoj 
-diagnosis n diagnozë 
-diagnostic adj diagnostikues 
-diagnostic aid n ndihmë 
+diagnose |  v  | diagnostikoj 
+diagnosis |  n  | diagnozë 
+diagnostic |  adj  | diagnostikues 
+diagnostic aid |  n  | ndihmë 
 diagnostikuese 
-diagnostic chek n kontroll 
+diagnostic chek |  n  | kontroll 
 djagnostikues 
-diagnostic chip n çip diagnostikues 
-diagnostic message n mesazh 
+diagnostic chip |  n  | çip diagnostikues 
+diagnostic message |  n  | mesazh 
 diagnostikues 
-diagnostic program n program 
+diagnostic program |  n  | program 
 diagnostikues 
-diagnostic routine n rutinë 
+diagnostic routine |  n  | rutinë 
 diagnostikuese 
-diagnostic subroutine n nënprogram 
+diagnostic subroutine |  n  | nënprogram 
 diagnostikues 
-diagnostic test n testi diagnostikues 
-diagnostics n diagnostikë 
-diagonal cut n prerje diagonale [e 
+diagnostic test |  n  | testi diagnostikues 
+diagnostics |  n  | diagnostikë 
+diagonal cut |  n  | prerje diagonale [e 
 shiritit, filmit] 
  diagram 
-diagram n diagram 
-diagrammatic adj në trajtë diagrami 
+diagram |  n  | diagram 
+diagrammatic |  adj  | në trajtë diagrami 
 diagrammatically adv me anë të 
  
 91
 diagramit 
 differentiator 
-diascope n diaprojektor 
+diascope |  n  | diaprojektor 
 DIB [Device-Independent Bit map] 
 n DIB [bitmapë e pavarur nga 
 pajisja] 
-dibit n dybitësh ose dybit 
-di-cap storage n memorie di-kap 
+dibit |  n  | dybitësh ose dybit 
+di-cap storage |  n  | memorie di-kap 
 [memorie diodë-kondensator] 
-dichotomizing search n kërkim 
+dichotomizing search |  n  | kërkim 
 dikotomik [eliminues] 
-dictate v diktoj (një tekst) 
-dictating machine n makinë diktimi 
-dictation n diktim 
-dictation speed n shpejtësi diktimi 
+dictate |  v  | diktoj (një tekst) 
+dictating machine |  n  | makinë diktimi 
+dictation |  n  | diktim 
+dictation speed |  n  | shpejtësi diktimi 
 [numër i fjalëve për minutë] 
-dictionary n fjalor 
-dielectric n dielektrik 
-dieresis n dierezë ose umlaut 
+dictionary |  n  | fjalor 
+dielectric |  n  | dielektrik 
+dieresis |  n  | dierezë ose umlaut 
 [dypikëshi mbi zanore] 
-DIF [data interchange format] n DIF 
+DIF [data interchange format] |  n  | DIF 
 [format për shkëmbim të të 
 dhënave] 
-diferential equation n ekuacion 
+diferential equation |  n  | ekuacion 
 diferencial 
-difference n ndryshim 
-different adj ndryshëm (i) 
-differential amplifier n përforcues 
+difference |  n  | ndryshim 
+different |  adj  | ndryshëm (i) 
+differential amplifier |  n  | përforcues 
 (ose amplifikator) diferencial 
-differential encoding n kodim 
+differential encoding |  n  | kodim 
 diferencial 
-differential phase-shift keying n 
+differential phase-shift keying |  n  | 
 modulimi diferencial me 
 zhvendosje fazore 
-differentiator n diferenciator 
-dial v zgjedh numrin (e telefonit) 
-dialekt n dialekt 
-dialling n zgjedhje e numrit (të 
+differentiator |  n  | diferenciator 
+dial |  v  | zgjedh numrin (e telefonit) 
+dialekt |  n  | dialekt 
+dialling |  n  | zgjedhje e numrit (të 
 telefonit) 
-dialling code n kod i zgjedhjes 
-dialling tone n ton [sinjal] i 
+dialling code |  n  | kod i zgjedhjes 
+dialling tone |  n  | ton [sinjal] i 
 zgjedhjes 
-dialog n dialog 
-dialog box n kuti dialogu ose 
+dialog |  n  | dialog 
+dialog box |  n  | kuti dialogu ose 
 kornizë për dialog 
-dialog choise n opsion i dialogut 
-dialogue n dialog 
-dial-up n akses i komutuar [akses 
+dialog choise |  n  | opsion i dialogut 
+dialogue |  n  | dialog 
+dial-up |  n  | akses i komutuar [akses 
 telefonik, akses me modem] 
-dial-up access n akses i komutuar 
-dial-up connection n lidhje (linjë) e 
+dial-up access |  n  | akses i komutuar 
+dial-up connection |  n  | lidhje (linjë) e 
 komutuar 
-dial-up line n linjë e komutuar 
-dial-up modem n modem i 
+dial-up line |  n  | linjë e komutuar 
+dial-up modem |  n  | modem i 
 komutuar 
-dial-up service n shërbim i komutuar 
-diameter n diametër 
-diaphragm (1) n diafragmë (e 
+dial-up service |  n  | shërbim i komutuar 
+diameter |  n  | diametër 
+diaphragm (1) |  n  | diafragmë (e 
 kamerës) 
-diaphragm (2) n membranë (e 
+diaphragm (2) |  n  | membranë (e 
 mikrofonit ose e altoparlantit) 
-diapositive n diapozitiv 
-diary n ditar 
+diapositive |  n  | diapozitiv 
+diary |  n  | ditar 
  
  diffuse 
-diffuse v difuzon 
-diffusion n difuzion ose difuzim 
-digicash n para (kesh) digjitale, 
-digit n shifër 
-digit compression n ngjeshje 
+diffuse |  v  | difuzon 
+diffusion |  n  | difuzion ose difuzim 
+digicash |  n  | para (kesh) digjitale, 
+digit |  n  | shifër 
+digit compression |  n  | ngjeshje 
 digjitale 
-digit pulse n inpuls i shifrës 
-digital adj digjital [shifror, numerik] 
-digital audio disc n audiodisk 
+digit pulse |  n  | inpuls i shifrës 
+digital |  adj  | digjital [shifror, numerik] 
+digital audio disc |  n  | audiodisk 
 digjital 
-digital audio disc [DAD] n disk 
+digital audio disc [DAD] |  n  | disk 
 audio digjital [DAD] 
-digital audio tape n audioshirit 
+digital audio tape |  n  | audioshirit 
 digjital 
-digital audio/video connector n 
+digital audio/video connector |  n  | 
 konektor digjital audio-video 
-digital camera n kamerë digjitale 
-digital cash n para (kesh) digjitale 
-digital circuit n qark digjital 
-digital code n kod digjital 
-digital communications n 
+digital camera |  n  | kamerë digjitale 
+digital cash |  n  | para (kesh) digjitale 
+digital circuit |  n  | qark digjital 
+digital code |  n  | kod digjital 
+digital communications |  n  | 
 komunikime digjitale 
  
 92
 digital recording 
-digital data transmission n 
+digital data transmission |  n  | 
 transmetim digjital i të dhënave 
-digital display n displej digjital 
-digital filling n mbushje digjitale 
-digital format n format digjital 
-digital line n linjë digjitale 
-digital linear tape [DLT] n shirit 
+digital display |  n  | displej digjital 
+digital filling |  n  | mbushje digjitale 
+digital format |  n  | format digjital 
+digital line |  n  | linjë digjitale 
+digital linear tape [DLT] |  n  | shirit 
 linear (ose vijor) digjital [DLT] 
 Digital Micromirror Display 
-[DMD] n displej digjital me 
+[DMD] |  n  | displej digjital me 
 mikropasqyre 
-digital multimeter [DMM] n 
+digital multimeter [DMM] |  n  | 
 multimetër digjital 
-digital multiplier n shumëzues 
+digital multiplier |  n  | shumëzues 
 digjital 
 digjital/analog converter [DAC] n
  shndërrues digjital-analog 
-digital output n dalje digjitale 
+digital output |  n  | dalje digjitale 
 digital PBX [digital private branch 
-exchange] n central telefonik 
+exchange] |  n  | central telefonik 
 (me vetëkomutim) privat digjital 
-digital photography n fotografi 
+digital photography |  n  | fotografi 
 digjitale 
-digital comparator n krahasor (ose 
+digital comparator |  n  | krahasor (ose 
 komparator) digjital 
-digital plotter n ploter (ose 
+digital plotter |  n  | ploter (ose 
 vizatues) digjital 
 digital computern kompjuter digjital 
-digital converter n shndërrues (ose 
+digital converter |  n  | shndërrues (ose 
 konvertues) digjital 
-digital counter n numërues digjital 
-Digital Darkroom n dhomë e errët 
+digital counter |  n  | numërues digjital 
+Digital Darkroom |  n  | dhomë e errët 
 digjitale 
-digital data n dhëna (të) digjitale 
-digital data recorder n rekorder i të 
+digital data |  n  | dhëna (të) digjitale 
+digital data recorder |  n  | rekorder i të 
 dhënave digjitale 
  
-digital printer n printer digjital 
+digital printer |  n  | printer digjital 
 digital private branch exchange 
-[digital PBX] n central telefonik 
+[digital PBX] |  n  | central telefonik 
 (me vetëkomutim) privat digjital 
-digital recorder n rekorder 
+digital recorder |  n  | rekorder 
 [regjistrues] digjital 
-digital recording n regjistrim 
+digital recording |  n  | regjistrim 
 digjital 
  digital representation 
-digital representation n paraqitje 
+digital representation |  n  | paraqitje 
 digjitale 
  
 93
 dimmed 
 digital video disc-ROM [DVD-
-ROM] n videodisk digjital ROM 
+ROM] |  n  | videodisk digjital ROM 
 [DVD-ROM] 
-digital video interactive [DVI] n 
+digital video interactive [DVI] |  n  | 
 video digjitale ndërvepruese (ose 
 interaktive) [DVI] 
-Digital Video Interface [DVI] n 
+Digital Video Interface [DVI] |  n  | 
 ndërfaqe (ose interfejs) e videos 
 digjitale 
-digital video-interactive [DV-I] n 
+digital video-interactive [DV-I] |  n  | 
 videodisk digjital ndërveprues (ose 
 interaktiv) [DV-I] 
-digital-coded voice n zë i koduar 
+digital-coded voice |  n  | zë i koduar 
 digjital 
 digitally adv në formë digjitale 
 digital-to-analog converter [DAC] 
 n shndërrues ose konvertues 
 digjital-analog 
-digitization n digjitalizim 
-digitize v digjitalizoj 
-digitizer n digjitalizator ose 
+digitization |  n  | digjitalizim 
+digitize |  v  | digjitalizoj 
+digitizer |  n  | digjitalizator ose 
 digjitalizues 
-digitizer tablet n pllakë (ose 
+digitizer tablet |  n  | pllakë (ose 
 tabelë) digjitalizimi 
-digitizing n digjitalizim 
-digraph n dyshkronjësh 
-DikuMUD n DikuMUD [softuer] 
-dimension n përmasë (dimension) 
-dimensional adj përmasor 
+digitizing |  n  | digjitalizim 
+digraph |  n  | dyshkronjësh 
+DikuMUD |  n  | DikuMUD [softuer] 
+dimension |  n  | përmasë (dimension) 
+dimensional |  adj  | përmasor 
 (dimensional) 
-dimensioning n dimensionim 
-dimmed adj zbehtë (e) 
-digital resolution n rezolucion 
+dimensioning |  n  | dimensionim 
+dimmed |  adj  | zbehtë (e) 
+digital resolution |  n  | rezolucion 
 digjital 
-digital signal n sinjal digjital 
-digital signal analyzer n analizator 
+digital signal |  n  | sinjal digjital 
+digital signal analyzer |  n  | analizator 
 digjital i sinjalit 
-digital signal processing n 
+digital signal processing |  n  | 
 përpunim digjital i sinjalit 
-digital signal processor [DSP] n 
+digital signal processor [DSP] |  n  | 
 procesor i sinjalit digjital [DSP] 
-digital signature n nënshkrim digjital 
-digital simulation n simulim digjital 
-digital sort n renditje ose sortim 
+digital signature |  n  | nënshkrim digjital 
+digital simulation |  n  | simulim digjital 
+digital sort |  n  | renditje ose sortim 
 digjitale 
-digital sorting n renditje (ose 
+digital sorting |  n  | renditje (ose 
 sortim) digjitale 
-digital speech n folurit (të) digjital 
-digital subscriber line [DSL] n 
+digital speech |  n  | folurit (të) digjital 
+digital subscriber line [DSL] |  n  | 
 linjë digjitale e abonentit ose linjë 
 parapaguese digjitale [DSL] 
-digital system n sistem digjital 
-digital telemetering n telemetri 
+digital system |  n  | sistem digjital 
+digital telemetering |  n  | telemetri 
 digjitale 
-digital video n video digjitale 
-digital video disc [DVD] n 
+digital video |  n  | video digjitale 
+digital video disc [DVD] |  n  | 
 videodisk digjital 
 digital video disc-erasable [DVD-E]
- n videodisk digjital i fshijshëm 
+ |  n  | videodisk digjital i fshijshëm 
 [DVD-E] 
 digital video disc-recordable 
-[DVD-R] n videodisk digjital i 
+[DVD-R] |  n  | videodisk digjital i 
 regjistrueshëm [DVD-R] 
  
  DIN connector 
-DIN connector n konektor DIN 
+DIN connector |  n  | konektor DIN 
 [sipas standardit DIN - Deutsch 
 Industrie Norm] 
-dingbat n element dekorativ 
-diode n diodë 
-diode transistor logic [DTL] n 
+dingbat |  n  | element dekorativ 
+diode |  n  | diodë 
+diode transistor logic [DTL] |  n  | 
 logjikë diodë - transistor [DTL 
-diode-transistor logic [DTL] n 
+diode-transistor logic [DTL] |  n  | 
 logjikë diodë - transistor [DTL 
-diopter n dioptri 
-DIP [dual in line package] abbr 
+diopter |  n  | dioptri 
+DIP [dual in line package] |  abbr  | 
 paketim dyrreshtor [i qarqeve të 
 integruara] 
-DIP [Dual In-line Package] n DIP 
+DIP [Dual In-line Package] |  n  | DIP 
 [paketim dyrreshtor] 
-DIP switch n ndërprerës (ose 
+DIP switch |  n  | ndërprerës (ose 
 komutator) DIP [dyrreshtor] 
-diplex n dipleks 
-dipol n dypol 
-dipole n dipol 
-dir n dir 
+diplex |  n  | dipleks 
+dipol |  n  | dypol 
+dipole |  n  | dipol 
+dir |  n  | dir 
 direct adv drejt ose drejtpërdrejt 
-direct v drejtoj ose udhëheq (punën) 
-direct adj drejtpërdrejtë (i) 
-direct access n akses i 
+direct |  v  | drejtoj ose udhëheq (punën) 
+direct |  adj  | drejtpërdrejtë (i) 
+direct access |  n  | akses i 
 drejtpërdrejtë [ose direkt[ 
-direct access method [DAM] n 
+direct access method [DAM] |  n  | 
 metodë e aksesit të drejtpërdrejtë 
 [DAM] 
 direct access storage device 
-[DASD] n pajisje memoruese 
+[DASD] |  n  | pajisje memoruese 
 me akses të drejtpërdrejtë [DASD] 
-direct activation n aktivizim i 
+direct activation |  n  | aktivizim i 
 drejtpërdrejtë 
  
  
 94
 direct numerical control 
-direct address n adresë e 
+direct address |  n  | adresë e 
 drejtpërdrejtë 
-direct addressing n adresim i 
+direct addressing |  n  | adresim i 
 drejtpërdrejtë 
-direct cable connection n lidhje 
+direct cable connection |  n  | lidhje 
 kabllore e drejtpërdrejtë 
-direct code n kod i drejtpërdrejtë 
+direct code |  n  | kod i drejtpërdrejtë 
 [kod i makinës] 
-direct connection n lidhje e 
+direct connection |  n  | lidhje e 
 drejtpërdrejtë 
-direct control n kontroll i 
+direct control |  n  | kontroll i 
 drejtpërdrejtë [direkt] 
-direct current n rrymë e vazhduar 
-direct current [DC] n rrymë e 
+direct current |  n  | rrymë e vazhduar 
+direct current [DC] |  n  | rrymë e 
 vazhduar 
-direct deactivation n çaktivizim i 
+direct deactivation |  n  | çaktivizim i 
 drejtpërdrejtë 
-direct digital color proof n shtypje 
+direct digital color proof |  n  | shtypje 
 provuese me ngjyrë direkte 
 digjitale 
 Direct Graphics Interface 
-Specification [DGIS] n specifikim 
+Specification [DGIS] |  n  | specifikim 
 i drejtpërdrejtë i ndërfaqes grafike 
 [ose interfejsit grafik] 
-direct hierarchi control n kontroll 
+direct hierarchi control |  n  | kontroll 
 hierarkik i drejtpërdrejtë 
-direct instruction n instruksion i 
+direct instruction |  n  | instruksion i 
 drejtpërdrejtë 
-direct loss n humbje e drejtpërdrejtë 
-direct manipulation n manipulim i 
+direct loss |  n  | humbje e drejtpërdrejtë 
+direct manipulation |  n  | manipulim i 
 drejtpërdrejtë 
-direct memory access [DMA] n 
+direct memory access [DMA] |  n  | 
 akses i drejtpërdrejtë në memorie 
-direct numerical control n 
+direct numerical control |  n  | 
 komandimi numerik i drejtpërdrejtë 
  direct organization 
-direct organization n organizim i 
+direct organization |  n  | organizim i 
 drejtpërdrejtë 
-direct processing n përpunim i 
+direct processing |  n  | përpunim i 
 drejtpërdrejtë 
-direct read after write [DRAW] n 
+direct read after write [DRAW] |  n  | 
 lexim direkt pas shkruarjes 
 [DRAW] 
-direct read during write n lexim 
+direct read during write |  n  | lexim 
 direkt gjatë shkruarjes [DRDW] 
-direct routing n rrugëzim i (ose 
+direct routing |  n  | rrugëzim i (ose 
 rrugëzgjidhje e) drejtpërdrejtë 
 [direkte] 
-direct sequence n varg i 
+direct sequence |  n  | varg i 
 drejtpërdrejtë [direkt] 
-direct view storage tube [DVST] n 
+direct view storage tube [DVST] |  n  | 
 gyp katodik me paraqitje direkte 
 dhe me memorie [DVST] 
-direct-access library n bibliotekë 
+direct-access library |  n  | bibliotekë 
 me akses të drejtpërdrejtë 
-direct-access memory [DAM] n 
+direct-access memory [DAM] |  n  | 
 memorie me akses të drejtpërdrejtë 
 [DAM] 
-direct-access storage n memorie me 
+direct-access storage |  n  | memorie me 
 akses të drejtpërdrejtë 
-direct-address processing n 
+direct-address processing |  n  | 
 përpunim me adresa të 
 drejtpërdrejta 
-direct-connect modem n modem 
+direct-connect modem |  n  | modem 
 për lidhje të drejtpërdrejtë 
 direct-coupled transistor logic 
-[DCTL] n logjikë transistorike me 
+[DCTL] |  n  | logjikë transistorike me 
 lidhje direkte [DCTL] 
-directed tree n pemë e orientuar 
-direct-entry terminal n terminal me 
+directed tree |  n  | pemë e orientuar 
+direct-entry terminal |  n  | terminal me 
 hyrje të drejtpërdrejtë 
  
  
 95
 directory tree 
-DirectInput n DirectInput [hyrje 
+DirectInput |  n  | DirectInput [hyrje 
 direkte] 
-direction n drejtim 
-direction key n tast i drejtimit ose 
+direction |  n  | drejtim 
+direction key |  n  | tast i drejtimit ose 
 tast për drejtim 
-directional adj drejtimor 
-directions for use n udhëzime për 
+directional |  adj  | drejtimor 
+directions for use |  n  | udhëzime për 
 përdorim 
-directive n direktivë ose urdhër 
-director (1) n drejtor 
-director (2) n drejtues 
-directory n direktorium 
-Directory Access Protocol n 
+directive |  n  | direktivë ose urdhër 
+director (1) |  n  | drejtor 
+director (2) |  n  | drejtues 
+directory |  n  | direktorium 
+Directory Access Protocol |  n  | 
 protokoll për akses direktoriumeve 
-Directory Client Agent n agjent i 
+Directory Client Agent |  n  | agjent i 
 klientit për direktoriume 
-directory of servers n direktorium i 
+directory of servers |  n  | direktorium i 
 serverëve 
-directory path n shteg i 
+directory path |  n  | shteg i 
 direktoriumit 
-directory replication n kopjim i 
+directory replication |  n  | kopjim i 
 direktoriumit 
-directory server n server i 
+directory server |  n  | server i 
 direktoriumeve 
-Directory Server Agent n agjent i 
+Directory Server Agent |  n  | agjent i 
 serverit për direktoriume 
-directory service n servis i 
+directory service |  n  | servis i 
 direktoriumeve 
-Directory System Agent n agjent i 
+Directory System Agent |  n  | agjent i 
 sistemit për direktoriume 
-directory tree n pemë e 
+directory tree |  n  | pemë e 
 direktoriumit 
  
 96
 disk crash 
-discrete multitone n multiton diskret 
-discretionary adj lirë (i) për të 
+discrete multitone |  n  | multiton diskret 
+discretionary |  adj  | lirë (i) për të 
 vepruar 
  Directory User Agent 
-Directory User Agent n agjent i 
+Directory User Agent |  n  | agjent i 
 përdoruesit (ose shfrytëzuesit) për 
 direktoriume 
-DirectX n DirectX 
-dirty adj papastër (i) 
-dirty bit n bit i papastër 
-dirty power n furnizim i papastër 
-dirty ROM n ROM i papastër 
-disable v pamundësoj [paaftësoj] 
-disabled adj pamundësuar (i) 
+DirectX |  n  | DirectX 
+dirty |  adj  | papastër (i) 
+dirty bit |  n  | bit i papastër 
+dirty power |  n  | furnizim i papastër 
+dirty ROM |  n  | ROM i papastër 
+disable |  v  | pamundësoj [paaftësoj] 
+disabled |  adj  | pamundësuar (i) 
 [paaftësuar (i), shkyçur (i)] 
-disabled folders n folder [dosje] të 
+disabled folders |  n  | folder [dosje] të 
 pamundësuar 
-disarm v çaktivizoj 
-disarmed state n gjendje e 
+disarm |  v  | çaktivizoj 
+disarmed state |  n  | gjendje e 
 çaktivizuar 
-disassembler n disasembler 
-disassociate v eliminim i shoqërimit 
-disaster n fatkeqësi (informatike) 
+disassembler |  n  | disasembler 
+disassociate |  v  | eliminim i shoqërimit 
+disaster |  n  | fatkeqësi (informatike) 
 [katastrofë informatike] 
-disc n disk (kompakt) [CD] 
-DISC [disconnect] abbr shkyçur (i) 
+disc |  n  | disk (kompakt) [CD] 
+DISC [disconnect] |  abbr  | shkyçur (i) 
 [shkëputur (i)] 
-disc type n tip disku 
-discard v hedh [flak] 
-discarded packet n paketë e hedhur 
+disc type |  n  | tip disku 
+discard |  v  | hedh [flak] 
+discarded packet |  n  | paketë e hedhur 
 [flakur] 
-discovery n zbulim 
-discrete (1) adj diskret [i 
+discovery |  n  | zbulim 
+discrete (1) |  adj  | diskret [i 
 pavazhduar] 
-discrete (2) adj veçantë (i) 
+discrete (2) |  adj  | veçantë (i) 
 discrete Fourier transform [DFT] 
 n transformim Furie diskret 
  
-discriminator n diskriminator ose 
+discriminator |  n  | diskriminator ose 
 dallor 
-discussion n diskutim 
-discussion forum n forum diskutimi 
-discussion group n grup diskutues 
+discussion |  n  | diskutim 
+discussion forum |  n  | forum diskutimi 
+discussion group |  n  | grup diskutues 
 [forum] 
-dish aerial n antenë parabolike 
-disjoint adj ndarë 
-disjoint adj shkëputur 
+dish aerial |  n  | antenë parabolike 
+disjoint |  adj  | ndarë 
+disjoint |  adj  | shkëputur 
 disjoint adv disjunktiv 
-disjoint (1) v ndaj 
-disjoint (2) v shkëpus 
-disjoint network n rrjet ndarës 
-disjoint sets n bashkësi disjunktive 
-disjointed adj palidhur (i) 
-disjunction (1) n ndarje 
-disjunction (2) n shkëputje 
-disjunction (3) n disjunksion [në 
+disjoint (1) |  v  | ndaj 
+disjoint (2) |  v  | shkëpus 
+disjoint network |  n  | rrjet ndarës 
+disjoint sets |  n  | bashkësi disjunktive 
+disjointed |  adj  | palidhur (i) 
+disjunction (1) |  n  | ndarje 
+disjunction (2) |  n  | shkëputje 
+disjunction (3) |  n  | disjunksion [në 
 logjikë] 
-disk n disk (magnetik) 
-disk access time n kohë e aksesit në 
+disk |  n  | disk (magnetik) 
+disk access time |  n  | kohë e aksesit në 
 disk 
-disk buffer n bufer i diskut 
-disk cache n memorie kesh e diskut 
-disk controller n kontrollues (ose 
+disk buffer |  n  | bufer i diskut 
+disk cache |  n  | memorie kesh e diskut 
+disk controller |  n  | kontrollues (ose 
 kontroller) disku 
-disk copy n kopjim i diskut 
-disk crash n prishje e diskut 
+disk copy |  n  | kopjim i diskut 
+disk crash |  n  | prishje e diskut 
  disk defragmenter 
  
 97
-disk defragmenter n shfragmentues 
+disk defragmenter |  n  | shfragmentues 
 i diskut 
-disk directory n direktorium i diskut 
-disk drive controller n kontrollues i 
+disk directory |  n  | direktorium i diskut 
+disk drive controller |  n  | kontrollues i 
 ngasësit të diskut 
-disk duplexing n dyfishim ose 
+disk duplexing |  n  | dyfishim ose 
 duplim i diskut 
-disk envelope n mbështjellëse disku 
-disk failure n prishje e diskut 
-disk format n format i diskut 
-disk formatting n formatim i diskut 
-disk head n kokë magnetike e diskut 
-disk imaging n shembëllim i diskut 
+disk envelope |  n  | mbështjellëse disku 
+disk failure |  n  | prishje e diskut 
+disk format |  n  | format i diskut 
+disk formatting |  n  | formatim i diskut 
+disk head |  n  | kokë magnetike e diskut 
+disk imaging |  n  | shembëllim i diskut 
 [pasqyrim i përmbajtjes së diskut] 
-disk interface n ndërfaqe [ose 
+disk interface |  n  | ndërfaqe [ose 
 interfejs] disku 
-disk memory n memorie e diskut 
-disk mirroring n pasqyrim i diskut 
-disk operating system [DOS] n 
+disk memory |  n  | memorie e diskut 
+disk mirroring |  n  | pasqyrim i diskut 
+disk operating system [DOS] |  n  | 
 sistemi operativ në disk ose sistem 
 operativ i diskut [DOS] 
-disk pack n deng (ose pako) disqesh 
-disk partition n particion [pjesë] i 
+disk pack |  n  | deng (ose pako) disqesh 
+disk partition |  n  | particion [pjesë] i 
 diskut ose ndarje e diskut 
-disk sector n sektor i diskut 
-disk server n server i diskut 
-disk space n hapësirë disku 
-disk storage n memorie disku 
-disk striping n kombinim i 
+disk sector |  n  | sektor i diskut 
+disk server |  n  | server i diskut 
+disk space |  n  | hapësirë disku 
+disk storage |  n  | memorie disku 
+disk striping |  n  | kombinim i 
 particioneve 
-disk striping with parity n 
+disk striping with parity |  n  | 
 kombinim i particioneve me paritet 
-disk track n shteg i diskut 
+disk track |  n  | shteg i diskut 
  
 display console 
-disk unit n njësi e diskut 
-diskette n disketë 
-diskette controller n kontrollues 
+disk unit |  n  | njësi e diskut 
+diskette |  n  | disketë 
+diskette controller |  n  | kontrollues 
 diskete 
-diskless adj pa disk 
-diskless workstation n stacion 
+diskless |  adj  | pa disk 
+diskless workstation |  n  | stacion 
 punues pa disk 
-diskrete multitone [DMT] n 
+diskrete multitone [DMT] |  n  | 
 multiton diskret 
-diskspace n hapësirë disku 
-dispatch table n tabela dispeçerike 
-dispatcher n dispeçer 
-dispatching n ndarje 
-disperse v shpërhap 
-dispersion n shpërhapje [dispersion] 
-displacement n zhvendosje 
-display v paraqit [në ekran] 
-display (1) n paraqitje vizuale 
-display (2) n ekran [përshfaqës 
+diskspace |  n  | hapësirë disku 
+dispatch table |  n  | tabela dispeçerike 
+dispatcher |  n  | dispeçer 
+dispatching |  n  | ndarje 
+disperse |  v  | shpërhap 
+dispersion |  n  | shpërhapje [dispersion] 
+displacement |  n  | zhvendosje 
+display |  v  | paraqit [në ekran] 
+display (1) |  n  | paraqitje vizuale 
+display (2) |  n  | ekran [përshfaqës 
 vizual; gyp katodik] 
-display adapter n përshtatës i 
+display adapter |  n  | përshtatës i 
 displejit 
-display area n sipërfaqe e ekranit 
-display attribute n atribut i displejit 
-display background n parapavijë e 
+display area |  n  | sipërfaqe e ekranit 
+display attribute |  n  | atribut i displejit 
+display background |  n  | parapavijë e 
 paraqitjes 
-display board n pllakë e displejit 
-display card n kartelë e displejit 
-display column n kolonë e displejit 
-display command n komandë e 
+display board |  n  | pllakë e displejit 
+display card |  n  | kartelë e displejit 
+display column |  n  | kolonë e displejit 
+display command |  n  | komandë e 
 displejit 
-display console n konsol i displejit 
+display console |  n  | konsol i displejit 
  display cycle 
-display cycle n cikël i displejit 
-Display Data Channel [DDC] n 
+display cycle |  n  | cikël i displejit 
+Display Data Channel [DDC] |  n  | 
 kanal të dhënave për displej (ekran) 
 [DDC] 
-display page n faqe e paraqitjes 
-display port n port për displej 
-Display PostScript n Display 
+display page |  n  | faqe e paraqitjes 
+display port |  n  | port për displej 
+Display PostScript |  n  | Display 
 PostScript 
 Display Power Management 
-Signaling [DPMS] n sinjalizim për 
+Signaling [DPMS] |  n  | sinjalizim për 
 menaxhim të energjisë së displejit 
-display processor n koprocesor 
+display processor |  n  | koprocesor 
 grafik 
-display screen n ekran për paraqitje 
+display screen |  n  | ekran për paraqitje 
 [përshfaqje] 
-display space n hapësirë 
-display surface n sipërfaqe e e 
+display space |  n  | hapësirë 
+display surface |  n  | sipërfaqe e e 
 paraqitjes [përshfaqjes] 
-display terminal n terminal për 
+display terminal |  n  | terminal për 
 paraqitje 
-distance n largësi ose distancë 
-distance learning n mësim në 
+distance |  n  | largësi ose distancë 
+distance learning |  n  | mësim në 
 largësi (ose distancë) 
 Distance Vector Multicast Routing 
-Protocol [DVMRP] n protokoll për 
+Protocol [DVMRP] |  n  | protokoll për 
 orientim vektorial të shumfishtë në 
 largësi (ose distancë) [DVMRP] 
-distant adj largët (i) [në largësi] 
-distinguish v dalloj [veçoj] 
-distort v shtrembëroj 
-distortion n shtrembërim [distorsion] 
-distribute v përndaj 
-distributed adj përndarë (i) 
+distant |  adj  | largët (i) [në largësi] 
+distinguish |  v  | dalloj [veçoj] 
+distort |  v  | shtrembëroj 
+distortion |  n  | shtrembërim [distorsion] 
+distribute |  v  | përndaj 
+distributed |  adj  | përndarë (i) 
  
  
 98
 distributed processing 
-distributed bulletin board n tabelë 
+distributed bulletin board |  n  | tabelë 
 e përndarë e shpalljeve 
-Distributed COM n COM i përndarë 
+Distributed COM |  n  | COM i përndarë 
 Distributed Component Object 
-Model [DCOM] n model i 
+Model [DCOM] |  n  | model i 
 komponenteve të përndara të 
 objektit [DCOM] 
-distributed computing n përpunim i 
+distributed computing |  n  | përpunim i 
 përndarë 
 Distributed Computing 
-Environment [DCE] n rrethinë 
+Environment [DCE] |  n  | rrethinë 
 kompjuterike e përndarë [DCE] 
-distributed data base n bazë e 
+distributed data base |  n  | bazë e 
 përndarë e të dhënave 
-distributed data processing n 
+distributed data processing |  n  | 
 përpunim i përndarë i të dhënave 
-distributed database n bazë e 
+distributed database |  n  | bazë e 
 përndarë e të dhënave 
 distributed database management 
-system [DDBMS] n sistem i 
+system [DDBMS] |  n  | sistem i 
 udhëheqjes me bazën e përndarë të 
 të dhënave [DDBMS] 
-distributed database system n 
+distributed database system |  n  | 
 sistem me bazë të përndarë të të 
 dhënave 
-distributed file system [Dfs] n 
+distributed file system [Dfs] |  n  | 
 sistem i fajlave të përndarë ose 
 sistem i përndarë i fajlave [Dfs] 
-distributed free space n hapësirë e 
+distributed free space |  n  | hapësirë e 
 zbrazët e përndarë [e distribuar] 
-distributed intelligence n 
+distributed intelligence |  n  | 
 intelegjencë e përndarë 
-distributed network n rrjet i 
+distributed network |  n  | rrjet i 
 përndarë 
-distributed processing n përpunim i 
+distributed processing |  n  | përpunim i 
 përndarë 
  distributed processing system 
-distributed processing system n 
+distributed processing system |  n  | 
 sistem i përndarë i përpunimit 
-distributed system n sistem i 
+distributed system |  n  | sistem i 
 përndarë 
 distributed transaction processing 
-[DTP] n përpunimi i përndarë i 
+[DTP] |  n  | përpunimi i përndarë i 
 transakcioneve [DTP] 
-distribution n përndarje ose 
+distribution |  n  | përndarje ose 
 distribuim 
-distribution list n listë e përndarjes 
-distribution network n rrjet i 
+distribution list |  n  | listë e përndarjes 
+distribution network |  n  | rrjet i 
 përndarjes (ose distribuimit) 
-distribution panel n panel 
+distribution panel |  n  | panel 
 përndarjeje (ose distribuomi) 
-distribution point n pikë përndarjeje 
-distribution program n program 
+distribution point |  n  | pikë përndarjeje 
+distribution program |  n  | program 
 përndarjeje (ose distribuimi) 
-distributive laws n ligjet e 
+distributive laws |  n  | ligjet e 
 përndarjes (ose distribuimit) 
-distributive sort n renditje 
+distributive sort |  n  | renditje 
 përndarëse ose sortim distributiv 
-dittogram n ditogram [ditograf] 
-divergence n divergjencë 
-divert (towards) n ndërroj drejtimin 
+dittogram |  n  | ditogram [ditograf] 
+divergence |  n  | divergjencë 
+divert (towards) |  n  | ndërroj drejtimin 
 [ia ndryshoj udhën] 
-divide n pjesëtoj [ndaj] 
-divide-by-n counter n numërues 
+divide |  n  | pjesëtoj [ndaj] 
+divide-by-n counter |  n  | numërues 
 pjesëtues-për-n 
-dividend (1) n pjesëtueshëm (i) 
+dividend (1) |  n  | pjesëtueshëm (i) 
 (mat.) 
-dividend (2) n dividentë [pjesë nga 
+dividend (2) |  n  | dividentë [pjesë nga 
 fitimi i kompanisë] 
-divider n pjesëtues 
-division n ndarje; pjesëtim 
+divider |  n  | pjesëtues 
+division |  n  | ndarje; pjesëtim 
  
  
 99
 do loop 
-division by zero n pjesëtim me zero 
-division subroutine n nënprogram 
+division by zero |  n  | pjesëtim me zero 
+division subroutine |  n  | nënprogram 
 për pjesëtim 
-divisor n pjesëtues 
-DLC [Data Link Control] abbr DLC 
+divisor |  n  | pjesëtues 
+DLC [Data Link Control] |  abbr  | DLC 
 [kontroll i lidhjes për bartje të të 
 dhënave] 
-DLL [dynamic-link library] n 
+DLL [dynamic-link library] |  n  | 
 bibliotekë e lidhjeve dinamike 
-DLT [digital linear tape] n shiriti 
+DLT [digital linear tape] |  n  | shiriti 
 linear ose vijor digjital 
-DMA [direct memory access] abbr 
+DMA [direct memory access] |  abbr  | 
 akses i drejtpërdrejtë në memorie 
 DMD [Digital Micromirror Display] 
 n displej digjital me mikropasqyre 
 DMI [Desktop Management 
-Interface] abbr DMI [ndërfaqe (ose 
+Interface] |  abbr  | DMI [ndërfaqe (ose 
 interfejs) për menaxhim të 
 desktopit] 
 DML [data manipulation language] 
 abbr DML [gjuhë për manipulim 
 me të dhëna; gjuhë për punë me të 
 dhëna] 
-DMM [Digital MultiMeter] n 
+DMM [Digital MultiMeter] |  n  | 
 multimetër digjital 
-DMT [diskrete multitone] n 
+DMT [diskrete multitone] |  n  | 
 multiton diskret 
 DMTF [Desktop Management Task 
-Force] abbr DMTF [grupi punues 
+Force] |  abbr  | DMTF [grupi punues 
 për udhëheqje nga desktopi] 
-DNS [Domain Name System] n 
+DNS [Domain Name System] |  n  | 
 sistemi i emrave të domenit [DNS] 
-DNS server n server DNS 
-do v DO [bëj (veprimin)] 
-do loop n lak (ose unazë) do 
+DNS server |  n  | server DNS 
+do |  v  | DO [bëj (veprimin)] 
+do loop |  n  | lak (ose unazë) do 
  DO loop 
-DO loop n lak (ose unazë) DO 
+DO loop |  n  | lak (ose unazë) DO 
 do not disturb [DND] ph mos 
 pengoni 
-dock n dok [stacion bazë: njësi për 
+dock |  n  | dok [stacion bazë: njësi për 
 lidhjen e kompjuterit portativ si 
 kompjuter tavoline] 
-dock station n dok [stacion bazë: 
+dock station |  n  | dok [stacion bazë: 
 njësi për lidhjen e kompjuterit 
 portativ si kompjuter tavoline] 
-docking mechanism n mekanizëm 
+docking mechanism |  n  | mekanizëm 
 për lidhje në stacionin bazë 
-doctype n tip i dokumentit 
-document n dokument 
-document (1) v dokumentoj 
+doctype |  n  | tip i dokumentit 
+document |  n  | dokument 
+document (1) |  v  | dokumentoj 
 Document Content Architecture 
-[DCA] n arkitekturë e përmbajtjes 
+[DCA] |  n  | arkitekturë e përmbajtjes 
 së dokumentit 
-document file n fajl i dokumentit 
-document flow n rrjedhje e 
+document file |  n  | fajl i dokumentit 
+document flow |  n  | rrjedhje e 
 dokumenteve 
-document handing n manipulim i 
+document handing |  n  | manipulim i 
 dokumenteve 
-document image processing n 
+document image processing |  n  | 
 përpunim i figurave të 
 dokumenteve 
 Document Interchange 
-Architecture [DIA] n arkitekturë e 
+Architecture [DIA] |  n  | arkitekturë e 
 këmbimit të dokumenteve 
-document management n 
+document management |  n  | 
 menaxhim i dokumenteve 
-document model n model i 
+document model |  n  | model i 
 dokumentit 
-document processing n përpunim i 
+document processing |  n  | përpunim i 
 dokumenteve 
  
  
 100
 Domain Naming System 
-document reader n lexues i 
+document reader |  n  | lexues i 
 dokumentit 
-document retrieval n gjetje e 
+document retrieval |  n  | gjetje e 
 dokumenteve 
-document source n burim i 
+document source |  n  | burim i 
 dokumenteve 
 Document Style Semantics and 
 Specification Language [DSSSL] 
 n semantikë e stilit të dokumentit 
 dhe gjuhë specifikuese [DSSSL] 
-document window n dritare e 
+document window |  n  | dritare e 
 dokumentit 
-documentation (1) n dokumentim 
-documentation (2) n 
+documentation (1) |  n  | dokumentim 
+documentation (2) |  n  | 
 dokumentacion 
-document-centric adj përqëndruar 
+document-centric |  adj  | përqëndruar 
 (i) në dokumente 
-docuterm n term i dokumentit 
-DoD [Department of Defense] n 
+docuterm |  n  | term i dokumentit 
+DoD [Department of Defense] |  n  | 
 Ministria e mbrojtjes së SHBA 
-dollar sign [$] n shenja e dollarit [$] 
-domain n domen 
-domain controller n kontrollues 
+dollar sign [$] |  n  | shenja e dollarit [$] 
+domain |  n  | domen 
+domain controller |  n  | kontrollues 
 domeni 
-domain growth n rritje e domenit 
-domain model n model i domenit 
-domain name n emri i domenit 
-domain name server n server i 
+domain growth |  n  | rritje e domenit 
+domain model |  n  | model i domenit 
+domain name |  n  | emri i domenit 
+domain name server |  n  | server i 
 emrave të domeneve 
-Domain Name System [DNS] n 
+Domain Name System [DNS] |  n  | 
 sistem i emrave të domenit [DNS] 
-Domain Naming System [DNS] n 
+Domain Naming System [DNS] |  n  | 
 sistem i emërtimit të domeneve 
 [DNS] 
  domain operator 
-domain operator n operator domeni 
-domain rotation n rotacion i 
+domain operator |  n  | operator domeni 
+domain rotation |  n  | rotacion i 
  
 101
 domenit 
 double-ended queue 
-dots per inch [dpi] n pika për inç 
+dots per inch [dpi] |  n  | pika për inç 
 [dpi] 
-dotted adj pikëzor [vijë prej pikave] 
-double (1) adj dyfishtë (i) 
-double (2) adj dyanësh 
-double buffering n buferim 
+dotted |  adj  | pikëzor [vijë prej pikave] 
+double (1) |  adj  | dyfishtë (i) 
+double (2) |  adj  | dyanësh 
+double buffering |  n  | buferim 
 [ndërmemorim] i dyfishtë 
-domain search n kërkim domeni 
-domain window n dritare e domenit 
-do-nothing instruction n 
+domain search |  n  | kërkim domeni 
+domain window |  n  | dritare e domenit 
+do-nothing instruction |  n  | 
 instruksioni "mos bëj asgjë" 
-DOS [Disk Operating System] abbr 
+DOS [Disk Operating System] |  abbr  | 
 DOS [sistem operativ në disk] 
-double click n klikim i dyfishtë 
+double click |  n  | klikim i dyfishtë 
 [shkrepje e dyfishtë] 
-DOS box n kuti ose kornizë DOS 
-DOS prompt n prompt i DOS-it 
-dot n pikë 
-dot character printer n shtypës (ose 
+DOS box |  n  | kuti ose kornizë DOS 
+DOS prompt |  n  | prompt i DOS-it 
+dot |  n  | pikë 
+dot character printer |  n  | shtypës (ose 
 printer) me pika 
-dot com n .com 
-dot command n komanda me pikë 
-dot file n fajl me pikë 
-dot matrix n matricë pikash 
-dot pitch n largësi (ose distancë) 
+dot com |  n  | .com 
+dot command |  n  | komanda me pikë 
+dot file |  n  | fajl me pikë 
+dot matrix |  n  | matricë pikash 
+dot pitch |  n  | largësi (ose distancë) 
 mes pikave 
-dot size n madhësi e pikës 
-dot-addressable mode n mënyrë e 
+dot size |  n  | madhësi e pikës 
+dot-addressable mode |  n  | mënyrë e 
 adresimit të pikave 
-dot-matrix n matricë e pikave 
-dot-matrix adj matricor 
-dot-matrix character generator n 
+dot-matrix |  n  | matricë e pikave 
+dot-matrix |  adj  | matricor 
+dot-matrix character generator |  n  | 
 gjenerator karakteresh me matricë 
 pikash 
-dot-matrix printer n shtypës (ose 
+dot-matrix printer |  n  | shtypës (ose 
 printer) matricor me gjilpëra (ose 
 pika) 
-dots per inch n pika për inç [numri i 
+dots per inch |  n  | pika për inç [numri i 
 pakeve për inç] 
-double clicking n klikim i dyfishtë 
+double clicking |  n  | klikim i dyfishtë 
 [shkrepje e dyfishtë] 
-double dagger n kryq i dyfishtë, ‡ 
-double density n dendësi e dyfishtë 
-double density disk n disk me 
+double dagger |  n  | kryq i dyfishtë, ‡ 
+double density |  n  | dendësi e dyfishtë 
+double density disk |  n  | disk me 
 dendësi të dyfishtë 
-double precision n saktësi e dyfishtë 
-double precision number n numër 
+double precision |  n  | saktësi e dyfishtë 
+double precision number |  n  | numër 
 me saktësi të dyfishtë 
-double recording n regjistrim i 
+double recording |  n  | regjistrim i 
 dyfishtë 
-double word n fjalë e dyfishtë 
-double word check n kontroll i 
+double word |  n  | fjalë e dyfishtë 
+double word check |  n  | kontroll i 
 fjalëve të dyfishta 
-doubleclick n dopioklik ose klikim i 
+doubleclick |  n  | dopioklik ose klikim i 
 dyfishtë 
-double-click v klikoj dy herë 
+double-click |  v  | klikoj dy herë 
 [shkrep dy herë] 
-double-density disk n disketë me 
+double-density disk |  n  | disketë me 
 dendësi të dyfishtë 
-double-dereference n dereferencim i 
+double-dereference |  n  | dereferencim i 
 dyfishtë 
-double-ended queue [dequeue] n 
+double-ended queue [dequeue] |  n  | 
 radhë (pritjeje) me dy skaje 
  
  double-high 
-double-high adj me lartësi të 
+double-high |  adj  | me lartësi të 
 dyfishtë 
  
 102
 drawing 
 DPMA [Shoqatë për udhëheqje me 
 përpunimin e të dhënave] 
-double-length number n numër me 
+double-length number |  n  | numër me 
 gjatësi të dyfishtë 
-double-list sorting n renditje (ose 
+double-list sorting |  n  | renditje (ose 
 sortim) me listë të dyfishtë 
-double-precision adj saktësi e 
+double-precision |  adj  | saktësi e 
 dyfishtë 
-double-precision hardware n 
+double-precision hardware |  n  | 
 harduer me saktësi të dyfishtë 
-double-precision number n numër 
+double-precision number |  n  | numër 
 me saktësi të dyfishtë 
-double-sided disk n disketë dyanshe 
-double-strike n rënie e dyfishtë 
-double-wide adj me gjerësi të 
+double-sided disk |  n  | disketë dyanshe 
+double-strike |  n  | rënie e dyfishtë 
+double-wide |  adj  | me gjerësi të 
 dyfishtë 
-doubleword n fjalë e dyfishtë 
-double-word addressing n adresim 
+doubleword |  n  | fjalë e dyfishtë 
+double-word addressing |  n  | adresim 
 me fjalë të dyfishtë ose adresim 
 përmes fjalës së dyfishtë 
-doubly linked list n listë dyfish e 
+doubly linked list |  n  | listë dyfish e 
 lidhur 
-do-while loop n lak (ose unazë) 
+do-while loop |  n  | lak (ose unazë) 
 "do-while” [kryeje – derisa] 
-down adj rënie (e sistemit) 
-download v zhbart ose shkarkoj 
-downloading n zhbartje ose 
+down |  adj  | rënie (e sistemit) 
+download |  v  | zhbart ose shkarkoj 
+downloading |  n  | zhbartje ose 
 shkarkim 
-DP [data processing] abbr përpunim i 
+DP [data processing] |  abbr  | përpunim i 
 të dhënave 
-dpi [dots per inch] abbr pika për inç 
+dpi [dots per inch] |  abbr  | pika për inç 
 DPMA [Data Processing 
-Management Association] abbr 
+Management Association] |  abbr  | 
 DPMI [DOS Protected Mode 
-Interface] abbr DPMI [ndërfaqe 
+Interface] |  abbr  | DPMI [ndërfaqe 
 ose interfejs për regjim të mbrojtur 
 të DOS-it] 
 DPMS [Display Power Management 
-Signaling] abbr DPMS [sinjalizim 
+Signaling] |  abbr  | DPMS [sinjalizim 
 për menaxhim të energjisë së 
 displejit] 
 DPSK [Differential Phase-Shift 
-Keyng] n DPSK [modulim 
+Keyng] |  n  | DPSK [modulim 
 diferencial me zhvendosje të fazës] 
 DR [Dynamic Reconfiguration] 
 abbr DR [rikonfigurim dinamik] 
-draft mode n mod (ose mënyrë) draft 
-drag v tërheq zvarrë 
-drag-and-drop v tërheq dhe lëshoj 
-dragging v zvarritje [tërheqje 
+draft mode |  n  | mod (ose mënyrë) draft 
+drag |  v  | tërheq zvarrë 
+drag-and-drop |  v  | tërheq dhe lëshoj 
+dragging |  v  | zvarritje [tërheqje 
 zvarrë] 
-drag'n'drop v tërheq dhe lëshoj 
-drain n drejn (ose derdhës ose 
+drag'n'drop |  v  | tërheq dhe lëshoj 
+drain |  n  | drejn (ose derdhës ose 
 derdhje) [njëra nga elektrodat e 
 FET-it] 
 DRAM [Dynamic Random Access 
-Memory] abbr DRAM [memorie 
+Memory] |  abbr  | DRAM [memorie 
 dinamike me akses të 
 drejtpërdrejtë] 
-draw n vizatoj 
-DRAW [Direct Read After Write] n 
+draw |  n  | vizatoj 
+DRAW [Direct Read After Write] |  n  | 
 DRAW [lexim i drejtpërdrejtë pas 
 shkruarjes] 
-drawing n vizatim 
+drawing |  n  | vizatim 
  
  drawing interchange format 
  
 103
 drawing interchange format [DXF] 
- n format për shkëmbim të 
+ |  n  | format për shkëmbim të 
 vizatimeve [DXF] 
-drawing program n program për 
+drawing program |  n  | program për 
 vizatim 
-drawing surface n sipërfaqe e 
+drawing surface |  n  | sipërfaqe e 
 vizatimit 
-drawing tool n mjet vizatimi 
+drawing tool |  n  | mjet vizatimi 
 DRDW [Direct Read During Write] 
 abbr DRDW [lexim i drejtpërdrejtë 
 gjatë shkruarjes] 
-drive letter n shkronjë e njësisë së 
+drive letter |  n  | shkronjë e njësisë së 
 diskut 
-DRO [Destructive ReadOut] abbr 
+DRO [Destructive ReadOut] |  abbr  | 
 lexim shkatërrues 
-drop v lëshoj [lë] 
-drop cap n inicial [shkronja e parë e 
+drop |  v  | lëshoj [lë] 
+drop cap |  n  | inicial [shkronja e parë e 
 paragrafit në një tekst] 
-drop-dead halt n ndalje e 
+drop-dead halt |  n  | ndalje e 
 pakthyeshme 
-drop-down list n listë [meny] rënëse 
-drop-down menu n meny rënëse 
-drop-in n ndërhyrje e të dhënave 
-droplet n pikëz 
-dropout n rënie e të dhënave 
-drop-out v rënie e sinjalit 
-drum n tambur (cilindër) 
-drum mark n markeri në tambur 
-drum plotter n ploter (ose 
+drop-down list |  n  | listë [meny] rënëse 
+drop-down menu |  n  | meny rënëse 
+drop-in |  n  | ndërhyrje e të dhënave 
+droplet |  n  | pikëz 
+dropout |  n  | rënie e të dhënave 
+drop-out |  v  | rënie e sinjalit 
+drum |  n  | tambur (cilindër) 
+drum mark |  n  | markeri në tambur 
+drum plotter |  n  | ploter (ose 
 vizatues) me cilindër 
-drum scanner n skaner me cilindër 
-DSA [Directory Server Agent] n 
+drum scanner |  n  | skaner me cilindër 
+DSA [Directory Server Agent] |  n  | 
 agjent i serverit për direktoriume 
  
 dual-scan display 
-DSA [Directory System Agent] n 
+DSA [Directory System Agent] |  n  | 
 agjent sistemor për direktoriume 
-DSL [digital subscriber line] n DSL 
+DSL [digital subscriber line] |  n  | DSL 
 [linjë digjitale e abonentit (ose 
 parapaguesit)] 
-DSP [digital signal processor] n 
+DSP [digital signal processor] |  n  | 
 DSP [procesor i sinjalit digjital] 
 DSSSL [Document Style Semantics 
-and Specification Language] n 
+and Specification Language] |  n  | 
 DSSSL [semantikë e stilit të 
 dokumentit dhe gjuhë specifikuese] 
-DTL [diode-transistor logic] n DTL 
+DTL [diode-transistor logic] |  n  | DTL 
 [logjikë diodë-transistor] 
 DTP [distributed transaction 
-processing] n DTP [përpunim i 
+processing] |  n  | DTP [përpunim i 
 përndarë i transakcioneve] 
-DTR [Data Terminla Ready] n DTR 
+DTR [Data Terminla Ready] |  n  | DTR 
 [sinjali i gatishmërisë së terminalit 
 për bartje të të dhënave] 
-D-type flip-flop n flip-flop tip D 
-dual adj dual ose dysh 
-dual boot n ngritje duale 
-dual cable n kabëll dysh 
-dual channel controller n 
+D-type flip-flop |  n  | flip-flop tip D 
+dual |  adj  | dual ose dysh 
+dual boot |  n  | ngritje duale 
+dual cable |  n  | kabëll dysh 
+dual channel controller |  n  | 
 kontroller dykanalësh 
-dual filter n filtër dysh 
-dual in-line package [DIP] n 
+dual filter |  n  | filtër dysh 
+dual in-line package [DIP] |  n  | 
 paketim në dy linja ose paketim 
 dyrreshtor [DIP] 
-dual processor n procesor dysh ose 
+dual processor |  n  | procesor dysh ose 
 biprocesor ose dyprocesor 
-duality n dualitet ose dysi 
-dual-scan display n displej me 
+duality |  n  | dualitet ose dysi 
+dual-scan display |  n  | displej me 
 skanim të dyfishtë (ose dual) 
  dual-sided disk drive 
-dual-sided disk drive n njësi e 
+dual-sided disk drive |  n  | njësi e 
 diskut dyanësh 
-dumb modem n modem pasiv (ose 
+dumb modem |  n  | modem pasiv (ose 
 jointeligjent) 
-dumb quotes n thonjëza të 
+dumb quotes |  n  | thonjëza të 
 zakonshme 
-dumb terminal n terminal pasiv 
+dumb terminal |  n  | terminal pasiv 
 (ose jointeligjent) 
-dummy adj rremë (i) [gënjeshtërt (i)] 
+dummy |  adj  | rremë (i) [gënjeshtërt (i)] 
 ose fiktiv] 
-dummy argument n argument fiktiv 
+dummy argument |  n  | argument fiktiv 
 (ose i rremë) 
-dummy instruction n urdhër i rremë 
-dummy module n modul fiktiv 
+dummy instruction |  n  | urdhër i rremë 
+dummy module |  n  | modul fiktiv 
 [modul jofunkcional] 
-dummy routine n rutinë fiktive 
-duoprimed word n fjalë e saktësisë 
+dummy routine |  n  | rutinë fiktive 
+duoprimed word |  n  | fjalë e saktësisë 
 së dyfishtë 
-duplex n dupleks 
-duplex adj dupleks [i dykahshëm] 
-duplex channel n kanal dupleks [i 
+duplex |  n  | dupleks 
+duplex |  adj  | dupleks [i dykahshëm] 
+duplex channel |  n  | kanal dupleks [i 
 dykahshëm] 
-duplex computer n kompjuter 
+duplex computer |  n  | kompjuter 
 dupleks [i dykahshëm] 
-duplex printer n shtypës (ose 
+duplex printer |  n  | shtypës (ose 
 printer) dupleks 
-duplex system n sistem dupleks 
-duplex transmission n transmetim 
+duplex system |  n  | sistem dupleks 
+duplex transmission |  n  | transmetim 
 dupleks [i dykahshëm] 
-duplicate v dyfishoj 
-duplicate n kopje 
-duplicate v kopjoj 
-duplicate (1) adj kopje [identik] 
+duplicate |  v  | dyfishoj 
+duplicate |  n  | kopje 
+duplicate |  v  | kopjoj 
+duplicate (1) |  adj  | kopje [identik] 
  
  
 104
 DVI 
-duplicate (2) adj dyfishtë (i) 
-duplicate CD v dyfisho CD 
-duplicate key n çelës i dyfishtë 
-duplicate menu n meny e 
+duplicate (2) |  adj  | dyfishtë (i) 
+duplicate CD |  v  | dyfisho CD 
+duplicate key |  n  | çelës i dyfishtë 
+duplicate menu |  n  | meny e 
 dyfishimeve 
-duplicating n kopjim 
-duplication n bërje në dy kopje 
-duplication n dyfishim 
-duplication check n kontroll i 
+duplicating |  n  | kopjim 
+duplication |  n  | bërje në dy kopje 
+duplication |  n  | dyfishim 
+duplication check |  n  | kontroll i 
 dyfishimit 
-duplication check n kontrollim i 
+duplication check |  n  | kontrollim i 
 dyfishimit të regjistrimeve 
-DVD [digital versatile disk] abbr 
+DVD [digital versatile disk] |  abbr  | 
 DVD [disk digjital i gjithanshëm] 
-DVD [Digital Video Disc] abbr 
+DVD [Digital Video Disc] |  abbr  | 
 DVD [videodisk digjital] 
 DVD-E [digital video disk-erasable] 
 n videodisk digjital i fshijshëm 
 DVD-R [digital video disk-
-recordable] n videodisk digjital i 
+recordable] |  n  | videodisk digjital i 
 regjistrueshëm 
 DVD-ROM [digital video disk 
-ROM] abbr DVD-ROM [videodisk 
+ROM] |  abbr  | DVD-ROM [videodisk 
 digjital ROM] 
-DVD-writer n DVD-shkrues 
-DV-I [Digital Video Inteface] abbr 
+DVD-writer |  n  | DVD-shkrues 
+DV-I [Digital Video Inteface] |  abbr  | 
 DV-I [ndërfaqe ose interfejs e ose i 
 videos digjitale] 
-DVI [Digital Video Interactive] abbr 
+DVI [Digital Video Interactive] |  abbr  | 
 DVI [video digjitale ndërvepruese 
 (ose interaktive)] 
-DVI [Digital Video Interface] abbr 
+DVI [Digital Video Interface] |  abbr  | 
 DVI [ndërfaqe e (ose interfejs i ) 
 videos digjitale] 
  DVMRP 
  
 105
 DVMRP [Distance Vector Multicast 
-Routing Protocol] abbr DVMRP 
+Routing Protocol] |  abbr  | DVMRP 
 [protokoll për rrugëzim vektorial të 
 shumfishtë në largësi] 
 dynamic programming 
-Dynamic Data Exchange [DDE] n 
+Dynamic Data Exchange [DDE] |  n  | 
 këmbim dinamik i të dhënave 
 [DDE] 
-Dvorak keyboard n tastierë e 
+Dvorak keyboard |  n  | tastierë e 
 Dvorakut 
-DVST [direct view storage tube] n 
+DVST [direct view storage tube] |  n  | 
 DVST [gyp katodik me paraqitje 
 direkte dhe me memorie] 
-DXF [drawing interchange format] n 
+DXF [drawing interchange format] |  n  | 
 DXF [format për shkëmbim të 
 vizatimeve] 
-dye-diffusion printer n shtypës (ose 
+dye-diffusion printer |  n  | shtypës (ose 
 printer) me ton kontinual 
-dye-polymer recording n regjistrim 
+dye-polymer recording |  n  | regjistrim 
 me ngjyra polimerike 
-dye-sublimation printer n shtypës 
+dye-sublimation printer |  n  | shtypës 
 (ose printer) me ton kontinual 
-dynalink [dynamic link] n lidhje 
+dynalink [dynamic link] |  n  | lidhje 
 dinamike 
-dynamic adj dinamik 
+dynamic |  adj  | dinamik 
 dynamic address translation [DAT] 
- n përkthim dinamik i adresave 
+ |  n  | përkthim dinamik i adresave 
 [DAT] 
-dynamic address translatior n 
+dynamic address translatior |  n  | 
 përkthyes i adresës dinamike 
-dynamic algorithm n algoritëm 
+dynamic algorithm |  n  | algoritëm 
 dinamik 
-dynamic allocation n caktim (ose 
+dynamic allocation |  n  | caktim (ose 
 alokim) dinamik 
-dynamic binding n lidhje dinamike 
-dynamic caching n keshim dinamik 
+dynamic binding |  n  | lidhje dinamike 
+dynamic caching |  n  | keshim dinamik 
 [vendosje dinamike në memorien 
 kesh] 
  
-dynamic debugging routine n 
+dynamic debugging routine |  n  | 
 nënprogram për zbulim dhe 
 korrigjim dinamik të gabimit 
-dynamic dump n shfletim dinamik 
+dynamic dump |  n  | shfletim dinamik 
 i memories 
-dynamic error n gabim dinamik 
+dynamic error |  n  | gabim dinamik 
 Dynamic Host Configuration 
-Protocol [DHCP] n protokoll për 
+Protocol [DHCP] |  n  | protokoll për 
 konfigurim dinamik të kompjuterit 
 kryesor [DHCP] 
-dynamic keys n çelësa dinamikë 
-dynamic link library [DLL] n 
+dynamic keys |  n  | çelësa dinamikë 
+dynamic link library [DLL] |  n  | 
 bibliotekë e lidhjeve dinamike 
 [DLL] 
-dynamic linking n lidhëzim dinamik 
+dynamic linking |  n  | lidhëzim dinamik 
 ose lidhje dinamike 
-dynamic memory n memorie 
+dynamic memory |  n  | memorie 
 dinamike 
-dynamic memory allocation n 
+dynamic memory allocation |  n  | 
 caktim [alokim] dinamik i 
 memories 
-dynamic model n model dinamik 
-dynamic page n faqe dianmike 
-dynamic printout n shtypje 
+dynamic model |  n  | model dinamik 
+dynamic page |  n  | faqe dianmike 
+dynamic printout |  n  | shtypje 
 [printim] dinamike 
-dynamic priority n prioritet 
+dynamic priority |  n  | prioritet 
 dinamik ose përparësi dinamike 
-dynamic program relocation n 
+dynamic program relocation |  n  | 
 zhvendosje dinamike e programit 
-dynamic programming n programim 
+dynamic programming |  n  | programim 
 dinamik 
  
 106
  
-dynamic stop n ndalje dinamike 
-dynamic storage n memorie 
+dynamic stop |  n  | ndalje dinamike 
+dynamic storage |  n  | memorie 
 dinamike 
-dynamic storage allocation n 
+dynamic storage allocation |  n  | 
 ndarje dinamike e memories 
-dynamic subroutine n 
+dynamic subroutine |  n  | 
 nënprogram dinamik 
-dynamic switch n komutator 
+dynamic switch |  n  | komutator 
 dinamik 
-dynamic system n sistem dinamik 
-dynamic Web page n uebfaqe 
+dynamic system |  n  | sistem dinamik 
+dynamic Web page |  n  | uebfaqe 
 dinamike 
-dynamic-link library [DLL] n 
+dynamic-link library [DLL] |  n  | 
 bibliotekë e lidhjeve dinamike 
  dynamic RAM 
-dynamic RAM n RAM dinamik 
+dynamic RAM |  n  | RAM dinamik 
 [memorie dinamike] 
 dynamic random access memory 
-[dynamic RAM] n memorie 
+[dynamic RAM] |  n  | memorie 
 dinamike me akses të drejtpërdrejtë 
 [RAM dinamik] 
-dynamic reconfiguration [DR] n 
+dynamic reconfiguration [DR] |  n  | 
 rikonfigurim dinamik 
-dynamic relocation n relokim 
+dynamic relocation |  n  | relokim 
 dinamik ose rivendosje dinamike 
-dynamic scheduling n planifikim 
+dynamic scheduling |  n  | planifikim 
 dinamik 
 dynamic SLIP [dynamic Serial Line 
-Internet Protocol] n SLIP dinamik 
+Internet Protocol] |  n  | SLIP dinamik 
 [protokoll dinamik interneti i 
 linjave në seri] 
  
@@ -6823,704 +6793,704 @@ linjave në seri]
  
 107
 E 
-E n E [vlera heksadecimale e 
+E |  n  | E [vlera heksadecimale e 
 numrit dhjetor 14] 
-e-business [electronic business] n 
+e-business [electronic business] |  n  | 
 e-biznes [biznes elektronik] 
-e format n format eksponencial 
-E notation n notacioni E [notacioni 
+e format |  n  | format eksponencial 
+E notation |  n  | notacioni E [notacioni 
 me pikë të lëvizshme] 
-e.g. [= exampi gratia] abbr p.sh. [për 
+e.g. [= exampi gratia] |  abbr  | p.sh. [për 
 shembull] 
 EAN [European Article Numbering 
-system] abbr EAN [sistemi 
+system] |  abbr  | EAN [sistemi 
 evropian i shënimit të artikujve] 
 EAROM [Electrically Alterable 
-Read-Only Memory] n EAROM 
-earphones [pl.] n kufje [dëgjojëse] 
-earth n tokëzim 
-earth v tokëzoj 
-earth station n stacion tokësor 
-Eb [exabit] abbr Eb [ekzabit = 1018 
+Read-Only Memory] |  n  | EAROM 
+earphones [pl.] |  n  | kufje [dëgjojëse] 
+earth |  n  | tokëzim 
+earth |  v  | tokëzoj 
+earth station |  n  | stacion tokësor 
+Eb [exabit] |  abbr  | Eb [ekzabit = 1018 
 bita] 
-EB [exabyte] abbr EB [ekzabajt = 
+EB [exabyte] |  abbr  | EB [ekzabajt = 
 1018] 
 EBCDIC [Extended Binary Coded 
-Decimal Interchange Code] n kod 
+Decimal Interchange Code] |  n  | kod 
 EBCDIC [kod BCD i zgjeruar për 
 këmbim të informacioneve] 
-e-bomb [e-mail bomb] n e-bombë 
+e-bomb [e-mail bomb] |  n  | e-bombë 
 [bombë në postën elektronike] 
  
-e-cash n kesh elektronik [holla 
+e-cash |  n  | kesh elektronik [holla 
 (të) elektronike] 
-e-cash [electronic cash] n pagesë 
+e-cash [electronic cash] |  n  | pagesë 
 elektronike 
-echo cancellation n eliminim i 
+echo cancellation |  n  | eliminim i 
 jehonës 
-echo suppressor n shurdhues 
+echo suppressor |  n  | shurdhues 
 [shtypës] i jehonës 
-echoplex n ekopleks 
-ECL [emiter-coupled logic] n 
+echoplex |  n  | ekopleks 
+ECL [emiter-coupled logic] |  n  | 
 ECL [logjikë me emiterë të çiftuar] 
 ECMA [European Computer 
-Manifacturers Association] n 
+Manifacturers Association] |  n  | 
 ECMA [Shoqata evropiene e 
 prodhuesve të kompjuterëve] 
-e-commerce n tregti elektronike 
-e-credit n pagesë elektronike me 
+e-commerce |  n  | tregti elektronike 
+e-credit |  n  | pagesë elektronike me 
 kartelë kredituese 
-ED [Enciphered Data] abbr dhëna 
+ED [Enciphered Data] |  abbr  | dhëna 
 (të) të shifruara 
-edge n teh 
-edge connector n konektor (ose 
+edge |  n  | teh 
+edge connector |  n  | konektor (ose 
 lidhëzor) skajor 
-edge triggered n shkrehje në teh 
+edge triggered |  n  | shkrehje në teh 
  EDI 
-EDI [Electronic Data Interchange] n 
+EDI [Electronic Data Interchange] |  n  | 
  
 108
 këmbim elektronik i të dhënave 
 edit text ph korrigjo tekstin 
 edit titles ph edito [redakto] titujt 
-editing menu n meny e redaktimit 
+editing menu |  n  | meny e redaktimit 
 (ose editimit) 
-editing window n dritare e 
+editing window |  n  | dritare e 
 redaktimit ose editimit 
-editor n editor [redaktor] 
-editor program n program i editorit 
+editor |  n  | editor [redaktor] 
+editor program |  n  | program i editorit 
 EDO DRAM [Extended Data Out 
 Dynamic Random Access 
-Memory] n EDO DRAM 
+Memory] |  n  | EDO DRAM 
 EDO RAM [Extended Data Out 
-Random Access Memory] n EDO 
+Random Access Memory] |  n  | EDO 
 RAM 
-EDP [Electronic Data Processing] n 
+EDP [Electronic Data Processing] |  n  | 
 përpunim elektronik i të dhënave 
-edutainment n softuer për shkollim 
+edutainment |  n  | softuer për shkollim 
 dhe argëtim 
 EDVAC [electron discrete variable 
-automatic compiler] n EDVAC 
+automatic compiler] |  n  | EDVAC 
 EEMS [Enhanced Expanded 
-Memory Specification] n 
+Memory Specification] |  n  | 
 specifikim i avancuar i memories së 
 zgjeruar [EEMS] 
 EEPROM [Electrically Erasable 
 Programable Read-Only Memory] 
 n EEPROM 
-effect n efekt 
-effective adj efektiv, real; i 
+effect |  n  | efekt 
+effective |  adj  | efektiv, real; i 
 efektshëm 
-effective address n adresë efektive 
+effective address |  n  | adresë efektive 
  
 electric potential difference 
-effective address [EA] n adresë 
+effective address [EA] |  n  | adresë 
 efektive 
-effective instruction [EI] n 
+effective instruction [EI] |  n  | 
 instruksion efektiv 
-effective time n kohë efektive 
-effectiveness n efektshmëri 
-effectiveness level n nivel i 
+effective time |  n  | kohë efektive 
+effectiveness |  n  | efektshmëri 
+effectiveness level |  n  | nivel i 
 efikasitetit 
-efficiency n efikasitet; grat 
-efficient adj efikas [person] 
-e-form [electronic form] n formular 
+efficiency |  n  | efikasitet; grat 
+efficient |  adj  | efikas [person] 
+e-form [electronic form] |  n  | formular 
 elektronik 
 EIA [Electronic Industries 
-Association] n EIA [Shoqata e 
+Association] |  n  | EIA [Shoqata e 
 industrisë elektronike] 
-EIDE [Enhanced IDE] n EIDE 
+EIDE [Enhanced IDE] |  n  | EIDE 
 [IDE e avancuar; elektronika e 
 avancuar e pajisjeve të integruara] 
-Eifell n Eifell (gjuhë programuese) 
-eight-bit byte n bajt tetëbitësh 
+Eifell |  n  | Eifell (gjuhë programuese) 
+eight-bit byte |  n  | bajt tetëbitësh 
 [oktet] 
 EIS [executive information system] 
 n sistem informativ ekzekutues 
 EISA [Extended Industry Standard 
-Architecture] n EISA [arkitekturë 
+Architecture] |  n  | EISA [arkitekturë 
 industriale standarde e zgjeruar] 
-eject v nxjerr 
+eject |  v  | nxjerr 
 eject form ph nxirre letrën 
-elapsed time n kohë e kaluar 
-electric circuit n qark elektrik 
-electric current n rrymë elektrike 
-electric potential difference n 
+elapsed time |  n  | kohë e kaluar 
+electric circuit |  n  | qark elektrik 
+electric current |  n  | rrymë elektrike 
+electric potential difference |  n  | 
 ndryshim i potencialit elektrik, 
 tension 
  electro thermal printer 
-electro thermal printer n shtypës 
+electro thermal printer |  n  | shtypës 
 (printer) termik 
-electroacoustics n elektroakustikë 
-electroluminescent display n displej 
+electroacoustics |  n  | elektroakustikë 
+electroluminescent display |  n  | displej 
 elektrolumineshent 
-electroluminiscent display n ekran 
+electroluminiscent display |  n  | ekran 
 elektroluminishent 
-electroluminiscent panel n panel 
+electroluminiscent panel |  n  | panel 
 (ekran) elektroluminishent 
-electrolysis n elektrolizë 
-electromagnet n elektromagnet 
-electromagnetic head n kokë 
+electrolysis |  n  | elektrolizë 
+electromagnet |  n  | elektromagnet 
+electromagnetic head |  n  | kokë 
 elektromagnetike 
-electromagnetic radiation n 
+electromagnetic radiation |  n  | 
 rrezatim elektromagnetik 
-electromagnetic spectrum n spektër 
+electromagnetic spectrum |  n  | spektër 
 elektromagnetik 
-electromotive force n forcë 
+electromotive force |  n  | forcë 
 elektromotore (ose elektrolëvizore) 
-electron emission n emision 
+electron emission |  n  | emision 
 elektronik 
-electron emitter n emetues 
+electron emitter |  n  | emetues 
 elektronesh 
-electron gun n top elektronik 
-electron tube n gyp elektronik 
-electronic beam n tufë elektronesh 
+electron gun |  n  | top elektronik 
+electron tube |  n  | gyp elektronik 
+electronic beam |  n  | tufë elektronesh 
 ose tufë elektronike 
-electronic bulletin board n tabelë 
+electronic bulletin board |  n  | tabelë 
 elektronike e shpalljeve 
-electronic business [e- business] n 
+electronic business [e- business] |  n  | 
 biznes elektronik [e-biznes] 
-electronic calculator n kalkulator 
+electronic calculator |  n  | kalkulator 
 elektronik 
  
  
 109
 electronic data-processing 
-electronic cash n kesh elektronik 
+electronic cash |  n  | kesh elektronik 
 [para elektronike] 
-electronic cash [e-cash] n pagesë 
+electronic cash [e-cash] |  n  | pagesë 
 elektronike 
-electronic chart reader n lexues 
+electronic chart reader |  n  | lexues 
 elektronik i diagrameve 
-electronic circuit n qark elektronik 
-electronic commerce n tregti 
+electronic circuit |  n  | qark elektronik 
+electronic commerce |  n  | tregti 
 elektronike 
 Electronic Commerce Modeling 
-Language [ECML] n gjuhë 
+Language [ECML] |  n  | gjuhë 
 modelimi e tregtisë elektronike 
-electronic component n komponente 
+electronic component |  n  | komponente 
 [element] elektronike 
-electronic computing unit n njësi 
+electronic computing unit |  n  | njësi 
 për llogaritje elektronike 
-electronic control n kontroll 
+electronic control |  n  | kontroll 
 elektronik [udhëheqje elektronike] 
-electronic controller n kontrollues 
+electronic controller |  n  | kontrollues 
 elektronik 
-electronic credit n kredit elektronik 
+electronic credit |  n  | kredit elektronik 
 [pagesë elektronike me kartelë 
 kredituese] 
-electronic data interchange n 
+electronic data interchange |  n  | 
 këmbim elektronik i të dhënave 
-electronic data processing [EDP] n 
+electronic data processing [EDP] |  n  | 
 përpunim elektronik i të dhënave 
-electronic data-processing center n 
+electronic data-processing center |  n  | 
 qendër për përpunimin elektronik të 
 të dhënave 
 electronic data-processing 
-management science n shkencë 
+management science |  n  | shkencë 
 për menaxhimin përmes përpunimit 
 elektronik të të dhënave 
  
 110
 ellipse 
-electronic signature n nënshkrim 
+electronic signature |  n  | nënshkrim 
 elektronik 
  electronic data-processing 
 electronic data-processing system 
 n sistem për përpunimin elektronik 
 të të dhënave 
-electronic dictionary n fjalor 
+electronic dictionary |  n  | fjalor 
 elektronik 
-electronic form n formular 
+electronic form |  n  | formular 
 elektronik 
-electronic funds transfer [EFT] n 
+electronic funds transfer [EFT] |  n  | 
 transfer elektronik i fondeve 
-electronic gate n portë elektronike 
+electronic gate |  n  | portë elektronike 
 (qark logjik) 
-electronic journal n ditar elektronik 
-electronic label n etiketë 
+electronic journal |  n  | ditar elektronik 
+electronic label |  n  | etiketë 
 elektronike 
-electronic magazine n revistë 
+electronic magazine |  n  | revistë 
 elektronike 
-electronic mail n postë elektronike 
+electronic mail |  n  | postë elektronike 
 [email] 
-electronic mail box n kuti e postës 
+electronic mail box |  n  | kuti e postës 
 elektronike 
-electronic mail services n shërbime 
+electronic mail services |  n  | shërbime 
 të postës elektronike 
-electronic mall n qendër tregtare 
+electronic mall |  n  | qendër tregtare 
 elektronike 
-electronic mall galerie n galeri e 
+electronic mall galerie |  n  | galeri e 
 qendrës tregtare elektronike 
-electronic money n para elektronike 
-electronic music n muzikë 
+electronic money |  n  | para elektronike 
+electronic music |  n  | muzikë 
 elektronike 
-electronic office n zyrë elektronike 
-electronic photography n fotografi 
+electronic office |  n  | zyrë elektronike 
+electronic photography |  n  | fotografi 
 elektronike 
-electronic publishing n botim 
+electronic publishing |  n  | botim 
 elektronik 
  
-electronic spreadsheet n tabelë 
+electronic spreadsheet |  n  | tabelë 
 punuese elektronike 
-electronic tablet n tabelë elektronike 
-electronic text n tekst elektronik 
-electronic writing n shkruarje 
+electronic tablet |  n  | tabelë elektronike 
+electronic text |  n  | tekst elektronik 
+electronic writing |  n  | shkruarje 
 elektronike 
-electronics n elektronikë 
-electrooptics n elektrooptikë 
-electrophotographic printer n 
+electronics |  n  | elektronikë 
+electrooptics |  n  | elektrooptikë 
+electrophotographic printer |  n  | 
 shtypës (ose printer) 
 elektrofotografik 
-electrophotography n 
+electrophotography |  n  | 
 elektrofotografi 
-electroplating n galvanizim 
-electrostatc storage n memorie 
+electroplating |  n  | galvanizim 
+electrostatc storage |  n  | memorie 
 elektrostatike 
-electrostatic discharge n shkarkim 
+electrostatic discharge |  n  | shkarkim 
 elektrostatik 
-electrostatic memory n memorie 
+electrostatic memory |  n  | memorie 
 elektrostatike 
-electrostatic printer n shtypës 
+electrostatic printer |  n  | shtypës 
 (ose printer) elektrostatik 
-electrostatic storage n memorie 
+electrostatic storage |  n  | memorie 
 elektrostatike 
-electrostatics n elektrostatikë 
-electrotechnics n elektroteknikë 
-element n element 
-element address n adresë e elementit 
-ELIZA n ELIZA (program për 
+electrostatics |  n  | elektrostatikë 
+electrotechnics |  n  | elektroteknikë 
+element |  n  | element 
+element address |  n  | adresë e elementit 
+ELIZA |  n  | ELIZA (program për 
 udhëheqje të bisedave simultane) 
-ellipse n elipsë 
+ellipse |  n  | elipsë 
 encapsulated type 
  ellipsis 
  
 111
-ellipsis n tripikësh ose tri pika […] 
-elm [electronic mail] n elm [postë 
+ellipsis |  n  | tripikësh ose tri pika […] 
+elm [electronic mail] |  n  | elm [postë 
 elektronike] 
-em dash n vizë em [viza —, me 
+em dash |  n  | vizë em [viza —, me 
 madhësi sa gjerësia e shkronjës M] 
-em space n rrallim (ose zbrazëtirë) 
+em space |  n  | rrallim (ose zbrazëtirë) 
 em [sa gjerësia e shkronjës M] 
-email n postë elektronike 
-E-mail n e-mail [postë elektronike] 
-e-mail n postë elektronike [email] 
-E-mail n postë elektronike [email] 
-e-mail n postë elektronike [email] 
-email address n adresë elektronike 
-e-mail address n adresë elektronike 
-e-mail filter n filtër i postës 
+email |  n  | postë elektronike 
+E-mail |  n  | e-mail [postë elektronike] 
+e-mail |  n  | postë elektronike [email] 
+E-mail |  n  | postë elektronike [email] 
+e-mail |  n  | postë elektronike [email] 
+email address |  n  | adresë elektronike 
+e-mail address |  n  | adresë elektronike 
+e-mail filter |  n  | filtër i postës 
 elektronike 
-e-mail program n program i e-mailit 
+e-mail program |  n  | program i e-mailit 
 [program për postë elektronike] 
 embedv inkorporoj [fut] 
-emitter n emiter 
-emitter (1) n emiter [njëra nga 
+emitter |  n  | emiter 
+emitter (1) |  n  | emiter [njëra nga 
 elektrodat e transistorit] 
-emitter (2) n transmetues 
-emitter-coupled logic [ECL] n 
+emitter (2) |  n  | transmetues 
+emitter-coupled logic [ECL] |  n  | 
 logjika me emiterë të çiftuar 
-emitter-coupled logic [ECL] n 
+emitter-coupled logic [ECL] |  n  | 
 logjikë me emiterë të çiftuar [ECL] 
 EMM [Expanded Memory Manager]
- n EMM [menaxheri i memories 
+ |  n  | EMM [menaxheri i memories 
 së zgjeruar] 
-emoney n para [të holla] elektronike 
-e-money n para [të holla] 
+emoney |  n  | para [të holla] elektronike 
+e-money |  n  | para [të holla] 
 elektronike 
  
-emoticone n emotikon [simbol 
+emoticone |  n  | emotikon [simbol 
 grafik humori] 
-emphasize v theksoj, vë në dukje 
-emphasized adj theksuar (i) 
-empty v zbraz 
-empty adj zbrazët (i) 
-empty list n listë e zbrazët 
-empty queue n radhë e zbrazët 
-empty set n bashkësi e zbrazët 
+emphasize |  v  | theksoj, vë në dukje 
+emphasized |  adj  | theksuar (i) 
+empty |  v  | zbraz 
+empty |  adj  | zbrazët (i) 
+empty list |  n  | listë e zbrazët 
+empty queue |  n  | radhë e zbrazët 
+empty set |  n  | bashkësi e zbrazët 
 EMS [Expanded Memory 
-Specification] n specifikim i 
+Specification] |  n  | specifikim i 
 memories së zgjeruar 
-emulation n emulim 
-emulator n emulator [simulator, 
+emulation |  n  | emulim 
+emulator |  n  | emulator [simulator, 
 përgjasor] 
-en dash n vizë en [viza “-“ me 
+en dash |  n  | vizë en [viza “-“ me 
 madhësi sa gjysma e gjerësisë së 
 shkronjës M] 
-en space n rrallim (ose zbrazëtirë) 
+en space |  n  | rrallim (ose zbrazëtirë) 
 en [sa gjysma e gjerësisë së 
 shkronjës M] 
-enable v mundësoj ose lejoj 
-enabled adj mundësuar (i) 
-enabled instruction n instruksion i 
+enable |  v  | mundësoj ose lejoj 
+enabled |  adj  | mundësuar (i) 
+enabled instruction |  n  | instruksion i 
 mundësuar 
-encapsulate n kapsuloj [vë në 
+encapsulate |  n  | kapsuloj [vë në 
 kapsulë] 
-encapsulated adj kapsuluar (i) [vënë 
+encapsulated |  adj  | kapsuluar (i) [vënë 
 (i) në kapsulë] 
-Encapsulated PostScript [EPS] n 
+Encapsulated PostScript [EPS] |  n  | 
 PostScript i kapsuluar [EPS] 
-encapsulated type n kapsulim 
+encapsulated type |  n  | kapsulim 
 ose inkapsulim 
  encapsulated type 
  
 112
-encapsulated type n tip i kapsuluar 
+encapsulated type |  n  | tip i kapsuluar 
 (ose inkapsuluar) i të dhënave 
 end-of-record 
-end of record [ER] n fund i 
+end of record [ER] |  n  | fund i 
 regjistresës (ose regjistrimit) 
-encipher v shifroj [përfsheh] 
-enciphered data [ED] n dhëna (të) të 
+encipher |  v  | shifroj [përfsheh] 
+enciphered data [ED] |  n  | dhëna (të) të 
 shifruara 
-end of tape [ET] n fund i shiritit 
-end of transmission [ET] n fund i 
+end of tape [ET] |  n  | fund i shiritit 
+end of transmission [ET] |  n  | fund i 
 transmetimit 
-enciphering n shifrim [përfshehje] 
-encipherment n shifrim [përfshehje] 
-enclosure n shtëpizë (e pajisjes) [kuti 
+enciphering |  n  | shifrim [përfshehje] 
+encipherment |  n  | shifrim [përfshehje] 
+enclosure |  n  | shtëpizë (e pajisjes) [kuti 
 metalike] 
-encode v kodoj 
-encoder n kodues 
-encoding n kodim 
-encrypt v shifroj [përfsheh] 
-encryption n shifrim ose kriptim 
-encryption key n çelës i shifrimit 
+encode |  v  | kodoj 
+encoder |  n  | kodues 
+encoding |  n  | kodim 
+encrypt |  v  | shifroj [përfsheh] 
+encryption |  n  | shifrim ose kriptim 
+encryption key |  n  | çelës i shifrimit 
 ose çelës për shifrim 
-encryption master key n çelës 
+encryption master key |  n  | çelës 
 kryesor i shifrimit 
-encyclopedia n enciklopedi 
-end v përfundoj, mbaroj 
-end (1) n fund, mbarim 
-end field n fund i fushës 
-End key n tast End [fundi] 
-end node [EN] n nyjë e fundit 
-end node domain n domen i nyjës 
+encyclopedia |  n  | enciklopedi 
+end |  v  | përfundoj, mbaroj 
+end (1) |  n  | fund, mbarim 
+end field |  n  | fund i fushës 
+End key |  n  | tast End [fundi] 
+end node [EN] |  n  | nyjë e fundit 
+end node domain |  n  | domen i nyjës 
 së fundit 
-end of block [EB] n fund i bllokut 
-end of data [ED] n fund i të dhënave 
-end of file [EF] n fund i fajlit 
-end of job [EJ] n fund i punës 
-end of line [EL] n fund i rreshtit 
-end of page [EP] n fund i faqes 
+end of block [EB] |  n  | fund i bllokut 
+end of data [ED] |  n  | fund i të dhënave 
+end of file [EF] |  n  | fund i fajlit 
+end of job [EJ] |  n  | fund i punës 
+end of line [EL] |  n  | fund i rreshtit 
+end of page [EP] |  n  | fund i faqes 
  
-end printing n shtypje [printim] në 
+end printing |  n  | shtypje [printim] në 
 fund 
-end string n fund i vargut 
-end user n përdorues (ose 
+end string |  n  | fund i vargut 
+end user |  n  | përdorues (ose 
 shfrytëzues) i fundit 
-end-around carry n bartje ose bartje 
+end-around carry |  n  | bartje ose bartje 
 ciklike 
-end-around shift n zhvendosje 
+end-around shift |  n  | zhvendosje 
 ciklike 
-end-around-carry n bartje rrethore 
-endless n pafund (i) 
-endnote n fundshënim 
-end-of-data-mark n markeri i 
+end-around-carry |  n  | bartje rrethore 
+endless |  n  | pafund (i) 
+endnote |  n  | fundshënim 
+end-of-data-mark |  n  | markeri i 
 fundit të të dhënave 
-end-of-field-mark n markeri i fundit 
+end-of-field-mark |  n  | markeri i fundit 
 të fushës 
-end-of-file [EOF] n fundi i fajlit 
+end-of-file [EOF] |  n  | fundi i fajlit 
 [EOF] 
-end-of-file gap n zbrazëtirë e fundit 
+end-of-file gap |  n  | zbrazëtirë e fundit 
 të fajlit 
-end-of-file indicator n indikatori i 
+end-of-file indicator |  n  | indikatori i 
 fundit të fajlit 
-end-of-file mark n marker i fundit 
+end-of-file mark |  n  | marker i fundit 
 të fajlit 
-end-of-file routine n rutinë për 
+end-of-file routine |  n  | rutinë për 
 përpunim të fundit 
-end-of-record [EOR] n fundi i 
+end-of-record [EOR] |  n  | fundi i 
 regjistresës [EOR] 
- end-of-record word 
-end-of-record word n fjalë e 
+ |  end | -of-record word 
+end-of-record word |  n  | fjalë e 
 fundit të regjistrimit 
-end-of-run routine n rutinë për 
+end-of-run routine |  n  | rutinë për 
 fund të përpunimit 
-end-of-tape mark n zbrazëtirë e 
+end-of-tape mark |  n  | zbrazëtirë e 
 fundit të shiritit 
-end-of-tape routine n rutinë për 
+end-of-tape routine |  n  | rutinë për 
 fund të shiritit 
-end-of-text [ETX] n fundi i tekstit 
+end-of-text [ETX] |  n  | fundi i tekstit 
 [ETX] 
-end-of-transmission n fund i 
+end-of-transmission |  n  | fund i 
 transmetimit 
 end-of-transmission [EOT] 
-character n karakteri i fundit të 
+character |  n  | karakteri i fundit të 
 transmetimit 
-end-of-transmission [EOT] code n 
+end-of-transmission [EOT] code |  n  | 
 kod i fundit të transmetimit 
-end-of-transmission recognition n 
+end-of-transmission recognition |  n  | 
 njohja e fundit të transmetimit 
-endpoint n pikë fundore ose pikë e 
+endpoint |  n  | pikë fundore ose pikë e 
 fundit 
-endpoint list n listë e pikës fundore 
-endpoint manager n menaxher i 
+endpoint list |  n  | listë e pikës fundore 
+endpoint manager |  n  | menaxher i 
 pikës fundore 
-endpoint method n metodë e pikës 
+endpoint method |  n  | metodë e pikës 
 fundore 
-end-user n përdorues (ose 
+end-user |  n  | përdorues (ose 
 shfrytëzues) i fundit 
-End-User License Agreement n 
+End-User License Agreement |  n  | 
 marrëveshje me përdoruesin ose 
 shfrytëzuesin e fundit për licencim 
-end-user verification n verifikim i 
+end-user verification |  n  | verifikim i 
 përdoruesit të fundit 
  
  
 113
 Enhanced Small Device Interface 
-Energy Star n Energy Star [simbol 
+Energy Star |  n  | Energy Star [simbol 
 për të treguar pajisje me shpenzim 
 të zvogëluar të energjisë] 
-engine n makinë 
-engineer n inxhinier 
-engineering n inxhiniering 
+engine |  n  | makinë 
+engineer |  n  | inxhinier 
+engineering |  n  | inxhiniering 
 [inxhinieri, teknikë] 
-enhance v përmirësoj 
-enhance adj përmirësuar (i) ose 
+enhance |  v  | përmirësoj 
+enhance |  adj  | përmirësuar (i) ose 
 avancuar (i) 
-enhanceable language n gjuhë e 
+enhanceable language |  n  | gjuhë e 
 zgjerueshme 
 Enhanced Expanded Memory 
-Specification [EEMS] n specifikim 
+Specification [EEMS] |  n  | specifikim 
 i avancuar i memories së zgjeruar 
 [EEMS] 
 Enhanced Graphics Adapter 
-[EGA] n përshtatës grafik i 
+[EGA] |  n  | përshtatës grafik i 
 përmirësuar ose adapter grafik i 
 avancuar [EGA; pllakë EGA] 
-Enhanced Graphics Display n 
+Enhanced Graphics Display |  n  | 
 displej grafik i avancuar 
 Enhanced IDE [Enhanced 
-Integrated Drive Electronics] n 
+Integrated Drive Electronics] |  n  | 
 IDE e përmirësuar (ose avancuar) 
 [elektronika e avancuar e pajisjeve 
 të integruara] 
-enhanced keyboard n tastierë e 
+enhanced keyboard |  n  | tastierë e 
 avancuar [e zgjeruar] 
-enhanced parallel port n port 
+enhanced parallel port |  n  | port 
 paralel i avancuar 
-enhanced serial port n port serial i 
+enhanced serial port |  n  | port serial i 
 përmirësuar (ose avancuar) 
 Enhanced Small Device Interface 
-[ESDI] n ndërfaqe e (ose interfejs 
+[ESDI] |  n  | ndërfaqe e (ose interfejs 
  enhancement 
  
 114
 EPROM 
 i) avancuar për pajisje të vogla 
 [ESDI] 
-enhancement n përmirësim ose 
+enhancement |  n  | përmirësim ose 
 avancim 
 ENIAC [Electronic Numerical 
-Integrator and Calculator] n ENIAC 
+Integrator and Calculator] |  n  | ENIAC 
 [kompjuteri i parë elektronik] 
-ENQ [enquiry character] n ENQ 
+ENQ [enquiry character] |  n  | ENQ 
 [simbol thirrës] 
-enquiry character [ENQ] n simbol 
+enquiry character [ENQ] |  n  | simbol 
 thirrës [ENQ] 
-enter n futje [tasti i futjes: enter] 
-enter (1) v hyj 
-enter (2) v fus 
-Enter key n tasti Enter [tasti i futjes] 
-enterprise computing n sistem 
+enter |  n  | futje [tasti i futjes: enter] 
+enter (1) |  v  | hyj 
+enter (2) |  v  | fus 
+Enter key |  n  | tasti Enter [tasti i futjes] 
+enterprise computing |  n  | sistem 
 informativ i ndërmarrjes 
-enterprise network n rrjet 
+enterprise network |  n  | rrjet 
 informativ i ndërmarrjes 
-entertainment software n softuer i 
+entertainment software |  n  | softuer i 
 argëtimit 
-entity n entitet 
-entrance n pikëhyrje ose pikë 
+entity |  n  | entitet 
+entrance |  n  | pikëhyrje ose pikë 
 hyrëse 
-entry (1) n hyrje [të hyrët] 
-entry (2) n futje [përfshirje] 
-entry block n bllok i hyrjes ose bllok 
+entry (1) |  n  | hyrje [të hyrët] 
+entry (2) |  n  | futje [përfshirje] 
+entry block |  n  | bllok i hyrjes ose bllok 
 hyrës 
-entry condition n kusht i hyrjes 
-entry field n fushë e hyrjes ose 
+entry condition |  n  | kusht i hyrjes 
+entry field |  n  | fushë e hyrjes ose 
 fushë hyrëse 
-entry instruction n instruksion 
+entry instruction |  n  | instruksion 
 hyrës 
-entry point n pikë hyrëse 
-entry point [EP] n pikë e hyrjes ose 
+entry point |  n  | pikë hyrëse 
+entry point [EP] |  n  | pikë e hyrjes ose 
 pikë hyrëse [EP] 
-entry portion n pjesë hyrëse 
-entry sorting n renditje hyrëse ose 
+entry portion |  n  | pjesë hyrëse 
+entry sorting |  n  | renditje hyrëse ose 
 sortim hyrës 
-enumerated data type n tip i 
+enumerated data type |  n  | tip i 
 numëruar i të dhënave 
-enumeration n numërim 
-envelope delay n vonesë e 
+enumeration |  n  | numërim 
+envelope delay |  n  | vonesë e 
 mbështjellëses 
-EOF [end-of-file] n EOF [fund i 
+EOF [end-of-file] |  n  | EOF [fund i 
 fajlit] 
-EOL [End Of Line] n EOL [fund i 
+EOL [End Of Line] |  n  | EOL [fund i 
 rreshtit] 
-EOR [end-of-record] n EOR [fund i 
+EOR [end-of-record] |  n  | EOR [fund i 
 regjistresës] 
-EOT [end-of-transmission] n EOT 
+EOT [end-of-transmission] |  n  | EOT 
 [fund i transmetimit] 
-ephemeral adj përkohshëm (i) ose 
+ephemeral |  adj  | përkohshëm (i) ose 
 jetëshkurtër 
-epimorphism n epimorfizëm 
-epitaxial layer n shtresë epitaksiale 
-epitaxy n epitaksi 
-EPP [enhanced parallel port] n EPP 
+epimorphism |  n  | epimorfizëm 
+epitaxial layer |  n  | shtresë epitaksiale 
+epitaxy |  n  | epitaksi 
+EPP [enhanced parallel port] |  n  | EPP 
 [port paralel i avancuar] 
 EPP IEEE standard [Enhanced 
-Parallel Port IEEE standard] n 
+Parallel Port IEEE standard] |  n  | 
 standardi EPP IEEE 
 EPROM [Erasable Programmable 
-Read-Only Memory] abbr 
+Read-Only Memory] |  abbr  | 
 EPROM [memorie vetëm për lexim 
 e programueshme e fshijshme] 
  
  EPS 
-EPS [Encapsulated PostScript] n 
+EPS [Encapsulated PostScript] |  n  | 
 PostScript i kapsuluar [EPS] 
 EPSF [Encapsulated PostScript File]
- n EPSF [fajl PostScript i 
+ |  n  | EPSF [fajl PostScript i 
 kapsuluar] 
-equal adj barabartë (i) 
-equal v barazoj; është baras me 
-equality n barazi 
-equalization n barazim 
-equation n ekuacion [barazim] 
-equilibrium brightness n baraspeshë 
+equal |  adj  | barabartë (i) 
+equal |  v  | barazoj; është baras me 
+equality |  n  | barazi 
+equalization |  n  | barazim 
+equation |  n  | ekuacion [barazim] 
+equilibrium brightness |  n  | baraspeshë 
 e ndriçimeve 
-equip (with) v pajis (me)] 
-equipment augmentation n zgjerim 
+equip (with) |  v  | pajis (me)] 
+equipment augmentation |  n  | zgjerim 
 i pajisjes 
-equipment compatibility n 
+equipment compatibility |  n  | 
 pajtueshmëri e pajisjes 
-equipment failure n prishje e 
+equipment failure |  n  | prishje e 
 pajisjes 
-equivalence n barasvlerë 
+equivalence |  n  | barasvlerë 
 [ekuivalencë] 
-erasability of storage n fshijshmëri e 
+erasability of storage |  n  | fshijshmëri e 
 memories 
-erasable adj fshijshëm (i) [i 
+erasable |  adj  | fshijshëm (i) [i 
 rishkrueshëm] 
-erasable disk n disk i fshijshëm (i 
+erasable disk |  n  | disk i fshijshëm (i 
 rishkrueshëm) 
-erasable optical disk n disk optik i 
+erasable optical disk |  n  | disk optik i 
 fshijshëm (i rishkrueshëm) 
 erasable programmable read-only 
-memory [EPROM] n EPROM 
+memory [EPROM] |  n  | EPROM 
 [memorie vetëm për lexim e 
 fshijshme dhe e programueshme] 
-erase v fshij 
+erase |  v  | fshij 
  
  
 115
 error file 
-erase oscillator n oscilatori për 
+erase oscillator |  n  | oscilatori për 
 fshirje 
-eraser n fshirës [gomë] 
-erasing head n kokë fshirëse 
-erasing speed n shpejtësi e fshirjes 
-erasure n fshirje 
-ergonomic keyboard n tastierë 
+eraser |  n  | fshirës [gomë] 
+erasing head |  n  | kokë fshirëse 
+erasing speed |  n  | shpejtësi e fshirjes 
+erasure |  n  | fshirje 
+ergonomic keyboard |  n  | tastierë 
 ergonometrike 
-erlang n erlang 
-error n gabim 
-error character n karakter për 
+erlang |  n  | erlang 
+error |  n  | gabim 
+error character |  n  | karakter për 
 gabim 
-error checking n kontrollim i 
+error checking |  n  | kontrollim i 
 gabimeve 
-error checking and recovery n 
+error checking and recovery |  n  | 
 kontrollim dhe korrigjimi i gabimit 
-error code n kodi i gabimit 
-error control n kontroll i gabimeve 
-error correction n korrigjim i 
+error code |  n  | kodi i gabimit 
+error control |  n  | kontroll i gabimeve 
+error correction |  n  | korrigjim i 
 gabimit 
-error deleting tracks n gabim gjatë 
+error deleting tracks |  n  | gabim gjatë 
 fshirjes së gjurmëve 
-error detecting code n kod për 
+error detecting code |  n  | kod për 
 zbulimin e gabimeve 
-error detection n zbulim i 
+error detection |  n  | zbulim i 
 gabimeve 
-error detection and correction n 
+error detection and correction |  n  | 
 zbulim dhe korrigjim i gabimeve 
-error detection routine n rutinë për 
+error detection routine |  n  | rutinë për 
 zbulim të gabimit 
-error diagnostic n diagnostikë e 
+error diagnostic |  n  | diagnostikë e 
 gabimit 
-error file n fajl i gabimeve 
+error file |  n  | fajl i gabimeve 
  error frequency limit 
-error frequency limit n kufi i 
+error frequency limit |  n  | kufi i 
 frekuencës së gabimeve 
-error list n listë e gabimeve 
-error management n menaxhim i 
+error list |  n  | listë e gabimeve 
+error management |  n  | menaxhim i 
 gabimit 
-error range n rang i gabimit 
-error raport n raport për gabimet 
-error rate n frekuencë [shpeshti] e 
+error range |  n  | rang i gabimit 
+error raport |  n  | raport për gabimet 
+error rate |  n  | frekuencë [shpeshti] e 
 gabimeve 
-error ratio n shkallë e gabimeve 
-error reading data track n gabim 
+error ratio |  n  | shkallë e gabimeve 
+error reading data track |  n  | gabim 
 gjatë leximit të gjurmës së të 
 dhënave 
-error recovery procedures [ERP] n 
+error recovery procedures [ERP] |  n  | 
 procedurë e ndreqjes së gabimit 
-error while blanking n gabim gjatë 
+error while blanking |  n  | gabim gjatë 
 zbrazjes 
-error-checking code n kod për 
+error-checking code |  n  | kod për 
 kontroll të gabimit 
-error-correcting code n kodet për 
+error-correcting code |  n  | kodet për 
 korrigjimin e gabimeve 
-error-correction coding n kodimi 
+error-correction coding |  n  | kodimi 
 për korrigjimin e gabimeve 
-error-detecting code n kod për 
+error-detecting code |  n  | kod për 
 zbulim të gabimit 
-error-detecting system n sistem për 
+error-detecting system |  n  | sistem për 
 zbulim të gabimit 
-error-detection coding n kodimi për 
+error-detection coding |  n  | kodimi për 
 zbulimin e gabimeve 
-ESC character n simboli ESC 
+ESC character |  n  | simboli ESC 
 (simboli me numër 27 në kodin 
 ASCII) 
-Esc key [Escape key] n tasti Esc 
-escape v ik (dal) 
+Esc key [Escape key] |  n  | tasti Esc 
+escape |  v  | ik (dal) 
  
  
 116
 EULA 
-escape (1) n ikje (dalje) 
-escape (2) n tasti i ikjes (daljes) 
-Escape key n tasti Escape [tast i ikjes 
+escape (1) |  n  | ikje (dalje) 
+escape (2) |  n  | tasti i ikjes (daljes) 
+Escape key |  n  | tasti Escape [tast i ikjes 
 (daljes)] 
 ESD [electronic software 
-distribution] abbr shpërndarje 
+distribution] |  abbr  | shpërndarje 
 elektronike e softuerit 
-ESD [electrostatic discharge] n 
+ESD [electrostatic discharge] |  n  | 
 shkarkim elektrostatik 
 ESDI [Enhanced Small Device 
-Interface] abbr ESDI [ndërfaqe e 
+Interface] |  abbr  | ESDI [ndërfaqe e 
 avancuar e pajisjeve të vogla] 
-ESP [enhanced serial port] n port 
+ESP [enhanced serial port] |  n  | port 
 serial (ose serik) i avancuar 
 ESP IEEE standard [Encapsulating 
-Security Payload IEEE standard] n 
+Security Payload IEEE standard] |  n  | 
 standardi ESP IEEE 
-e-text [electronic text] n tekst 
+e-text [electronic text] |  n  | tekst 
 elektronik 
-Ethernet n Ethernet [rrjet lokal] 
+Ethernet |  n  | Ethernet [rrjet lokal] 
 Ethernet-type LAN [Local Area 
-Network] n rrjet lokal i tipit 
+Network] |  n  | rrjet lokal i tipit 
 Ethernet 
-E-time [execution time] n koha e 
+E-time [execution time] |  n  | koha e 
 ekzekutimit 
-etiquette n etiketë [mirësjellje në 
+etiquette |  n  | etiketë [mirësjellje në 
 rrjet; bonton në rrjetë] 
-ETX [end-of-text] n ETX [fundi i 
+ETX [end-of-text] |  n  | ETX [fundi i 
 tekstit] 
-Eudora n Eudora [program për postë 
+Eudora |  n  | Eudora [program për postë 
 elektronike] 
 EULA [End-User License 
-Agreement] abbr EULA 
+Agreement] |  abbr  | EULA 
 [marrëveshje me përdoruesin (ose 
  euro 
  
@@ -7528,277 +7498,277 @@ Agreement] abbr EULA
 exclusive-NOR gate 
 shfrytëzuesin) e fundit për 
 licencim] 
-exabyte [1EB = 1018B; 260b] n 
+exabyte [1EB = 1018B; 260b] |  n  | 
 ekzabajt [1EB = 1018B; 260b] 
-euro (€) n euro (€) 
+euro (€) |  n  | euro (€) 
 European article numbering 
-system [EAN] n sistemi evropian i 
+system [EAN] |  n  | sistemi evropian i 
 shënimit të artikujve [EAN] 
 European Computer 
 Manufacturers Association 
-[ECMA] n Shoqata evropiane e 
+[ECMA] |  n  | Shoqata evropiane e 
 prodhuesve të kompjuterëve 
 [ECMA] 
 European Laboratory for Particle 
-Physics n Laboratori evropian për 
+Physics |  n  | Laboratori evropian për 
 fizikën e grimcave 
-evaluate v vlerësoj 
-evaluation n vlerësim [përcaktim i 
+evaluate |  v  | vlerësoj 
+evaluation |  n  | vlerësim [përcaktim i 
 vlerës] 
-even adj çift 
-even number n numër çift 
-even page n faqe çift 
-even parity n çiftësi [paritet çift] 
-even parity check n kontrolli i 
+even |  adj  | çift 
+even number |  n  | numër çift 
+even page |  n  | faqe çift 
+even parity |  n  | çiftësi [paritet çift] 
+even parity check |  n  | kontrolli i 
 çiftësisë [paritet] 
 evenly adv barabar [njësoj] 
-event n ngjarje 
-event-driven processing n 
+event |  n  | ngjarje 
+event-driven processing |  n  | 
 përpunim i udhëhequr me ngjarje 
-event-driven programming n 
+event-driven programming |  n  | 
 programim i udhëhequr me ngjarje 
 exa [=1018; 260] pref ekza [=1018; 
 260] 
-exabit [1Eb = 1018b; 260b] n ekzabit 
+exabit [1Eb = 1018b; 260b] |  n  | ekzabit 
 [Eb = 1018b; 260b] 
-exact copy n kopje e saktë 
-example n shembull 
-exceed v tejkaloj [kapërcej] 
-exception (1) n përjashtim 
-exception (2) n kundërshtim 
-exchange v këmbej [ndërroj, 
+exact copy |  n  | kopje e saktë 
+example |  n  | shembull 
+exceed |  v  | tejkaloj [kapërcej] 
+exception (1) |  n  | përjashtim 
+exception (2) |  n  | kundërshtim 
+exchange |  v  | këmbej [ndërroj, 
 shkëmbej] 
-exchange n këmbim [ndërrim, 
+exchange |  n  | këmbim [ndërrim, 
 shkëmbim] 
-exchange identification [XID] n 
+exchange identification [XID] |  n  | 
 identifikim i këmbimit 
-exchange instruction n urdhër i 
+exchange instruction |  n  | urdhër i 
 këmbimit 
-exchange message n mesazhi i 
+exchange message |  n  | mesazhi i 
 këmbimit [ndërrimit] 
-exchangeable disk n disk i 
+exchangeable disk |  n  | disk i 
 shkëmbyeshëm [i ndërrueshëm] 
-excluded path n shteg i përjashtuar 
-exclusive adj përjashtues 
-exclusive NOR n JOOSE 
+excluded path |  n  | shteg i përjashtuar 
+exclusive |  adj  | përjashtues 
+exclusive NOR |  n  | JOOSE 
 përjashtuese (ose ekskluzive) 
-exclusive NOR gate n portë JOOSE 
+exclusive NOR gate |  n  | portë JOOSE 
 përjashtuese 
-exclusive OR n OSE përjashtuese 
+exclusive OR |  n  | OSE përjashtuese 
 (ose ekskluzive) 
-exclusive segments n segmente 
+exclusive segments |  n  | segmente 
 ekskluzive ose ekskluzive 
-exclusive set n bashkësi përjashtuese 
+exclusive set |  n  | bashkësi përjashtuese 
 (ose ekskluzive) 
 exclusive-NOR gate [EX-NOR gate] 
- n portë JO-OSE përjashtuese 
+ |  n  | portë JO-OSE përjashtuese 
  
  exclusive-NOR operation 
  
 118
-exclusive-NOR operation n veprim 
+exclusive-NOR operation |  n  | veprim 
 expert system 
-executive-system control n kontroll i 
+executive-system control |  n  | kontroll i 
 JO-OSE përjashtuese 
 sistemit ekzekutiv 
 exclusive-ORn OSE përjashtuese 
 (ose ekskluzive) 
-exclusive-OR gate [EX-OR gate] n 
+exclusive-OR gate [EX-OR gate] |  n  | 
 portë OSE përjashtuese (ose 
 ekskluzive) 
-executable adj ekzekutueshëm (i) 
-execute v ekzekutoj [kryej, zbatoj] 
-execution n ekzekutim [zbatim, 
+executable |  adj  | ekzekutueshëm (i) 
+execute |  v  | ekzekutoj [kryej, zbatoj] 
+execution |  n  | ekzekutim [zbatim, 
 kryerje] 
-execution control program n 
+execution control program |  n  | 
 program për kontroll të ekzekutimit 
-execution cycle n cikël i 
+execution cycle |  n  | cikël i 
 ekzekutimit 
-execution error detection n zbulimi 
+execution error detection |  n  | zbulimi 
 i gabimit gjatë ekzekutimit 
-execution time n koha e ekzekutimit 
-executive communications n 
+execution time |  n  | koha e ekzekutimit 
+executive communications |  n  | 
 komunikime ekzekutive 
-executive information system n 
+executive information system |  n  | 
 sistem informativ ekzekutues 
-executive instruction n instruksion 
+executive instruction |  n  | instruksion 
 ekzekutiv 
-executive program n program 
+executive program |  n  | program 
 ekzekutues (ose ekzekutiv) 
-executive routine n rutinë 
+executive routine |  n  | rutinë 
 ekzekutive 
-executive schedule maintance n 
+executive schedule maintance |  n  | 
 mirëmbajtja e planifikuar 
 ekzekutive 
-executive sistem n sistemi ekzekutiv 
-executive supervisor n supervizor 
+executive sistem |  n  | sistemi ekzekutiv 
+executive supervisor |  n  | supervizor 
 ose mbikëqyrësi ekzekutiv 
-executive-system utilities n 
+executive-system utilities |  n  | 
 programet shërbyese të sistemit 
 ekzekutiv 
-exeption n përjashtim 
-exeption dictionary n fjalor i 
+exeption |  n  | përjashtim 
+exeption dictionary |  n  | fjalor i 
 përjashtimeve 
-exerciser n program provues 
-exhibit v ekspozoj [paraqes] 
-exit v dal 
-exit n dalje 
-exit v dal 
-expand v zgjeroj [çngjesh, 
+exerciser |  n  | program provues 
+exhibit |  v  | ekspozoj [paraqes] 
+exit |  v  | dal 
+exit |  n  | dalje 
+exit |  v  | dal 
+expand |  v  | zgjeroj [çngjesh, 
 dekompresoj] 
-expandable adj zgjerueshëm (i) 
-expanded adj zgjeruar (i) 
-expanded memory n memorie e 
+expandable |  adj  | zgjerueshëm (i) 
+expanded |  adj  | zgjeruar (i) 
+expanded memory |  n  | memorie e 
 zgjeruar 
 Expanded Memory Manager 
-[EMM] n menaxheri i memories së 
+[EMM] |  n  | menaxheri i memories së 
 zgjeruar [EMM] 
 Expanded Memory Specification 
-[EMS] n specifikimi i memories së 
+[EMS] |  n  | specifikimi i memories së 
 zgjeruar [EMS] 
-expansion n zgjerim 
-expansion board n pllakë për 
+expansion |  n  | zgjerim 
+expansion board |  n  | pllakë për 
 zgjerim 
-expansion slot n fole ose slot për 
+expansion slot |  n  | fole ose slot për 
 zgjerim 
-expert n ekspert 
-expert system v sistem eksperti 
+expert |  n  | ekspert 
+expert system |  v  | sistem eksperti 
 [program aplikativ] 
  
  expiration date 
-expiration date n datë e skadimit 
+expiration date |  n  | datë e skadimit 
 [data kur nuk vlen më] 
  
 119
 extension manager 
-expire v skadon ose mbaron afati 
-expire data n datë skadimi 
-explore v shqyrtoj [eksploroj] 
-Explorer n Eksplorer 
-exponent n fuqi [mat.] [eksponent] 
-exponential notation n notacion 
+expire |  v  | skadon ose mbaron afati 
+expire data |  n  | datë skadimi 
+explore |  v  | shqyrtoj [eksploroj] 
+Explorer |  n  | Eksplorer 
+exponent |  n  | fuqi [mat.] [eksponent] 
+exponential notation |  n  | notacion 
 eksponencial 
-exponentiation n fuqizim (ngritje në 
+exponentiation |  n  | fuqizim (ngritje në 
 fuqi) 
-exponentional function n funksion 
+exponentional function |  n  | funksion 
 eksponencial 
-export n eksport 
-export v eksportoj 
-export/import v eksport-import 
-expression n shprehje 
-extend v zgjat [zgjeroj, shtoj] 
-extended adj zgjatur (i) [zgjeruar (i) 
+export |  n  | eksport 
+export |  v  | eksportoj 
+export/import |  v  | eksport-import 
+expression |  n  | shprehje 
+extend |  v  | zgjat [zgjeroj, shtoj] 
+extended |  adj  | zgjatur (i) [zgjeruar (i) 
 [shtrirë (i), gjerë (i), avancuar (i)] 
-extended addressing n adresim i 
+extended addressing |  n  | adresim i 
 zgjatur 
-extended architecture [XA] n 
+extended architecture [XA] |  n  | 
 arkitekturë e avancuar 
-extended ASCII n ASCII i zgjeruar 
+extended ASCII |  n  | ASCII i zgjeruar 
 Extended Binary Coded Decimal 
-Interchange Code [EBCDIC] n 
+Interchange Code [EBCDIC] |  n  | 
 kodi EBCDIC [kodi BCD i 
 zgjeruar për këmbim të 
 informacioneve] 
-extended characters n karaktere të 
+extended characters |  n  | karaktere të 
 zgjeruara 
  
 extended data out random access 
-memory [EDO RAM] n memoria 
+memory [EDO RAM] |  n  | memoria 
 me akses direkt dhe daljen e 
 zgjeruar të të dhënave [EDO RAM] 
-Extended Edition n edicion i 
+Extended Edition |  n  | edicion i 
 zgjeruar 
 eXtended Graphics Array [XGA] 
 n matrica grafike e zgjeruar [XGA] 
-extended guarantee n garanci e 
+extended guarantee |  n  | garanci e 
 zgjatur 
 Extended Industry Standard 
-Architecture [EISA] n arkitekturë 
+Architecture [EISA] |  n  | arkitekturë 
 standarde industriale e zgjeruar 
 [EISA] 
-extended memory n memorie e 
+extended memory |  n  | memorie e 
 zgjatur 
 extended memory specification 
-[XMS] n specifikim i memories së 
+[XMS] |  n  | specifikim i memories së 
 zgjatur [XMS] 
-extended technology [XT] n 
+extended technology [XT] |  n  | 
 teknologji e avancuar 
 extended VGA [extended Video 
-Graphics Array] n VGA i zgjeruar 
-extended-entry decision table n 
+Graphics Array] |  n  | VGA i zgjeruar 
+extended-entry decision table |  n  | 
 tabela e vendimeve me hyrje të 
 shtuar 
-extender board n pllakë për zgjerim 
-extensible language n gjuhë e 
+extender board |  n  | pllakë për zgjerim 
+extensible language |  n  | gjuhë e 
 zgjerueshme 
-extensible system n sistem i 
+extensible system |  n  | sistem i 
 zgjerueshëm 
-extension n zgjatim (ose 
+extension |  n  | zgjatim (ose 
 prapashtesë) i emrit të fajlit 
-extension manager n menaxher 
+extension manager |  n  | menaxher 
 (program) për zgjerim 
  extension mechanism 
  
 120
-extension mechanism n mekanizëm 
+extension mechanism |  n  | mekanizëm 
  
 external symbol dictionary [ESD] 
 për zgjerim 
 n fjalor i simboleve të jashtme 
-external adj jashtëm (i) 
-external bus n bus i jashtëm ose 
+external |  adj  | jashtëm (i) 
+external bus |  n  | bus i jashtëm ose 
 magjistrale e jashtme 
-external command n komandë e 
+external command |  n  | komandë e 
 jashtme 
 external data representation 
-[XDR] n paraqitje e të dhënave të 
+[XDR] |  n  | paraqitje e të dhënave të 
 jashtme 
-external delay n vonesë e jashtme 
-external device n pajisje e jashtme 
-external error n gabim i jashtëm 
-external function n funksion i 
+external delay |  n  | vonesë e jashtme 
+external device |  n  | pajisje e jashtme 
+external error |  n  | gabim i jashtëm 
+external function |  n  | funksion i 
 jashtëm 
-external hard disk n disk i jashtëm 
-external label n etiketë (ose labelë) 
+external hard disk |  n  | disk i jashtëm 
+external label |  n  | etiketë (ose labelë) 
 e jashtme 
-external memory n memorie e 
+external memory |  n  | memorie e 
 jashtme 
-external modem n modem i jashtëm 
-external node n nyjë e jashtme 
-external reference n referencë e 
+external modem |  n  | modem i jashtëm 
+external node |  n  | nyjë e jashtme 
+external reference |  n  | referencë e 
 jashtme 
-external server n server i jashtëm 
-external sort n renditje e jashtme ose 
+external server |  n  | server i jashtëm 
+external sort |  n  | renditje e jashtme ose 
 sortim i jashtëm 
-external sorting n renditje e jashtme 
-external storage n memorie e 
+external sorting |  n  | renditje e jashtme 
+external storage |  n  | memorie e 
 jashtme 
-external variable n ndryshore (ose 
+external variable |  n  | ndryshore (ose 
 variabël) e jashtme 
-external viewer n shikues (ose 
+external viewer |  n  | shikues (ose 
 vëzhgues) i jashtëm 
-external-device address n adresë e 
+external-device address |  n  | adresë e 
 pajisjes së jashtme 
-external-device control n kontroll i 
+external-device control |  n  | kontroll i 
 pajisjes së jashtme 
-external-device operands n 
+external-device operands |  n  | 
 operande të pajisjes së jashtme 
-external-device response n përgjigje 
+external-device response |  n  | përgjigje 
 e pajisjes së jashtme 
 extra- pref jashtë- 
-extract n ekstrakt 
-extract (1) v nxjerr [ekstraktoj] 
-extract (2) v bëj ekstraktin 
-extra-high-density floppy disk n 
+extract |  n  | ekstrakt 
+extract (1) |  v  | nxjerr [ekstraktoj] 
+extract (2) |  v  | bëj ekstraktin 
+extra-high-density floppy disk |  n  | 
 disketë me dendësi veçanërisht të 
 lartë 
-extranet n ekstranet 
-extranet user n përdoruesi i 
+extranet |  n  | ekstranet 
+extranet user |  n  | përdoruesi i 
 ekstranetit 
-extrapolation n ekstrapolim 
-ezine [electronic magazine] n revistë 
+extrapolation |  n  | ekstrapolim 
+ezine [electronic magazine] |  n  | revistë 
 elektronike 
-e-zine [electronic magazine] n 
+e-zine [electronic magazine] |  n  | 
 revistë elektronike
  
  
@@ -7812,731 +7782,731 @@ revistë elektronike
  
 121
 F 
-F n F [vlera heksadecimale e 
+F |  n  | F [vlera heksadecimale e 
 numrit dhjetor 15] 
-F [farad] abbr F [farad] 
-f [femto] abbr f [femto] 
-f [frequency] abbr f [frekuencë, 
+F [farad] |  abbr  | F [farad] 
+f [femto] |  abbr  | f [femto] 
+f [frequency] |  abbr  | f [frekuencë, 
 shpeshti, denduri] 
-F keys n tastet F [funksionale] 
+F keys |  n  | tastet F [funksionale] 
 F2F [face-to-face] adv fytyrë për 
 fytyrë 
-face (1) n faqe 
-face (2) n anë e përparme 
-faceplate n ekran 
-facsimile n faksimil 
-facsimile receiver n marrës i 
+face (1) |  n  | faqe 
+face (2) |  n  | anë e përparme 
+faceplate |  n  | ekran 
+facsimile |  n  | faksimil 
+facsimile receiver |  n  | marrës i 
 faksimilit 
-facsimile transmission n 
+facsimile transmission |  n  | 
 transmetim i faksimilit 
-facsimile transmitter n transmetues 
+facsimile transmitter |  n  | transmetues 
 i faksimilit 
-facsimilemachine n makinë faksi 
-factor n faktor 
-factorial n faktoriel 
-factorial [!] n faktoriel [!] 
-factory default n vlerë e 
+facsimilemachine |  n  | makinë faksi 
+factor |  n  | faktor 
+factorial |  n  | faktoriel 
+factorial [!] |  n  | faktoriel [!] 
+factory default |  n  | vlerë e 
 paracaktuar nga fabrika 
  
-fade-in n dukje [shfaqje] graduale (e 
+fade-in |  n  | dukje [shfaqje] graduale (e 
 figurës) 
-fade-out n zhdukje graduale (e 
+fade-out |  n  | zhdukje graduale (e 
 figurës) 
-fail v prishet [nuk punon, pëson avari] 
-failure n prishje [defekt; ngecje; 
+fail |  v  | prishet [nuk punon, pëson avari] 
+failure |  n  | prishje [defekt; ngecje; 
 gabim] 
-failure recovery n mënjanim i 
+failure recovery |  n  | mënjanim i 
 prishjes [mënjanim i gabimit] 
-family n familje 
-fan n ventilator 
-fast adder n mbledhës i shpejtë 
-Fast Ethernet n Ethernet i shpejtë 
-fast Fourier transform n 
+family |  n  | familje 
+fan |  n  | ventilator 
+fast adder |  n  | mbledhës i shpejtë 
+Fast Ethernet |  n  | Ethernet i shpejtë 
+fast Fourier transform |  n  | 
 transformim i shpejtë Furie 
-fast infrared port [FIR port] n port i 
+fast infrared port [FIR port] |  n  | port i 
 shpejtë infrakuq [port FIR] 
-fast packet n paket i shpejtë 
-Fast SCSI n SCSI i shpejtë 
-fast select n zgjedhje e shpejtë 
-Fast/Wide SCSI n SCSI i 
+fast packet |  n  | paket i shpejtë 
+Fast SCSI |  n  | SCSI i shpejtë 
+fast select |  n  | zgjedhje e shpejtë 
+Fast/Wide SCSI |  n  | SCSI i 
 shpejtë-i gjerë 
-FAT file system n sistemi i fajlave 
+FAT file system |  n  | sistemi i fajlave 
 FAT 
-fat server n server i ngarkuar 
+fat server |  n  | server i ngarkuar 
  fatal error 
-fatal error n gabim fatal 
+fatal error |  n  | gabim fatal 
 [shkatërrimtar] 
-fault n prishje [metë (e), defekt, 
+fault |  n  | prishje [metë (e), defekt, 
 gabim] 
-fault detection n zbulim i prishjes 
-fault domain n domen i gabimit 
-fault management n menaxhim i 
+fault detection |  n  | zbulim i prishjes 
+fault domain |  n  | domen i gabimit 
+fault management |  n  | menaxhim i 
 prishjeve 
-fault-finding n gjetje e gabimit 
+fault-finding |  n  | gjetje e gabimit 
 [lokalizim i prishjes] 
-fault-tolerant computer system n 
+fault-tolerant computer system |  n  | 
 sistem kompjuterik tolerant ndaj 
 prishjeve 
-fault-tolerant system n sistem 
+fault-tolerant system |  n  | sistem 
 (kompjuterik) tolerant ndaj 
 prishjeve 
-favorite n favorit 
-fax n faks 
-fax machine n makina e faksit 
-fax modem n faksmodem 
-fax on demand n faks me kërkesë 
-fax program n program i faksit 
-fax server n server i faksit 
-FD [Floppy Disk] abbr disketë 
+favorite |  n  | favorit 
+fax |  n  | faks 
+fax machine |  n  | makina e faksit 
+fax modem |  n  | faksmodem 
+fax on demand |  n  | faks me kërkesë 
+fax program |  n  | program i faksit 
+fax server |  n  | server i faksit 
+FD [Floppy Disk] |  abbr  | disketë 
 [flopi-disk, disk i butë] 
 FDDI [Fiber Distributed Data 
-Interface] abbr FDDI [ndërfaqe e 
+Interface] |  abbr  | FDDI [ndërfaqe e 
 shpërndarjes së të dhënave 
 nëpërmjet fijeve optike] 
-FDDI network n rrjet FDDI 
-FDX [Full-duplex] abbr dupleks i 
+FDDI network |  n  | rrjet FDDI 
+FDX [Full-duplex] |  abbr  | dupleks i 
 plotë 
-feasible adj mundshëm (i) 
+feasible |  adj  | mundshëm (i) 
 [realizueshëm (i)] 
  
  
 122
 fetch 
-feasible solution n zgjidhje e 
+feasible solution |  n  | zgjidhje e 
 realizueshme 
-feature n veçori ose veti 
+feature |  n  | veçori ose veti 
 Federal Information Processing 
-Standards [FIPS] n Standardet 
+Standards [FIPS] |  n  | Standardet 
 federale për përpunim të 
 informacioneve [FIPS] 
-fee (1) n taksë 
-fee (2) n pagesë [shpenzime] 
-feed v ushqej [furnizoj] 
-feed n ushqim [furnizim] 
-feedback queue n radhë (pritjeje) e 
+fee (1) |  n  | taksë 
+fee (2) |  n  | pagesë [shpenzime] 
+feed |  v  | ushqej [furnizoj] 
+feed |  n  | ushqim [furnizim] 
+feedback queue |  n  | radhë (pritjeje) e 
 prapaveprimit 
-female connector n konektor femër 
+female connector |  n  | konektor femër 
 femto- [f, = 10-15] pref femto- [f, = 
 10-15] 
-femtosecond n femtosekondë 
-FEP [front-end procesor] abbr FEP 
+femtosecond |  n  | femtosekondë 
+FEP [front-end procesor] |  abbr  | FEP 
 [procesor ballor ose frontal; 
 procesor komunikues] 
-ferric oxide n oksidi i hekurit 
-ferrit core n bërthamë 
+ferric oxide |  n  | oksidi i hekurit 
+ferrit core |  n  | bërthamë 
 (magnetike) prej ferriti 
-ferrite n ferrit 
-ferromagnetic domain n domen 
+ferrite |  n  | ferrit 
+ferromagnetic domain |  n  | domen 
 ferromagnetik 
-ferromagnetic material n 
+ferromagnetic material |  n  | 
 material ferromagnetik 
-ferromagnetism n ferromagnetizëm 
-FET [Field-Effect Transistor] n FET 
+ferromagnetism |  n  | ferromagnetizëm 
+FET [Field-Effect Transistor] |  n  | FET 
 [transistor me efekt fushe] 
-fetch n sjellje [prurje] 
+fetch |  n  | sjellje [prurje] 
  FFT 
  
 123
-FFT [fast Fourier transform] abbr 
+FFT [fast Fourier transform] |  abbr  | 
 FFT [transformim i shpejtë Furie] 
 file manager 
-figurative constant n konstante 
+figurative constant |  n  | konstante 
 figurative 
-fiber n fije [fije optike] 
+fiber |  n  | fije [fije optike] 
 fiber distributed data interface 
-[FDDI] n ndërfaqe (ose interfejs) e 
+[FDDI] |  n  | ndërfaqe (ose interfejs) e 
 shpërndarjes së të dhënave 
 nëpërmjet fijeve optike [FDDI] 
-fiber optics n fije optike 
-fiber optics cable n kabllo me fije 
+fiber optics |  n  | fije optike 
+fiber optics cable |  n  | kabllo me fije 
 optike [kabllo optike] 
-fiber optics network n rrjet me fije 
+fiber optics network |  n  | rrjet me fije 
 optike 
-fiber optics transmission system n 
+fiber optics transmission system |  n  | 
 sistem transmetimi me fije optike 
-Fibonacci numbers n numra të 
+Fibonacci numbers |  n  | numra të 
 Fibonaccit 
-field n fushë 
-field delimiter n ndarës [kufizues] i 
+field |  n  | fushë 
+field delimiter |  n  | ndarës [kufizues] i 
 fushave 
-field name n emër i fushës 
-field separator n ndarës (ose 
+field name |  n  | emër i fushës 
+field separator |  n  | ndarës (ose 
 separator) i fushës 
-field-effect transistor [FET] n 
+field-effect transistor [FET] |  n  | 
 transistor me efekt të fushës [FET] 
-field-effect transistor [FET] n 
+field-effect transistor [FET] |  n  | 
 transistor me efekt fushe [FET] 
-FIFO [First-In First-Out] abbr FIFO 
+FIFO [First-In First-Out] |  abbr  | FIFO 
 [hyn i pari, del i pari] 
-fifth normal form n forma normale e 
+fifth normal form |  n  | forma normale e 
 pestë 
-fifth-generation computer n 
+fifth-generation computer |  n  | 
 kompjuter i gjeneratës (brezit) së 
 pestë 
  
-figure (1) n figurë 
-file n fajl 
-file analysis n analizë e fajlit 
-file attribute n atribut i fajlit 
-file backup n kopje rezervë e fajlit 
-file change n ndryshim fajlit 
-file component n përbërës i fajlit 
-file compression n ngjeshje e fajlit 
-file control block n blloku 
+figure (1) |  n  | figurë 
+file |  n  | fajl 
+file analysis |  n  | analizë e fajlit 
+file attribute |  n  | atribut i fajlit 
+file backup |  n  | kopje rezervë e fajlit 
+file change |  n  | ndryshim fajlit 
+file component |  n  | përbërës i fajlit 
+file compression |  n  | ngjeshje e fajlit 
+file control block |  n  | blloku 
 kontrollues i fajlit 
-file control system n sistem për 
+file control system |  n  | sistem për 
 kontroll të fajlave 
-file deletion n fshirje e fajlit 
-file descriptor n përshkrues i fajlit 
-file extension n zgjatim i (ose 
+file deletion |  n  | fshirje e fajlit 
+file descriptor |  n  | përshkrues i fajlit 
+file extension |  n  | zgjatim i (ose 
 prapashtesë e) fajlit 
-file format n format i fajlit 
-file fragmentation n fragmentim i 
+file format |  n  | format i fajlit 
+file fragmentation |  n  | fragmentim i 
 fajlit 
-file gap n zbrazëtirë ndërmjet fajlave 
-file header n krye i fajlit ose 
+file gap |  n  | zbrazëtirë ndërmjet fajlave 
+file header |  n  | krye i fajlit ose 
 ballinë e fajlit 
-file identification n identifikim i 
+file identification |  n  | identifikim i 
 fajlit 
-file index n tregues (ose indeks) i 
+file index |  n  | tregues (ose indeks) i 
 fajlit 
-file librarian n bibliotekar i fajlave 
-file maintenance n mirëmbajtje e 
+file librarian |  n  | bibliotekar i fajlave 
+file maintenance |  n  | mirëmbajtje e 
 fajlave 
-file manager n menaxher i fajlave 
+file manager |  n  | menaxher i fajlave 
  file menu 
-file menu n meny e fajlit 
-file name n emri i fajlit 
-file name extension n zgjatim (ose 
+file menu |  n  | meny e fajlit 
+file name |  n  | emri i fajlit 
+file name extension |  n  | zgjatim (ose 
 prapashtesë) i emrit të fajlit 
-file name substitution n 
+file name substitution |  n  | 
 zëvendësim i emrit të fajlit 
-file opening n hapje e fajlit 
-file organization n organizim i 
+file opening |  n  | hapje e fajlit 
+file organization |  n  | organizim i 
 fajlit 
-file organization routine n rutinë 
+file organization routine |  n  | rutinë 
 për organizim të fajlit 
-file prefix n parashtesë e fajlit 
-file processing n përpunim i 
-file protected n fajl i mbrojtur 
-file protection n mbrojtje e fajlit 
-file protection ring n unazë për 
+file prefix |  n  | parashtesë e fajlit 
+file processing |  n  | përpunim i 
+file protected |  n  | fajl i mbrojtur 
+file protection |  n  | mbrojtje e fajlit 
+file protection ring |  n  | unazë për 
 mbrojtje të fajlit 
-file reconstruction n rindërtim 
+file reconstruction |  n  | rindërtim 
 [rikonstruktim] i fajlit 
-file server n server i fajlave 
-file size n madhësi e fajlit 
-file specification n specifikim i fajlit 
-file structure n strukturë e fajlit 
-file system n sistemi i fajlave 
-file title n titull (emër) i fajlit 
-File Transfer Protocol [FTP] n 
+file server |  n  | server i fajlave 
+file size |  n  | madhësi e fajlit 
+file specification |  n  | specifikim i fajlit 
+file structure |  n  | strukturë e fajlit 
+file system |  n  | sistemi i fajlave 
+file title |  n  | titull (emër) i fajlit 
+File Transfer Protocol [FTP] |  n  | 
 protokoll për bartje të fajlave 
 [protokolli FTP] 
-file type n tip i fajlit 
-file updating n përditësim ose 
+file type |  n  | tip i fajlit 
+file updating |  n  | përditësim ose 
 azhurnim i fajlit 
-file viewer n shikues i fajlit [modul 
+file viewer |  n  | shikues i fajlit [modul 
 për shikim të fajlit] 
  
  
 124
 finite set 
-file-oriented system n sistem i 
+file-oriented system |  n  | sistem i 
 orientuar në fajla 
-files sharing n shfrytëzim i 
+files sharing |  n  | shfrytëzim i 
 përbashkët [kolektiv] i fajlit 
-filespec [file specification] abbr 
+filespec [file specification] |  abbr  | 
 specifikim i fajlit 
-fill v mbush 
-fill n mbushje [ngjyra e mbushjes] 
-fill characters n karakteret për 
+fill |  v  | mbush 
+fill |  n  | mbushje [ngjyra e mbushjes] 
+fill characters |  n  | karakteret për 
 mbushje 
-fill rate n shpejtësia e mbushjes 
-filler n mbushës 
-filling n mbushje (me ngjyrë) 
-film (1) n film (kinematografik) 
-film (2) n shirit filmi 
+fill rate |  n  | shpejtësia e mbushjes 
+filler |  n  | mbushës 
+filling |  n  | mbushje (me ngjyrë) 
+film (1) |  n  | film (kinematografik) 
+film (2) |  n  | shirit filmi 
 (kinematografik) 
-film (3) n cipë [shtresë e hollë] 
-film scanning n skanimi i filmit 
-FILO [first in - last out] abbr FILO 
+film (3) |  n  | cipë [shtresë e hollë] 
+film scanning |  n  | skanimi i filmit 
+FILO [first in - last out] |  abbr  | FILO 
 [hyn i pari - del i fundit] 
-filter n filtër 
-filter v filtroj 
-filtering n filtrim 
-filtering program n program për 
+filter |  n  | filtër 
+filter |  v  | filtroj 
+filtering |  n  | filtrim 
+filtering program |  n  | program për 
 filtrim 
-FilterKeys n tastet për filtrim 
-financial planning system n 
+FilterKeys |  n  | tastet për filtrim 
+financial planning system |  n  | 
 sistem për planifikim financiar 
-find v gjej 
-find next v gjeje tjetrën 
-finite adj fundmë (i) 
-finite set n bashkësi e fundme 
+find |  v  | gjej 
+find next |  v  | gjeje tjetrën 
+finite |  adj  | fundmë (i) 
+finite set |  n  | bashkësi e fundme 
  FIPS 
 FIPS [Federal Information 
-Processing Standards] abbr FIPS 
+Processing Standards] |  abbr  | FIPS 
 [Standardet federale për përpunim 
 të informacioneve] 
-first generation computer n 
+first generation computer |  n  | 
 kompjuter i gjeneratës [brezit] së 
 parë 
 first in, last out [FILO] ph hyn i 
 pari, del i fundit [FILO] 
-first level address n adresë e nivelit 
+first level address |  n  | adresë e nivelit 
 të parë 
-first name n emri 
-first normal form n formë e parë 
+first name |  n  | emri 
+first normal form |  n  | formë e parë 
 normale 
-first-generation computer n 
+first-generation computer |  n  | 
 kompjuter i brezit të parë 
-first-item list n listë e fushës së parë 
-first-order subroutine n 
+first-item list |  n  | listë e fushës së parë 
+first-order subroutine |  n  | 
 nënprogram i rendit të parë 
-fit v përshtat 
-fit (with) v pajis (me) 
-fit in v përshtat 
+fit |  v  | përshtat 
+fit (with) |  v  | pajis (me) 
+fit in |  v  | përshtat 
 five-level code ph kod pesënivelësh 
 [kod pesëbitësh] 
-fixate v fiksoj 
-fixating n fiksim 
-fixed adj fiks [fiksuar (i), caktuar (i), 
+fixate |  v  | fiksoj 
+fixating |  n  | fiksim 
+fixed |  adj  | fiks [fiksuar (i), caktuar (i), 
 përcaktuar (i)] 
 fixed arean fushë e fiksuar [fushë e 
 caktuar] 
-fixed disk n disk fiks 
-fixed field n fushë fikse 
-fixed form coding n kodimi në 
+fixed disk |  n  | disk fiks 
+fixed field |  n  | fushë fikse 
+fixed form coding |  n  | kodimi në 
 formën fikse 
  
  
 125
 fixed-point calculation 
-fixed head n kokë fikse 
-fixed logic n logjikë fikse 
-fixed memory n memorie fikse 
-fixed point n pikë [presje] fikse 
-fixed space n hapësirë e fiksuar 
-fixed spacing n rrallim fiks 
-fixed storage n memorie fikse 
-fixed word length n fjalë me gjatësi 
+fixed head |  n  | kokë fikse 
+fixed logic |  n  | logjikë fikse 
+fixed memory |  n  | memorie fikse 
+fixed point |  n  | pikë [presje] fikse 
+fixed space |  n  | hapësirë e fiksuar 
+fixed spacing |  n  | rrallim fiks 
+fixed storage |  n  | memorie fikse 
+fixed word length |  n  | fjalë me gjatësi 
 fikse 
-fixed-base system n sistem 
+fixed-base system |  n  | sistem 
 (numerik) me bazë fikse 
-fixed-block n bllok fiks 
-fixed-cycle operation n operacion 
+fixed-block |  n  | bllok fiks 
+fixed-cycle operation |  n  | operacion 
 me cikël fiks 
-fixed-field method n metodë me 
+fixed-field method |  n  | metodë me 
 fushë fikse 
-fixed-head disk n disk me kokë 
+fixed-head disk |  n  | disk me kokë 
 fikse 
-fixed-length block n bllok me 
+fixed-length block |  n  | bllok me 
 gjatësi fikse 
-fixed-length code n kod me gjatësi 
+fixed-length code |  n  | kod me gjatësi 
 fikse 
-fixed-length field n fushë me 
+fixed-length field |  n  | fushë me 
 gjatësi fikse 
-fixed-length record n regjistresë 
+fixed-length record |  n  | regjistresë 
 me gjatësi fikse 
-fixed-pitch spacing n rrallim me 
+fixed-pitch spacing |  n  | rrallim me 
 lartësi fikse 
-fixed-point arithmetic n aritmetikë 
+fixed-point arithmetic |  n  | aritmetikë 
 me pikë fikse 
-fixed-point calculation n llogaritje 
+fixed-point calculation |  n  | llogaritje 
 me pikë fikse 
  fixed-point computer 
-fixed-point computer n kompjuter 
+fixed-point computer |  n  | kompjuter 
 me pikë fikse 
-fixed-point notation n aritmetikë me 
+fixed-point notation |  n  | aritmetikë me 
 pikë fikse 
-fixed-point part n pjesa e pikës fikse 
+fixed-point part |  n  | pjesa e pikës fikse 
 [mantisa] 
-fixed-point representation n 
+fixed-point representation |  n  | 
 paraqitja me pikë fikse 
-fixed-point system n sistem me 
+fixed-point system |  n  | sistem me 
 pikë fikse 
-fixed-position addressing n 
+fixed-position addressing |  n  | 
 adresim i pozicionit fiks 
-fixed-program computer n 
+fixed-program computer |  n  | 
 kompjuter me program fiks 
-fixed-radix system n shënim me 
+fixed-radix system |  n  | shënim me 
 bazë fikse 
-fixed-width font n font me gjerësi 
+fixed-width font |  n  | font me gjerësi 
 fikse 
-fixed-width spacing n rrallim me 
+fixed-width spacing |  n  | rrallim me 
 gjerësi fikse 
-fixed-word length n gjatësi fikse e 
+fixed-word length |  n  | gjatësi fikse e 
 fjalës 
-fixed-word length computer n 
+fixed-word length computer |  n  | 
 kompjuter me fjalë të gjatësisë 
 fikse 
-fixed-word-length computer n 
+fixed-word-length computer |  n  | 
 kompjuter me fjalë të gjatësisë 
 fikse 
-flag n flamur [tregues, indikator, 
+flag |  n  | flamur [tregues, indikator, 
 marker] 
-flag bit n bit i flamurit 
-flag code n kod i flamurit 
-flag register n regjistër i flamujve 
-flame v nxit [vë zjarr] 
+flag bit |  n  | bit i flamurit 
+flag code |  n  | kod i flamurit 
+flag register |  n  | regjistër i flamujve 
+flame |  v  | nxit [vë zjarr] 
  
  
 126
 floating-point constant 
-flame n zjarrvënie [mesazh 
+flame |  n  | zjarrvënie [mesazh 
 zjarrëvënës (nxitës)] 
-flash memory n memorie flash 
-flash ROM n ROM flesh 
-flat adj rrafshët (i) [sheshtë (i), 
+flash memory |  n  | memorie flash 
+flash ROM |  n  | ROM flesh 
+flat |  adj  | rrafshët (i) [sheshtë (i), 
 shpatuk] 
-flat cable n kabllo shpatuke [e 
+flat cable |  n  | kabllo shpatuke [e 
 rrafshët] 
-flat screen n ekran i rrafshët 
-flexible array n fushë e 
+flat screen |  n  | ekran i rrafshët 
+flexible array |  n  | fushë e 
 ndryshueshme 
-flexible disk n disketë 
-flight simulator n simulator i 
+flexible disk |  n  | disketë 
+flight simulator |  n  | simulator i 
 fluturimit 
-flip-flop n flip-flop [shilarës] 
+flip-flop |  n  | flip-flop [shilarës] 
 [multivibrator bistabël] 
-floating point adj me pikë lëvizëse 
-floating point arithmetic n 
+floating point |  adj  | me pikë lëvizëse 
+floating point arithmetic |  n  | 
 aritmetikë me pikë lëvizëse 
-floating point notation n shënim me 
+floating point notation |  n  | shënim me 
 pikë lëvizëse 
-floating point number n numër me 
+floating point number |  n  | numër me 
 pikë lëvizëse 
-floating point operation n veprim 
+floating point operation |  n  | veprim 
 me pikë lëvizëse 
-floating-point arithmetic n 
+floating-point arithmetic |  n  | 
 aritmetikë me pikë të lëvizshme 
-floating-point calculation n 
+floating-point calculation |  n  | 
 llogaritje me pikë të lëvizshme 
-floating-point coefficient n 
+floating-point coefficient |  n  | 
 koeficient me pikë të lëvizshme 
-floating-point constant n konstante 
+floating-point constant |  n  | konstante 
 me pikë të lëvizshme 
  floating-point notation 
  
 127
-floating-point notation n notacioni 
+floating-point notation |  n  | notacioni 
 [shënim] me pikë të lëvizshme 
 font library 
-flow control n kontroll i rrjedhjes 
+flow control |  n  | kontroll i rrjedhjes 
 (fluksit) 
-floating-point number n numër me 
+floating-point number |  n  | numër me 
 pikë të lëvizshme 
-flow diagramme n diagram i 
+flow diagramme |  n  | diagram i 
 rrjedhjes [organigram] 
-floating-point operation n 
+floating-point operation |  n  | 
 operacion me pikë të lëvizshme 
-floating-point package n paket me 
+floating-point package |  n  | paket me 
 pikë të lëvizshme 
-floating-point processor n procesor 
+floating-point processor |  n  | procesor 
 me pikë të lëvizshme 
-floating-point register n regjistër 
+floating-point register |  n  | regjistër 
 me pikë të lëvizshme 
-floating-point routine n rutinë me 
+floating-point routine |  n  | rutinë me 
 pikë të lëvizshme 
-floating-point system n sistem me 
+floating-point system |  n  | sistem me 
 pikë të lëvizshme 
 FLOP [floating-point operation] 
 abbr FLOP [operacion me pikë të 
 lëvizshme] 
-floppy [floppy disk] n disketë (flopi-
+floppy [floppy disk] |  n  | disketë (flopi-
 disk [disk i butë]) 
-floppy disk [FD] n disketë (flopi-disk 
+floppy disk [FD] |  n  | disketë (flopi-disk 
 [disk i butë]) 
-floppy disk controller n kontroler i 
+floppy disk controller |  n  | kontroler i 
 disketës 
 FLOPS [FLoating-point Operations 
-Per Second] n FLOPS [numri i 
+Per Second] |  n  | FLOPS [numri i 
 operacioneve me pikë të lëvizshme 
 për sekondë] 
-flow (1) n rrjedhë [fluks] 
-flow (2) n rrjedhje 
-flow analysis n analiza e rrjedhjes 
-flow chart n diagram i rrjedhjes, 
+flow (1) |  n  | rrjedhë [fluks] 
+flow (2) |  n  | rrjedhje 
+flow analysis |  n  | analiza e rrjedhjes 
+flow chart |  n  | diagram i rrjedhjes, 
 organigram 
-flowchart n diagrami i rrjedhjes 
-fluid computer n kompjuter fluid 
-flush n rrafshim [barazim (i tekstit)] 
-flush right v rrafshoj ose barazoj 
+flowchart |  n  | diagrami i rrjedhjes 
+fluid computer |  n  | kompjuter fluid 
+flush |  n  | rrafshim [barazim (i tekstit)] 
+flush right |  v  | rrafshoj ose barazoj 
 djathtas (tekstin) 
-flux n fluks 
-flux reversal n ndryshimi i kahes së 
+flux |  n  | fluks 
+flux reversal |  n  | ndryshimi i kahes së 
 fluksit 
-flying head n kokë fluturuese 
-flying-spot scan n skanim me 
+flying head |  n  | kokë fluturuese 
+flying-spot scan |  n  | skanim me 
 fluturim [skanim pikë për pikë] 
-FM [frequency modulation] abbr 
+FM [frequency modulation] |  abbr  | 
 FM [modulim në frekuencë] 
-focus v fokusoj [vatërzoj] 
+focus |  v  | fokusoj [vatërzoj] 
 FOCUS [Federation on Computing 
-in the United States] abbr FOCUS 
+in the United States] |  abbr  | FOCUS 
 [Federata e kompjuteristëve të 
 SHBA] 
-FOD [fax on demand] abbr FOD 
+FOD [fax on demand] |  abbr  | FOD 
 [faks me kërkesë] 
-fold v palos 
-folder n folder ose dosje ose 
+fold |  v  | palos 
+folder |  n  | folder ose dosje ose 
 direktorium ose katalog 
-font n font [tërësi shenjash grafike] 
-font card n kartelë e fontit 
-font editor n editor i fonteve 
-font family n familje e fonteve 
-font generator n gjenerator i fonteve 
-font library n bibliotekë fontesh 
+font |  n  | font [tërësi shenjash grafike] 
+font card |  n  | kartelë e fontit 
+font editor |  n  | editor i fonteve 
+font family |  n  | familje e fonteve 
+font generator |  n  | gjenerator i fonteve 
+font library |  n  | bibliotekë fontesh 
  
  font number 
-font number n numri i fontit 
-font page n faqe e fontit 
-font size n madhësi e fontit 
+font number |  n  | numri i fontit 
+font page |  n  | faqe e fontit 
+font size |  n  | madhësi e fontit 
 For expert usage only! ph Vetëm 
 për përdorues të sprovuar! 
-FOR loop n laku (ose unaza) FOR 
+FOR loop |  n  | laku (ose unaza) FOR 
 [PËR] 
-force blanking n zbrazje e detyruar 
-forecast v parashikoj 
-foreground n plan i parë [paraplan] 
-foreground application n 
+force blanking |  n  | zbrazje e detyruar 
+forecast |  v  | parashikoj 
+foreground |  n  | plan i parë [paraplan] 
+foreground application |  n  | 
 aplikacion kryesor [planparë] 
-foreground process n proces kryesor 
+foreground process |  n  | proces kryesor 
 [planparë] 
-foreground processing n përpunim 
+foreground processing |  n  | përpunim 
 kryesor [planparë] 
-foreground task n detyrë kryesore 
+foreground task |  n  | detyrë kryesore 
 [planparë] 
-fork n bigëzim, degëzim 
-fork v bigëzohet ose degëzohet 
-form (1) n formë 
-form (1) v formoj 
-form (2) v formësoj 
-form (2) n formular 
-form control buffer n bufer për 
+fork |  n  | bigëzim, degëzim 
+fork |  v  | bigëzohet ose degëzohet 
+form (1) |  n  | formë 
+form (1) |  v  | formoj 
+form (2) |  v  | formësoj 
+form (2) |  n  | formular 
+form control buffer |  n  | bufer për 
 kontroll të formularit 
-form of the physical store n formë 
+form of the physical store |  n  | formë 
 e memories fizike 
-formal adj formal 
-formal language n gjuhë formale 
-formal language theory n teori e 
+formal |  adj  | formal 
+formal language |  n  | gjuhë formale 
+formal language theory |  n  | teori e 
 gjuhëve formale 
  
  
 128
 Fourier transform 
-formal logic n logjikë formale 
-formal parameter n parametër 
+formal logic |  n  | logjikë formale 
+formal parameter |  n  | parametër 
 formal 
-format n format 
-format v formatoj 
-format bar n shirit i formatimit 
-format picture n formatoj figurën 
-formated tape n shirit i formatuar 
-formatter n formatues 
-formatting n formatim 
-forms editor n editor [redaktor] i 
+format |  n  | format 
+format |  v  | formatoj 
+format bar |  n  | shirit i formatimit 
+format picture |  n  | formatoj figurën 
+formated tape |  n  | shirit i formatuar 
+formatter |  n  | formatues 
+formatting |  n  | formatim 
+forms editor |  n  | editor [redaktor] i 
 formularëve 
-formula n formulë 
+formula |  n  | formulë 
 Formula Translator [FORTRAN] 
 n gjuha Fortran [përkthyes i 
 formulave] 
-Forth n Forth [gjuhë programuese] 
+Forth |  n  | Forth [gjuhë programuese] 
 FORTRAN [formula translation] 
 abbr FORTRAN [gjuhë 
 programuese] 
-forum n forum 
+forum |  n  | forum 
 forward adv përpara 
-forward adj përparmë (i) 
-forward-backward counter n 
+forward |  adj  | përparmë (i) 
+forward-backward counter |  n  | 
 numërues para-pas 
 FOSDIC [Film Optical Sensing 
-Device for Input to Computers] n 
+Device for Input to Computers] |  n  | 
 FOSDIC [pajisje kompjuterike 
 hyrëse për detektim optik nga 
 filmi] 
-four-address adj katëradresësh 
-Fourier transform n transformim 
+four-address |  adj  | katëradresësh 
+Fourier transform |  n  | transformim 
 Furie 
  four-plus-one address 
-four-plus-one address n adresë 
+four-plus-one address |  n  | adresë 
 katër-plus-një 
-fourth generation adj brezit (i) [i 
+fourth generation |  adj  | brezit (i) [i 
 gjeneratës] së katërt 
-fourth normal form n formë e 
+fourth normal form |  n  | formë e 
 katërt normale 
-fourth-generation computer n 
+fourth-generation computer |  n  | 
 kompjuter i brezit të katërt 
-fourth-generation language n 
+fourth-generation language |  n  | 
 gjuhë e brezit të katërt 
 fourth-generation language 
-architecture n arkitekturë e gjuhës 
+architecture |  n  | arkitekturë e gjuhës 
 së brezit të katërt 
-fractal n fraktal (thyezor) [formë 
+fractal |  n  | fraktal (thyezor) [formë 
 gjeometrike me vetëpërngjasim] 
-fractal adj fraktal (thyezor) [mat.] 
-fractal curve n lakore fraktale 
+fractal |  adj  | fraktal (thyezor) [mat.] 
+fractal curve |  n  | lakore fraktale 
 (thyezore) [mat.] 
-fractal dimension n përmasë 
+fractal dimension |  n  | përmasë 
 fraktale [thyezore] ose dimension 
 fraktal [mat.] 
-fractal distribution n shpërndarje 
+fractal distribution |  n  | shpërndarje 
 fraktale [thyezore] [mat.] 
-fractal geometry n gjeometri fraktale 
+fractal geometry |  n  | gjeometri fraktale 
 [thyezore] [mat.] 
-fraction n thyezë 
-fractional part n pjesë thyezore 
-fragment n fragment [copëz] 
-fragment v fragmentoj 
-fragmentation n fragmentim 
-frame [picture] n kuadër 
-frame switching n komutim i 
+fraction |  n  | thyezë 
+fractional part |  n  | pjesë thyezore 
+fragment |  n  | fragment [copëz] 
+fragment |  v  | fragmentoj 
+fragmentation |  n  | fragmentim 
+frame [picture] |  n  | kuadër 
+frame switching |  n  | komutim i 
 kuadrave 
  
  
 129
 freeze-frame video 
-frame-by-frame animation n 
+frame-by-frame animation |  n  | 
 animacion kuadër për kuadër 
-frames per second n kuadra për 
+frames per second |  n  | kuadra për 
 sekondë 
-framework n kornizë e punës 
-fraud n mashtrim [përdorim i 
+framework |  n  | kornizë e punës 
+fraud |  n  | mashtrim [përdorim i 
 paautorizuar (i një sistemi)] 
 free adv falas [pa pagesë] 
-free v liroj 
-free (1) adj lirë (i) 
-free (2) adj pazënë (i) 
-free block n bllok i lirë [i pazënë] 
-free software n softuer pa pagesë 
-Free Software Foundation n 
+free |  v  | liroj 
+free (1) |  adj  | lirë (i) 
+free (2) |  adj  | pazënë (i) 
+free block |  n  | bllok i lirë [i pazënë] 
+free software |  n  | softuer pa pagesë 
+Free Software Foundation |  n  | 
 Fondacioni për softuer të lirë [i 
 hapur] 
-free space n hapësirë e lirë 
-free symbol n simbol i lirë 
-free symbol sequence n sekuencë 
+free space |  n  | hapësirë e lirë 
+free symbol |  n  | simbol i lirë 
+free symbol sequence |  n  | sekuencë 
 e simboleve të lira [të pazëna] 
-free-form language n gjuhë e 
+free-form language |  n  | gjuhë e 
 formës së lirë 
-freenet n rrjet i lirë [pa pagesë] 
-free-net n rrjet i lirë [pa pagesë] 
-freeware [free software] n friuer 
+freenet |  n  | rrjet i lirë [pa pagesë] 
+free-net |  n  | rrjet i lirë [pa pagesë] 
+freeware [free software] |  n  | friuer 
 [softuer pa pagesë] 
-freeze v ngrij [bllokoj] (një figurë) 
-freeze columns v ngrij kolonat 
-freeze frame n kuadër i ngrirë 
-freeze frame video n video me 
+freeze |  v  | ngrij [bllokoj] (një figurë) 
+freeze columns |  v  | ngrij kolonat 
+freeze frame |  n  | kuadër i ngrirë 
+freeze frame video |  n  | video me 
 kuadra të ngrirë 
-freeze-frame video n video me 
+freeze-frame video |  n  | video me 
 kuadro të ngrira 
  frequency 
-frequency n frekuencë [shpeshti] 
-frequency band n brez frekuencash 
+frequency |  n  | frekuencë [shpeshti] 
+frequency band |  n  | brez frekuencash 
  
 130
 [brez frekuencor] 
-frequency counter n numërues i 
+frequency counter |  n  | numërues i 
 frekuencës 
-frequency divider n pjesëtues 
+frequency divider |  n  | pjesëtues 
 frekuence 
-frequency modulation [FM] n 
+frequency modulation [FM] |  n  | 
 modulim në frekuencë [FM] 
-frequency modulation [FM] n 
+frequency modulation [FM] |  n  | 
 modulim në frekuencë [FM] 
 frequency modulation encoding 
-[FM encoding] n kodim me 
+[FM encoding] |  n  | kodim me 
 modulim në frekuencë [FM] 
-frequency translator n përkthyes i 
+frequency translator |  n  | përkthyes i 
 frekuencave 
-frequency-division multiplexing n 
+frequency-division multiplexing |  n  | 
 multipleksim me ndarje 
 frekuencash 
-frequency-shift keying n modulim 
+frequency-shift keying |  n  | modulim 
 me zhvendosje të frekuencës 
 frequently asked questions [FAQ] 
 ph pyetjet që shtrohen shpesh 
 [FAQ] 
-front-end adj ballor 
-fs abbr fs [femtosekondë] 
-FSK [Frequency-Shift Keying] n 
+front-end |  adj  | ballor 
+fs |  abbr  | fs [femtosekondë] 
+FSK [Frequency-Shift Keying] |  n  | 
 FSK [modulim me komutim të 
 frekuencës] 
-FTP client n klient FTP 
-FTP commands n komandat FTP 
-FTP program n program FTP 
-FTP server n server FTP 
-FTP site n lokacion FTP 
+FTP client |  n  | klient FTP 
+FTP commands |  n  | komandat FTP 
+FTP program |  n  | program FTP 
+FTP server |  n  | server FTP 
+FTP site |  n  | lokacion FTP 
  
 function call 
-full adj plotë (i) 
-full adder n mbledhës i plotë 
-full address decoding n dekodim 
+full |  adj  | plotë (i) 
+full adder |  n  | mbledhës i plotë 
+full address decoding |  n  | dekodim 
 i plotë i adresës 
-full backup n kopje rezervë e plotë 
-full duplex [FDX] n dupleks i plotë 
+full backup |  n  | kopje rezervë e plotë 
+full duplex [FDX] |  n  | dupleks i plotë 
 (integral) [FDX] 
-full name n emër i plotë 
-full path n shteg i plotë 
-full pathname n emri i plotë i 
+full name |  n  | emër i plotë 
+full path |  n  | shteg i plotë 
+full pathname |  n  | emri i plotë i 
 shtegut 
-full scale adj me madhësi natyrale 
-full subtracter n zbritës i plotë 
-full tree n pemë e plotë 
-full-duplex adj dupleks i plotë 
-full-duplex transmission n 
+full scale |  adj  | me madhësi natyrale 
+full subtracter |  n  | zbritës i plotë 
+full tree |  n  | pemë e plotë 
+full-duplex |  adj  | dupleks i plotë 
+full-duplex transmission |  n  | 
 transmetimi dupleks i plotë 
-full-motion video n fotografi e 
+full-motion video |  n  | fotografi e 
 gjallë 
-full-motion video adapter n 
+full-motion video adapter |  n  | 
 përshtatës për fotografi të gjallë 
-full-page display [FPD] n paraqitje 
+full-page display [FPD] |  n  | paraqitje 
 [përshfaqje] e faqes së plotë 
-full-screen adj ekran i plotë 
-full-text search n kërkimi sipas 
+full-screen |  adj  | ekran i plotë 
+full-text search |  n  | kërkimi sipas 
 tekstit të plotë 
-fully formed character n karakter 
+fully formed character |  n  | karakter 
 plotësisht i formuar 
-fully populated board n pllakë 
+fully populated board |  n  | pllakë 
 plotësisht e plotësuar 
-function n funksion 
-function v funksionoj 
-function call n thirrje e funksionit 
+function |  n  | funksion 
+function |  v  | funksionoj 
+function call |  n  | thirrje e funksionit 
  
-fuzzy expert system n sistem 
+fuzzy expert system |  n  | sistem 
 ekspert i shumëkuptimshëm 
-fuzzy logic n logjikë e 
+fuzzy logic |  n  | logjikë e 
 shumëkuptimshme 
-fuzzy neural network n rrjet 
+fuzzy neural network |  n  | rrjet 
 neural i shumëkuptimshëm 
-fuzzy set n bashkësi e 
+fuzzy set |  n  | bashkësi e 
 shumëkuptimshme 
-fuzzy subset n nënbashkësi e 
+fuzzy subset |  n  | nënbashkësi e 
 shumëkuptimshme 
-fuzzy system n sistem i 
+fuzzy system |  n  | sistem i 
 shumëkuptimshëm 
-fuzzy theory n teoria e 
+fuzzy theory |  n  | teoria e 
 shumëkuptimësisë 
-fuzzy variable n ndryshore e 
+fuzzy variable |  n  | ndryshore e 
 shumëkuptimshme 
-fuzzyfication v shumëkuptimësim 
+fuzzyfication |  v  | shumëkuptimësim 
  function code 
-function code n kod funksioni 
-function variable n ndryshore (ose 
+function code |  n  | kod funksioni 
+function variable |  n  | ndryshore (ose 
  
 131
 variabël) e funksionit 
-functional adj funksional 
-functional specification n 
+functional |  adj  | funksional 
+functional specification |  n  | 
 specifikim funksional 
-functional unit n njësi funksionale 
-functionality n funksionaliteti 
-fuse n siguresë 
-future value n vlerë e ardhshme 
-fuzzy adj shumëkuptimshëm (i) 
-fuzzy barrier n barrierë e 
+functional unit |  n  | njësi funksionale 
+functionality |  n  | funksionaliteti 
+fuse |  n  | siguresë 
+future value |  n  | vlerë e ardhshme 
+fuzzy |  adj  | shumëkuptimshëm (i) 
+fuzzy barrier |  n  | barrierë e 
 shumëkuptimshme [në programim] 
-fuzzy controller n kontrollor i 
+fuzzy controller |  n  | kontrollor i 
 shumëkuptimshëm 
  
  
@@ -8549,334 +8519,334 @@ shumëkuptimshëm
  
 132
 G 
-G [giga] abbr G [giga] 
-GaAs [gallium arsenide] abbr 
+G [giga] |  abbr  | G [giga] 
+GaAs [gallium arsenide] |  abbr  | 
 GaAs [arsenur i galiumit] 
-gain n përforcim [amplifikim] 
-gain reduction n zvogëlim i 
+gain |  n  | përforcim [amplifikim] 
+gain reduction |  n  | zvogëlim i 
 përforcimit (ose amplifikimit) 
-gaine access (to) v kam akses (në) 
-gallium arsenide [GaAs] n arsenur i 
+gaine access (to) |  v  | kam akses (në) 
+gallium arsenide [GaAs] |  n  | arsenur i 
 galiumit [GaAs] 
-game n lojë 
-game theory n teori e lojërave 
-gamma [γ] n gama [γ] 
-garamond n garamond [lloj 
+game |  n  | lojë 
+game theory |  n  | teori e lojërave 
+gamma [γ] |  n  | gama [γ] 
+garamond |  n  | garamond [lloj 
 germash] 
-gather v mbledh [grumbulloj] 
-gather write n shkruarje me 
+gather |  v  | mbledh [grumbulloj] 
+gather write |  n  | shkruarje me 
 rigrupim 
-Gaussian distribution n përndarje 
+Gaussian distribution |  n  | përndarje 
 e Gausit 
-Gaussian noise n zhurmë e Gausit 
-Gb [gigabit] abbr Gb [gigabit] 
-GB [gigabyte] abbr GB [gigabajt] 
-Gbps [gigabits per second] n 
+Gaussian noise |  n  | zhurmë e Gausit 
+Gb [gigabit] |  abbr  | Gb [gigabit] 
+GB [gigabyte] |  abbr  | GB [gigabajt] 
+Gbps [gigabits per second] |  n  | 
 gigabite për sekondë 
 GCD [Greatest Common Divisor] 
 abbr pjesëtuesi më i madh i 
 përbashkët 
-general adj përgjithshëm (i) 
-general program n program i 
+general |  adj  | përgjithshëm (i) 
+general program |  n  | program i 
 përgjithshëm 
-general routine n rutinë e 
+general routine |  n  | rutinë e 
 përgjithshme 
-generalization n përgjithësim 
+generalization |  n  | përgjithësim 
 [gjeneralizim] 
-generalized n përgjithësuar (i) 
-generalized routine n rutinë e 
+generalized |  n  | përgjithësuar (i) 
+generalized routine |  n  | rutinë e 
 përgjithësuar 
-general-purpose adj përdorimit (i) 
+general-purpose |  adj  | përdorimit (i) 
 të përgjithshëm 
-general-purpose computer n 
+general-purpose computer |  n  | 
 kompjuter i përdorimit të 
 përgjithshëm 
-general-purpose contoller n 
+general-purpose contoller |  n  | 
 kontrollues për përdorim të 
 përgjithshëm 
 General-Purpose Interface Bus 
-[GPIB] n bus ndërfaqeje 
+[GPIB] |  n  | bus ndërfaqeje 
 [magjistrale interfejsi] për përdorim 
 të përgjithshëm 
-general-purpose language n gjuhë 
+general-purpose language |  n  | gjuhë 
 për përdorim të përgjithshëm 
  
  
 133
 globally unique identifier 
-gigabits per second n gigabit për 
+gigabits per second |  n  | gigabit për 
 sekondë 
-gigabyte n gigabajt 
-gigaflops n gigaflops [GFLOPS, 
+gigabyte |  n  | gigabajt 
+gigaflops |  n  | gigaflops [GFLOPS, 
 miliardë operacione me pikë të 
 lëvizshme në sekondë] 
-gigahertz n gigaherc [GHz] 
+gigahertz |  n  | gigaherc [GHz] 
 GIS [geographic information system]
- n GIS [sistem informativ 
+ |  n  | GIS [sistem informativ 
 gjeografik] 
-GKS [Graphical Kernel System] n 
+GKS [Graphical Kernel System] |  n  | 
 GKS [sistemi grafik bazë] 
-glare n shkëlqim 
-glare filter n filtër ekrani 
-glare-free adj pashkëlqim (i) 
+glare |  n  | shkëlqim 
+glare filter |  n  | filtër ekrani 
+glare-free |  adj  | pashkëlqim (i) 
 [antirefleks, joverbues] 
-global adj global [botëror; rruzullor] 
-global group n grup global 
-global operation n operacion global 
-global search and replace n kërkim 
+global |  adj  | global [botëror; rruzullor] 
+global group |  n  | grup global 
+global operation |  n  | operacion global 
+global search and replace |  n  | kërkim 
 dhe zëvendësim global 
 Global System for Mobile 
-Communications [GSM] n sistem 
+Communications [GSM] |  n  | sistem 
 global për komunikime mobile 
 [GSM] 
 global universal identification 
-[GUID] n identifikim global 
+[GUID] |  n  | identifikim global 
 universal [GUID] 
-global variable n ndryshore (ose 
+global variable |  n  | ndryshore (ose 
 variabël) globale 
 globally unique identifier [GUID] 
 n identifikator global unik [GUID] 
  general-purpose programm 
-general-purpose programm n 
+general-purpose programm |  n  | 
 program për përdorim të 
 përgjithshëm 
-general-purpose register n regjistër 
+general-purpose register |  n  | regjistër 
 për përdorim të përgjithshëm 
-generation (1) n brez (ose gjeneratë) 
-generation (2) n përftim (ose 
+generation (1) |  n  | brez (ose gjeneratë) 
+generation (2) |  n  | përftim (ose 
 gjenerim) 
-generation rate n shpejtësi e 
+generation rate |  n  | shpejtësi e 
 gjenerimit (ose përftimit) 
-generative grammer n gramatikë 
+generative grammer |  n  | gramatikë 
 gjenerative 
-generator n gjenerator 
+generator |  n  | gjenerator 
 GEnie [General Electric network for 
-information exchange] n GEnie 
+information exchange] |  n  | GEnie 
 [rrjet për këmbim të informatave i 
 firmës General Electric] 
-genuine n autentik [vërtetë (i), 
+genuine |  n  | autentik [vërtetë (i), 
 pakontestueshëm (i)] 
 geographic information system 
-[GIS] n sistemi informativ 
+[GIS] |  n  | sistemi informativ 
 gjeografik [GIS] 
-geometry n gjeometri 
-geostationary adj gjeostacionar 
-geosynchronous adj gjeosinkron 
-germanium [Ge] n germanium [Ge] 
+geometry |  n  | gjeometri 
+geostationary |  adj  | gjeostacionar 
+geosynchronous |  adj  | gjeosinkron 
+germanium [Ge] |  n  | germanium [Ge] 
 GIF [Graphics Interchange Format] 
 n GIF [format për këmbim të 
 grafikës] 
 giga [G, = 109; 230] pref giga [G, = 
 109; 230] 
-Gigabit Ethernet n Gigabit 
+Gigabit Ethernet |  n  | Gigabit 
 Ethernet 
  
  gnomon 
-gnomon n gnomon (paraqitje e 
+gnomon |  n  | gnomon (paraqitje e 
 sistemit koordinativ tridimensional 
 në grafikën kompjuterike) 
-goal n qëllim 
-golden section n prerje e artë 
-golden section search n kërkim 
+goal |  n  | qëllim 
+golden section |  n  | prerje e artë 
+golden section search |  n  | kërkim 
 në bazë të prerjes së artë 
-golf ball printer n shtypës (ose 
+golf ball printer |  n  | shtypës (ose 
 printer) me sferë 
-Good Times virus n virusi Good 
+Good Times virus |  n  | virusi Good 
 Times 
-Gopher n makina kërkuese Gopher 
-Gopher server n serveri Gopher 
+Gopher |  n  | makina kërkuese Gopher 
+Gopher server |  n  | serveri Gopher 
 [server për përdorues të Gopher-it] 
-Gopherspace n hapësirë e Gopher-it 
+Gopherspace |  n  | hapësirë e Gopher-it 
 [grumbull i informacioneve që 
 mund të merren nëpërmjet Gopher-
 it] 
-goto [go to command] n urdhri goto 
+goto [go to command] |  n  | urdhri goto 
 ["shko në"] 
-GOTO statement n urdhri GOTO 
-gov. [government] abbr qeveria 
+GOTO statement |  n  | urdhri GOTO 
+gov. [government] |  abbr  | qeveria 
 GPIB [General-Purpose Interface 
-Bus] abbr GPIB [bus (ose 
+Bus] |  abbr  | GPIB [bus (ose 
 magjistrale) e ndërfaqes për 
 përdorim të përgjithshëm] 
-GPL [General Public License] abbr 
+GPL [General Public License] |  abbr  | 
 GPL [licencë e përgjithshme 
 publike] 
-grab v përkap (fotografinë) 
-graceful degradation n degradim i 
+grab |  v  | përkap (fotografinë) 
+graceful degradation |  n  | degradim i 
 butë [shkallë-shkallë] 
-grade n shkallë 
+grade |  n  | shkallë 
  
  
 134
 graphic entity 
-grade of service n shkallë e 
+grade of service |  n  | shkallë e 
 shërbimeve 
-gradient n gradient 
-grafPort n grafPort 
-graftal n graftal [formë grafike] 
-grammar n gramatikë 
-grammar checker n kontrollues i 
+gradient |  n  | gradient 
+grafPort |  n  | grafPort 
+graftal |  n  | graftal [formë grafike] 
+grammar |  n  | gramatikë 
+grammar checker |  n  | kontrollues i 
 gramatikës 
-grant (1) v jap [dhuroj ndihmë 
+grant (1) |  v  | jap [dhuroj ndihmë 
 financiare] 
-grant (2) v pranoj 
-grant access to v pranoj aksesin në 
-granularity n kokërrzueshmëri 
+grant (2) |  v  | pranoj 
+grant access to |  v  | pranoj aksesin në 
+granularity |  n  | kokërrzueshmëri 
 [granularitet] 
-graph n graf [diagram] 
-graph follower n ndjekës i grafit 
-graph plotter n vizatues i grafikëve 
-graph plotter n vizatues i grafeve 
-graph reader n lexues i grafeve 
-grapheme n grafemë 
-graphic adj grafik 
-graphic brush n brushë grafike 
-graphic capabilities n mundësitë 
+graph |  n  | graf [diagram] 
+graph follower |  n  | ndjekës i grafit 
+graph plotter |  n  | vizatues i grafikëve 
+graph plotter |  n  | vizatues i grafeve 
+graph reader |  n  | lexues i grafeve 
+grapheme |  n  | grafemë 
+graphic |  adj  | grafik 
+graphic brush |  n  | brushë grafike 
+graphic capabilities |  n  | mundësitë 
 grafike 
-graphic character n karakter grafik 
-graphic data n të dhëna grafike 
-graphic display (1) n paraqitje 
+graphic character |  n  | karakter grafik 
+graphic data |  n  | të dhëna grafike 
+graphic display (1) |  n  | paraqitje 
 grafike 
-graphic display (2) n ekran grafik 
-graphic display program n 
+graphic display (2) |  n  | ekran grafik 
+graphic display program |  n  | 
 program i paraqitjes grafike 
-graphic entity n entitet grafik 
+graphic entity |  n  | entitet grafik 
  graphic file 
-graphic file n fajl grafik 
-graphic job processing n përpunim i 
+graphic file |  n  | fajl grafik 
+graphic job processing |  n  | përpunim i 
  
 135
 punëve grafike 
-graphic language n gjuhë grafike 
+graphic language |  n  | gjuhë grafike 
 [gjuhë e programimit grafik] 
-graphic limits n kufijtë e grafikës 
-graphic processor n procesor grafik 
-graphic representation n paraqitje 
+graphic limits |  n  | kufijtë e grafikës 
+graphic processor |  n  | procesor grafik 
+graphic representation |  n  | paraqitje 
 grafike 
-graphic software n softuer grafik 
-graphic software n softuer i 
+graphic software |  n  | softuer grafik 
+graphic software |  n  | softuer i 
 grafikës 
-graphic symbol n paraqitje grafike 
-graphic system n sistem grafik 
-graphic system n sistem i grafikës 
-graphic terminal n terminal grafik 
-graphical n grafik [grafikës (i)] 
-graphical brush n brushë grafike 
-graphical design n dizajn 
+graphic symbol |  n  | paraqitje grafike 
+graphic system |  n  | sistem grafik 
+graphic system |  n  | sistem i grafikës 
+graphic terminal |  n  | terminal grafik 
+graphical |  n  | grafik [grafikës (i)] 
+graphical brush |  n  | brushë grafike 
+graphical design |  n  | dizajn 
 [projektim] grafik 
 Graphical Device Interface [GDI] 
 n ndërfaqe (ose interfejs) e pajisjes 
 grafike [GDI] 
-graphical entity n entitet grafik 
-graphical interface n ndërfaqe (ose 
+graphical entity |  n  | entitet grafik 
+graphical interface |  n  | ndërfaqe (ose 
 intefejs) grafike 
-Graphical Kernel System [GKS] n 
+Graphical Kernel System [GKS] |  n  | 
 sistemi grafik bazë [GKS] 
-graphical language n gjuhë grafike 
+graphical language |  n  | gjuhë grafike 
 [gjuhë e programimit grafik] 
-graphical representation n paraqitje 
+graphical representation |  n  | paraqitje 
 grafike 
-graphical symbol n simbol grafik 
+graphical symbol |  n  | simbol grafik 
  
 graphics processor 
-graphical user interface [GUI] n 
+graphical user interface [GUI] |  n  | 
 ndërfaqe grafike e përdoruesit ose 
 interfejs grafik i shfrytëzuesit 
 [GUI] 
-graphical visual display device n 
+graphical visual display device |  n  | 
 pajisje grafike për paraqite vizuale 
-graphics (1) n përpunim grafik 
-graphics (2) n grafikë kompjuterike 
-graphics accelerator n përshpejtues 
+graphics (1) |  n  | përpunim grafik 
+graphics (2) |  n  | grafikë kompjuterike 
+graphics accelerator |  n  | përshpejtues 
 (ose akcelerator) grafik 
-graphics adapter n përshtatës 
+graphics adapter |  n  | përshtatës 
 grafike 
-graphics card n kartelë grafike 
-graphics coprocessor n procesor 
+graphics card |  n  | kartelë grafike 
+graphics coprocessor |  n  | procesor 
 grafik 
-graphics data structure n strukturë 
+graphics data structure |  n  | strukturë 
 grafike e të dhënave 
-graphics database n bazë e të 
+graphics database |  n  | bazë e të 
 dhënave grafike 
-graphics engine n makinë grafike 
-graphics format n format i grafikës 
-graphics function n funksion grafik 
-graphics image n figurë grafike 
+graphics engine |  n  | makinë grafike 
+graphics format |  n  | format i grafikës 
+graphics function |  n  | funksion grafik 
+graphics image |  n  | figurë grafike 
 Graphics Interchange Format 
-[GIF] n format për këmbim të 
+[GIF] |  n  | format për këmbim të 
 grafikës [GIF] 
-graphics interface n ndërfaqe grafike 
+graphics interface |  n  | ndërfaqe grafike 
 ose interfejs grafik 
-graphics plotter n vizatues grafik 
-graphics port n port grafik 
-graphics printer n printer (ose 
+graphics plotter |  n  | vizatues grafik 
+graphics port |  n  | port grafik 
+graphics printer |  n  | printer (ose 
 shtypës) grafik 
-graphics processor n procesor 
+graphics processor |  n  | procesor 
 grafik 
  graphics program 
  
 136
-graphics program n program grafik 
-graphics quality n cilësi e grafikës 
-graphics resolution n zbërthim (ose 
+graphics program |  n  | program grafik 
+graphics quality |  n  | cilësi e grafikës 
+graphics resolution |  n  | zbërthim (ose 
 rezolucion) grafik 
-graphics screen n ekran i grafikës 
-graphics software n softuer i 
+graphics screen |  n  | ekran i grafikës 
+graphics software |  n  | softuer i 
 grafikës 
-graphics system n sistem grafik 
-graphics system n sistem i grafikës 
-graphics terminal n terminal grafik 
-graphoscope n grafoskop 
-gray adj përhimët (i) 
-gray n shkallë e së përhimëtës 
-Gray code n kod i Grejit [kod binar] 
-gray image n figurë e përhimët 
-gray leevl n nivel i së përhimëtës 
-gray scale n shkallë e së përhimëtës 
-Great Renaming n Riemërim i 
+graphics system |  n  | sistem grafik 
+graphics system |  n  | sistem i grafikës 
+graphics terminal |  n  | terminal grafik 
+graphoscope |  n  | grafoskop 
+gray |  adj  | përhimët (i) 
+gray |  n  | shkallë e së përhimëtës 
+Gray code |  n  | kod i Grejit [kod binar] 
+gray image |  n  | figurë e përhimët 
+gray leevl |  n  | nivel i së përhimëtës 
+gray scale |  n  | shkallë e së përhimëtës 
+Great Renaming |  n  | Riemërim i 
 madh 
-greater than adj më i madh se 
-greater than or equal to adj më i 
+greater than |  adj  | më i madh se 
+greater than or equal to |  adj  | më i 
 madh ose barazi me 
-greatest common divisor [GCD] n 
+greatest common divisor [GCD] |  n  | 
 pjesëtuesi më i madh i përbashkët 
-greek text n tekst grek [fig. tekst i 
+greek text |  n  | tekst grek [fig. tekst i 
 pakuptueshëm, simulim i tekstit] 
-greeked n grekëzuar (i) [i stilizuar 
+greeked |  n  | grekëzuar (i) [i stilizuar 
 (font)] 
-green adj gjelbër (i) [jeshil] 
-green PC n PC i gjelbër 
+green |  adj  | gjelbër (i) [jeshil] 
+green PC |  n  | PC i gjelbër 
  
-Gregorian calendar n kalendar 
+Gregorian calendar |  n  | kalendar 
 gregorian 
  
-grey adj përhimët (i) 
-grey leevl n nivel i së përhimëtës 
-grey out v hijezoj 
-grey shading n hijezim i përhimët 
-greyed out adj hijezuar (i) 
-greyscale n shkallë e së përhimëtës 
-grid n rrjet 
-grip v kap [shtrëngoj, mbërthej] 
-ground n tokëzim 
-ground v tokëzoj 
-grounding n tokëzim [të tokëzuarit] 
-group n grup 
-group v grupoj 
-group code n kod grupi 
-group icone n ikonë grupi [ikonë 
+grey |  adj  | përhimët (i) 
+grey leevl |  n  | nivel i së përhimëtës 
+grey out |  v  | hijezoj 
+grey shading |  n  | hijezim i përhimët 
+greyed out |  adj  | hijezuar (i) 
+greyscale |  n  | shkallë e së përhimëtës 
+grid |  n  | rrjet 
+grip |  v  | kap [shtrëngoj, mbërthej] 
+ground |  n  | tokëzim 
+ground |  v  | tokëzoj 
+grounding |  n  | tokëzim [të tokëzuarit] 
+group |  n  | grup 
+group |  v  | grupoj 
+group code |  n  | kod grupi 
+group icone |  n  | ikonë grupi [ikonë 
 grupore] 
-group mark n shenjë e grupit 
-group ware n softuer për punë në 
+group mark |  n  | shenjë e grupit 
+group ware |  n  | softuer për punë në 
 grup 
-grouping n grupim 
-growth n rritje 
-guarantee n garanci 
-guard memory n mbrojtës i 
+grouping |  n  | grupim 
+growth |  n  | rritje 
+guarantee |  n  | garanci 
+guard memory |  n  | mbrojtës i 
 memories 
-guest n mysafir 
-guide n udhëzues [manual, doracak] 
-guillotine n gijotinë [letërprerëse] 
+guest |  n  | mysafir 
+guide |  n  | udhëzues [manual, doracak] 
+guillotine |  n  | gijotinë [letërprerëse] 
  
  
  
@@ -8887,196 +8857,196 @@ guillotine n gijotinë [letërprerëse]
  
 137
 H 
-H [half carry] abbr gjysmëbartje 
-H flag [Half carry flag] abbr flamur 
+H [half carry] |  abbr  | gjysmëbartje 
+H flag [Half carry flag] |  abbr  | flamur 
 i gjysmëbartjes 
-hacker n haker [pirat informatik] 
-hacking n pirateri informatike 
-HAGO [have a good one] abbr 
+hacker |  n  | haker [pirat informatik] 
+hacking |  n  | pirateri informatike 
+HAGO [have a good one] |  abbr  | 
 mbetshi mirë 
-half adj gjysmë 
-half block n gjysmëbllok 
-half carry [H carry] n gjysmëbartje 
-half carry flag [H carry flag] n 
+half |  adj  | gjysmë 
+half block |  n  | gjysmëbllok 
+half carry [H carry] |  n  | gjysmëbartje 
+half carry flag [H carry flag] |  n  | 
 flamur i gjysmëbartjes 
-half disk n gjysmëdisk 
-half duplex [HD] n gjysmëdupleks 
-half router n gjysmërrugëzues ose 
+half disk |  n  | gjysmëdisk 
+half duplex [HD] |  n  | gjysmëdupleks 
+half router |  n  | gjysmërrugëzues ose 
 gjysmëruter 
-half word n gjysmëfjalë 
-half-adder n gjysmëmbledhës 
-half-card n gjysmëkartelë 
-half-duplex [HD] adj 
+half word |  n  | gjysmëfjalë 
+half-adder |  n  | gjysmëmbledhës 
+half-card |  n  | gjysmëkartelë 
+half-duplex [HD] |  adj  | 
 gjysmëdupleks 
-half-duplex transmission n 
+half-duplex transmission |  n  | 
 transmetim gjysmëdupleks 
-half-subtractor n gjysmëzbritës 
-halftone n gjysmëton ose nuancë 
+half-subtractor |  n  | gjysmëzbritës 
+halftone |  n  | gjysmëton ose nuancë 
  
-halftoning n nuancim 
-half-word n gjysmëfjalë 
-half-word I/O buffer n bufer 
+halftoning |  n  | nuancim 
+half-word |  n  | gjysmëfjalë 
+half-word I/O buffer |  n  | bufer 
 hyrës-dalës për gjysmë-fjalë 
-halt dead n ndalim i plotë 
+halt dead |  n  | ndalim i plotë 
 [ndërprerje e plotë] 
-halt instruction n instruksion i 
+halt instruction |  n  | instruksion i 
 ndaljes 
-halt problem n problem i ndalimit 
-Hamming bound n kufi i Hamingut 
-Hamming code n kod i Hamingut 
-hand held scanner n skaner dore 
-handheld computer n kompjuter 
+halt problem |  n  | problem i ndalimit 
+Hamming bound |  n  | kufi i Hamingut 
+Hamming code |  n  | kod i Hamingut 
+hand held scanner |  n  | skaner dore 
+handheld computer |  n  | kompjuter 
 dore 
-handheld PC [HPC] n PC dore 
-handheld scanner n skaner dore 
-handle (1) n dorëz 
-handling n përdorim [manipulim, 
+handheld PC [HPC] |  n  | PC dore 
+handheld scanner |  n  | skaner dore 
+handle (1) |  n  | dorëz 
+handling |  n  | përdorim [manipulim, 
 administrim] 
-hand-operated scanner n skaner 
+hand-operated scanner |  n  | skaner 
 dore 
-handset n receptor telefoni 
-handsfree answerback n përgjigje 
+handset |  n  | receptor telefoni 
+handsfree answerback |  n  | përgjigje 
 me duar të lira 
  handshake 
-handshake n vendosje e lidhjes, 
+handshake |  n  | vendosje e lidhjes, 
 [shtrëngim duarsh, duarshtrëngim] 
 handshake failed ph dështoi 
 vendosja e lidhjes [duarshtrëngimi 
-handwriting recognition n njohje e 
+handwriting recognition |  n  | njohje e 
 dorëshkrimit 
-handy adj volitshëm (i) [përdorshëm 
+handy |  adj  | volitshëm (i) [përdorshëm 
 (i), praktik] 
-hard (1) adj fortë (i) 
-hard (2) adj ngurtë (i) 
-hard (3) adj përhershëm (i) 
-hard (4) adj rëndë (i) 
-hard disk [HD] n disk [disk i 
+hard (1) |  adj  | fortë (i) 
+hard (2) |  adj  | ngurtë (i) 
+hard (3) |  adj  | përhershëm (i) 
+hard (4) |  adj  | rëndë (i) 
+hard disk [HD] |  n  | disk [disk i 
 ngurtë, disk fiks] 
-hard disk type n tip i diskut 
-hard error n gabim harduerik 
-hard failure n prishje harduerike 
-hardware n harduer 
-hardware check n kontrollim i 
+hard disk type |  n  | tip i diskut 
+hard error |  n  | gabim harduerik 
+hard failure |  n  | prishje harduerike 
+hardware |  n  | harduer 
+hardware check |  n  | kontrollim i 
 harduerit 
-hardware compatibility n 
+hardware compatibility |  n  | 
 pajtueshmëri (ose kompatibilitet) 
 harduerike 
-hardware control n kontroll 
+hardware control |  n  | kontroll 
 harduerik 
-hardware diagnostic n diagnostikë 
+hardware diagnostic |  n  | diagnostikë 
 e harduerit 
-hardware failure n prishje 
+hardware failure |  n  | prishje 
 harduerike 
-hardware interrupt n ndërprerje 
+hardware interrupt |  n  | ndërprerje 
 harduerike 
-hardware key n çelës harduerik 
+hardware key |  n  | çelës harduerik 
  
  
 138
 height 
-hardware multiplexing n 
+hardware multiplexing |  n  | 
 multipleksim harduerik 
-hardware profile n profil harduerik 
-hardware tree n pemë harduerike 
-hardware-dependent adj varur (i) 
+hardware profile |  n  | profil harduerik 
+hardware tree |  n  | pemë harduerike 
+hardware-dependent |  adj  | varur (i) 
 nga hardueri 
-Harvard architecture n arkitekturë 
+Harvard architecture |  n  | arkitekturë 
 Harvard 
-hazard n rrezik 
-hazardous adj rrezikshëm (i) [me 
+hazard |  n  | rrezik 
+hazardous |  adj  | rrezikshëm (i) [me 
 rrezik] 
 HDBMS [hierarchical database 
-management system] n HDBMS 
+management system] |  n  | HDBMS 
 [sistem i udhëheqjes me bazën e të 
 dhënave hierarkike] 
 HDF [Hierarchical Data Format] 
 abbr HDF [format hierarkik i të 
 dhënave] 
 HDLC [High-level Data Link 
-Control] abbr HDLC [nivel i lartë 
+Control] |  abbr  | HDLC [nivel i lartë 
 i kontrollit të lidhjes së të dhënave] 
 HDTV [High Defenition Television] 
 abbr HDTV [televizion i 
 definicionit të lartë] 
-head v kryesoj [jam në krye] 
-head n kokë [magnetike] 
-head switching n komutim i kokave 
-head-cleaning device n pajisje për 
+head |  v  | kryesoj [jam në krye] 
+head |  n  | kokë [magnetike] 
+head switching |  n  | komutim i kokave 
+head-cleaning device |  n  | pajisje për 
 pastrim të kokës 
-heat v nxeh [ngroh] 
-heat (1) n nxehtësi 
-heat (2) n nxehje 
+heat |  v  | nxeh [ngroh] 
+heat (1) |  n  | nxehtësi 
+heat (2) |  n  | nxehje 
 hecto pref hekto 
-height n lartësi 
+height |  n  | lartësi 
  hello, world 
-hello, world n tungjatjeta, botë 
-help n ndihmë 
-Help n ndihmë e instaluar 
-Help key n tast për ndihmë 
-help line n linjë e ndihmës 
-help menu n meny ndihmë ose 
+hello, world |  n  | tungjatjeta, botë 
+help |  n  | ndihmë 
+Help |  n  | ndihmë e instaluar 
+Help key |  n  | tast për ndihmë 
+help line |  n  | linjë e ndihmës 
+help menu |  n  | meny ndihmë ose 
 meny ndihmëse 
-help object n objekt ndihmë ose 
+help object |  n  | objekt ndihmë ose 
 objekt ndihmës 
-help screen n ekran ndihmës 
-help window n dritare e ndihmës ose 
+help screen |  n  | ekran ndihmës 
+help window |  n  | dritare e ndihmës ose 
 dritare ndihmëse 
-helper n ndihmës 
-helper application n aplikacion 
+helper |  n  | ndihmës 
+helper application |  n  | aplikacion 
 ndihmës 
-helper program n program ndihmës 
-helpware n softuer i ndihmës ose 
+helper program |  n  | program ndihmës 
+helpware |  n  | softuer i ndihmës ose 
 softuer ndihmës 
-helvetica n helvetikë [lloj 
+helvetica |  n  | helvetikë [lloj 
 shkronjash] 
-henry [H] n henri [H] 
-Hercules Graphics Card [HCG] n 
+henry [H] |  n  | henri [H] 
+Hercules Graphics Card [HCG] |  n  | 
 kartelë grafike Herkules [HCG] 
-hertz [Hz] n herc [Hz] 
-hertz time n denduri [frekuencë] e 
+hertz [Hz] |  n  | herc [Hz] 
+hertz time |  n  | denduri [frekuencë] e 
 taktit 
-hesetation n ngurim ose hezitim 
+hesetation |  n  | ngurim ose hezitim 
 [ndalje e përkohshme] 
-heterogeneous adj heterogjen [me 
+heterogeneous |  adj  | heterogjen [me 
 përbërje të larmishme ose të 
 përzier] 
-heterogeneous environment n 
+heterogeneous environment |  n  | 
 rrethinë heterogjene 
  
  
 139
 HFS 
-heterogeneous network n rrjet 
+heterogeneous network |  n  | rrjet 
 heterogjen 
-heuristic adj heuristik ose zhbirues 
-heuristic approach n qasje 
+heuristic |  adj  | heuristik ose zhbirues 
+heuristic approach |  n  | qasje 
 heuristike (ose zhbiruese) 
-heuristic learning n nxënit (të) (ose 
+heuristic learning |  n  | nxënit (të) (ose 
 mësim) heuristik (ose zhbirues) 
-heuristic program n program 
+heuristic program |  n  | program 
 heuristik (ose zhbirues) 
-heuristic routine n rutinë heuristike 
+heuristic routine |  n  | rutinë heuristike 
 (ose zhbiruese) 
-heuristics n heuristikë 
+heuristics |  n  | heuristikë 
 Hewlett-Packard Graphics 
-Language [HPGL] n gjuha grafike 
+Language [HPGL] |  n  | gjuha grafike 
 e Hewlett-Packard-it [HPGL] 
 Hewlett-Packard Interface Bus 
-[HPIB] n bus ndërfaqeje i [ose 
+[HPIB] |  n  | bus ndërfaqeje i [ose 
 magjistrale interfejsi e] Hewlett-
 Packard-it [HPIB] 
 Hewlett-Packard Printer Control 
-Language [HPPCL] n gjuhë e 
+Language [HPPCL] |  n  | gjuhë e 
 Hewlett-Packard-it për kontroll të 
 shtypësve (ose printerëve) 
 [HPPCL] 
-hex [hexadecimal] abbr 
+hex [hexadecimal] |  abbr  | 
 heksadecimal 
-hexadecimal adj heksadecimal 
+hexadecimal |  adj  | heksadecimal 
 [gjashtëmbëdhjetor] 
-hexadecimal notation n shënim 
+hexadecimal notation |  n  | shënim 
 (ose notacion) heksadecimal 
-hexadecimal number system n 
+hexadecimal number system |  n  | 
 sistem heksadecimal i numrave 
 HFS [Hierarchical File System] 
 abbr HFS [sistem hierarkik i 
@@ -9089,286 +9059,286 @@ abbr përshtatës (ose adapter) grafik
 Herkules 
 High Sierra specification 
 hierarchical distributed processing 
-system n sistem i përndarë i 
+system |  n  | sistem i përndarë i 
 përpunimit hierarkik 
 HGC [Hercules Graphics Card] 
 abbr kartelë grafike Herkules 
-HGC Plus n HGC Plus 
-HHOK [ha, ha, only kidding] abbr 
+HGC Plus |  n  | HGC Plus 
+HHOK [ha, ha, only kidding] |  abbr  | 
 ha, ha, vetëm tallem 
-hidden adj fshehur (i) 
-hidden character n karakter 
+hidden |  adj  | fshehur (i) 
+hidden character |  n  | karakter 
 [shenjë grafike] i fshehur 
-hidden file n fajl i fshehur 
-hidden line n vijë e fshehur 
-hidden surface n sipërfaqe e fshehur 
-hide v fsheh 
-hide n fshehje 
-hiding n fshehje 
-hierarchical adj hierarkik 
+hidden file |  n  | fajl i fshehur 
+hidden line |  n  | vijë e fshehur 
+hidden surface |  n  | sipërfaqe e fshehur 
+hide |  v  | fsheh 
+hide |  n  | fshehje 
+hiding |  n  | fshehje 
+hierarchical |  adj  | hierarkik 
 hierarchical communication 
-system n sistem hierarkik i 
+system |  n  | sistem hierarkik i 
 komunikimit 
-hierarchical computer network n 
+hierarchical computer network |  n  | 
 rrjet kompjuterik hierarkik 
-Hierarchical Data Format n format 
+Hierarchical Data Format |  n  | format 
 hierarkik i të dhënave 
-hierarchical database n bazë 
+hierarchical database |  n  | bazë 
 hierarkike e të dhënave 
 hierarchical database management 
-system [HDBMS] n sistem i 
+system [HDBMS] |  n  | sistem i 
 udhëheqjes me bazën e të dhënave 
 hierarkike [HDBMS] 
-hierarchical database system n 
+hierarchical database system |  n  | 
 sistem hierarkik i bazës së të 
 dhënave 
  
-hierarchical file n fajl hierarkik 
-Hierarchical File System [HFS] n 
+hierarchical file |  n  | fajl hierarkik 
+Hierarchical File System [HFS] |  n  | 
 sistemi i fajlave hierarkikë [HFS] 
-hierarchical memory system n 
+hierarchical memory system |  n  | 
 sistem hierarkik i memories 
-hierarchical menu n meny 
+hierarchical menu |  n  | meny 
 hierarkike 
-hierarchical model n model 
+hierarchical model |  n  | model 
 hierarkik 
-hierarchical name n emër hierarkik 
-hierarchical routing n rrugëzim 
+hierarchical name |  n  | emër hierarkik 
+hierarchical routing |  n  | rrugëzim 
 (ose rutim) hierarkik 
-hierarchy n hierarki 
-high adj lartë (i) 
-high n lartësi 
-high definition n definicion i lartë 
+hierarchy |  n  | hierarki 
+high |  adj  | lartë (i) 
+high |  n  | lartësi 
+high definition |  n  | definicion i lartë 
 [rezolucion i lartë] 
-high definition TV [HDTV] n 
+high definition TV [HDTV] |  n  | 
 televizioni i definicionit të lartë 
 [HDTV 
-high density [HD] n dendësi e lartë 
-high frequency n denduri 
+high density [HD] |  n  | dendësi e lartë 
+high frequency |  n  | denduri 
 [frekuencë] e lartë 
-high level n nivel i lartë 
+high level |  n  | nivel i lartë 
 High Performance File System 
-[HPFS] n sistem i fajlave me 
+[HPFS] |  n  | sistem i fajlave me 
 performanca të larta [HPFS] 
-high resolution n rezolucion i lartë 
-High Sierra specification n 
+high resolution |  n  | rezolucion i lartë 
+High Sierra specification |  n  | 
 specifikim High Sierra 
  high tech 
-high tech [high technology] n 
+high tech [high technology] |  n  | 
 teknologji e lartë 
-high tech [high technology] adj 
+high tech [high technology] |  adj  | 
 teknologjisë (i) së avancuar 
-high-capacity CD-ROM n CD-
+high-capacity CD-ROM |  n  | CD-
 ROM me kapacitet të madh 
-high-density disk n disk me dendësi 
+high-density disk |  n  | disk me dendësi 
 të madhe 
-high–level language n gjuhë 
+high–level language |  n  | gjuhë 
 (programuese) e nivelit të lartë 
-high-level lenguage n gjuhë e nivelit 
+high-level lenguage |  n  | gjuhë e nivelit 
 të lartë 
-highlighted adj ndritësuar (i) 
+highlighted |  adj  | ndritësuar (i) 
 [theksuar (i)] 
-highlighting (1) n vënie në dukje 
-highlighting (2) n theksim 
-high-order adj rendit (i) të lartë 
+highlighting (1) |  n  | vënie në dukje 
+highlighting (2) |  n  | theksim 
+high-order |  adj  | rendit (i) të lartë 
 [udhëheqës] 
-high-order data n dhëna (të) të 
+high-order data |  n  | dhëna (të) të 
 rendit të lartë 
-high-order language n gjuhë e 
+high-order language |  n  | gjuhë e 
 rendit të lartë 
-high-pass filter n filtër lartlëshues 
+high-pass filter |  n  | filtër lartlëshues 
 (filtër i frekuencave të larta) 
-high-resolution display n ekran i 
+high-resolution display |  n  | ekran i 
 rezolucionit të lartë 
-high-resolution graphic n grafikë 
+high-resolution graphic |  n  | grafikë 
 e rezolucionit të lartë 
 high-speed data acquisition system
- n sistem për grumbullim të 
+ |  n  | sistem për grumbullim të 
 shpejtë të të dhënave 
-high-speed modem n modem 
+high-speed modem |  n  | modem 
 shumë i shpejtë 
  
  
 141
 homogeneous environment 
-high-speed printer n shtypës (ose 
+high-speed printer |  n  | shtypës (ose 
 printer) i shpejtë 
-high-speed reader n lexues i shpejtë 
-high-speed storage n memorie e 
+high-speed reader |  n  | lexues i shpejtë 
+high-speed storage |  n  | memorie e 
 shpejtë 
-high-technology n teknologji e lartë 
+high-technology |  n  | teknologji e lartë 
 [teknologji e avancuar] 
-highway n autostradë (e të dhënave) 
-hirerarchy of functions n hierarki 
+highway |  n  | autostradë (e të dhënave) 
+hirerarchy of functions |  n  | hierarki 
 e funksioneve 
-histogram n histogram 
-history n histori 
-hitch n avari [çrregullim, prishje] 
-holding page n faqe e pritjes 
-hole n vrimë 
-hologram n hologram 
-holographic memory n memorie 
+histogram |  n  | histogram 
+history |  n  | histori 
+hitch |  n  | avari [çrregullim, prishje] 
+holding page |  n  | faqe e pritjes 
+hole |  n  | vrimë 
+hologram |  n  | hologram 
+holographic memory |  n  | memorie 
 holografike 
-holography n holografi 
-holy war n luftë e shentjë [fig. 
+holography |  n  | holografi 
+holy war |  n  | luftë e shentjë [fig. 
 diskutim i nxehtë] 
-home automation n automatizim 
+home automation |  n  | automatizim 
 shtëpiak 
-home computer n kompjuter 
+home computer |  n  | kompjuter 
 shtëpiak 
-home phone n numër i telefonit të 
+home phone |  n  | numër i telefonit të 
 shtëpisë 
-home shopping n teleblerje [blerje 
+home shopping |  n  | teleblerje [blerje 
 nga shtëpia] 
-homeomorphism n homeomorfizëm 
+homeomorphism |  n  | homeomorfizëm 
 [mat.] 
-homogeneous environment n 
+homogeneous environment |  n  | 
 rrethinë homogjene 
  homogeneous network 
-homogeneous network n rrjet 
+homogeneous network |  n  | rrjet 
 homogjen 
-homology n përputhje [homologji] 
-homomorphism n homomorfizëm 
+homology |  n  | përputhje [homologji] 
+homomorphism |  n  | homomorfizëm 
 [mat.] 
-homothety n homoteti [mat.] 
-horizontal adj horizontal 
-horizontal case n shtëpizë 
+homothety |  n  | homoteti [mat.] 
+horizontal |  adj  | horizontal 
+horizontal case |  n  | shtëpizë 
 horizontale (e kompjuterit) 
 horizontal distributed processing 
-system n sistem për përpunim i 
+system |  n  | sistem për përpunim i 
 përndarë horizontalisht 
-horizontal format [landscape] n 
+horizontal format [landscape] |  n  | 
 format horizontal (panoramë) 
-horizontal frequency n denduri 
+horizontal frequency |  n  | denduri 
 [frekuencë] horizontale 
-horizontal information system n 
+horizontal information system |  n  | 
 sistem horizontal i informacionit 
-horizontal instruction n instruksion 
+horizontal instruction |  n  | instruksion 
 horizontal 
-horizontal resolution n rezolucion 
+horizontal resolution |  n  | rezolucion 
 horizontal 
-horizontal retrace n rikthim ose 
+horizontal retrace |  n  | rikthim ose 
 ripërshkim horizontal 
-horizontal ruler n vizore horizontale 
-horizontal scroll n zhvendosje 
+horizontal ruler |  n  | vizore horizontale 
+horizontal scroll |  n  | zhvendosje 
 horizontale 
-horizontal scroll bar n rrëshqitës 
+horizontal scroll bar |  n  | rrëshqitës 
 horizontal 
-horizontal sweep frequency n 
+horizontal sweep frequency |  n  | 
 frekuencë horizontale [frekuencë e 
 zbërthimit horizontal] 
-horizontal synchronization n 
+horizontal synchronization |  n  | 
 sinkronizim horizontal 
  
  
 142
 HotJava 
-horizontal system n sistem 
+horizontal system |  n  | sistem 
 horizontal 
-host (1) adj kryesor [qendror] 
-host (2) n parësor [strehues] 
-host adapter n përshtatës (ose 
+host (1) |  adj  | kryesor [qendror] 
+host (2) |  n  | parësor [strehues] 
+host adapter |  n  | përshtatës (ose 
 adapter) kryesor 
-host bus adapter n përshtatës i 
+host bus adapter |  n  | përshtatës i 
 busit kryesor ose adapter i 
 magjistrales kryesore 
-host computer n kryekompjuter ose 
+host computer |  n  | kryekompjuter ose 
 kompjuter kryesor 
-host language n gjuhë kryesore 
+host language |  n  | gjuhë kryesore 
 host language data-base 
-management system n gjuhë 
+management system |  n  | gjuhë 
 kryesore e sistemit për menaxhim 
 të bazës së të dhënave 
-host name n emri i kryekompjuterit 
+host name |  n  | emri i kryekompjuterit 
 (kompjuterit kryesor) 
 host not responding ph kompjuteri 
 kryesor nuk përgjigjet 
-host number n numër i 
+host number |  n  | numër i 
 kryekompjuterit 
-host processor n procesor kryesor 
-host timed out n ndërprerje e 
+host processor |  n  | procesor kryesor 
+host timed out |  n  | ndërprerje e 
 punës së kompjuterit kryesor 
 host unreachable ph kompjuteri 
 kryesor i paarritshëm 
-hot adj nxehtë (i) [aktiv] 
-hot key n tast aktiv 
-hot link n lidhje aktive 
-hot spot (1) n pikë aktive 
-hot spot (2) n zonë e ndjeshme 
-HotJava n HotJava 
+hot |  adj  | nxehtë (i) [aktiv] 
+hot key |  n  | tast aktiv 
+hot link |  n  | lidhje aktive 
+hot spot (1) |  n  | pikë aktive 
+hot spot (2) |  n  | zonë e ndjeshme 
+HotJava |  n  | HotJava 
  hotelist 
-hotelist n listë aktuale 
-hotspot n zonë e ndjeshme 
-HotWired n HotWired 
-hourglass n orë me rërë 
+hotelist |  n  | listë aktuale 
+hotspot |  n  | zonë e ndjeshme 
+HotWired |  n  | HotWired 
+hourglass |  n  | orë me rërë 
 HP/UX [Hewlett-Packard UNIX] 
 abbr HP/UX [UNIX i Hewlett-
 Packard-it] 
-HPC [handheld PC] abbr HPC [PC 
+HPC [handheld PC] |  abbr  | HPC [PC 
 dore] 
 HPFS [High Performance File 
-System] abbr HPFS [sistem i 
+System] |  abbr  | HPFS [sistem i 
 fajlave me performanca të larta] 
 HPGL [Hewlett-Packard Graphics 
-Language] abbr HPGL [gjuhë 
+Language] |  abbr  | HPGL [gjuhë 
 grafike e Hewlett-Packard-it] 
 HP-UX [Hewlett-Packard UNIX] 
 abbr HP/UX [UNIX i Hewlett-
 Packard-it] 
-HREF [hypertext reference] abbr 
+HREF [hypertext reference] |  abbr  | 
 HREF [referencë hipertekstuale] 
 H-sync [horizontal synchronization] 
 abbr H-sink [Sinkronizim 
 horizontal] 
 HTML [Hypertext Markup 
-Language] abbr HTML [gjuhë 
+Language] |  abbr  | HTML [gjuhë 
 shënjuese hipertekstuale] 
 HTML [HyperText Mark-up 
-Language] abbr HTML [gjuhë 
+Language] |  abbr  | HTML [gjuhë 
 shënjuese hipertekstuale] 
-HTML document n dokument 
+HTML document |  n  | dokument 
 HTML 
-HTML editor n editor i HTML-së 
-HTML page n faqe HTML [faqe 
+HTML editor |  n  | editor i HTML-së 
+HTML page |  n  | faqe HTML [faqe 
 ueb] 
  
  
 143
 hybrid topology 
-HTML tag n etiketë kontrolluese e 
+HTML tag |  n  | etiketë kontrolluese e 
 HTML-së 
-HTML+ n HTML+ 
+HTML+ |  n  | HTML+ 
 HTTP [HyperText Transfer 
-Protocol] abbr HTTP [protokoll 
+Protocol] |  abbr  | HTTP [protokoll 
 për transfer të hipertekstit] 
-HTTP Next Generation abbr 
+HTTP Next Generation |  abbr  | 
 gjeneratë e ardhshme e HTTP 
-HTTP protocol n protokoll HTTP 
-HTTP server abbr server HTTP 
-HTTP status codes abbr kode të 
+HTTP protocol |  n  | protokoll HTTP 
+HTTP server |  abbr  | server HTTP 
+HTTP status codes |  abbr  | kode të 
 statusit të HTTP 
 HTTPd [HyperText Transfer 
-Protocol deamon] abbr HTTPd 
+Protocol deamon] |  abbr  | HTTPd 
 [demon i protokollit për transfer të 
 hipertekstit] 
 HTTP-NG [HTTP Next Generation] 
 abbr HTTP-NG [gjenerata të 
 ardhshme të HTTP] 
-HTTP-proxy n ndërmjetës HTTP 
-hub n përqendrues ose hab 
-hue n ngjyrim ose nuancë 
-human error n gabim i njeriut 
-human-machine interface n 
+HTTP-proxy |  n  | ndërmjetës HTTP 
+hub |  n  | përqendrues ose hab 
+hue |  n  | ngjyrim ose nuancë 
+human error |  n  | gabim i njeriut 
+human-machine interface |  n  | 
 ndërfaqe njeri-makinë 
-hybrid adj hibrid 
-hybrid circuit n qark hibrid 
-hybrid computer n kompjuter 
+hybrid |  adj  | hibrid 
+hybrid circuit |  n  | qark hibrid 
+hybrid computer |  n  | kompjuter 
 hibrid 
-hybrid integrated circuit n qark i 
+hybrid integrated circuit |  n  | qark i 
 integruar hibrid 
-hybrid microcircuit n mikroqark 
+hybrid microcircuit |  n  | mikroqark 
 hibrid 
-hybrid topology n topologji hibride 
+hybrid topology |  n  | topologji hibride 
  
 144
  
@@ -9376,58 +9346,58 @@ protokollit për transfer të
 hipertekstit [HTTPd] 
 Hypertext Transfer Protocol Next 
 Generation [HTTP Next 
-Generation] n gjeneratat e 
+Generation] |  n  | gjeneratat e 
 ardhshme e protokollit për transfer 
 të hipertekstit [gjenerata e 
 ardhshme HTTP] 
-hypervisor n hipervisor 
-HyperWave n HyperWave 
-hyphen n vizë lidhëse 
-hyphenate v shkruaj me vizë 
+hypervisor |  n  | hipervisor 
+HyperWave |  n  | HyperWave 
+hyphen |  n  | vizë lidhëse 
+hyphenate |  v  | shkruaj me vizë 
 ndarëse 
-hyphenation n fjalëndarje (në fund 
+hyphenation |  n  | fjalëndarje (në fund 
 të rreshtit) 
-hyphenation dictionary n fjalor i 
+hyphenation dictionary |  n  | fjalor i 
 fjalëndarjeve 
-hyphenation program n program 
+hyphenation program |  n  | program 
 për ndarje të fjalëve në fund të 
 rreshtit 
-hyphenation zone n zonë e 
+hyphenation zone |  n  | zonë e 
 fjalëndarjes 
-hypothesis n hipotezë 
-hysteresis n histerezë 
-HYTELNET n HYTELNET 
+hypothesis |  n  | hipotezë 
+hysteresis |  n  | histerezë 
+HYTELNET |  n  | HYTELNET 
 [tregues i burimeve të internetit) 
-Hz [hertz] n Hz [herc] 
+Hz [hertz] |  n  | Hz [herc] 
  hyper- 
 hyper- pref hiper-, super- 
-HyperCard n HyperCard 
-hyperdisk n hiperdisk 
-hyperlink n hiperlidhje 
-hypermedia n hipermedia 
-hyperspace n hiperhapësirë 
-HyperTalk n HyperTalk 
-hypertext n hipertekst (format 
+HyperCard |  n  | HyperCard 
+hyperdisk |  n  | hiperdisk 
+hyperlink |  n  | hiperlidhje 
+hypermedia |  n  | hipermedia 
+hyperspace |  n  | hiperhapësirë 
+HyperTalk |  n  | HyperTalk 
+hypertext |  n  | hipertekst (format 
 teksti për internet) 
-hypertext document n dokument në 
+hypertext document |  n  | dokument në 
 hipertekst 
-hypertext link n lidhje në hipertekst 
+hypertext link |  n  | lidhje në hipertekst 
 Hypertext Markup Language 
-[HTML] n HTML [gjuhë shënjuese 
+[HTML] |  n  | HTML [gjuhë shënjuese 
 ose markuese hipertekstuale] 
 hypertext mark-up language 
-[HTML] n gjuhë shënjuese ose 
+[HTML] |  n  | gjuhë shënjuese ose 
 markuese hipertekstuale [HTML] 
-hypertext reference [HREF] n 
+hypertext reference [HREF] |  n  | 
 referencë hipertekstuale [HREF] 
 hypertext transfer protocol [HTTP] 
- n protokoll për transfer të 
+ |  n  | protokoll për transfer të 
 hipertekst [protokoll HTTP; HTTP] 
 Hypertext Transfer Protocol 
-[HTTP] n protokoll për transfer 
+[HTTP] |  n  | protokoll për transfer 
 të hipertekstit [HTTP] 
 Hypertext Transfer Protocol 
-Daemon [HTTPd] n demon i 
+Daemon [HTTPd] |  n  | demon i 
  
  
  
@@ -9439,91 +9409,91 @@ Daemon [HTTPd] n demon i
  
 145
 I 
-i.e. [id est: that is to say] abbr 
+i.e. [id est: that is to say] |  abbr  | 
 d.m.th. [domethënë] 
-IC [integrated circuit] abbr qark i 
+IC [integrated circuit] |  abbr  | qark i 
 integruar 
-I/ O [Input/Output] abbr I/O [hyrje-
+I/ O [Input/Output] |  abbr  | I/O [hyrje-
 dalje] 
-I/ O device n pajisje hyrëse-dalëse 
-I/O controller n kontrollues hyrës-
+I/ O device |  n  | pajisje hyrëse-dalëse 
+I/O controller |  n  | kontrollues hyrës-
 dalës 
-I/O port n port hyrës-dalës 
-I/O processor n procesor hyrës-
+I/O port |  n  | port hyrës-dalës 
+I/O processor |  n  | procesor hyrës-
 dalës 
-I2L [integrated injection logic] n 
+I2L [integrated injection logic] |  n  | 
 I2L [logjika me injektor të 
 integruar] 
-I2O [Intelligent Input/ Output] n 
+I2O [Intelligent Input/ Output] |  n  | 
 I2O [hyrje-dalje inteligjente] 
-IAB [Internet Architecture Board] n 
+IAB [Internet Architecture Board] |  n  | 
 IAB [Këshilli për Arkitekturë të 
 Internetit] 
 IAC [Information Analysis Center] 
 n IAC [Qendra për analizë të 
 informacioneve] 
 IANA [Internet Assigned Numbers 
-Authority] n IANA [Autoriteti për 
+Authority] |  n  | IANA [Autoriteti për 
 ndarje (ose caktim) të numrave të 
 Internetit] 
-IBG [InterBlock Gap] n IBG 
+IBG [InterBlock Gap] |  n  | IBG 
 [zbrazëtirë ndërmjet blloqeve] 
-ICM [image color matching] n 
+ICM [image color matching] |  n  | 
  ICM [përshtatja e ngjyrave të 
 figurës] 
 ICMP [Internet Control Message 
-Protocol] n ICMP [protokoll i 
+Protocol] |  n  | ICMP [protokoll i 
 internetit për kontroll të 
 mesazheve] 
-icon n ikonë 
-icon parade n paradë e ikonave 
-iconic interface n ndërfaqe (ose 
+icon |  n  | ikonë 
+icon parade |  n  | paradë e ikonave 
+iconic interface |  n  | ndërfaqe (ose 
 interfejs) me ikona 
-ID (1) [identification] abbr 
+ID (1) [identification] |  abbr  | 
 identifikim 
-ID (2) [identifier] abbr identifikator 
+ID (2) [identifier] |  abbr  | identifikator 
 IDE [Integrated Device Electronics] 
 abbr IDE [elektronikë e pajisjeve 
 të integruara] 
-identification n identifikim 
+identification |  n  | identifikim 
 [njëjtësim] 
-identifier n identifikator 
-identify v identifikoj [njëjtësoj] 
-identity n identitet 
-identity gate n portë e identitetit 
+identifier |  n  | identifikator 
+identify |  v  | identifikoj [njëjtësoj] 
+identity |  n  | identitet 
+identity gate |  n  | portë e identitetit 
  
  identity matrix 
-identity matrix n matricë 
+identity matrix |  n  | matricë 
 identiteti (matricë e njëshave) 
-identity unit n fjalë e 
+identity unit |  n  | fjalë e 
 identifikatorit 
-idle state n gjendje e pritjes 
-idle time n kohë e vdekur (e 
+idle state |  n  | gjendje e pritjes 
+idle time |  n  | kohë e vdekur (e 
 makinës) 
-idleness n mosveprim ose 
+idleness |  n  | mosveprim ose 
 mosaktivitet 
 IEEE [Institute of Electrical and 
-Electronics Engineers] n IEEE 
+Electronics Engineers] |  n  | IEEE 
 [Instituti i inxhinierëve të 
 elektroteknikës dhe elektronikës] 
-IEEE 488 n IEEE 488 
-IEEE 696/ S-100 n IEEE 696/S-
+IEEE 488 |  n  | IEEE 488 
+IEEE 696/ S-100 |  n  | IEEE 696/S-
 100 
-IEEE 802 standards n standardet 
+IEEE 802 standards |  n  | standardet 
 IEEE 802 
 if conj if [nëse, urdhër për degëzim] 
-IF statement n urdhër IF 
+IF statement |  n  | urdhër IF 
 if than else conj if-then-else [urdhër 
 për: degëzim nëse-atëherë-
 përndryshe] 
-IFF [Interchange File Format] abbr 
+IFF [Interchange File Format] |  abbr  | 
 IFF [format për këmbim të fajlave] 
 IFIP [International Federation of 
-Information Processing] abbr IFIP 
+Information Processing] |  abbr  | IFIP 
 [Federata ndërkombëtare për 
 përpunim të të dhënave] 
 IFS [Installable File System 
-Manager] abbr IFS [menaxher 
+Manager] |  abbr  | IFS [menaxher 
 instalues i sistemit të fajlave] 
 if-then conj if-then [urdhër për 
 degëzim: nëse-atëherë] 
@@ -9532,582 +9502,582 @@ degëzim: nëse-atëherë]
 146
 immediate access 
 IGES [Initial Graphics Exchange 
-Specification] abbr IGES 
+Specification] |  abbr  | IGES 
 [specifikim fillestar për këmbim të 
 grafikës] 
-ignore v nuk përfill [nuk marr 
+ignore |  v  | nuk përfill [nuk marr 
 parasysh] 
-IIL [integrated injection logic] abbr 
+IIL [integrated injection logic] |  abbr  | 
 IIL [logjikë me injektor të 
 integruar] 
-IIS [Internet Information Server] n 
+IIS [Internet Information Server] |  n  | 
 IIS [server informativ i internetit] 
-illegal instruction n instruksion 
+illegal instruction |  n  | instruksion 
 ilegal 
-illegal operation n operacion 
+illegal operation |  n  | operacion 
 ilegal 
-image color matching n 
+image color matching |  n  | 
 përshtatje e ngjyrave të figurës (ose 
 fotografisë) 
-image compression n ngjeshje e 
+image compression |  n  | ngjeshje e 
 figurës (ose komprimim i 
 fotografisë) 
-image generator n gjenerator i 
+image generator |  n  | gjenerator i 
 figurës 
-image recognition n njohje e 
+image recognition |  n  | njohje e 
 figurës 
-image-directory n direktorium 
+image-directory |  n  | direktorium 
 figurash (ose fotografish) 
-imaginary number n numër 
+imaginary number |  n  | numër 
 imagjinar 
-IMHO [In My Humble Opinion] n 
+IMHO [In My Humble Opinion] |  n  | 
 sipas mendimit tim modest 
-imitation n imitim (shkërbim) 
-Imitation Game n lojë imitimi 
-immediate access n akses i 
+imitation |  n  | imitim (shkërbim) 
+Imitation Game |  n  | lojë imitimi 
+immediate access |  n  | akses i 
 drejtpërdrejtë 
  immediate address 
-immediate address n adresë e 
+immediate address |  n  | adresë e 
 drejtpërdrejtë 
-immediate addressing n adresim i 
+immediate addressing |  n  | adresim i 
 drejtpërdrejtë 
-immediate printing n shtypje e 
+immediate printing |  n  | shtypje e 
 [printim i] drejtpërdrejtë 
 IMO [In My Opinion] ph sipas 
 mendimit tim 
-impedance n impedancë 
-implement v zbatoj [kryej; vë në 
+impedance |  n  | impedancë 
+implement |  v  | zbatoj [kryej; vë në 
 jetë] 
-implication n implikim 
-implicit adj nënkuptuar (i) 
-implicit addressing n adresim i 
+implication |  n  | implikim 
+implicit |  adj  | nënkuptuar (i) 
+implicit addressing |  n  | adresim i 
 nënkuptuar 
-implied addressing n adresim i 
+implied addressing |  n  | adresim i 
 përfshirë 
-imply v nënkupton [përfshin, sjell (si 
+imply |  v  | nënkupton [përfshin, sjell (si 
 pasojë)] 
-import v importoj 
-improve v përmirësoj 
-improvement n përmirësim 
-impulse n impuls 
+import |  v  | importoj 
+improve |  v  | përmirësoj 
+improvement |  n  | përmirësim 
+impulse |  n  | impuls 
 in my humble opinion [IMHO] ph 
 për mendimin tim modest 
 in my opinion ph për mendimin tim 
-in. [inch] abbr inç [= 2,54 cm] 
-inaccuracy n pasaktësi 
-inaccurate adj pasaktë (i) 
-inactive window n dritare joaktive 
-inch n inç [= 2,54 cm] 
-include v përfshij [fut] 
+in. [inch] |  abbr  | inç [= 2,54 cm] 
+inaccuracy |  n  | pasaktësi 
+inaccurate |  adj  | pasaktë (i) 
+inactive window |  n  | dritare joaktive 
+inch |  n  | inç [= 2,54 cm] 
+include |  v  | përfshij [fut] 
  
  
 147
 indicative data 
-INCLUDE directive n direktiva 
+INCLUDE directive |  n  | direktiva 
 INCLUDE 
-inclusive adj përfshirës 
-incorrect version n version i 
+inclusive |  adj  | përfshirës 
+incorrect version |  n  | version i 
 pasaktë (ose jokorrekt) 
-increase v rris [zmadhoj; shtoj] 
-increase n rritje [zmadhim; shtim] 
-increment v rrit [shtoj] 
-increment (1) n rritje [shtim] 
-increment (2) n inkrement [shtesë] 
-indent n dhëmbëzim [fillim i 
+increase |  v  | rris [zmadhoj; shtoj] 
+increase |  n  | rritje [zmadhim; shtim] 
+increment |  v  | rrit [shtoj] 
+increment (1) |  n  | rritje [shtim] 
+increment (2) |  n  | inkrement [shtesë] 
+indent |  n  | dhëmbëzim [fillim i 
 kryeradhës] 
-indent v dhëmbëzoj [nxjerr në 
+indent |  v  | dhëmbëzoj [nxjerr në 
 kryeradhë] 
 indent paragraph ph dhëmbëzo 
 paragrafin 
-indentation n dhëmbëzim 
+indentation |  n  | dhëmbëzim 
 [nxjerrje në kryeradhë] 
-index hole n vrimë indeksi (te 
+index hole |  n  | vrimë indeksi (te 
 disketa) 
-index mark n shenjë e treguesit 
+index mark |  n  | shenjë e treguesit 
 (ose indeksit) 
-index point n pikë e indeksit 
-index register n regjistër i indeksit 
-indexed adj indeksuar (i) 
-indexed address n adresë e 
+index point |  n  | pikë e indeksit 
+index register |  n  | regjistër i indeksit 
+indexed |  adj  | indeksuar (i) 
+indexed address |  n  | adresë e 
 indeksuar 
-indexed search n kërkim indeksor 
-indexed sequential organization n 
+indexed search |  n  | kërkim indeksor 
+indexed sequential organization |  n  | 
 organizim sekuencial i indeksuar 
-indexing n indeksim 
-indicative data n dhëna (të) 
+indexing |  n  | indeksim 
+indicative data |  n  | dhëna (të) 
 treguese 
  indicator 
-indicator n indikator (tregues) 
-indicator element n element tregues 
-indirect addressing n adresim i 
+indicator |  n  | indikator (tregues) 
+indicator element |  n  | element tregues 
+indirect addressing |  n  | adresim i 
 tërthortë (jo i drejtpërdrejtë) 
-inductance n induktancë 
-induction n induksion 
-inductor n induktor 
-inequality n mosbarazim [pabarazi] 
-INET [InterNET] abbr INET 
+inductance |  n  | induktancë 
+induction |  n  | induksion 
+inductor |  n  | induktor 
+inequality |  n  | mosbarazim [pabarazi] 
+INET [InterNET] |  abbr  | INET 
 [Internet] 
-infect v infektoj 
-infinit set n bashkësi e pafundme 
-infinite loop n lak i pafund 
-infinity n pafundësi 
-infobahn [information autobahn] n 
+infect |  v  | infektoj 
+infinit set |  n  | bashkësi e pafundme 
+infinite loop |  n  | lak i pafund 
+infinity |  n  | pafundësi 
+infobahn [information autobahn] |  n  | 
 magjistrale [superstradë] 
 informacionesh 
-informatics n informatikë 
-information (1) n informacion [të 
+informatics |  n  | informatikë 
+information (1) |  n  | informacion [të 
 dhëna; informatë] 
-information (2) n informim 
-information acquisition n mbledhje 
+information (2) |  n  | informim 
+information acquisition |  n  | mbledhje 
 e informacioneve 
-information bits n bite të 
+information bits |  n  | bite të 
 informacionit 
-information center (1) n qendër 
+information center (1) |  n  | qendër 
 informacioni 
-information center (2) n qendër 
+information center (2) |  n  | qendër 
 informimi 
  
 148
 information theory 
-information flow n rrjedhje e 
+information flow |  n  | rrjedhje e 
 informacioneve 
-information hiding n fshehje e 
+information hiding |  n  | fshehje e 
 informacioneve 
-information highway [IH] n 
+information highway [IH] |  n  | 
 magjistrale e informacionit [HI] 
-information kiosk n kioskë 
+information kiosk |  n  | kioskë 
 informacionesh 
-information management n 
+information management |  n  | 
 menaxhim i informacioneve 
-information packet n paket 
+information packet |  n  | paket 
 informacionesh 
-information processing n 
+information processing |  n  | 
 përpunim informacionesh 
-information pusher n shpërndarës i 
+information pusher |  n  | shpërndarës i 
 informacioneve 
-information requirements n 
+information requirements |  n  | 
 kërkesa të informacioneve 
-information separator n ndarës 
+information separator |  n  | ndarës 
 (ose separator) i informacioneve 
-information society n shoqëri e 
+information society |  n  | shoqëri e 
 informacionit 
-information source n burim i 
+information source |  n  | burim i 
 informacionit 
-information structure n strukturë e 
+information structure |  n  | strukturë e 
 informacionit [strukturë e të 
 dhënave] 
-information system (1) n sistem i 
+information system (1) |  n  | sistem i 
 informacionit 
-information system (2) n sistem i 
+information system (2) |  n  | sistem i 
 informimit 
-information channel n kanal i 
+information channel |  n  | kanal i 
 informacionit 
-information equipments n pajisje të 
+information equipments |  n  | pajisje të 
 informacionit 
-Information Technology n 
+Information Technology |  n  | 
 teknologji e informacionit 
-information theory n teori e 
+information theory |  n  | teori e 
 informacionit 
  
  information ton 
-information ton n ton i 
+information ton |  n  | ton i 
 informacionit 
-information unit n njësi e 
+information unit |  n  | njësi e 
 informacionit 
-infrared [IR] adj infrakuq 
-Infrared Data Association [IrDA] n 
+infrared [IR] |  adj  | infrakuq 
+Infrared Data Association [IrDA] |  n  | 
 Shoqata për të dhëna infrakuqe 
 [IrDA] 
-infrared waves n valët infrakuqe 
-infringement n shkelje (e ligjit) 
+infrared waves |  n  | valët infrakuqe 
+infringement |  n  | shkelje (e ligjit) 
 [nëpërkëmbje] 
-inherit v trashëgoj 
-inheritance n trashëgim 
-inhibit ring n unazë mbrojtëse 
-in-house adj brendshëm (i) 
-initial adj fillestar 
+inherit |  v  | trashëgoj 
+inheritance |  n  | trashëgim 
+inhibit ring |  n  | unazë mbrojtëse 
+in-house |  adj  | brendshëm (i) 
+initial |  adj  | fillestar 
 Initial Graphics Exchange 
-Specification [IGES] n specifikim 
+Specification [IGES] |  n  | specifikim 
 fillestar për këmbim të grafikës 
 [IGES] 
-initial orders n urdhra fillestarë 
-initialization n inicializim 
-initialization routine n rutinë 
+initial orders |  n  | urdhra fillestarë 
+initialization |  n  | inicializim 
+initialization routine |  n  | rutinë 
 [nënprogram] inicializimi 
-initialize v inicializoj 
-initialize printer v inicializoj 
+initialize |  v  | inicializoj 
+initialize printer |  v  | inicializoj 
 shtypësin (ose printerin) 
-initializer n inicializues 
-initializing CD-reader n përgatitja 
+initializer |  n  | inicializues 
+initializing CD-reader |  n  | përgatitja 
 (ose inicializim) e CD-lexuesit 
-initiator n iniciator 
-injection n injektim 
+initiator |  n  | iniciator 
+injection |  n  | injektim 
  
  
 149
 input/output bus 
-ink-jet-printer n shtypës (printer) 
+ink-jet-printer |  n  | shtypës (printer) 
 me vrushkuj ngjyre 
-inner join n lidhje e brendshme 
-input v fus [përfshij] të dhëna 
-input (1) n hyrje 
-input (2) n informacion i futur 
-input area n hapësirë hyrëse 
-input block n bllok hyrës 
-input buffer n bufer hyrës 
-input channel n kanal hyrës 
-input data n dhëna (të) hyrëse 
-input device n pajisje hyrëse 
-input equipment n pajisje hyrëse 
-input instruction n urdhër i hyrjes 
-input port n port hyrës 
-input section n seksion hyrës 
-input station n stacion hyrës 
-input storage n memorie hyrëse 
-input stream n rrjedhë (ose 
+inner join |  n  | lidhje e brendshme 
+input |  v  | fus [përfshij] të dhëna 
+input (1) |  n  | hyrje 
+input (2) |  n  | informacion i futur 
+input area |  n  | hapësirë hyrëse 
+input block |  n  | bllok hyrës 
+input buffer |  n  | bufer hyrës 
+input channel |  n  | kanal hyrës 
+input data |  n  | dhëna (të) hyrëse 
+input device |  n  | pajisje hyrëse 
+input equipment |  n  | pajisje hyrëse 
+input instruction |  n  | urdhër i hyrjes 
+input port |  n  | port hyrës 
+input section |  n  | seksion hyrës 
+input station |  n  | stacion hyrës 
+input storage |  n  | memorie hyrëse 
+input stream |  n  | rrjedhë (ose 
 rrëke) hyrëse 
-input unit n njësi hyrëse 
-input/output [I/O] n hyrje-dalje [I/O] 
-input/output adapter n përshtatës 
+input unit |  n  | njësi hyrëse 
+input/output [I/O] |  n  | hyrje-dalje [I/O] 
+input/output adapter |  n  | përshtatës 
 (ose adapter) hyrës-dalës 
-input/output area n hapësirë hyrëse-
+input/output area |  n  | hapësirë hyrëse-
 dalëse 
-input/output board n pllakë hyrëse-
+input/output board |  n  | pllakë hyrëse-
 dalëse 
-input/output buffer n bufer hyrës-
+input/output buffer |  n  | bufer hyrës-
 dalës 
-input/output bus n bus hyrës-dalës 
+input/output bus |  n  | bus hyrës-dalës 
 ose magjistrale hyrëse-dalëse 
  input/output channel 
  
 150
-input/output channel n kanal hyrës-
+input/output channel |  n  | kanal hyrës-
 dalës 
 instruction code 
-input/output-bound n kufi hyrës-
+input/output-bound |  n  | kufi hyrës-
 dalës 
-input/output control system n 
+input/output control system |  n  | 
 sistem kontrollues hyrës-dalës 
 Input/Output Control System 
-[IOCS] n sistem kontrollues 
+[IOCS] |  n  | sistem kontrollues 
 hyrës/dalës [IOCS] 
-input/output control unit n njësi 
+input/output control unit |  n  | njësi 
 kontrolluese hyrëse-dalëse 
-input/output controller n 
+input/output controller |  n  | 
 kontroller hyrës-dalës 
-input/output device n pajisje 
+input/output device |  n  | pajisje 
 hyrëse-dalëse 
-input/output instruction n 
+input/output instruction |  n  | 
 instruksion hyrës-dalës [komandë 
 hyrëse-dalëse] 
-input/output interface n ndërfaqe 
+input/output interface |  n  | ndërfaqe 
 (ose interfejs) hyrëse-dalëse 
-input/output library n bibliotekë 
+input/output library |  n  | bibliotekë 
 hyrëse-dalëse 
-input/output port n port hyrës-dalës 
-input/output processor [I/O P] n 
+input/output port |  n  | port hyrës-dalës 
+input/output processor [I/O P] |  n  | 
 procesor hyrës-dalës 
-input/output register n regjistër 
+input/output register |  n  | regjistër 
 hyrës-dalës 
-input/output routines n rutina 
+input/output routines |  n  | rutina 
 hyrëse-dalëse 
-input/output statement n urdhër 
+input/output statement |  n  | urdhër 
 hyrës-dalës 
-input/output switching n komutim 
+input/output switching |  n  | komutim 
 hyrje/dalje 
-input/output traffic control n 
+input/output traffic control |  n  | 
 kontroll i trafikut hyrës-dalës 
-input/output unit n njësi hyrëse-
+input/output unit |  n  | njësi hyrëse-
 dalëse 
  
-input-bound adj kufi hyrës 
-input-limited n hyrja e kufizuar 
+input-bound |  adj  | kufi hyrës 
+input-limited |  n  | hyrja e kufizuar 
 inquiry and communication system
- n sistemi pyetës dhe komunikues 
-inquiry station n stacion për pyetje 
-inquiry unit n njësi për pyetje 
-Ins key n tasti Ins 
-insert v fut [shtie, kall] ose insertoj 
-insert n futje [kallje] ose insertim 
-insert coloumn v fut (ose insertoj) 
+ |  n  | sistemi pyetës dhe komunikues 
+inquiry station |  n  | stacion për pyetje 
+inquiry unit |  n  | njësi për pyetje 
+Ins key |  n  | tasti Ins 
+insert |  v  | fut [shtie, kall] ose insertoj 
+insert |  n  | futje [kallje] ose insertim 
+insert coloumn |  v  | fut (ose insertoj) 
 kolonën 
-Insert key n tasti “insert” [tasti i 
+Insert key |  n  | tasti “insert” [tasti i 
 ndërfutjes] 
-insert row v fut rreshtin 
-inserted adj futur (i) ose insertuar 
+insert row |  v  | fut rreshtin 
+inserted |  adj  | futur (i) ose insertuar 
 (i) 
-insertion n futje [ndërkallje] ose 
+insertion |  n  | futje [ndërkallje] ose 
 insertim] 
-install v instaloj 
-install(ation) program n program 
+install |  v  | instaloj 
+install(ation) program |  n  | program 
 instalues 
-installation n instalim 
-instruction n instruksion [urdhër, 
+installation |  n  | instalim 
+instruction |  n  | instruksion [urdhër, 
 udhëzim] 
-instruction address n adresë e 
+instruction address |  n  | adresë e 
 instruksionit 
-instruction address register n 
+instruction address register |  n  | 
 regjistër i adresës së instruksionit 
-instruction area n hapësirë e 
+instruction area |  n  | hapësirë e 
 instruksionit 
-instruction code n kod i instruksionit 
+instruction code |  n  | kod i instruksionit 
  instruction constant 
  
 151
-instruction constant n konstantë 
+instruction constant |  n  | konstantë 
 e instruksionit 
 intelligence 
-integer division n pjesëtim i 
+integer division |  n  | pjesëtim i 
 numrave të plotë 
-instruction counter n numërues i 
+instruction counter |  n  | numërues i 
 instruksioneve 
-integer multiplication n shumëzim 
+integer multiplication |  n  | shumëzim 
 i numrave të plotë 
-instruction cycle n cikël i 
+instruction cycle |  n  | cikël i 
 instruksioneve 
-integral modem n modem i 
+integral modem |  n  | modem i 
 integruar 
-instruction decoder n dekodues i 
+instruction decoder |  n  | dekodues i 
 instruksioneve 
-instruction format n format i 
+instruction format |  n  | format i 
 instruksionit 
-instruction length n gjatësi e 
+instruction length |  n  | gjatësi e 
 instruksionit 
-instruction manual n manual 
+instruction manual |  n  | manual 
 përdorimi 
-instruction modification n 
+instruction modification |  n  | 
 modifikim i instruksionit 
-instruction pointer n tregues (ose 
+instruction pointer |  n  | tregues (ose 
 pikatës) i instruksionit 
-instruction register n regjistër i 
+instruction register |  n  | regjistër i 
 instruksionit 
-instruction repertoire n repertor i 
+instruction repertoire |  n  | repertor i 
 instruksioneve 
-instruction word n fjalë e 
+instruction word |  n  | fjalë e 
 instruksionit 
-instruments n instrumentet 
+instruments |  n  | instrumentet 
 [aparatura] 
-insulate v izoloj [veçoj] 
-insulator n izolator 
-insure v siguroj 
-integer n numër i plotë 
-integer constant n konstantë e plotë 
-integer data type n tip i plotë i të 
+insulate |  v  | izoloj [veçoj] 
+insulator |  n  | izolator 
+insure |  v  | siguroj 
+integer |  n  | numër i plotë 
+integer constant |  n  | konstantë e plotë 
+integer data type |  n  | tip i plotë i të 
 dhënave 
-integral number n numër i plotë 
-integrate v integroj 
-integrated adj integruar (i) 
-integrated circuit [IC] n qark i 
+integral number |  n  | numër i plotë 
+integrate |  v  | integroj 
+integrated |  adj  | integruar (i) 
+integrated circuit [IC] |  n  | qark i 
 integruar 
-integrated data processing n 
+integrated data processing |  n  | 
 përpunim i integruar i të dhënave 
-integrated data retrieval system n 
+integrated data retrieval system |  n  | 
 sistem i integruar për kërkim të të 
 dhënave 
 integrated development 
-environment n mjedis i zhvillimit 
+environment |  n  | mjedis i zhvillimit 
 të integruar 
-Integrated Device Electronics n 
+Integrated Device Electronics |  n  | 
 elektronikë e pajisjeve të integruara 
-integrated electronics n 
+integrated electronics |  n  | 
 elektronikë e integruar 
 integrated information processing 
 n përpunim i integruar i 
 informacioneve 
-integrated semiconductor n 
+integrated semiconductor |  n  | 
 gjysmëpërçues i integruar 
-integrated software n softuer i 
+integrated software |  n  | softuer i 
 integruar 
-integration n integrim 
-integrator n integrator 
-integrity n integritet [tërësi] 
-intelligence n inteligjencë [zgjuarsi] 
+integration |  n  | integrim 
+integrator |  n  | integrator 
+integrity |  n  | integritet [tërësi] 
+intelligence |  n  | inteligjencë [zgjuarsi] 
  
  intelligent 
  
 152
-intelligent adj inteligjent [zgjuar (i), 
+intelligent |  adj  | inteligjent [zgjuar (i), 
 interleave 
-interapplication communication n 
+interapplication communication |  n  | 
 mençur (i)] 
 komunikim interaplikativ 
-intelligent agent n agjent inteligjent 
-intelligent cable n kabëll inteligjent 
-intelligent database n bazë e të 
+intelligent agent |  n  | agjent inteligjent 
+intelligent cable |  n  | kabëll inteligjent 
+intelligent database |  n  | bazë e të 
 dhënave inteligjente 
-Intelligent Input/Output n hyrje-
+Intelligent Input/Output |  n  | hyrje-
 dalje inteligjente 
 Intelligent Scheduling and 
-Information System [ISIS] n 
+Information System [ISIS] |  n  | 
 sistem inteligjent për planifikim 
 dhe informim [ISIS] 
-intelligent terminal n terminal 
+intelligent terminal |  n  | terminal 
 inteligjent 
-intensity n intensitet 
-interaction n ndërveprim ose 
+intensity |  n  | intensitet 
+interaction |  n  | ndërveprim ose 
 interaksion 
-interactive adj ndërveprues ose 
+interactive |  adj  | ndërveprues ose 
 interaktiv 
-interactive processing n përpunim 
+interactive processing |  n  | përpunim 
 ndërveprues (ose interaktiv) 
-interactive program n program 
+interactive program |  n  | program 
 ndërveprues (ose interaktiv) 
-interactive session n sesion 
+interactive session |  n  | sesion 
 ndërveprues (ose interaktiv) 
-interactive talk n bisedim [dialog] 
+interactive talk |  n  | bisedim [dialog] 
 bashkëveprues (ose interaktiv) 
-interactive television n televizion 
+interactive television |  n  | televizion 
 ndërveprues (ose interaktiv) 
-interactive terminal n terminal 
+interactive terminal |  n  | terminal 
 ndërveprues (ose interaktiv) 
-interactive video n video 
+interactive video |  n  | video 
 ndërvepruese (ose interaktive) 
  
-interblock n mesbllok 
-interblock gap [IBG] n zbrazëtirë 
+interblock |  n  | mesbllok 
+interblock gap [IBG] |  n  | zbrazëtirë 
 ndërmjet blloqeve [IBG] 
-interchange n ndërkëmbim 
+interchange |  n  | ndërkëmbim 
 [ndërrim vendi] 
-Interchange File Format [IFF] n 
+Interchange File Format [IFF] |  n  | 
 format për këmbim të failave [IFF] 
-interface n ndërfaqe ose interfejs 
+interface |  n  | ndërfaqe ose interfejs 
 [pajisje ndërmjetësuese] 
-interface v ndërfaqoj [lidh, bashkoj] 
-interface adapter n përshtatës 
+interface |  v  | ndërfaqoj [lidh, bashkoj] 
+interface adapter |  n  | përshtatës 
 ndërfaqeje (ose interfejsi) 
-interface card n kartelë ndërfaqeje 
+interface card |  n  | kartelë ndërfaqeje 
 (ose interfejsi) 
-interfacing n ndërfaqim ose 
+interfacing |  n  | ndërfaqim ose 
 interfejsim 
-interfere v interferon [ndërhyn] 
-interference n interferencë 
+interfere |  v  | interferon [ndërhyn] 
+interference |  n  | interferencë 
 [ndërhyrje] 
-interim release n ndërversion 
+interim release |  n  | ndërversion 
 [version (i softuerit) para versionit 
 final ose ndërrmjet dy versioneve] 
-Interior Gateway Protocol [IGP] n 
+Interior Gateway Protocol [IGP] |  n  | 
 version i përkohshëm 
-interior label n etiketë (ose labelë) 
+interior label |  n  | etiketë (ose labelë) 
 e brendshme 
-interlace v gërshetohet 
-interlace operation n punë me 
+interlace |  v  | gërshetohet 
+interlace operation |  n  | punë me 
 gërshetim 
-interlacing n gërshetim 
-interleave v ndërfut ose ndërkall 
-interleave n ndërfutje ose ndërkallje 
+interlacing |  n  | gërshetim 
+interleave |  v  | ndërfut ose ndërkall 
+interleave |  n  | ndërfutje ose ndërkallje 
  interlude 
-interlude n mesprogram 
-intermediate control data n 
+interlude |  n  | mesprogram 
+intermediate control data |  n  | 
 dhëna (të) për meskontroll 
-intermediate language n gjuhë 
+intermediate language |  n  | gjuhë 
 ndërmjetësuese 
-intermediate memory storage n 
+intermediate memory storage |  n  | 
 memorie ndërmjetësuese 
-intermediate result n mesrezultat 
-intermediate storage n memorie 
+intermediate result |  n  | mesrezultat 
+intermediate storage |  n  | memorie 
 ndërmjetësuese 
-intermediate total n messhumë 
+intermediate total |  n  | messhumë 
 ose mestotal 
-intermittent adj herëpashershëm (i) 
-intermittent error n gabim i 
+intermittent |  adj  | herëpashershëm (i) 
+intermittent error |  n  | gabim i 
 herëpashershëm 
-internal adj brendshëm ose intern 
-internal arithmetic n aritmetikë e 
+internal |  adj  | brendshëm ose intern 
+internal arithmetic |  n  | aritmetikë e 
 brendshme 
-internal bus n bus i brendshëm ose 
+internal bus |  n  | bus i brendshëm ose 
 magjistrale e brendshme 
-internal clock generator n 
+internal clock generator |  n  | 
 gjenerator i taktit të brendshëm 
-internal command n komandë e 
+internal command |  n  | komandë e 
 brendshme 
-internal cycle time n kohë e ciklit 
+internal cycle time |  n  | kohë e ciklit 
 të brendshëm 
-internal device n pajisje e brendshme 
-internal interrupt n ndërprerje e 
+internal device |  n  | pajisje e brendshme 
+internal interrupt |  n  | ndërprerje e 
 brendshme 
-internal memory n memorie e 
+internal memory |  n  | memorie e 
 brendshme 
-internal modem n modem i 
+internal modem |  n  | modem i 
 brendshëm 
  
  
 153
 Internet access 
-internal register n regjistër i 
+internal register |  n  | regjistër i 
 brendshëm 
-internal schema n skemë e 
+internal schema |  n  | skemë e 
 brendshme 
-internal storage n memorie e 
+internal storage |  n  | memorie e 
 brendshme 
-internal storage capacity n 
+internal storage capacity |  n  | 
 kapaciteti i memories së brendshme 
-internal variable n ndryshore 
+internal variable |  n  | ndryshore 
 (ose variabël) e brendshme 
 International Federation of 
-Information Processing [IFIP] n 
+Information Processing [IFIP] |  n  | 
 Federata ndërkombëtare për 
 përpunim të të dhënave [IFIP] 
 International Organization for 
-Standardization [ISO] n 
+Standardization [ISO] |  n  | 
 Organizata Ndërkombëtare për 
 Standardizim [ISO] 
 International Organization for 
-Standardization [ISO] n 
+Standardization [ISO] |  n  | 
 Organizata ndërkombëtare për 
 standardizime [ISO] 
 International Telecommunications 
-Union [ITU] n Unioni 
+Union [ITU] |  n  | Unioni 
 ndërkombëtar i telekomunikimit 
 [ITU] 
 International Telegraph and 
 Telephone Consultative 
-Committee [CCITT] n Komiteti 
+Committee [CCITT] |  n  | Komiteti 
 këshillëdhënës ndërkombëtar për 
 telegrafi dhe telefoni [CCITT] 
-Internaut n internaut [përdorues i 
+Internaut |  n  | internaut [përdorues i 
 Internetit] 
-Internet n Internet 
-Internet access n akses në Internet 
+Internet |  n  | Internet 
+Internet access |  n  | akses në Internet 
  Internet access device 
-Internet access device n pajisje 
+Internet access device |  n  | pajisje 
 për akses në Internet 
  
 154
 interrupt 
-Internet account n llogari Interneti 
-Internet address n adresë Interneti 
+Internet account |  n  | llogari Interneti 
+Internet address |  n  | adresë Interneti 
 Internet Architecture Board [IAB] 
 n Këshilli për arkitekturë të 
 Internetit [IAB] 
 Internet Assigned Numbers 
-Authority [IANA] n Autoriteti 
+Authority [IANA] |  n  | Autoriteti 
 për ndarje të numrave të Internetit 
 [IANA] 
-Internet backbone n shtyllë 
+Internet backbone |  n  | shtyllë 
 kurrizore e Internetit 
-Internet broadcasting n 
+Internet broadcasting |  n  | 
 transmetim përmes Internetit 
 Internet Control Message Protocol 
-[ICMP] n protokoll i internetit për 
+[ICMP] |  n  | protokoll i internetit për 
 kontroll të mesazheve [ICMP] 
-Internet Explorer n Internet 
+Internet Explorer |  n  | Internet 
 Explorer 
 Internet Group Membership 
-Protocol [IGMP] n protokoll i 
+Protocol [IGMP] |  n  | protokoll i 
 anëtarësisë në grup [grupore] të 
 Internetit [IGMP] 
-Internet Information Server n 
+Internet Information Server |  n  | 
 Server informacionesh Interneti 
-Internet Naming Service [INS] n 
+Internet Naming Service [INS] |  n  | 
 servis i emërtimit në Internet 
-Internet Protocol [IP] n protokoll 
+Internet Protocol [IP] |  n  | protokoll 
 interneti [protokolli IP] 
 Internet Protocol next generation 
-[IPng] n gjenerata vijuese e 
+[IPng] |  n  | gjenerata vijuese e 
 protokollit të Internetit [IPng] 
-Internet robot n Internet-robot 
+Internet robot |  n  | Internet-robot 
  
-Internet security n siguri në 
+Internet security |  n  | siguri në 
 Internet 
 Internet Server Application 
 Programming Interface [ISAPI] 
@@ -10115,145 +10085,145 @@ n ndërfaqe (ose interfejs) për
 programim të aplikacionit për 
 server të Internetit [ISAPI] 
 Internet Software Consortium 
-[ISC] n Konsorciumi për softuer 
+[ISC] |  n  | Konsorciumi për softuer 
 në Internet [ISC] 
-Internet Talk Radio [ITR] n radio 
+Internet Talk Radio [ITR] |  n  | radio 
 program në Internet [ITR] 
-Internet telephone n telefon në 
+Internet telephone |  n  | telefon në 
 Internet 
-Internet television n televizion në 
+Internet television |  n  | televizion në 
 Internet 
 InterNIC [Internet Network 
-Information Center] n InterNIC 
+Information Center] |  n  | InterNIC 
 [qendër informimi për rrjet të 
 Internetit] 
-interpolate v interpoloj [ndërfut] 
-interpolation n interpolim [ndërfutje] 
-interpret v interpretoj [shpjegoj] 
-interpretation n interpretim 
+interpolate |  v  | interpoloj [ndërfut] 
+interpolation |  n  | interpolim [ndërfutje] 
+interpret |  v  | interpretoj [shpjegoj] 
+interpretation |  n  | interpretim 
 [përkthim] 
-Interpretive code n kod interpretues 
-Interpretive language n gjuhë 
+Interpretive code |  n  | kod interpretues 
+Interpretive language |  n  | gjuhë 
 interpretuese 
-interpretive programming n 
+interpretive programming |  n  | 
 programim interpretues 
-interpretive routine n rutinë 
+interpretive routine |  n  | rutinë 
 interpretuese 
-interrupt (1) n ndërprerje 
-interrupt (2) n sinjal i ndërprerjes 
+interrupt (1) |  n  | ndërprerje 
+interrupt (2) |  n  | sinjal i ndërprerjes 
 [interapt] 
  interrupt handler 
  
 155
-interrupt handler n trajtues i sinjalit 
+interrupt handler |  n  | trajtues i sinjalit 
 të ndërprerjes [interaptit] 
 IO.SYS 
-invalid adj pavlefshëm (i) ose 
+invalid |  adj  | pavlefshëm (i) ose 
 gabuar (i) 
-interrupt handling n përpunim i 
+interrupt handling |  n  | përpunim i 
 ndërprerjes 
-interrupt mask n maskë e 
+interrupt mask |  n  | maskë e 
 ndërprerjes 
-interrupt request line n linjë e 
+interrupt request line |  n  | linjë e 
 kërkesës për ndërprerje [interapt] 
-interrupt signal n sinjal i 
+interrupt signal |  n  | sinjal i 
 ndërprerjes 
-interrupt system n sistem i 
+interrupt system |  n  | sistem i 
 ndërprerjes 
-interrupt vector n vektor i 
+interrupt vector |  n  | vektor i 
 ndërprerjes [interaptit] 
-interrupt vector table n tabelë e 
+interrupt vector table |  n  | tabelë e 
 vektorit të ndërprerjes [interaptit] 
-interrupt-driven processing n 
+interrupt-driven processing |  n  | 
 përpunim i udhëhequr me 
 ndërprerje 
-intersection (1) n prerje 
+intersection (1) |  n  | prerje 
 (bashkësish) 
-intersection (2) n ndërprerje 
+intersection (2) |  n  | ndërprerje 
 (vijash) 
-interval n interval 
-intranet n intranet [rrjeti intranet] 
-intranet application n aplikacion 
+interval |  n  | interval 
+intranet |  n  | intranet [rrjeti intranet] 
+intranet application |  n  | aplikacion 
 intranet 
-intraware n softuer për intranet 
-intrinsic font n font burimor 
-intrinsic procedure n procedurë e 
+intraware |  n  | softuer për intranet 
+intrinsic font |  n  | font burimor 
+intrinsic procedure |  n  | procedurë e 
 brendshme 
-intuition n intuitë 
-intuitionism n intuicionizëm [mat.] 
-invalid path n shteg i gabuar 
-invalidate v zhvlerësoj [bëj të 
+intuition |  n  | intuitë 
+intuitionism |  n  | intuicionizëm [mat.] 
+invalid path |  n  | shteg i gabuar 
+invalidate |  v  | zhvlerësoj [bëj të 
 pavlefshëm] 
-invariant n invariant 
-invers adj anasjelltë (i) [invers] 
-invers function n funksion invers 
-invers matrix n matricë inverse 
-inversion n inversion ose anasjellë 
-invert v anasjell ose invertoj 
-inverted commas n thonjëza, " 
-inverted file n fajl i invertuar 
-inverted list n listë e invertuar 
-inverted structure n strukturë e 
+invariant |  n  | invariant 
+invers |  adj  | anasjelltë (i) [invers] 
+invers function |  n  | funksion invers 
+invers matrix |  n  | matricë inverse 
+inversion |  n  | inversion ose anasjellë 
+invert |  v  | anasjell ose invertoj 
+inverted commas |  n  | thonjëza, " 
+inverted file |  n  | fajl i invertuar 
+inverted list |  n  | listë e invertuar 
+inverted structure |  n  | strukturë e 
 invertuar 
-inverted-list database n bazë e të 
+inverted-list database |  n  | bazë e të 
 dhënave me listë të invertuar 
-inverter n invertor [anasjellës] 
-invertible matrix n matricë e 
+inverter |  n  | invertor [anasjellës] 
+invertible matrix |  n  | matricë e 
 invertueshme [e anasjellshme] 
-inverting function n funksion 
+inverting function |  n  | funksion 
 invertues 
-invoice n faturë 
-invoke n thërras 
-involution (1) n ndërlikim 
-involution (2) n ngritje në fuqi 
-involve (1) v kam të bëj me 
-involve (2) v përfshin [involvon] 
-IO.SYS n IO.SYS (fajl sistemor në 
+invoice |  n  | faturë 
+invoke |  n  | thërras 
+involution (1) |  n  | ndërlikim 
+involution (2) |  n  | ngritje në fuqi 
+involve (1) |  v  | kam të bëj me 
+involve (2) |  v  | përfshin [involvon] 
+IO.SYS |  n  | IO.SYS (fajl sistemor në 
 MS-DOS) 
  
  IOCS 
  
 156
 IOCS [Input/Output Control System]
- n IOCS [sistem kontrollues 
+ |  n  | IOCS [sistem kontrollues 
 hyrës-dalës] 
-ion-deposition printer n shtypës 
+ion-deposition printer |  n  | shtypës 
 (ose printer) me depozitim të 
 joneve [printerët laserikë, me LED, 
 me LCD] 
-IP [Internet Protocol] abbr IP 
+IP [Internet Protocol] |  abbr  | IP 
 [protokoll interneti] 
 IPv6 [Internet Protocol version 6] n
  IPv6 [protokoll i Internetit 
 versioni 6] 
-IPX/SPX n IPX/SPX 
-IR [infrared] adj infrakuq 
-IrDA [Infrared Data Association] n 
+IPX/SPX |  n  | IPX/SPX 
+IR [infrared] |  adj  | infrakuq 
+IrDA [Infrared Data Association] |  n  | 
 IrDA [Shoqata për të dhëna 
 infrakuqe] 
-IRL [In Real Life] n në jetën reale 
-irrational number n numër 
+IRL [In Real Life] |  n  | në jetën reale 
+irrational number |  n  | numër 
 irracional 
-irrecoverable adj pariparueshëm (i) 
+irrecoverable |  adj  | pariparueshëm (i) 
 [pandreqshëm (i)] 
-irrecoverable error n gabim i 
+irrecoverable error |  n  | gabim i 
 pariparueshëm 
-irrelevant adj irrelevant 
-IS [Information Services] n IS 
+irrelevant |  adj  | irrelevant 
+IS [Information Services] |  n  | IS 
 [shërbime informatash] 
 ISA [Industry Standard Architecture]
- n ISA [arkitekturë industriale 
+ |  n  | ISA [arkitekturë industriale 
 standarde] 
 ISA slot [Industry Standard 
-Architecture slot] n fole (ose slot) 
+Architecture slot] |  n  | fole (ose slot) 
 ISA 
  
 ISOC 
 ISAM [indexed sequential access 
-method] n ISAM [metodë 
+method] |  n  | ISAM [metodë 
 sekuenciale e aksesit të indeksuar] 
 ISAPI [Internet Server Application 
-Programming Interface] n ISAPI 
+Programming Interface] |  n  | ISAPI 
 [ndërfaqe (ose interfejs) për 
 programim të aplikacionit për 
 server të Internetit] 
@@ -10261,72 +10231,72 @@ ISC [Internet Software Consortium]
 n ISC [Konsorciumi për softuer në 
 Internet] 
 ISDN [Integrated Services Digital 
-Network] abbr ISDN [rrjet digjital 
+Network] |  abbr  | ISDN [rrjet digjital 
 i shërbimeve të integruara] 
 ISIS [Intelligent Scheduling and 
-Information System] n ISIS [sistem 
+Information System] |  n  | ISIS [sistem 
 inteligjent për planifikim dhe 
 informim] 
 IS-IS [Intelligent Scheduling and 
-Information System] n IS-IS 
+Information System] |  n  | IS-IS 
 [sistem inteligjent për planifikim 
 dhe informim] 
 ISO [International Organization for 
-Standardization] n ISO [Organizata 
+Standardization] |  n  | ISO [Organizata 
 ndërkombëtare për standardizime] 
-ISO 9660 n ISO 9660 [standard i 
+ISO 9660 |  n  | ISO 9660 [standard i 
 formatit për CD-ROM] 
 ISO/OSI model [International 
 Organization for Standardization 
 Open Systems Interconnection 
 model]n model ISO/OSI 
-ISO9660 standard n standardi 
+ISO9660 standard |  n  | standardi 
 ISO9660 
-isobits n izobite [sh.] 
-ISOC [Internet Society] n ISOC 
+isobits |  n  | izobite [sh.] 
+ISOC [Internet Society] |  n  | ISOC 
 [Shoqëri e Internetit] 
  isolated 
  
-isolated adj izoluar (i) 
-isolation n izolim 
-isolator n izolator 
-isometric view n pamje izometrike 
-isomorphism n izomorfizëm [mat.] 
-italic adj kursiv 
-item (1) n artikull 
-item (2) n çështje 
-item (3) n element 
-item (4) n gjësend 
-iterate v përsërit 
-iteration n përsëritje [iteracion] 
-iteration process n proces me 
+isolated |  adj  | izoluar (i) 
+isolation |  n  | izolim 
+isolator |  n  | izolator 
+isometric view |  n  | pamje izometrike 
+isomorphism |  n  | izomorfizëm [mat.] 
+italic |  adj  | kursiv 
+item (1) |  n  | artikull 
+item (2) |  n  | çështje 
+item (3) |  n  | element 
+item (4) |  n  | gjësend 
+iterate |  v  | përsërit 
+iteration |  n  | përsëritje [iteracion] 
+iteration process |  n  | proces me 
 përsëritje [me iteracion] 
-iterations per second n përsëritje 
+iterations per second |  n  | përsëritje 
 ose iteracione për sekondë 
-iterative array n matricë 
+iterative array |  n  | matricë 
 përsëritëse (ose iterative) 
  
 157
  
-iterative division n pjesëtim 
+iterative division |  n  | pjesëtim 
 përsëritës (ose iterativ) 
-iterative routine n rutinë 
+iterative routine |  n  | rutinë 
 përsëritëse (ose iterative) 
-iterative statement n urdhër 
+iterative statement |  n  | urdhër 
 përsëritës (ose iterativ) 
 ITI [Intelligent Transportation 
-Infrastrukture] n infrastrukturë 
+Infrastrukture] |  n  | infrastrukturë 
 transportuese inteligjente 
-I-time [instruction time] n kohë e 
+I-time [instruction time] |  n  | kohë e 
 instruksionit 
-ITR [Internet radio program n 
+ITR [Internet radio program |  n  | 
 radio program në Internet 
 ITU [International 
-Telecommunications Union] n 
+Telecommunications Union] |  n  | 
 ITU [Unioni ndërkombëtar i 
 telekomunikimit] 
-IVUE n IVUE [format i fotografisë] 
-i-way [Information Superhighway] n 
+IVUE |  n  | IVUE [format i fotografisë] 
+i-way [Information Superhighway] |  n  | 
 magjistrale [superstradë] e 
 informacioneve
  
@@ -10341,112 +10311,112 @@ informacioneve
 158
  
 J 
-J n J [gjuhë programuese] 
-jabber n dërdëllitje [të dhëna të 
+J |  n  | J [gjuhë programuese] 
+jabber |  n  | dërdëllitje [të dhëna të 
 palogjikshme] 
-jack n xhek [konektor (ose 
+jack |  n  | xhek [konektor (ose 
 lidhëzor) prizë-spinë] 
-jagged margin n margjinë e 
+jagged margin |  n  | margjinë e 
 dhëmbëzuar 
-jaggies n dhëmbëzimet 
-jaggy adj dhëmbëzuar (i) 
-jam (in paper feed) n ndrydhje e 
+jaggies |  n  | dhëmbëzimet 
+jaggy |  adj  | dhëmbëzuar (i) 
+jam (in paper feed) |  n  | ndrydhje e 
 letrës 
-Janet [Joint Academic Network] n 
+Janet [Joint Academic Network] |  n  | 
 Janet [rrjet i bashkuar akademik] 
 jargonn zhargon 
-Java n Java [gjuhë programuese] 
-Java applet n aplet Java 
-Java chip n çip Java 
+Java |  n  | Java [gjuhë programuese] 
+Java applet |  n  | aplet Java 
+Java chip |  n  | çip Java 
 Java Management Application 
 Programming Interface [JMAPI]
- n ndërfaqe programuese (ose 
+ |  n  | ndërfaqe programuese (ose 
 interfejs programues) për 
 menaxhim të aplikacioneve në Java 
 [JMAPI] 
-Java terminal n terminal Java 
+Java terminal |  n  | terminal Java 
  
-JavaScript n JavaScript [gjuhë e 
+JavaScript |  n  | JavaScript [gjuhë e 
 lidhur me gjuhën programuese 
 Java] 
-JCL [Job Control Language] n JCL 
+JCL [Job Control Language] |  n  | JCL 
 [gjuhë për udhëheqje të punëve] 
-JIT [just-in-time] n në kohën e 
+JIT [just-in-time] |  n  | në kohën e 
 duhur 
-jitter n dridhje 
-J-K bistabil n bistabël JK ose flip-
+jitter |  n  | dridhje 
+J-K bistabil |  n  | bistabël JK ose flip-
 flop JK 
-JK flip-flop n flip-flop JK 
+JK flip-flop |  n  | flip-flop JK 
 JMAPI [Java Management 
 Application Programming 
-Interface] n JMAPI [ndërfaqe 
+Interface] |  n  | JMAPI [ndërfaqe 
 programues për menaxhim të 
 aplikacioneve në Java] 
-job n punë 
-job buffer n bufer [ndërmemorie] 
+job |  n  | punë 
+job buffer |  n  | bufer [ndërmemorie] 
 i punës 
-job class n klasë e punës 
-job control block n bllok për 
+job class |  n  | klasë e punës 
+job control block |  n  | bllok për 
 kontroll të punës 
-Job Control Language [JCL] n 
+Job Control Language [JCL] |  n  | 
 gjuhë për kontroll të punëve [JCL] 
-job control statement n urdhër 
+job control statement |  n  | urdhër 
 për kontroll të punës 
  
-JOVIAL n JOVIAL [gjuhë 
+JOVIAL |  n  | JOVIAL [gjuhë 
 programuese e zhvilluar nga gjuha 
 ALGOL] 
-joystick n xhojstik ? 
+joystick |  n  | xhojstik ? 
 Jughead [Jonzy's Universal Gopher 
 Hierarchy Excavation and Display]
- n Jughead 
-Julian calendar n kalendar julian 
-Julian date n datë juliane [datë e 
+ |  n  | Jughead 
+Julian calendar |  n  | kalendar julian 
+Julian date |  n  | datë juliane [datë e 
 shprehur në kalendarin julian] 
-jump v kapërcej 
-jump n kapërcim 
-jump table n tabelë e kapërcimeve 
-jump trace routine n rutinë për 
+jump |  v  | kapërcej 
+jump |  n  | kapërcim 
+jump table |  n  | tabelë e kapërcimeve 
+jump trace routine |  n  | rutinë për 
 zbulim të kapërcimeve 
-junction point n pikë bashkimi 
-junction transistor n transistor me 
+junction point |  n  | pikë bashkimi 
+junction transistor |  n  | transistor me 
 bashkim 
-junk mail n postë pleh [postë pa 
+junk mail |  n  | postë pleh [postë pa 
 vlerë] 
-justify (1) v rrafshoj (rreshtin në të 
+justify (1) |  v  | rrafshoj (rreshtin në të 
 dy anët) 
-justify (2) v përligj [justifikoj] 
-justifying n rrafshim 
-just-in-time [JIT] adj në kohë të 
+justify (2) |  v  | përligj [justifikoj] 
+justifying |  n  | rrafshim 
+just-in-time [JIT] |  adj  | në kohë të 
 duhur
  job flow control 
  
-job flow control n kontroll i rrjedhës 
+job flow control |  n  | kontroll i rrjedhës 
  
 159
 së punëve 
-job library n bibliotekë e punëve 
-job mix n përzierje e punëve 
-job monitoring n vëzhgim i punës 
-job number n numri i punëve 
-job processing n kryerje e punëve 
+job library |  n  | bibliotekë e punëve 
+job mix |  n  | përzierje e punëve 
+job monitoring |  n  | vëzhgim i punës 
+job number |  n  | numri i punëve 
+job processing |  n  | kryerje e punëve 
 [përpunimi i punëve] 
-job processing control n kontroll i 
+job processing control |  n  | kontroll i 
 përpunimit të punëve 
-job scheduling n planifikim i punëve 
-job stacking n grumbullim i punëve 
+job scheduling |  n  | planifikim i punëve 
+job stacking |  n  | grumbullim i punëve 
 [radhitje e punëve] 
-job step n hap i punës 
-job stream n rrjedhë e punëve 
+job step |  n  | hap i punës 
+job stream |  n  | rrjedhë e punëve 
 job-oriented terminal e terminal i 
 orientuar në punë 
-join n bashkim 
-join v bashkoj 
-joint n vend (ose pikë) bashkimi 
-Joliet n Joliet [zgjerim i standardit 
+join |  n  | bashkim 
+join |  v  | bashkoj 
+joint |  n  | vend (ose pikë) bashkimi 
+Joliet |  n  | Joliet [zgjerim i standardit 
 ISO 9660] 
-JOSS n JOSS [gjuhë ndërvepruese] 
-journal (1) n ditar 
+JOSS |  n  | JOSS [gjuhë ndërvepruese] 
+journal (1) |  n  | ditar 
  
  
  
@@ -10458,86 +10428,86 @@ journal (1) n ditar
 160
  
 K 
-k [kilo] abbr k [kilo] 
+k [kilo] |  abbr  | k [kilo] 
 K&R C [Kernighan and Ritchie 
-C] n K&R C (version i gjuhës 
+C] |  n  | K&R C (version i gjuhës 
 programuese C) 
-Karnaugh map n diagram 
+Karnaugh map |  n  | diagram 
 (tabelë) Karno 
-Karnaugh table n tabelë Karno, 
+Karnaugh table |  n  | tabelë Karno, 
 diagram Karno 
-Kb [kilobit] n Kb [kilobit] 
-KB [kilobyte] abbr kb [kilobajt] 
-Kbit [kilobit] n Kbit [kilobit] 
-kbps [kilo bit per second] abbr 
+Kb [kilobit] |  n  | Kb [kilobit] 
+KB [kilobyte] |  abbr  | kb [kilobajt] 
+Kbit [kilobit] |  n  | Kbit [kilobit] 
+kbps [kilo bit per second] |  abbr  | 
 kbps [kilobit për sekondë] 
-Kbps [kilobits per second] n 
+Kbps [kilobits per second] |  n  | 
 Kbps [kilobit për sekondë] 
-Kbyte [kilobyte] n kilobajt [KB] 
-Kc [kilocycle] n Kc [kilocikël] 
-Kermit n Kermit [protokoll për 
+Kbyte [kilobyte] |  n  | kilobajt [KB] 
+Kc [kilocycle] |  n  | Kc [kilocikël] 
+Kermit |  n  | Kermit [protokoll për 
 transmetim te komunikimet 
 asinkrone mes kompjuterëve] 
-key (1) n tast 
-key (2) n çelës 
-key (3) n shifër [çelës] 
-key change n ndryshim i çelësit 
-key code n kod i tasteve (ose 
+key (1) |  n  | tast 
+key (2) |  n  | çelës 
+key (3) |  n  | shifër [çelës] 
+key change |  n  | ndryshim i çelësit 
+key code |  n  | kod i tasteve (ose 
 pullave) 
  
-key name n emër i tastit 
-keyboard n tastierë 
-keyboard buffer n bufer i 
+key name |  n  | emër i tastit 
+keyboard |  n  | tastierë 
+keyboard buffer |  n  | bufer i 
 tastierës 
-keyboard lockout n ndryrje 
+keyboard lockout |  n  | ndryrje 
 [bllokim] e tastierës 
-keyboard processor n 
+keyboard processor |  n  | 
 procesor i tastierës 
-keyboard repeat n përsëritje e 
+keyboard repeat |  n  | përsëritje e 
 shtypjes [duke e mbajtur tastin 
 të shtypur më gjatë] 
-keystroke n shkelje [shtypje] e 
+keystroke |  n  | shkelje [shtypje] e 
 tastit 
-keyword n fjalë çelës 
-kHz [kilohertz] abbr kHz 
+keyword |  n  | fjalë çelës 
+kHz [kilohertz] |  abbr  | kHz 
 [kiloherc] 
 kilo [k = 103; 210] pref kilo [k = 
 103; 210] 
-kilobaud [kBd] n kilobod [kBd] 
-kilobit [Kb, Kbit] n kilobit 
-kilobits per second [Kbps] n 
+kilobaud [kBd] |  n  | kilobod [kBd] 
+kilobit [Kb, Kbit] |  n  | kilobit 
+kilobits per second [Kbps] |  n  | 
 kilobit për sekondë [Kbps] 
-kilobyte [KB] n kilobajt [kB], 
+kilobyte [KB] |  n  | kilobajt [kB], 
 kilo-oktet 
-kilocycle n kilocikël 
-kilohertz [kHz] n kiloherc [kHz] 
+kilocycle |  n  | kilocikël 
+kilohertz [kHz] |  n  | kiloherc [kHz] 
  kilomegacycle 
-kilomegacycle n gigacikël 
+kilomegacycle |  n  | gigacikël 
 [kilomegacikël] 
-kiosk n kioskë [kompjuter 
+kiosk |  n  | kioskë [kompjuter 
 publik] 
-knowbot [knowledge robot] n 
+knowbot [knowledge robot] |  n  | 
 robot i dijes 
-know-how n shkathtësi [zotësi, 
+know-how |  n  | shkathtësi [zotësi, 
 aftësi, njohuri teknike] 
-knowledge base n bazë e dijes 
-knowledge domain n domen i 
+knowledge base |  n  | bazë e dijes 
+knowledge domain |  n  | domen i 
 dijes 
  
 161
  
-knowledge engineer n 
+knowledge engineer |  n  | 
 inxhinier i dijes 
-knowledge representation n 
+knowledge representation |  n  | 
 paraqitje e dijes 
-knowledge robot [knowbot] n 
+knowledge robot [knowbot] |  n  | 
 robot i dijes 
-knowledge-based system n 
+knowledge-based system |  n  | 
 sistem i bazuar në dije 
 KSR terminal [Keyboard Send/ 
-Receive terminal] n terminal 
+Receive terminal] |  n  | terminal 
 KSR 
-kW [kilo word] abbr kilofjalë 
+kW [kilo word] |  abbr  | kilofjalë 
  
  
  
@@ -10549,433 +10519,433 @@ kW [kilo word] abbr kilofjalë
  
 162
 L 
-label n etiketë 
-label v etiketoj [vë (i) etiketën] 
-label field n fushë e etiketës (ose 
+label |  n  | etiketë 
+label |  v  | etiketoj [vë (i) etiketën] 
+label field |  n  | fushë e etiketës (ose 
 labelës) 
-label prefix n parashtesë e etiketës 
+label prefix |  n  | parashtesë e etiketës 
 (ose labelës) 
-label record n regjistresë e etiketës 
+label record |  n  | regjistresë e etiketës 
 (ose labelës) 
-LAN [Local Area Network] abbr 
+LAN [Local Area Network] |  abbr  | 
 LAN [rrjet lokal kompjuterik] 
-LAN Manager n menaxher i LAN-it 
+LAN Manager |  n  | menaxher i LAN-it 
 [program udhëheqës i LAN-it] 
-language n gjuhë 
-language analysis n analizë 
+language |  n  | gjuhë 
+language analysis |  n  | analizë 
 gjuhësore 
-language construct n ndërtim 
+language construct |  n  | ndërtim 
 gjuhësor 
-language converter n këmbyes 
+language converter |  n  | këmbyes 
 (ose shndërrues) gjuhësor 
-language processor n procesor 
+language processor |  n  | procesor 
 gjuhësor 
-language translation program n 
+language translation program |  n  | 
 program për përkthim të gjuhës 
-language translator n përkthyes 
+language translator |  n  | përkthyes 
 gjuhësor 
  
-language-description language n 
+language-description language |  n  | 
 gjuhë-përshkruese e gjuhës 
-laptop n laptop 
-large model n model i madh 
-large-scale integrated circuit n 
+laptop |  n  | laptop 
+large model |  n  | model i madh 
+large-scale integrated circuit |  n  | 
 qark me shkallë të lartë të 
 integrimit 
-large-scale integrated memory n 
+large-scale integrated memory |  n  | 
 memorie me shkallë të lartë të 
 integrimit 
-large-scale integration n integrim 
+large-scale integration |  n  | integrim 
 i shkallës së lartë 
 laser [Light Amplification by 
 Stimulated Emission of Radiation] 
 n laser [përforcim i dritës me anë të 
 emisionit të stimuluar të rrezatimit] 
-laser diode n diodë laserike (diodë 
+laser diode |  n  | diodë laserike (diodë 
 laser) 
-laser disk n disk laserik 
-laser engine n mekanizëm i laserit 
-laser printer n shtypës (ose printer) 
+laser disk |  n  | disk laserik 
+laser engine |  n  | mekanizëm i laserit 
+laser printer |  n  | shtypës (ose printer) 
 laserik 
-laser storage n memorie laserike 
-laser-jet printer n shtypës (ose 
+laser storage |  n  | memorie laserike 
+laser-jet printer |  n  | shtypës (ose 
 printer) laserik 
-last adj fundit (i) 
+last |  adj  | fundit (i) 
  last in first out 
  
 163
-last in first out [LIFO] n fundit (i)-
+last in first out [LIFO] |  n  | fundit (i)-
 less than 
-least cost routing [LCR] n rrugëzim 
+least cost routing [LCR] |  n  | rrugëzim 
 me koston (ose çmimin) më të 
 vogël [rrugëzim optimal] 
 least recently used algorithm 
-[LRU] n algoritëm LRU 
+[LRU] |  n  | algoritëm LRU 
 [algoritëm i përdorur së fundi] 
-least significant bit [LSB] n bit 
+least significant bit [LSB] |  n  | bit 
 me peshën më të vogël 
-least significant character n 
+least significant character |  n  | 
 karakter me peshën më të vogël 
-least significant digit n shifër me 
+least significant digit |  n  | shifër me 
 peshën më të vogël 
-LED [Light Emitting Diode] abbr 
+LED [Light Emitting Diode] |  abbr  | 
 LED [diodë dritëlëshuese (ose 
 dritemetuese)] 
-left adj majtë (i) 
-left justification n barazim majtas 
-left justify n rrafshim i majtë 
-left margin n margjinë e majtë 
-left subtree n nënpemë e majtë 
-left-justify v barazoj majtas 
-legacy adj trashëgimi 
-legacy data n dhëna (të) të 
+left |  adj  | majtë (i) 
+left justification |  n  | barazim majtas 
+left justify |  n  | rrafshim i majtë 
+left margin |  n  | margjinë e majtë 
+left subtree |  n  | nënpemë e majtë 
+left-justify |  v  | barazoj majtas 
+legacy |  adj  | trashëgimi 
+legacy data |  n  | dhëna (të) të 
 trashëguara 
-legend n legjendë ose diçiturë 
-legible adj lexueshëm (i) [që 
+legend |  n  | legjendë ose diçiturë 
+legible |  adj  | lexueshëm (i) [që 
 mund të lexohet] 
-Lempel Ziv algorithm n algoritmi 
+Lempel Ziv algorithm |  n  | algoritmi 
 i Lempel Ziv-it 
-length n gjatësi 
-less or egal [≤] adj më e vogël 
+length |  n  | gjatësi 
+less or egal [≤] |  adj  | më e vogël 
 ose barazi [≤] 
 hyn – i pari-del [sistemi LIFO] 
-last name n mbiemri 
-last session n sesion i fundit 
-Last-in First-out [LIFO] n fundit 
+last name |  n  | mbiemri 
+last session |  n  | sesion i fundit 
+Last-in First-out [LIFO] |  n  | fundit 
 (i)-hyn – i pari-del [sistemi LIFO] 
-Last-in Last-out [LILO] n fundit (i) 
+Last-in Last-out [LILO] |  n  | fundit (i) 
 hyn – i fundit-del [sistemi LILO] 
-lattice n rrjetë (kristalore) 
-launch (a product) v hedh në shitje 
+lattice |  n  | rrjetë (kristalore) 
+launch (a product) |  v  | hedh në shitje 
 [lancoj] (një prodhim) 
-layer n shtresë 
-layout v skicoj 
-layout (1) n skicë 
-layout (2) n pamje [paraqitje] 
-LCC [leadless chip carrier] abbr 
+layer |  n  | shtresë 
+layout |  v  | skicoj 
+layout (1) |  n  | skicë 
+layout (2) |  n  | pamje [paraqitje] 
+LCC [leadless chip carrier] |  abbr  | 
 LCC 
-LCD [Liquide Crystal Display] abbr 
+LCD [Liquide Crystal Display] |  abbr  | 
 LCD [displej me kristal të lëngët] 
 LCD printer [Liquid Crystal 
-Display printer] n printer LCD 
+Display printer] |  n  | printer LCD 
 [shypës (ose printer) me displej me 
 kristal të lëngët] 
 LCD projector [Liquid Crystal 
-Display projector] n projektor 
+Display projector] |  n  | projektor 
 LCD [projektor me displej me 
 kristal të lëngët] 
-leading edge n teh i përparmë 
-leading zero n zero prijëse 
-leak n rrjedhje 
-learning system n sistem autodidakt 
+leading edge |  n  | teh i përparmë 
+leading zero |  n  | zero prijëse 
+leak |  n  | rrjedhje 
+learning system |  n  | sistem autodidakt 
 [sistem i cili mëson] 
-leased line n linjë e marrë me qira 
-less than adj më i vogël se 
+leased line |  n  | linjë e marrë me qira 
+less than |  adj  | më i vogël se 
  
  less than or equal to 
-less than or equal to adj më i 
+less than or equal to |  adj  | më i 
 vogël se ose barazi me 
  
 164
 line editor 
-letter n shkronjë (germë) 
-letter code n kod shkronjash 
-letter spacing n largësi ndërmjet 
+letter |  n  | shkronjë (germë) 
+letter code |  n  | kod shkronjash 
+letter spacing |  n  | largësi ndërmjet 
 shkronjave 
-level n nivel 
-level v niveloj 
-lexeme n leksemë 
-lexicographic orden n renditje 
+level |  n  | nivel 
+level |  v  | niveloj 
+lexeme |  n  | leksemë 
+lexicographic orden |  n  | renditje 
 leksikografike [alfabetike] 
-lexicography n leksikografi 
-lexicology n leksikologji 
-lexicon n leksikon 
-LF (1) [Line Feed] abbr 
+lexicography |  n  | leksikografi 
+lexicology |  n  | leksikologji 
+lexicon |  n  | leksikon 
+LF (1) [Line Feed] |  abbr  | 
 zhvendosje për një rresht përpara 
-LF (1) [Low Frequency] abbr LF 
+LF (1) [Low Frequency] |  abbr  | LF 
 [denduri (frekuenca) të ulëta] 
-LHARC abbr LHARC (program 
+LHARC |  abbr  | LHARC (program 
 për ngjeshje (ose komprimim) të 
 fajlave) 
-library n bibliotekë 
-library file n fajl i bibliotekës 
-library software n softuer biblioteke 
-library tape n shirit biblioteke 
-licence n leje [licencë, autorizim] 
-licence v lejoj [autorizoj] 
-LIFO [last in, first out] abbr hyn i 
+library |  n  | bibliotekë 
+library file |  n  | fajl i bibliotekës 
+library software |  n  | softuer biblioteke 
+library tape |  n  | shirit biblioteke 
+licence |  n  | leje [licencë, autorizim] 
+licence |  v  | lejoj [autorizoj] 
+LIFO [last in, first out] |  abbr  | hyn i 
 fundit, del i pari [LIFO] 
-LIFO [Last-in First-out] abbr hyn i 
+LIFO [Last-in First-out] |  abbr  | hyn i 
 fundit, del i pari [LIFO] 
-light adj çeltë (i) 
+light |  adj  | çeltë (i) 
  
-light n dritë 
-light blue adj blu e çeltë 
-light emitting diode [LED] n diodë 
+light |  n  | dritë 
+light blue |  adj  | blu e çeltë 
+light emitting diode [LED] |  n  | diodë 
 dritëlëshuese (ose dritemetuese) 
 [LED] 
-light gray adj përhimët (e) e çeltë 
-light green adj gjelbër (e) e çeltë 
-light guide n dritësjellës [valësjellës 
+light gray |  adj  | përhimët (e) e çeltë 
+light green |  adj  | gjelbër (e) e çeltë 
+light guide |  n  | dritësjellës [valësjellës 
 optik] 
-light pen n penë drite [laps me dritë, 
+light pen |  n  | penë drite [laps me dritë, 
 fotostilo] 
-light red adj kuqe (e) e çeltë 
-light source n burim drite 
-light stability n qëndrueshmëri 
+light red |  adj  | kuqe (e) e çeltë 
+light source |  n  | burim drite 
+light stability |  n  | qëndrueshmëri 
 [stabilitet] drite 
-light-emitting diode [LED] n diodë 
+light-emitting diode [LED] |  n  | diodë 
 dritëlëshuese ose dritemetuese 
 [LED] 
-Like n Like [operatori logjik "Si"] 
-LILO [Last-in Last-out] abbr hyn i 
+Like |  n  | Like [operatori logjik "Si"] 
+LILO [Last-in Last-out] |  abbr  | hyn i 
 fundit, del i fundit [LILO] 
-limit n kufi [cak] 
-limit v kufizoj [vë cak] 
-line (1) n drejtim 
-line (2) n linjë 
-line (3) n rresht [radhë] 
-line (4) n vijë [vizë] 
-line adapter n përshtatës (ose 
+limit |  n  | kufi [cak] 
+limit |  v  | kufizoj [vë cak] 
+line (1) |  n  | drejtim 
+line (2) |  n  | linjë 
+line (3) |  n  | rresht [radhë] 
+line (4) |  n  | vijë [vizë] 
+line adapter |  n  | përshtatës (ose 
 adapter) linjor 
-line analyzer n analizues linjor 
-line code n kod rreshtor 
-line editor n editor [redaktor] i 
+line analyzer |  n  | analizues linjor 
+line code |  n  | kod rreshtor 
+line editor |  n  | editor [redaktor] i 
 rreshtave 
  line frequency 
-line frequency n denduri 
+line frequency |  n  | denduri 
 [frekuencë] horizontale 
-line height n lartësi e rreshtit 
-line join n lidhje e vijave 
-line level n nivel linjor 
-line load n ngarkesa e linjës 
-line misregistration n regjistrim i 
+line height |  n  | lartësi e rreshtit 
+line join |  n  | lidhje e vijave 
+line level |  n  | nivel linjor 
+line load |  n  | ngarkesa e linjës 
+line misregistration |  n  | regjistrim i 
 gabueshëm i rreshtit 
-line noise n zhurmë e linjës 
-line number n numri i rreshtit 
+line noise |  n  | zhurmë e linjës 
+line number |  n  | numri i rreshtit 
 [numri i linjës] 
-line numbering n numërim i 
+line numbering |  n  | numërim i 
 rreshtave 
-line of code n rreshti i kodit 
-line printer n shtypës (ose 
+line of code |  n  | rreshti i kodit 
+line printer |  n  | shtypës (ose 
 printer) rreshtor [rresht pas rreshti] 
-line printing n shtypje rreshtore 
+line printing |  n  | shtypje rreshtore 
 [printim rreshtor] 
-line regulator n rregullator linjor 
-line spacing n largësi [zbrazëtirë] 
+line regulator |  n  | rregullator linjor 
+line spacing |  n  | largësi [zbrazëtirë] 
 mes rreshtave 
-line switch n çelës i linjës 
-line voltage n tension i linjës 
-line width n gjerësi e rreshtit 
-linear adj linear [vijëzor] 
-linear addressing architecture n 
+line switch |  n  | çelës i linjës 
+line voltage |  n  | tension i linjës 
+line width |  n  | gjerësi e rreshtit 
+linear |  adj  | linear [vijëzor] 
+linear addressing architecture |  n  | 
 arkitekturë e adresimit linear 
-linear algebra n algjebër lineare 
-linear channel n kanal linear 
-linear codes n kode lineare 
-linear grammar n gramatikë lineare 
+linear algebra |  n  | algjebër lineare 
+linear channel |  n  | kanal linear 
+linear codes |  n  | kode lineare 
+linear grammar |  n  | gramatikë lineare 
  
  
 165
 listed 
-linear interpolation n ndërshtënie 
+linear interpolation |  n  | ndërshtënie 
 [interpolim] lineare 
-linear list n listë lineare 
-linear memory n memorie lineare 
-linear programming n programim 
+linear list |  n  | listë lineare 
+linear memory |  n  | memorie lineare 
+linear programming |  n  | programim 
 linear 
-linear search n kërkim linear 
-linear structure n strukturë lineare 
-linearity n linearitet 
-lines per minute [LPM] n rreshta 
+linear search |  n  | kërkim linear 
+linear structure |  n  | strukturë lineare 
+linearity |  n  | linearitet 
+lines per minute [LPM] |  n  | rreshta 
 për minutë 
-linguistic model n model linguistik 
-link layer n nivel i lidhshmërisë 
+linguistic model |  n  | model linguistik 
+link layer |  n  | nivel i lidhshmërisë 
 (së të dhënave) 
-link n vegëz ose lidhje 
-linkage n lidhëzim ose lidhje 
-linked adj lidhur (i) 
-linked list n listë e lidhur 
-linked object n objekt i lidhur 
-Linotronic n Linotronic 
-Linpack n Linpack 
-Linux n Linux 
-liquid adj lëngët (i) 
-liquid crystal n kristal i lëngët 
-LISP [LISt Processing] n LISP 
+link |  n  | vegëz ose lidhje 
+linkage |  n  | lidhëzim ose lidhje 
+linked |  adj  | lidhur (i) 
+linked list |  n  | listë e lidhur 
+linked object |  n  | objekt i lidhur 
+Linotronic |  n  | Linotronic 
+Linpack |  n  | Linpack 
+Linux |  n  | Linux 
+liquid |  adj  | lëngët (i) 
+liquid crystal |  n  | kristal i lëngët 
+LISP [LISt Processing] |  n  | LISP 
 [përpunim i listës] 
-list n listë 
-list processing n përpunim i listës 
-list processing language n gjuhë 
+list |  n  | listë 
+list processing |  n  | përpunim i listës 
+list processing language |  n  | gjuhë 
 për përpunim të listave 
-list structure n strukturë e listës 
-listed adj listuar (i) 
+list structure |  n  | strukturë e listës 
+listed |  adj  | listuar (i) 
  LL 
-LL [Leased Line] abbr linjë e 
+LL [Leased Line] |  abbr  | linjë e 
 huazuar 
 LLL circuit [low-level logic circuit] 
 abbr qark logjik i nivelit të ulët 
-load n ngarkesë 
+load |  n  | ngarkesë 
 load and go ph mbushe dhe 
 ekzekutoje 
-loaded adj ngarkuar (i) 
-local adj lokal 
-local area network [LAN] n rrjet 
+loaded |  adj  | ngarkuar (i) 
+local |  adj  | lokal 
+local area network [LAN] |  n  | rrjet 
 kompjuterik lokal [LAN] 
-local group n grup lokal 
-local memory n memorie lokale 
-local variable n ndryshore (ose 
+local group |  n  | grup lokal 
+local memory |  n  | memorie lokale 
+local variable |  n  | ndryshore (ose 
 variabël) lokale 
-localhost n kompjuter kryesor lokal 
-localization n lokalizim 
-LocalTalk n LocalTalk 
-locate n vendoj [përcaktoj 
+localhost |  n  | kompjuter kryesor lokal 
+localization |  n  | lokalizim 
+LocalTalk |  n  | LocalTalk 
+locate |  n  | vendoj [përcaktoj 
 vendndodhjen] 
-log n ditar pune [regjistër; regjistër 
+log |  n  | ditar pune [regjistër; regjistër 
 operativ] 
-log n log [logaritëm] 
-log v regjistroj [shënoj] 
-log [logarithm] abbr log [logaritëm] 
-log in v regjistrohem [paraqitem, hy 
+log |  n  | log [logaritëm] 
+log |  v  | regjistroj [shënoj] 
+log [logarithm] |  abbr  | log [logaritëm] 
+log in |  v  | regjistrohem [paraqitem, hy 
 në sistem] 
-log off v çregjistrohem [lajmëroj 
+log off |  v  | çregjistrohem [lajmëroj 
 largimin, dal nga sistemi] 
-log on v regjistrohem [hy në sistem, 
+log on |  v  | regjistrohem [hy në sistem, 
 paraqitem] 
-log out v çregjistrohem [lajmëroj 
+log out |  v  | çregjistrohem [lajmëroj 
 largimin, dal nga sistemi] 
  
  
 166
 logic symbol 
-logarithm n logaritëm 
-logging n hyrje në sistem 
+logarithm |  n  | logaritëm 
+logging |  n  | hyrje në sistem 
 [regjistrim në rrjet] 
-logic n logjikë 
-logic analyzer n analizator logjik 
-logic array n fushë logjike 
-logic board n pllakë logjike 
-logic bomb n bombë logjike 
-logic card n kartelë logjike 
-logic chip n çip logjik 
-logic circuit n qark logjik 
-logic design n dizajnim ose 
+logic |  n  | logjikë 
+logic analyzer |  n  | analizator logjik 
+logic array |  n  | fushë logjike 
+logic board |  n  | pllakë logjike 
+logic bomb |  n  | bombë logjike 
+logic card |  n  | kartelë logjike 
+logic chip |  n  | çip logjik 
+logic circuit |  n  | qark logjik 
+logic design |  n  | dizajnim ose 
 projektim logjik 
-logic device n pajisje logjike 
-logic diagram n diagram logjik 
-logic element n element logjik 
-logic error n gabim logjik 
-logic expression n shprehje logjike 
-logic family n familje logjike 
-logic gate n portë logjike 
-logic instruction n urdhër logjik 
-logic level n nivel logjik 
-logic operation n operacion logjik 
-logic operator n operator logjik 
-logic programming n programim 
+logic device |  n  | pajisje logjike 
+logic diagram |  n  | diagram logjik 
+logic element |  n  | element logjik 
+logic error |  n  | gabim logjik 
+logic expression |  n  | shprehje logjike 
+logic family |  n  | familje logjike 
+logic gate |  n  | portë logjike 
+logic instruction |  n  | urdhër logjik 
+logic level |  n  | nivel logjik 
+logic operation |  n  | operacion logjik 
+logic operator |  n  | operator logjik 
+logic programming |  n  | programim 
 logjik 
-logic section n pjesë logjike 
-logic shift n zhvendosje logjike 
-logic state n gjendje logjike 
-logic switch n ndërprerës logjik 
-logic symbol n simbol logjik 
+logic section |  n  | pjesë logjike 
+logic shift |  n  | zhvendosje logjike 
+logic state |  n  | gjendje logjike 
+logic switch |  n  | ndërprerës logjik 
+logic symbol |  n  | simbol logjik 
  logic symbols 
-logic symbols n simbole logjike 
-logic tree n pemë logjike 
-logic unit n njësi logjike 
-logic word n fjalë logjike 
-logical adj logjik 
-logical circuit n qark logjik 
-logical data n dhëna (të) logjike 
-logical decision n vendim logjik 
-logical device n pajisje logjike 
-logical disk drive n ngasje logjike 
+logic symbols |  n  | simbole logjike 
+logic tree |  n  | pemë logjike 
+logic unit |  n  | njësi logjike 
+logic word |  n  | fjalë logjike 
+logical |  adj  | logjik 
+logical circuit |  n  | qark logjik 
+logical data |  n  | dhëna (të) logjike 
+logical decision |  n  | vendim logjik 
+logical device |  n  | pajisje logjike 
+logical disk drive |  n  | ngasje logjike 
 e diskut 
-logical drive n ngasje logjike 
-logical error n gabim logjik 
-logical expression n shprehje logjike 
-logical file n fajl logjik 
-logical gate n portë logjike 
-logical instruction n instruksion 
+logical drive |  n  | ngasje logjike 
+logical error |  n  | gabim logjik 
+logical expression |  n  | shprehje logjike 
+logical file |  n  | fajl logjik 
+logical gate |  n  | portë logjike 
+logical instruction |  n  | instruksion 
 logjik 
-logical operation n veprim (ose 
+logical operation |  n  | veprim (ose 
 operacion) logjik 
-logical operator n operator logjik 
-logical page n faqe logjike 
-logical schema n skemë logjike 
-logical shift n zhvendosje logjike 
-logical sum n shumë logjike 
-logical symbol n simbol logjik 
-logical unit n njësi logjike 
-logical value n vlerë logjike 
-logic-seeking printer n printer me 
+logical operator |  n  | operator logjik 
+logical page |  n  | faqe logjike 
+logical schema |  n  | skemë logjike 
+logical shift |  n  | zhvendosje logjike 
+logical sum |  n  | shumë logjike 
+logical symbol |  n  | simbol logjik 
+logical unit |  n  | njësi logjike 
+logical value |  n  | vlerë logjike 
+logic-seeking printer |  n  | printer me 
 kërkim logjik 
  
  
 167
 lowercase 
-login n hyrje në sistem [paraqitje, 
+login |  n  | hyrje në sistem [paraqitje, 
 lajmërim] 
-login name n emri për hyrje [emri i 
+login name |  n  | emri për hyrje [emri i 
 përdoruesit] 
-login passwoed n fjalëkalim për 
+login passwoed |  n  | fjalëkalim për 
 hyrje 
-logistics n logjistikë 
-Logo n Logo [gjuhë programuese] 
-logoff n dalje nga sistem i 
+logistics |  n  | logjistikë 
+Logo |  n  | Logo [gjuhë programuese] 
+logoff |  n  | dalje nga sistem i 
 [çlajmërim] 
-logon n hyrje në sistem [lajmërim] 
-logout n dalje nga sistem i 
+logon |  n  | hyrje në sistem [lajmërim] 
+logout |  n  | dalje nga sistem i 
 [çlajmërim] 
-long adj gjatë (i) 
-long wave n valë të gjata 
-lookahead n shikim përpara 
-lookup v kërkoj 
-lookup titles v kërkoj titujt 
-lo-res [low resolution] adj 
+long |  adj  | gjatë (i) 
+long wave |  n  | valë të gjata 
+lookahead |  n  | shikim përpara 
+lookup |  v  | kërkoj 
+lookup titles |  v  | kërkoj titujt 
+lo-res [low resolution] |  adj  | 
 rezolucion i ulët 
-losse list n listë jo e plotë 
-loudspeaker n altoparlant 
-low adj ulët (i) 
-low frequency [LF] n denduri 
+losse list |  n  | listë jo e plotë 
+loudspeaker |  n  | altoparlant 
+low |  adj  | ulët (i) 
+low frequency [LF] |  n  | denduri 
 [frekuenca] të ulëta [LF] 
-low level n nivel i ulët 
-low memory n memorie e poshtme 
-low resolution adj rezolucion i ulët 
-lower adj poshtëm (i) 
-lower bound n kufi i poshtëm 
-lower case n shkronja të vogla 
-lowercase adj shkronja të vogla 
+low level |  n  | nivel i ulët 
+low memory |  n  | memorie e poshtme 
+low resolution |  adj  | rezolucion i ulët 
+lower |  adj  | poshtëm (i) 
+lower bound |  n  | kufi i poshtëm 
+lower case |  n  | shkronja të vogla 
+lowercase |  adj  | shkronja të vogla 
  
 168
  
-LSD [least significant digit] abbr 
+LSD [least significant digit] |  abbr  | 
 LSD [shifër me peshën më të 
 vogël] 
-LSI [large-scale integration] abbr 
+LSI [large-scale integration] |  abbr  | 
 LSI [integrim i shkallës së lartë] 
-LSI circuit n qark LSI [qark me 
+LSI circuit |  n  | qark LSI [qark me 
 shkallë të lartë të integrimit] 
-LU [logical Unit] n njësi logjike 
-luminance coefficient n koeficient 
+LU [logical Unit] |  n  | njësi logjike 
+luminance coefficient |  n  | koeficient 
 i luminancës 
-luminance factor n faktor i 
+luminance factor |  n  | faktor i 
 luminancës 
-luminance signal n sinjal i 
+luminance signal |  n  | sinjal i 
 luminancës 
  low-level language 
-low-level language n gjuhë e 
+low-level language |  n  | gjuhë e 
 nivelit të ulët 
-low-order adj rendit (e) të ulët 
-low-order data n dhëna (të) të 
+low-order |  adj  | rendit (e) të ulët 
+low-order data |  n  | dhëna (të) të 
 rendit të ulët 
-LPM [lines per minute] abbr LPM 
+LPM [lines per minute] |  abbr  | LPM 
 [rreshta për minutë] 
 LRC [Longitudinal Redundancy 
-Check] n LRC [kontroll gjatësor 
+Check] |  n  | LRC [kontroll gjatësor 
 i teprisë] 
-ls n ls [komandë në UNIX] 
-LSB [least significant bit] abbr LSB 
+ls |  n  | ls [komandë në UNIX] 
+LSB [least significant bit] |  abbr  | LSB 
 [bit me peshën më të vogël] 
 LSC [least significant character] 
 abbr LSC [karakter me peshën 
@@ -10991,413 +10961,413 @@ më të vogël]
  
 169
 M 
-M [mega] abbr M [mega = 106; 220] 
-m [milli] abbr m [mili = 10–3] 
-mA [milliamper] abbr mA 
+M [mega] |  abbr  | M [mega = 106; 220] 
+m [milli] |  abbr  | m [mili = 10–3] 
+mA [milliamper] |  abbr  | mA 
 [miliamper] 
 Mac [Macintosh] prefix Macintosh 
-MAC OS X admin user n 
+MAC OS X admin user |  n  | 
 përdorues admin në MAC OS X 
-machine address n adresë e 
+machine address |  n  | adresë e 
 makinës 
-machine code n kod i makinës 
-machine conditions n kushte të 
+machine code |  n  | kod i makinës 
+machine conditions |  n  | kushte të 
 makinës 
-machine cycle n cikël i makinës 
-machine error n gabim i makinës 
-machine identification n 
+machine cycle |  n  | cikël i makinës 
+machine error |  n  | gabim i makinës 
+machine identification |  n  | 
 identifikim i makinës 
-machine indipendent adj pavarur (i) 
+machine indipendent |  adj  | pavarur (i) 
 nga makina 
-machine instruction n instruksion i 
+machine instruction |  n  | instruksion i 
 makinës 
-machine language n gjuhë e makinës 
-machine language code n kod i 
+machine language |  n  | gjuhë e makinës 
+machine language code |  n  | kod i 
 gjuhës së makinës 
-machine learning n mësim i 
+machine learning |  n  | mësim i 
 makinës 
-machine logic n logjikë e makinës 
+machine logic |  n  | logjikë e makinës 
  
-machine operator n operator i 
+machine operator |  n  | operator i 
 makinës 
-machine program n program makine 
-machine word n fjalë e makinës 
-machine-check indicator n indikator 
+machine program |  n  | program makine 
+machine word |  n  | fjalë e makinës 
+machine-check indicator |  n  | indikator 
 i kontrollit me makinë 
-machine-dependent adj varur (i) 
+machine-dependent |  adj  | varur (i) 
 nga makina 
-machine-independent adj pavarur 
+machine-independent |  adj  | pavarur 
 (i) nga makina 
-machine–oriented language n gjuhë 
+machine–oriented language |  n  | gjuhë 
 e orientuar në makine 
-machine-readable adj lexueshëm (i) 
+machine-readable |  adj  | lexueshëm (i) 
 nga makina 
-macro n makro [makrourdhër, 
+macro |  n  | makro [makrourdhër, 
 makroudhëzim] 
 macro- pref makro- 
-macro assembler n makroasembler 
-macro instruction n makrourdhër 
+macro assembler |  n  | makroasembler 
+macro instruction |  n  | makrourdhër 
 [makroinstruksion] 
-macro recorder n regjistrues i 
+macro recorder |  n  | regjistrues i 
 makrosë 
-macro substitution n zëvendësim 
+macro substitution |  n  | zëvendësim 
 i makrosë 
-macro virus n makrovirus 
-macroassembler n makroasembler 
+macro virus |  n  | makrovirus 
+macroassembler |  n  | makroasembler 
  macroassembly program 
-macroassembly program [MAP] n 
+macroassembly program [MAP] |  n  | 
  
 170
 magneto-optic disc 
-magnetic disk unit n njësi e diskut 
+magnetic disk unit |  n  | njësi e diskut 
 program makroasemblerik 
 magnetik 
-macrocode n makrokod 
-macro-coding n makrokodim 
-macro-generator n 
+macrocode |  n  | makrokod 
+macro-coding |  n  | makrokodim 
+macro-generator |  n  | 
 makrogjenerator [makroprocesor] 
-macroinstruction n 
+macroinstruction |  n  | 
 makroinstruksion 
-macrolanguage n makrogjuhë 
-macrolibrary n makrobibliotekë 
-macroparameter n makroparametër 
-macroprocessor n makroprocesor 
-macro-processor n makroprocesor 
-macroprogram n makroprogram 
-macroprogramming n 
+macrolanguage |  n  | makrogjuhë 
+macrolibrary |  n  | makrobibliotekë 
+macroparameter |  n  | makroparametër 
+macroprocessor |  n  | makroprocesor 
+macro-processor |  n  | makroprocesor 
+macroprogram |  n  | makroprogram 
+macroprogramming |  n  | 
 makroprogramim 
-macrosystem n makrosistem 
-MacTCP n MacTCP 
+macrosystem |  n  | makrosistem 
+MacTCP |  n  | MacTCP 
 MAE [Macintosh Application 
-Environment] n MAE [rrethinë e 
+Environment] |  n  | MAE [rrethinë e 
 aplikacioneve Macintosh] 
-magenta adj purpurt (i) 
-magnetic n magnetik 
-magnetic bubble n flluskë 
+magenta |  adj  | purpurt (i) 
+magnetic |  n  | magnetik 
+magnetic bubble |  n  | flluskë 
 magnetike 
-magnetic bubble memory n 
+magnetic bubble memory |  n  | 
 memorie me flluska magnetike 
-magnetic card n kartelë magnetike 
-magnetic cell n qelizë magnetike 
-magnetic character n karakter 
+magnetic card |  n  | kartelë magnetike 
+magnetic cell |  n  | qelizë magnetike 
+magnetic character |  n  | karakter 
 magnetik 
-magnetic disk n disk magnetik 
+magnetic disk |  n  | disk magnetik 
  
-magnetic domain n domen 
+magnetic domain |  n  | domen 
 magnetik 
-magnetic encoding n kodim 
+magnetic encoding |  n  | kodim 
 magnetik 
-magnetic field n fushë magnetike 
-magnetic fim n film magnetik 
-magnetic head n kokë magnetike 
-magnetic memory n memorie 
+magnetic field |  n  | fushë magnetike 
+magnetic fim |  n  | film magnetik 
+magnetic head |  n  | kokë magnetike 
+magnetic memory |  n  | memorie 
 magnetike 
-magnetic oxide n oksid magnetik 
-magnetic read/ write head n kokë 
+magnetic oxide |  n  | oksid magnetik 
+magnetic read/ write head |  n  | kokë 
 magnetike për lexim/shkruarje 
-magnetic storage n memorie 
+magnetic storage |  n  | memorie 
 magnetike 
-magnetic tape n shirit magnetik 
-magnetic tape cassette n kasetë 
+magnetic tape |  n  | shirit magnetik 
+magnetic tape cassette |  n  | kasetë 
 me shirit magnetik 
-magnetic tape group n grup e 
+magnetic tape group |  n  | grup e 
 shiritit magnetik 
-magnetic tape library n 
+magnetic tape library |  n  | 
 bibliotekë e shiritave magnetikë 
-magnetic tape parity n çiftësi në 
+magnetic tape parity |  n  | çiftësi në 
 shiritin magnetik 
-magnetic tape reader n lexues i 
+magnetic tape reader |  n  | lexues i 
 shiritit magnetik 
-magnetic tape unit n njësi e shiritit 
+magnetic tape unit |  n  | njësi e shiritit 
 magnetik 
 magnetic-ink character recognition 
-[MICR] n njohje e karaktereve me 
+[MICR] |  n  | njohje e karaktereve me 
 ngjyrë të magnetizuar [MICR] 
-magneto-optic disc n disk 
+magneto-optic disc |  n  | disk 
 magneto-optik 
  magneto-optic disk 
-magneto-optic disk n disk 
+magneto-optic disk |  n  | disk 
 magnetooptik 
  
 171
 manual feed 
-mail filter n filtër i postës 
-mail reflector n reflektor i postës 
-mailbox n kuti postare 
-main (1) adj kryesor 
-main (2) adj qendror 
-main body n trup kryesor 
-main clock n takt kryesor 
-main dictionary n fjalor kryesor 
-main document n dokument kryesor 
-main function n funksion kryesor 
-main instruction buffer n bufer 
+mail filter |  n  | filtër i postës 
+mail reflector |  n  | reflektor i postës 
+mailbox |  n  | kuti postare 
+main (1) |  adj  | kryesor 
+main (2) |  adj  | qendror 
+main body |  n  | trup kryesor 
+main clock |  n  | takt kryesor 
+main dictionary |  n  | fjalor kryesor 
+main document |  n  | dokument kryesor 
+main function |  n  | funksion kryesor 
+main instruction buffer |  n  | bufer 
 kryesor i instruksionit 
-main memory n memorie qendrore 
-main memory unit n njësi e 
+main memory |  n  | memorie qendrore 
+main memory unit |  n  | njësi e 
 memories qendrore 
-main menu n meny kryesore 
-main path n shteg kryesor 
-main program n program kryesor 
-main screen n ekran kryesor 
-main segment n segment kryesor 
-main storage n memorie kryesore 
-maintain v mirëmbaj 
-maintenace contract n kontratë 
+main menu |  n  | meny kryesore 
+main path |  n  | shteg kryesor 
+main program |  n  | program kryesor 
+main screen |  n  | ekran kryesor 
+main segment |  n  | segment kryesor 
+main storage |  n  | memorie kryesore 
+maintain |  v  | mirëmbaj 
+maintenace contract |  n  | kontratë 
 mirëmbajtjeje 
-maintenance n mirëmbajtje 
-maintenance routine n rutinë e 
+maintenance |  n  | mirëmbajtje 
+maintenance routine |  n  | rutinë e 
 mirëmbajtjes 
-major cycle n cikël kryesor 
-major geographic domain n 
+major cycle |  n  | cikël kryesor 
+major geographic domain |  n  | 
 domeni gjeografik kryesor 
  
-major key n çelës kryesor 
-Majordomo n Majordomo [program 
+major key |  n  | çelës kryesor 
+Majordomo |  n  | Majordomo [program 
 menaxhues për postë elektronike] 
-majority function n funksion i 
+majority function |  n  | funksion i 
 shumicës 
-make a copy v bëj një kopje ose 
+make a copy |  v  | bëj një kopje ose 
 kopjoj 
-male connector n konektor (ose 
+male connector |  n  | konektor (ose 
 lidhëzor) mashkull 
-male jack n xhek mashkullor 
-male plug n konektor (lidhëzor) 
+male jack |  n  | xhek mashkullor 
+male plug |  n  | konektor (lidhëzor) 
 mashkullor ose spinë mashkullore 
-malfunction n keqfunksionim 
+malfunction |  n  | keqfunksionim 
 MAN [Metropoliten Area Network] 
 n MAN [rrjet metropolitan, rrjet 
 kompjuterik i qytetit] 
-management n menaxhim 
+management |  n  | menaxhim 
 [drejtim, administrim] 
-manager n menaxher 
-Manchester coding n kodim 
+manager |  n  | menaxher 
+Manchester coding |  n  | kodim 
 Mançester 
-man-hour n njeri-orë 
-manipulation n manipulim 
+man-hour |  n  | njeri-orë 
+manipulation |  n  | manipulim 
 [përdorim, drejtim] 
-manipulation button n buton i 
+manipulation button |  n  | buton i 
 manipulimit 
-man-machine communication n 
+man-machine communication |  n  | 
 komunikim njeri-makinë 
-mantissa n mantisë 
-manual n manual 
-manual control n komandim me 
+mantissa |  n  | mantisë 
+manual |  n  | manual 
+manual control |  n  | komandim me 
 dorë 
-manual feed n ushqim (furnizim) 
+manual feed |  n  | ushqim (furnizim) 
 me dorë 
  manual input 
-manual input n hyrje manuale 
-manual operation n operacion 
+manual input |  n  | hyrje manuale 
+manual operation |  n  | operacion 
 manual 
-manuscript n dorëshkrim 
-man-year n njeri-vit 
-mark n shenjë 
-Markov chain n zinxhir [vargua] i 
+manuscript |  n  | dorëshkrim 
+man-year |  n  | njeri-vit 
+mark |  n  | shenjë 
+Markov chain |  n  | zinxhir [vargua] i 
 Markovit 
-mask n maskë 
-mask off v maskoj [mbuloj me 
+mask |  n  | maskë 
+mask off |  v  | maskoj [mbuloj me 
 maskë] 
-mask register n regjistër i maskës 
-mask word n fjalë maskë 
-masking n maskim 
-master file n fajl kryesor 
-master key n çelës kryesor 
-master program file n fajli i 
+mask register |  n  | regjistër i maskës 
+mask word |  n  | fjalë maskë 
+masking |  n  | maskim 
+master file |  n  | fajl kryesor 
+master key |  n  | çelës kryesor 
+master program file |  n  | fajli i 
 programit kryesor 
-master record n regjistresë kryesore 
+master record |  n  | regjistresë kryesore 
 ose regjistrim kryesor 
-master routine n rutinë kryesore 
-master synchronizer n sinkronizues 
+master routine |  n  | rutinë kryesore 
+master synchronizer |  n  | sinkronizues 
 kryesor 
-match v përputh [përshtat] 
-match v përputhet 
-matched adj përputhur (i) 
-matching n përputhje [përshtatje] 
-math [mathematics] abbr 
+match |  v  | përputh [përshtat] 
+match |  v  | përputhet 
+matched |  adj  | përputhur (i) 
+matching |  n  | përputhje [përshtatje] 
+math [mathematics] |  abbr  | 
 matematikë 
-math coprocessor n koprocesor 
+math coprocessor |  n  | koprocesor 
 matematikor 
  
  
 172
 maximum acceptable risk 
-math processor n procesor 
+math processor |  n  | procesor 
 matematik 
-mathematical characters n simbole 
+mathematical characters |  n  | simbole 
 matematike 
-mathematical expression n shprehje 
+mathematical expression |  n  | shprehje 
 matematikore 
-mathematical function n funksion 
+mathematical function |  n  | funksion 
 matematikor 
-mathematical function program n 
+mathematical function program |  n  | 
 program i funksioneve 
 matematikore 
-mathematical induction n 
+mathematical induction |  n  | 
 induksion matematik 
-mathematical model n model 
+mathematical model |  n  | model 
 matematik 
-mathematical programming n 
+mathematical programming |  n  | 
 programim matematik 
-mathematical software n softuer 
+mathematical software |  n  | softuer 
 matematikor 
-mathematical subroutine n 
+mathematical subroutine |  n  | 
 nënprogram matematikor 
-mathematics n matematikë 
-matrix n matricë 
-matrix line printer n shtypës (ose 
+mathematics |  n  | matematikë 
+matrix |  n  | matricë 
+matrix line printer |  n  | shtypës (ose 
 printer) rreshtor matricor 
-matrix multiplication n 
+matrix multiplication |  n  | 
 shumëzim i matricave 
-matrix printer n shtypës (ose 
+matrix printer |  n  | shtypës (ose 
 printer) matricor 
-matrix processor n procesor 
+matrix processor |  n  | procesor 
 matricor 
-maximal risk n rrezik maksimal 
-maximum acceptable risk n rrezik 
+maximal risk |  n  | rrezik maksimal 
+maximum acceptable risk |  n  | rrezik 
 maksimal i pranueshëm 
  Mb 
-Mb [megabit] abbr Mb [megabit] 
-MB [megabyte] abbr MB 
+Mb [megabit] |  abbr  | Mb [megabit] 
+MB [megabyte] |  abbr  | MB 
 [megabajt] 
-Mbytes [MB] abbr megabajt [MB] 
-MC [megacycle] abbr MC 
+Mbytes [MB] |  abbr  | megabajt [MB] 
+MC [megacycle] |  abbr  | MC 
 [megacikël] 
-MCF [Meta-Content Format] abbr 
+MCF [Meta-Content Format] |  abbr  | 
 MCF [format i metapërmbajtjes] 
 MCGA [Multi-Color Graphics 
-Array] abbr MCGA [fushë 
+Array] |  abbr  | MCGA [fushë 
 grafike shumëngjyrëshe] 
-MCI [Media Control Interface] abbr 
+MCI [Media Control Interface] |  abbr  | 
 MCI [ndërfaqe për kontroll të 
 mediave] 
-mean adj mesatar [ndërmjetëm (i)] 
-mean n mesatare 
-mean deviation n shmangie 
+mean |  adj  | mesatar [ndërmjetëm (i)] 
+mean |  n  | mesatare 
+mean deviation |  n  | shmangie 
 mesatare 
-mean repair time n kohë mesatare e 
+mean repair time |  n  | kohë mesatare e 
 riparimit 
 mean time between failures 
-[MTBF] n kohë mesatare 
+[MTBF] |  n  | kohë mesatare 
 ndërmjet prishjeve [MTBF] 
-mean time to failure [MTTF] n 
+mean time to failure [MTTF] |  n  | 
 kohë mesatare deri në prishje 
 [MTTF] 
-mean time to repair [MTTR] n 
+mean time to repair [MTTR] |  n  | 
 kohë mesatare për riparim [MTTR] 
-meaning n kuptim [domethënie] 
-measure (1) n masë (matjeje) 
-measure (2) n njësi matëse 
-measure (3) n matje 
-measurement (1) n matje 
-measurement (2) n sistem i matjes 
+meaning |  n  | kuptim [domethënie] 
+measure (1) |  n  | masë (matjeje) 
+measure (2) |  n  | njësi matëse 
+measure (3) |  n  | matje 
+measurement (1) |  n  | matje 
+measurement (2) |  n  | sistem i matjes 
  
  
 173
  
-measuring n matje 
-measuring system n sistem i matjes 
-mechanical adj mekanik 
-mechanical mouse n mi mekanik 
-media (1) n media 
-medium adj mesatarisht 
-medium-scale integration [MSI] n 
+measuring |  n  | matje 
+measuring system |  n  | sistem i matjes 
+mechanical |  adj  | mekanik 
+mechanical mouse |  n  | mi mekanik 
+media (1) |  n  | media 
+medium |  adj  | mesatarisht 
+medium-scale integration [MSI] |  n  | 
 shkallë e mesme e integrimit [MSI] 
-meg [megabyte] n megabajt 
+meg [megabyte] |  n  | megabajt 
 mega prefix mega [M] 
 mega [M] pref mega [M] 
-megabit [Mb, Mbit] n megabit 
+megabit [Mb, Mbit] |  n  | megabit 
 [MB = 220 bit = 1 048 576 bit] 
-megabyte [MB] n megabajt [MB] 
-megacycle [MC] n megacikle [1 
+megabyte [MB] |  n  | megabajt [MB] 
+megacycle [MC] |  n  | megacikle [1 
 milion cikle në sekondë] 
-megaflops [MFLOPS] n megaflops 
+megaflops [MFLOPS] |  n  | megaflops 
 [1 milion operacione me pikë të 
 lëvizshme në sekondë] 
-megahertz [MHz] n megaherc 
+megahertz [MHz] |  n  | megaherc 
 [MHz] 
-member n anëtar 
-member server n server anëtar 
-membrane keyboard n tastierë me 
+member |  n  | anëtar 
+member server |  n  | server anëtar 
+membrane keyboard |  n  | tastierë me 
 membranë 
-memo (1) [memorandum] abbr 
+memo (1) [memorandum] |  abbr  | 
 memorandum 
-memo (2) [memorandum] abbr 
+memo (2) [memorandum] |  abbr  | 
 përkujtesë 
-memo (3) [memorandum] abbr 
+memo (3) [memorandum] |  abbr  | 
 shënim 
-memo field n fushë memo 
-memorandum (1) n memorandum 
+memo field |  n  | fushë memo 
+memorandum (1) |  n  | memorandum 
  memorandum 
-memorandum (2) n përkujtesë 
-memorandum (3) n shënim 
-memory n memorie [kujtesë] 
-memory address n adresë e 
+memorandum (2) |  n  | përkujtesë 
+memorandum (3) |  n  | shënim 
+memory |  n  | memorie [kujtesë] 
+memory address |  n  | adresë e 
 memories 
-memory address register [MAR] n 
+memory address register [MAR] |  n  | 
 regjistër i adresës së memories 
 [MAR] 
-memory allocation n caktim (ose 
+memory allocation |  n  | caktim (ose 
 alokim) i memories 
-memory board n pllakë memorie 
-memory buffer register n 
+memory board |  n  | pllakë memorie 
+memory buffer register |  n  | 
 regjistër bufer i memories 
-memory cache n memorie kesh 
-memory capacity n kapacitet i 
+memory cache |  n  | memorie kesh 
+memory capacity |  n  | kapacitet i 
 memories 
-memory card n kartelë e memories 
-memory chip n çip i memories 
-memory compaction n ngjeshje e 
+memory card |  n  | kartelë e memories 
+memory chip |  n  | çip i memories 
+memory compaction |  n  | ngjeshje e 
 memories 
-memory cycle n cikël i memories 
-memory element n element i 
+memory cycle |  n  | cikël i memories 
+memory element |  n  | element i 
 memories [qelizë e memories] 
-memory guard n mbrojtje e 
+memory guard |  n  | mbrojtje e 
 memories 
-memory hierarchy n hierarki e 
+memory hierarchy |  n  | hierarki e 
 memories 
-memory management n menaxhim 
+memory management |  n  | menaxhim 
 i memories 
-memory management program n 
+memory management program |  n  | 
 program për menaxhim të 
 memories 
-memory management unit n njësi 
+memory management unit |  n  | njësi 
 për menaxhim të memories 
  
  
 174
 message ID line 
-memory manager n menaxher i 
+memory manager |  n  | menaxher i 
 memories 
-memory model n model i memories 
-memory port n portë e memories 
-memory power n fuqi e memories 
-memory protect n mbrojtje e 
+memory model |  n  | model i memories 
+memory port |  n  | portë e memories 
+memory power |  n  | fuqi e memories 
+memory protect |  n  | mbrojtje e 
 memories 
-memory protection n mbrojtje e 
+memory protection |  n  | mbrojtje e 
 memories 
-memory read n lexim i memories 
-memory register n regjistër i 
+memory read |  n  | lexim i memories 
+memory register |  n  | regjistër i 
 memories 
-memory search routine n rutinë 
+memory search routine |  n  | rutinë 
 për kërkim në memorie 
-memory size n madhësi e memories 
-memory storage n memorie 
-memory unit n njësi e memories 
-menu n meny 
-menu bar n shirit i menyve 
-menu button n buton i menysë 
-menu program n program i menysë 
-menu structure n strukturë e 
+memory size |  n  | madhësi e memories 
+memory storage |  n  | memorie 
+memory unit |  n  | njësi e memories 
+menu |  n  | meny 
+menu bar |  n  | shirit i menyve 
+menu button |  n  | buton i menysë 
+menu program |  n  | program i menysë 
+menu structure |  n  | strukturë e 
 menysë 
-merge cells n bashkoj qelizat 
-merge delimiters n bashkoj ndarësit 
-merging n bashkim [shkrirje] 
-message n mesazh [porosi] 
+merge cells |  n  | bashkoj qelizat 
+merge delimiters |  n  | bashkoj ndarësit 
+merging |  n  | bashkim [shkrirje] 
+message |  n  | mesazh [porosi] 
 message ID [message identification 
-code] n kod i identifikimit të 
+code] |  n  | kod i identifikimit të 
 mesazhit 
-message ID line n linjë e kodit të 
+message ID line |  n  | linjë e kodit të 
 identifikimit të mesazhit 
  message identification code 
 message identification code [MIC] 
@@ -11405,319 +11375,319 @@ message identification code [MIC]
 175
 n kod i identifikimit të mesazhit, 
 kodi MIC 
-message signal n sinjal i mesazhit 
-message switching n komutim i 
+message signal |  n  | sinjal i mesazhit 
+message switching |  n  | komutim i 
 mesazheve 
-message synchronization n 
+message synchronization |  n  | 
 sinkronizim i mesazheve 
-messaging client n klient për 
+messaging client |  n  | klient për 
 mesazhe 
-messenger n mesazher 
-messenger software n softuer i 
+messenger |  n  | mesazher 
+messenger software |  n  | softuer i 
 mesazherit 
 meta- pref meta- [tej; përtej] 
-metafile n metafajl 
+metafile |  n  | metafajl 
 metal nitride oxide semiconductor 
-[MNOS] n metal - oksid nitridi - 
+[MNOS] |  n  | metal - oksid nitridi - 
 gjysmëpërçues [MNOS] 
-metalanguage n metagjuhë 
-metalogical adj metalogjik 
+metalanguage |  n  | metagjuhë 
+metalogical |  adj  | metalogjik 
 metal-oxide semiconductor [MOS] 
 n metal-oksid-gjysmëpërçues 
 [MOS] 
 metal-oxide semiconductor field-
-effect transistor [MOSFET] n 
+effect transistor [MOSFET] |  n  | 
 transistor metal-oksid-
 gjysmëpërçues me efekt fushe 
 [MOSFET] 
-metamathematics n metamatematikë 
-metaoperating system n sistem 
+metamathematics |  n  | metamatematikë 
+metaoperating system |  n  | sistem 
 metaoperativ 
-method n metodë 
-methodology n metodologji 
+method |  n  | metodë 
+methodology |  n  | metodologji 
  
 microdiagnostic program 
-MF [Medium Frequency] abbr MF 
+MF [Medium Frequency] |  abbr  | MF 
 [frekuenca të mesme] 
 MFLOPS [million floating-point 
-operations per sekond] abbr 
+operations per sekond] |  abbr  | 
 MFLOPS ose megaflops [milion 
 operacione me pikë të lëvizshme në 
 sekondë] 
-MFS [Macintosh File System] n 
+MFS [Macintosh File System] |  n  | 
 MFS [sistem i fajlave Macintosh] 
-MHz [megahertz] abbr MHz 
+MHz [megahertz] |  abbr  | MHz 
 [megaherc] 
-MI [multiple inheritance] abbr 
+MI [multiple inheritance] |  abbr  | 
 trashëgim i shumëfishtë [MI] 
-MIC [message identification code] n 
+MIC [message identification code] |  n  | 
 MIC [kod i identifikimit të 
 mesazhit; kodi MIC] 
 micro- pref mikro– [mikroskopik] 
 micro- [10–6] pref mikro- [10–6] 
 Micro Channel Architecture 
-[MCA] n arkitekturë 
+[MCA] |  n  | arkitekturë 
 mikrokanalëshe [MCA] 
-micro command n mikrokomandë 
+micro command |  n  | mikrokomandë 
 [mikrourdhër] 
-microassembler n mikroasembler 
-microchip n mikroçip 
-microcircuit n mikroqark 
-microcode n mikrokod 
-micro-code n mikrokod 
-micro-coding n mikrokodim 
-microcomputer n mikrokompjuter 
-microcontroller n mikrokontroller 
+microassembler |  n  | mikroasembler 
+microchip |  n  | mikroçip 
+microcircuit |  n  | mikroqark 
+microcode |  n  | mikrokod 
+micro-code |  n  | mikrokod 
+micro-coding |  n  | mikrokodim 
+microcomputer |  n  | mikrokompjuter 
+microcontroller |  n  | mikrokontroller 
 ose mikrokontrollues 
-microdiagnostic program n 
+microdiagnostic program |  n  | 
 program mikrodiagnostikues 
  microelectronics 
-microelectronics n 
+microelectronics |  n  | 
 mikroelektronikë 
-microfiche n mikrofish 
-microfloppy disk n mikrodisketë 
-microform n mikroform 
-micrographics n mikrografikë 
-microimage n mikrofotografi 
-microinstruction n 
+microfiche |  n  | mikrofish 
+microfloppy disk |  n  | mikrodisketë 
+microform |  n  | mikroform 
+micrographics |  n  | mikrografikë 
+microimage |  n  | mikrofotografi 
+microinstruction |  n  | 
 mikroinstruksion 
 microjustification [microspace 
-justification] n mikrorrafshim 
-microkernel n mikrobërthamë 
-micro-kernel n mikrobërthamë 
-micrologic n mikrologjikë 
-microminiature n mikrominiaturë 
-microoperation n mikrooperacion 
-microphone n mikrofon 
-microprocessing unit n njësi 
+justification] |  n  | mikrorrafshim 
+microkernel |  n  | mikrobërthamë 
+micro-kernel |  n  | mikrobërthamë 
+micrologic |  n  | mikrologjikë 
+microminiature |  n  | mikrominiaturë 
+microoperation |  n  | mikrooperacion 
+microphone |  n  | mikrofon 
+microprocessing unit |  n  | njësi 
 mikroprocesorike 
-microprocessor n mikroprocesor 
-microprocessor architecture n 
+microprocessor |  n  | mikroprocesor 
+microprocessor architecture |  n  | 
 arkitekturë e mikroprocesorit 
-microprogram n mikroprogram 
-microprogrammable instruction n 
+microprogram |  n  | mikroprogram 
+microprogrammable instruction |  n  | 
 instruksion i mikroprogramueshëm 
-microprogramming n 
+microprogramming |  n  | 
 mikroprogramim 
-microsecond n mikrosekondë 
-Microsoft Network [MSN] n Rrjeti 
+microsecond |  n  | mikrosekondë 
+Microsoft Network [MSN] |  n  | Rrjeti 
 i Microsoftit [MSN] 
-Microsoft Windows n Microsoft 
+Microsoft Windows |  n  | Microsoft 
 Windows 
  
  
 176
 minimize 
-microwave n mikrovalë 
-microwave link n lidhje 
+microwave |  n  | mikrovalë 
+microwave link |  n  | lidhje 
 mikrovalore 
 MIDI [Musical Instrument Digital 
-Interface] abbr MIDI [ndërfaqe 
+Interface] |  abbr  | MIDI [ndërfaqe 
 (ose interfejs) digjitale e 
 instrumenteve muzikore] 
-midrange computer n kompjuter 
+midrange computer |  n  | kompjuter 
 i madhësisë mesatare 
-mikrofilm n mikrofilm 
-Military Network [MILNET] n 
+mikrofilm |  n  | mikrofilm 
+Military Network [MILNET] |  n  | 
 rrjet ushtarak [MILNET] 
-Miller code n kodi i Miller-it 
+Miller code |  n  | kodi i Miller-it 
 milli- pref mili- [10–3] 
 millions of instructions per second 
-[MIPS] n milion instruksione për 
+[MIPS] |  n  | milion instruksione për 
 sekondë [MIPS] 
-millisecond n milisekondë 
-millisecond [ms] n milisekondë 
+millisecond |  n  | milisekondë 
+millisecond [ms] |  n  | milisekondë 
 [ms, e mijta pjesë e sekondës] 
-millivolt [mV] n milivolt [mV, e 
+millivolt [mV] |  n  | milivolt [mV, e 
 mijta pjesë e voltit] 
 mini- pref mini- [i vogël] 
-miniaturization n miniaturizim 
-minicomputer n minikompjuter 
-minidisk n minidisk 
-minifloppy n minidisketë [miniflopi] 
-minimal machine n makinë 
+miniaturization |  n  | miniaturizim 
+minicomputer |  n  | minikompjuter 
+minidisk |  n  | minidisk 
+minifloppy |  n  | minidisketë [miniflopi] 
+minimal machine |  n  | makinë 
 minimale 
-minimal system n sistem minimal 
-minimization n minimizim 
-minimize v minimizoj 
+minimal system |  n  | sistem minimal 
+minimization |  n  | minimizim 
+minimize |  v  | minimizoj 
  minimize button 
-minimize button n buton 
+minimize button |  n  | buton 
  
 177
 model symbol 
 minimizuese ose pullë zvogëluese 
-minimized window n dritare e 
+minimized window |  n  | dritare e 
 minimizuar 
-minimum n minimum 
-minimum-access coding n kodim 
+minimum |  n  | minimum 
+minimum-access coding |  n  | kodim 
 me akses minimal 
-minimum-access programming n 
+minimum-access programming |  n  | 
 programim me akses minimal 
-minimum-access routine n rutinë 
+minimum-access routine |  n  | rutinë 
 me akses minimal 
-minimum-delay coding n kodim 
+minimum-delay coding |  n  | kodim 
 me vonesë minimale 
-minimum-latency coding n kodim 
+minimum-latency coding |  n  | kodim 
 me pritje minimale 
-minimum-latency programming n 
+minimum-latency programming |  n  | 
 programim me pritje minimale 
-minimum-latency routine n rutinë 
+minimum-latency routine |  n  | rutinë 
 me pritje minimale 
-minitower n minishtëpizë 
-minterm n minterm 
-minuend n zbritshmi (i) 
-minus sign [–] n minus [shenja për 
+minitower |  n  | minishtëpizë 
+minterm |  n  | minterm 
+minuend |  n  | zbritshmi (i) 
+minus sign [–] |  n  | minus [shenja për 
 minus (–)] 
-minus zone n zona për minus 
+minus zone |  n  | zona për minus 
 MIPS [Millions of Instruction Per 
-Second] abbr MIPS [milionë 
+Second] |  abbr  | MIPS [milionë 
 urdhra për sekondë] 
 MIPS [millions of instructions per 
-second] n MIPS [milion 
+second] |  n  | MIPS [milion 
 instruksione për sekondë] 
-mirror n pasqyrë 
-mirror site v lokacion i pasqyruar 
-mirroring n pasqyrim 
+mirror |  n  | pasqyrë 
+mirror site |  v  | lokacion i pasqyruar 
+mirroring |  n  | pasqyrim 
  
-mirroring (1) n pasqyrim 
+mirroring (1) |  n  | pasqyrim 
 [reflektim] 
-miscellaneous adj ndryshme (të) 
-miscellaneous instructions n 
+miscellaneous |  adj  | ndryshme (të) 
+miscellaneous instructions |  n  | 
 urdhra të ndryshëm 
-mismatch n mospërputhje 
-mix n përziej 
-mixed adj përzier (i) 
-mixing (1) n përzierje 
+mismatch |  n  | mospërputhje 
+mix |  n  | përziej 
+mixed |  adj  | përzier (i) 
+mixing (1) |  n  | përzierje 
 MMU [memory management unit] 
 abbr MMU [njësi për menaxhim të 
 memories] 
-mnemonic adj mnemonik [që 
+mnemonic |  adj  | mnemonik [që 
 ndihmon kujtesën] 
-mnemonic n mnemonik [shenjë 
+mnemonic |  n  | mnemonik [shenjë 
 grafike mnemonike] 
-mnemonic code n kod mnemonik 
-mnemonic field n fushë mnemonike 
-mnemonics n mnemonikë 
-mnemotechnics n mnemoteknikë 
-MO disk [magneto-optic disk] n 
+mnemonic code |  n  | kod mnemonik 
+mnemonic field |  n  | fushë mnemonike 
+mnemonics |  n  | mnemonikë 
+mnemotechnics |  n  | mnemoteknikë 
+MO disk [magneto-optic disk] |  n  | 
 disk magneto-optik 
-mobile digital computer n 
+mobile digital computer |  n  | 
 kompjuter digjital mobil 
-mobile system n sistem mobil 
-mobile systems equipment n 
+mobile system |  n  | sistem mobil 
+mobile systems equipment |  n  | 
 pajisje e sistemit mobil 
-mobile telephone n telefon mobil 
-modal adj modal [mënyror] 
-model n model 
-model building n modelim 
-model symbol n simbol për 
+mobile telephone |  n  | telefon mobil 
+modal |  adj  | modal [mënyror] 
+model |  n  | model 
+model building |  n  | modelim 
+model symbol |  n  | simbol për 
 modelim 
  model-based system 
  
 178
-model-based system n sistem në 
+model-based system |  n  | sistem në 
 bazë të modelit 
-modeling n modelim 
-modem [Modulator–DEMulator] n 
+modeling |  n  | modelim 
+modem [Modulator–DEMulator] |  n  | 
 modem [modulator–demodulator] 
-modem board n pllakë modem 
-modem card n kartelë modem 
-moderator n moderator [ndërmjetës] 
-modification n modifikim 
-modifier n modifikues 
-modify v modifikoj [bëj (i) 
+modem board |  n  | pllakë modem 
+modem card |  n  | kartelë modem 
+moderator |  n  | moderator [ndërmjetës] 
+modification |  n  | modifikim 
+modifier |  n  | modifikues 
+modify |  v  | modifikoj [bëj (i) 
 ndryshime] 
-modular adj modular 
-modular arithmetic n aritmetikë 
+modular |  adj  | modular 
+modular arithmetic |  n  | aritmetikë 
 modulare 
-modular design n dizajnim modular 
-modular jack n xhek modular 
-modular programming n programim 
+modular design |  n  | dizajnim modular 
+modular jack |  n  | xhek modular 
+modular programming |  n  | programim 
 modular 
-modular structure n strukturë 
+modular structure |  n  | strukturë 
 modular 
-modularity n modularitet 
-modulate v moduloj 
-modulation n modulim 
-modulation rate n shkallë 
+modularity |  n  | modularitet 
+modulate |  v  | moduloj 
+modulation |  n  | modulim 
+modulation rate |  n  | shkallë 
 (raport) e modulimit 
-modulator n modulator 
+modulator |  n  | modulator 
 modulator-demodulator [modem] 
 n modulator-demulator [modem] 
-module n modul 
-module testing n testim [të 
+module |  n  | modul 
+module testing |  n  | testim [të 
 provuarit] e modulit 
  
 movie 
-monitor n monitor [ekran] 
-monomorphism n monomorfizëm 
-monostable adj monostabël (i 
+monitor |  n  | monitor [ekran] 
+monomorphism |  n  | monomorfizëm 
+monostable |  adj  | monostabël (i 
 njëqëndrueshëm) 
-monostable multivibrator n 
+monostable multivibrator |  n  | 
 multivibrator monostabël 
 [shumëdridhës i njëqëndrueshëm] 
-Monte Carlo method n metoda 
+Monte Carlo method |  n  | metoda 
 Monte Karlo [metodë për gjetje të 
 zgjidhjes së përafërt për probleme 
 komplekse] 
-Moore machine n makinë e 
+Moore machine |  n  | makinë e 
 Moore-it 
-morpheme n morfemë 
-morphism n [mat.] morfizëm 
-morphology n morfologji 
+morpheme |  n  | morfemë 
+morphism |  n  | [mat.] morfizëm 
+morphology |  n  | morfologji 
 MOSFET [Metal-Oxide 
 Semiconductor Field-Effect 
-Transistor] n MOSFET 
+Transistor] |  n  | MOSFET 
 [transistor me efekt fushe metal-
 oksid-gjysmëpërçues] 
-mount v montoj 
-mouse n mi [maus] 
-mouse button n tast i miut ose 
+mount |  v  | montoj 
+mouse |  n  | mi [maus] 
+mouse button |  n  | tast i miut ose 
 minushit 
-mouse cursor n kursor i miut 
-mouse marker n marker i miut 
-mouse pointer n tregues i miut 
-mouse threshold n pragu i 
+mouse cursor |  n  | kursor i miut 
+mouse marker |  n  | marker i miut 
+mouse pointer |  n  | tregues i miut 
+mouse threshold |  n  | pragu i 
 ndjeshmërisë së miut 
-move instruction n urdhër i 
+move instruction |  n  | urdhër i 
 zhvendosjes 
-movie n film 
+movie |  n  | film 
  moving images 
-moving images n figura të 
+moving images |  n  | figura të 
 animuara [figura lëvizëse] 
 moving picture expert group 
-[MPEG] n standardi MPEG 
+[MPEG] |  n  | standardi MPEG 
 [standard i ngjeshjes së figurave 
 video të animuara] 
 MPEG [Mouving Pictures Experts 
-Group] abbr MPEG [grupi i 
+Group] |  abbr  | MPEG [grupi i 
 ekspertëve për film] 
-MPEG-1 abbr MPEG-1 [standard 
+MPEG-1 |  abbr  | MPEG-1 [standard 
 për ruajtje dhe gjenerim të 
 informatave video dhe audio, i 
 projektuar për teknologjinë e CD-
 ROM-eve] 
-MPEG-2 abbr MPEG-2 [standardi 
+MPEG-2 |  abbr  | MPEG-2 [standardi 
 MPEG-1 i zgjeruar për televizion] 
-MPEG-3 abbr MPEG-3 [standardi 
+MPEG-3 |  abbr  | MPEG-3 [standardi 
 MPEG-1 i zgjeruar për televizion 
 me besueshmëri të lartë të 
 transmetimit HDTV] 
-MPEG-4 abbr MPEG-4 [standard i 
+MPEG-4 |  abbr  | MPEG-4 [standard i 
 projektuar për videotelefoni dhe 
 aplikacione multimediale] 
-ms [milisecond] n ms [milisekondë] 
-MSB [most significant bit] abbr bit 
+ms [milisecond] |  n  | ms [milisekondë] 
+MSB [most significant bit] |  abbr  | bit 
 me peshë më të madhe 
 MSC [most significant character] 
 abbr karakter me peshë më të 
 madhe 
-MSD [most significant digit] abbr 
+MSD [most significant digit] |  abbr  | 
 shifër me peshë më të madhe 
-MS-DOS compatibility n 
+MS-DOS compatibility |  n  | 
 përputhshmëri (ose kompatibilitet) 
 me MS-DOS 
-msec [millisecond] abbr milisekondë 
+msec [millisecond] |  abbr  | milisekondë 
 [ms] 
  
  
@@ -11726,120 +11696,120 @@ multilevel
 MSI [medium-scale integration] 
 abbr MSI [shkallë e mesme e 
 integrimit] 
-MSN [Microsoft Network] abbr 
+MSN [Microsoft Network] |  abbr  | 
 MSN [Rrjeti i Microsoftit] 
-MSN Messenger abbr Mesazheri 
+MSN Messenger |  abbr  | Mesazheri 
 i Mikrosoftit 
 multi- pref multi- [shumë; i 
 shumëfishtë] 
-multi media n multimedia 
-multi session image v pamje 
+multi media |  n  | multimedia 
+multi session image |  v  | pamje 
 multisesion 
-multiaccess computer n kompjuter 
+multiaccess computer |  n  | kompjuter 
 me shumë aksese 
-multiaccess system n sistem me 
+multiaccess system |  n  | sistem me 
 shumë aksese 
-multiaddress adj shumadresësh 
-multibyte addition n mbledhje 
+multiaddress |  adj  | shumadresësh 
+multibyte addition |  n  | mbledhje 
 shumëbajtëshe 
-multicomputer system n sistem 
+multicomputer system |  n  | sistem 
 shumkompjuterësh 
-multidimensional adj 
+multidimensional |  adj  | 
 shumëpërmasor ose 
 shumëdimensional 
-multi-element adj shumelementësh 
-multifunction board n pllakë 
+multi-element |  adj  | shumelementësh 
+multifunction board |  n  | pllakë 
 shumëfunksionale [pllakë me 
 shumë funksione] 
-multijob operation n operacion 
+multijob operation |  n  | operacion 
 shumpunësh 
-multilayer adj shumështresor 
-multilayer device n pajisje 
+multilayer |  adj  | shumështresor 
+multilayer device |  n  | pajisje 
 shumështresore 
-multilevel adj shumënivelësh 
+multilevel |  adj  | shumënivelësh 
  multilevel addressing 
  
 180
-multilevel addressing n adresim 
+multilevel addressing |  n  | adresim 
 multisync monitor 
 multiple-document interface [MDI] 
- n ndërfaqe (ose interfejs) shumë-
+ |  n  | ndërfaqe (ose interfejs) shumë-
 dokumentësh [MDI] 
-multiple-function chip n çip 
+multiple-function chip |  n  | çip 
 shumëfunksional 
-multiple-length arithmetic n 
+multiple-length arithmetic |  n  | 
 aritmetikë me gjatësi të 
 shumëfishtë 
-multiple-length number n numër 
+multiple-length number |  n  | numër 
 me gjatësi të shumëfishtë 
-multiple-pass printing n shtypje 
+multiple-pass printing |  n  | shtypje 
 (ose printim) në më shumë kalime 
-multiple-pen plotter n ploter 
+multiple-pen plotter |  n  | ploter 
 shumëpenësh 
-multiplexed bus n bus i 
+multiplexed bus |  n  | bus i 
 multipleksuar ose magjistrale e 
 multipleksuar 
-multiplexer [MUX] n multiplekser 
-multiplexer channel n kanali i 
+multiplexer [MUX] |  n  | multiplekser 
+multiplexer channel |  n  | kanali i 
 multiplekserit 
-multiplexing n multipleksim 
-multiplication table n tabelë e 
+multiplexing |  n  | multipleksim 
+multiplication table |  n  | tabelë e 
 shumëzimit 
-multiplication time n kohë e 
+multiplication time |  n  | kohë e 
 shumëzimit 
-multiplier n shumëzues 
-multiply v shumëzoj 
-multipolar adj shumëpolësh 
-multiprogramming n 
+multiplier |  n  | shumëzues 
+multiply |  v  | shumëzoj 
+multipolar |  adj  | shumëpolësh 
+multiprogramming |  n  | 
 multiprogramim 
-multi-session n multisesion 
-multisync monitor n monitor me 
+multi-session |  n  | multisesion 
+multisync monitor |  n  | monitor me 
 sinkronizim të shumëfishtë 
 shumënivelësh 
-multilevel memory n memorie 
+multilevel memory |  n  | memorie 
 shumënivelëshe 
-multilevel security n mbrojtje 
+multilevel security |  n  | mbrojtje 
 shumënivelëshe 
 Multilink Point-to-Point Protocol 
-[MPPP] n protokoll pikë-më-pikë 
+[MPPP] |  n  | protokoll pikë-më-pikë 
 për lidhje të shumëfishta [MPPP] 
-multilist organization n organizim 
+multilist organization |  n  | organizim 
 shumëlistësh 
-multipart forms n formular 
+multipart forms |  n  | formular 
 shumëpjesësh 
-multiple adj shumëfishtë 
-multiple access n akses i 
+multiple |  adj  | shumëfishtë 
+multiple access |  n  | akses i 
 shumëfishtë 
-multiple inheritance [MI] n 
+multiple inheritance [MI] |  n  | 
 trashëgimi e shumëfishtë 
-multiple precision arithmetic n 
+multiple precision arithmetic |  n  | 
 aritmetikë me saktësi të 
 shumëfishtë 
-multiple programming n 
+multiple programming |  n  | 
 programim i shumëfishtë 
-multiple recipients n më shumë 
+multiple recipients |  n  | më shumë 
 marrës 
-multiple selection n zgjedhje 
+multiple selection |  n  | zgjedhje 
 [përzgjedhje] e shumëfishtë 
-multiple-address code n kod 
+multiple-address code |  n  | kod 
 shumadresësh 
-multiple-address computer n 
+multiple-address computer |  n  | 
 kompjuter shumadresësh 
-multiple-address instruction n 
+multiple-address instruction |  n  | 
 instruksion shumadresësh 
  
  multi-sync monitor 
-multi-sync monitor n monitor 
+multi-sync monitor |  n  | monitor 
 multisinkron 
  
 181
  
-MUX [multiplekser] abbr 
+MUX [multiplekser] |  abbr  | 
 multiplekser 
-multi-user adj për shumë përdorues 
-multi-user system n sistem për 
+multi-user |  adj  | për shumë përdorues 
+multi-user system |  n  | sistem për 
 shumë përdorues 
-Mylar n Milar [film poliesterik që 
+Mylar |  n  | Milar [film poliesterik që 
 shfrytëzohet si nënshtresë për disqe 
 dhe shirita magnetikë] 
  
@@ -11853,56 +11823,56 @@ dhe shirita magnetikë]
  
 182
 N 
-n pref n [nano] 
-n [nano] abbr n [nano] 
-name search n kërkim i emrit 
-name server n server i emrave 
-name table n tabelë e emrave 
-named anchor n spirancë e emërtuar 
-named target n objektiv i emërtuar 
-name-value pair n çift emër-vlerë 
-NAND n JO-DHE 
-NAND circuit n qark (logjik) JO-
+n pref |  n  | [nano] 
+n [nano] abbr |  n  | [nano] 
+name search |  n  | kërkim i emrit 
+name server |  n  | server i emrave 
+name table |  n  | tabelë e emrave 
+named anchor |  n  | spirancë e emërtuar 
+named target |  n  | objektiv i emërtuar 
+name-value pair |  n  | çift emër-vlerë 
+NAND |  n  | JO-DHE 
+NAND circuit |  n  | qark (logjik) JO-
 DHE 
-NAND function n funksioni JO-
+NAND function |  n  | funksioni JO-
 DHE 
-NAND gate n portë (qark logjik) 
+NAND gate |  n  | portë (qark logjik) 
 JO-DHE 
-NAND operation n operacion 
+NAND operation |  n  | operacion 
 (logjik) JO-DHE 
 nano- [= 10–9 – UK; = 10–12 – USA]
  pref nano– [= 10–9 – në Evropë; 
 = 10–12 – në SHBA] 
-nanocircuit n nanoqark 
-nanometre n nanometër 
-nanosecond n nanosekondë 
-NAP [Network access Point] abbr 
+nanocircuit |  n  | nanoqark 
+nanometre |  n  | nanometër 
+nanosecond |  n  | nanosekondë 
+NAP [Network access Point] |  abbr  | 
 pikë e aksesit në rrjet [NAP] 
  
-narrow adj ngushtë (i) 
-Narrow SCSI n SCSI i ngushtë 
-natural adj natyror 
-natural number n numër natyror 
-natural-language processing n 
+narrow |  adj  | ngushtë (i) 
+Narrow SCSI |  n  | SCSI i ngushtë 
+natural |  adj  | natyror 
+natural number |  n  | numër natyror 
+natural-language processing |  n  | 
 përpunim i gjuhës natyrore 
-natural-language recognition n 
+natural-language recognition |  n  | 
 njohje e gjuhës natyrore 
-navigate v navigoj [shfletoj] 
-navigation n navigim [shfletim] 
-navigation bar n shirit navigues 
-navigation keys n taste naviguese 
-navigator n navigator [shfletues] 
-NB [notebook computer] abbr 
+navigate |  v  | navigoj [shfletoj] 
+navigation |  n  | navigim [shfletim] 
+navigation bar |  n  | shirit navigues 
+navigation keys |  n  | taste naviguese 
+navigator |  n  | navigator [shfletues] 
+NB [notebook computer] |  abbr  | 
 kompjuter nout-buk 
-NC (1) [network computer] n 
+NC (1) [network computer] |  n  | 
 kompjuter rrjeti 
-NC (2) [numeric control] n 
+NC (2) [numeric control] |  n  | 
 kontroll numerik [sistem i 
 komandimit me kompjuter] 
-N-channel MOS [NMOS] n 
-transistor MOS me kanal n 
+N-channel MOS [NMOS] |  n  | 
+transistor MOS me kanal |  n  | 
 [NMOS] 
-NDR [nondestruktive readout] abbr 
+NDR [nondestruktive readout] |  abbr  | 
 lexim joshkatërrues 
  NDRO 
  
@@ -11911,135 +11881,135 @@ NDRO [non-destructive read-out]
 abbr lexim joshkatërrues 
 NDRO [nondestruktive readout] 
 abbr lexim joshkatërrues 
-negate (1) v mohoj 
-negate (2) v kryej operacionin e 
+negate (1) |  v  | mohoj 
+negate (2) |  v  | kryej operacionin e 
 mohimit (ose negacionit) [mat.] 
-negate (3) v ndërroj (ia) shenjën një 
+negate (3) |  v  | ndërroj (ia) shenjën një 
 numri 
-negate instruction n urdhër mohimi 
+negate instruction |  n  | urdhër mohimi 
 (ose negacioni) 
-negation (1) n mohim ose negacion 
-negation (2) n negacion [mat.] 
-negative adj negativ 
+negation (1) |  n  | mohim ose negacion 
+negation (2) |  n  | negacion [mat.] 
+negative |  adj  | negativ 
 negative acknowledgement [NAK] 
 n vërtetim negativ [mosvërtetim i 
 pranimit] 
-negative acknowledgment n 
+negative acknowledgment |  n  | 
 përgjigje negative 
-negative entry n hyrje negative 
-negative flag n flamur negativ 
-negative logic n logjikë negative 
-negative number n numër negativ 
-negative–edge triggered n shkrehur 
+negative entry |  n  | hyrje negative 
+negative flag |  n  | flamur negativ 
+negative logic |  n  | logjikë negative 
+negative number |  n  | numër negativ 
+negative–edge triggered |  n  | shkrehur 
 (i) me tehun negativ (të impulsit) 
-negator n negator [invertor, qark JO] 
-negotiation n bisedime [negociata] 
-net [Internet] abbr internet 
-net [UseNet] n UseNet 
-NetBIOS n NetBIOS 
-Netscape n programi i navigimit 
+negator |  n  | negator [invertor, qark JO] 
+negotiation |  n  | bisedime [negociata] 
+net [Internet] |  abbr  | internet 
+net [UseNet] |  n  | UseNet 
+NetBIOS |  n  | NetBIOS 
+Netscape |  n  | programi i navigimit 
 Netscape 
  
 network hardware 
-Netspeak n Netspeak [grumbull 
+Netspeak |  n  | Netspeak [grumbull 
 konvencionesh për shkruarje të 
 gjuhës angleze në postën 
 elektronike] 
-net-top box n terminal Interneti 
-NetWare n NetWare [sistem 
+net-top box |  n  | terminal Interneti 
+NetWare |  n  | NetWare [sistem 
 operativ i Novell-it për rrjete 
 kompjuterike lokale] 
-network n rrjet 
-network adapter n adapter rrjeti 
-network administrator n 
+network |  n  | rrjet 
+network adapter |  n  | adapter rrjeti 
+network administrator |  n  | 
 administrator i rrjetit 
-network analysis n analizë e rrjetit 
-network architecture n arkitekturë e 
+network analysis |  n  | analizë e rrjetit 
+network architecture |  n  | arkitekturë e 
 rrjetit 
-network card n kartelë rrjeti 
-network computer [NC] n 
+network card |  n  | kartelë rrjeti 
+network computer [NC] |  n  | 
 kompjuter rrjeti 
-network configuration n 
+network configuration |  n  | 
 konfigurim i rrjetit 
-network control center [NCC] n 
+network control center [NCC] |  n  | 
 qendër e kontrollit të rrjetit 
-network control program n 
+network control program |  n  | 
 program i kontrollit të rrjetit 
 network control programme [NCP] 
- n program i kontrollit të rrjetit 
-network control protocol [NCP] n 
+ |  n  | program i kontrollit të rrjetit 
+network control protocol [NCP] |  n  | 
 protokoll i kontrollit të rrjetit 
-network controller n kontrollor i 
+network controller |  n  | kontrollor i 
 rrjetit 
-network delay n vonesë e rrjetit 
-network diagram n diagram i rrjetit 
-network hardware n harduer i 
+network delay |  n  | vonesë e rrjetit 
+network diagram |  n  | diagram i rrjetit 
+network hardware |  n  | harduer i 
 rrjetit 
  network latency 
  
 184
-network latency n vonesë e rrjetit 
-network layer n shtresë e rrjetit 
-network management n menaxhim 
+network latency |  n  | vonesë e rrjetit 
+network layer |  n  | shtresë e rrjetit 
+network management |  n  | menaxhim 
 i rrjetit 
-network model n model i rrjetit 
-network modem n modem rrjeti 
-network monitor n monitor i rrjetit 
-network node [NN] n nyjë rrjeti 
+network model |  n  | model i rrjetit 
+network modem |  n  | modem rrjeti 
+network monitor |  n  | monitor i rrjetit 
+network node [NN] |  n  | nyjë rrjeti 
 [NN] 
-network printer n shtypës (ose 
+network printer |  n  | shtypës (ose 
 printer) rrjeti 
-network protocol n protokoll i 
+network protocol |  n  | protokoll i 
 rrjetit 
-network redundancy n redundancë 
+network redundancy |  n  | redundancë 
 rrjetore 
-network security n siguri e rrjetit 
-network timing n sinkronizim i 
+network security |  n  | siguri e rrjetit 
+network timing |  n  | sinkronizim i 
 rrjetit 
-network topology n topologji e 
+network topology |  n  | topologji e 
 rrjetit 
-network troubleshooting n zgjidhje 
+network troubleshooting |  n  | zgjidhje 
 e problemeve të rrjetit 
-networked n rrjetëzuar (i) ose 
+networked |  n  | rrjetëzuar (i) ose 
 përrjetëzuar (i) 
-networked TV programm n 
+networked TV programm |  n  | 
 program televiziv i përrjetëzuar 
-networking n rrjetëzim [ndërlidhje e 
+networking |  n  | rrjetëzim [ndërlidhje e 
 rrjeteve] 
-networking specialist n specialist 
+networking specialist |  n  | specialist 
 i rrjetëzimit 
-neural adj neural 
-neural network n rrjet neural 
+neural |  adj  | neural 
+neural network |  n  | rrjet neural 
  
 no answer within timeout 
-neurotransmitter n 
+neurotransmitter |  n  | 
 neurotransmetues 
-neutral adj neutral ose asnjanës 
-neutral transmission adj 
+neutral |  adj  | neutral ose asnjanës 
+neutral transmission |  adj  | 
 transmetim neutral 
-new adj ri (i) 
-new document n dokument i ri 
-new file n fajl i ri 
-new line n kryeradhë [rresht i ri] 
-new paragraph n paragraf i ri 
-new techology n teknologji e re 
-Newell algorithm n algoritëm i 
+new |  adj  | ri (i) 
+new document |  n  | dokument i ri 
+new file |  n  | fajl i ri 
+new line |  n  | kryeradhë [rresht i ri] 
+new paragraph |  n  | paragraf i ri 
+new techology |  n  | teknologji e re 
+Newell algorithm |  n  | algoritëm i 
 Newell-it 
-news n lajm 
-news agency n agjenci e lajmeve 
-news reader n lexues i 
+news |  n  | lajm 
+news agency |  n  | agjenci e lajmeve 
+news reader |  n  | lexues i 
 informacioneve (lajmeve) 
-news release n komunikatë shtypi 
-newsletter n buletin informativ 
-next step adj hapi tjetër 
-nickname n nofkë [pseudonim] 
-nine's complement n komplement 
+news release |  n  | komunikatë shtypi 
+newsletter |  n  | buletin informativ 
+next step |  adj  | hapi tjetër 
+nickname |  n  | nofkë [pseudonim] 
+nine's complement |  n  | komplement 
 (ose plotës) i nëntës 
 NMOS transistor [N-channel Metal-
-Oxide Semiconductor] n transistor 
+Oxide Semiconductor] |  n  | transistor 
 NMOS 
 N-MOS transistor [N-channel 
-Metal-Oxide Semiconductor] n 
+Metal-Oxide Semiconductor] |  n  | 
 transistor NMOS 
 NO prep JO 
 no answer within timeout ph 
@@ -12052,154 +12022,154 @@ no matches found ph s'ka përputhje
 no response from server ph s'ka 
 përgjigje prej serverit 
 normal distribucion 
-nonprocedural language n gjuhë 
+nonprocedural language |  n  | gjuhë 
 joprocedurale 
-node n nyjë [pikëdegëzim] 
-noise n zhurmë 
-noise digit n shifër e zhurmës 
-noise immunity n pandjeshmëri 
+node |  n  | nyjë [pikëdegëzim] 
+noise |  n  | zhurmë 
+noise digit |  n  | shifër e zhurmës 
+noise immunity |  n  | pandjeshmëri 
 (ose imunitet) në zhurmë 
-noise margine n margjinë e zhurmës 
+noise margine |  n  | margjinë e zhurmës 
 [kufi i lejuar i zhurmës] 
-nomenclature n nomenklaturë 
-nonblocking network n rrjet 
+nomenclature |  n  | nomenklaturë 
+nonblocking network |  n  | rrjet 
 jobllokues 
-nonconductor n jopërçues 
-non-dedicated server n server i 
+nonconductor |  n  | jopërçues 
+non-dedicated server |  n  | server i 
 padedikuar 
-nondestructive read [NDR] n lexim 
+nondestructive read [NDR] |  n  | lexim 
 joshkatërrues 
-non-destructive reading [NDR] n 
+non-destructive reading [NDR] |  n  | 
 lexim joshkatërrues 
-nondestructive readout [NDRO] n 
+nondestructive readout [NDRO] |  n  | 
 lexim joshkatërrues 
 non-destructive read-out [NDRO] 
 n lexim joshkatërrues 
-nondeterministic adj paparacaktuar 
+nondeterministic |  adj  | paparacaktuar 
 (i) [jodeterministik] 
-non-interlaced monitor n 
+non-interlaced monitor |  n  | 
 monitor i pagërshetuar 
-nonlinear programming n 
+nonlinear programming |  n  | 
 programim jolinear 
-nonoverlap processing n përpunim 
+nonoverlap processing |  n  | përpunim 
 pa mbimbulim 
-nonpriority interrupt n 
+nonpriority interrupt |  n  | 
 ndërprerje joprioritare 
  
-nonrecoverable error n gabim i 
+nonrecoverable error |  n  | gabim i 
 pariparueshëm 
-nonredundant system n sistem 
+nonredundant system |  n  | sistem 
 joredundant 
-nonresident routine n rutinë 
+nonresident routine |  n  | rutinë 
 jorezidente 
-nonsingular matrix n matricë 
+nonsingular matrix |  n  | matricë 
 josingulare 
-nonterminal n jofundor 
-nonterminal symbol n simbol 
+nonterminal |  n  | jofundor 
+nonterminal symbol |  n  | simbol 
 jofundor 
-NO-OP [no-operation instruction] n 
+NO-OP [no-operation instruction] |  n  | 
 instruksion që nuk kryen asnjë 
 operacion 
 no-operation instruction [NO-OP] 
 n instruksion që nuk kryen asnjë 
 operacion 
-NOP [no-operation instruction] abbr 
+NOP [no-operation instruction] |  abbr  | 
 instruksion që nuk kryen asnjë 
 operacion 
-NOR n JO-OSE 
-NOR circuit n qark JO-OSE 
+NOR |  n  | JO-OSE 
+NOR circuit |  n  | qark JO-OSE 
 NOR gaten portë JO-OSE 
-NOR operation n operacion (logjik) 
+NOR operation |  n  | operacion (logjik) 
 JO-OSE 
-norm n normë 
-normal adj normal 
-normal direction flow n kah 
+norm |  n  | normë 
+normal |  adj  | normal 
+normal direction flow |  n  | kah 
 normal i rrjedhjes 
-normal distribucion n përndarje 
+normal distribucion |  n  | përndarje 
 normale 
  normal form 
-normal form n formë normale 
+normal form |  n  | formë normale 
 [formë e rregullt] 
-normal orientation n orientim 
+normal orientation |  n  | orientim 
 normal 
-normal rang n rang normal 
-normalization n normalizim 
-normalize v normalizoj 
-not bootable adj jonisës ose 
+normal rang |  n  | rang normal 
+normalization |  n  | normalizim 
+normalize |  v  | normalizoj 
+not bootable |  adj  | jonisës ose 
 jongritës ose joaktivizues 
-not bootable image n pamje 
+not bootable image |  n  | pamje 
 jonisëse 
 not enough memory ph memorie e 
 pamjaftueshme 
-NOT gate n portë (qark logjik) JO 
-not implemented yet ph ende i 
+NOT gate |  n  | portë (qark logjik) JO 
+not implemented yet ph |  end | e i 
 pazbatuar [i parealizuar] 
-not writable adj palexueshëm (i) 
-Novell netWare n Nowell netWare 
-NPN semiconductor n 
+not writable |  adj  | palexueshëm (i) 
+Novell netWare |  n  | Nowell netWare 
+NPN semiconductor |  n  | 
 gjysmëpërçues NPN 
-NPN transistor n transistor NPN 
+NPN transistor |  n  | transistor NPN 
 NPU [numerical processing unit] 
 abbr njësi për përpunim numerik 
-ns [nanosecond] abbr ns 
+ns [nanosecond] |  abbr  | ns 
 [nanosekondë] 
-N-type semiconductor n 
+N-type semiconductor |  n  | 
 gjysmëpërçues i tipit N 
-NUL n zero [karakteri zero, 
+NUL |  n  | zero [karakteri zero, 
 shenja zero] 
-null adj zbrazët (i) [bosh] 
-null n zero [hiç] 
-null character n karakter zero 
-null cycle n cikël i zbrazët 
+null |  adj  | zbrazët (i) [bosh] 
+null |  n  | zero [hiç] 
+null character |  n  | karakter zero 
+null cycle |  n  | cikël i zbrazët 
  
  
 186
 numeric keypad bloc 
-null list n listë e zbrazët 
-null matrix n matricë zero 
-null modem n modem zero [i 
+null list |  n  | listë e zbrazët 
+null matrix |  n  | matricë zero 
+null modem |  n  | modem zero [i 
 rremë] 
-null modem cable n kabëll i 
+null modem cable |  n  | kabëll i 
 modemit zero 
-null set n bashkësi e zbrazët 
-null string n varg (ose string) i 
+null set |  n  | bashkësi e zbrazët 
+null string |  n  | varg (ose string) i 
 zbrazët 
-Num Lock [NUMber LOCK] n tasti 
+Num Lock [NUMber LOCK] |  n  | tasti 
 Num Lock [tasti i numrave] 
 Num Lock key [Numeric Lock key] 
 n tasti Num Lock [tasti i numrave] 
 NUMA [nonuniform memory 
-architecture] n arkitekturë 
+architecture] |  n  | arkitekturë 
 jouniforme e memories 
-number n numër 
-number v numërtoj 
-number of columns n numri i 
+number |  n  | numër 
+number |  v  | numërtoj 
+number of columns |  n  | numri i 
 kolonave 
-number of pages n numri i faqeve 
-number of rows n numri i rreshtave 
-number system n sistem i numrave 
-numbered list n listë e numërtuar 
+number of pages |  n  | numri i faqeve 
+number of rows |  n  | numri i rreshtave 
+number system |  n  | sistem i numrave 
+numbered list |  n  | listë e numërtuar 
 [listë e markimit me numra] 
-numeric adj numerik 
-numeric coding n kodim numerik 
-numeric control n kontroll numerik 
-numeric control [NC] n kontroll 
+numeric |  adj  | numerik 
+numeric coding |  n  | kodim numerik 
+numeric control |  n  | kontroll numerik 
+numeric control [NC] |  n  | kontroll 
 numerik [sistem i komandimit me 
 kompjuter] 
-numeric keypad bloc n bllok 
+numeric keypad bloc |  n  | bllok 
 numerik i tastierës 
  
 187
  
-numerical processing unit [NPU] n 
+numerical processing unit [NPU] |  n  | 
 njësi për përpunim numerik 
-numerical tape n shirit numerik 
-Nyquist rate n frekuencë e Nikuistit 
+numerical tape |  n  | shirit numerik 
+Nyquist rate |  n  | frekuencë e Nikuistit 
  numeric operand 
-numeric operand n operand 
+numeric operand |  n  | operand 
 numerik 
-numerical adj numerik 
-numerical analysis n analizë 
+numerical |  adj  | numerik 
+numerical analysis |  n  | analizë 
 numerike 
  
  
@@ -12212,96 +12182,96 @@ numerike
  
 188
 O 
-object oriented [OO] adj orientuar 
+object oriented [OO] |  adj  | orientuar 
 (i) në objekte 
-object oriented database n bazë 
+object oriented database |  n  | bazë 
 e të dhënave e orientuar në objekte 
-object oriented graphics n grafikë 
+object oriented graphics |  n  | grafikë 
 e orientuar në objekte 
-object owner n pronar i objektit 
-object type n tip i objektit 
-object user n përdorues i objektit 
+object owner |  n  | pronar i objektit 
+object type |  n  | tip i objektit 
+object user |  n  | përdorues i objektit 
 object-linking and embedding 
-[OLE] n ndërlidhje dhe përfshirje 
+[OLE] |  n  | ndërlidhje dhe përfshirje 
 e objekteve 
-object-oriented adj orientuar (i) 
+object-oriented |  adj  | orientuar (i) 
 në objekte 
-object-oriented analysis n analizë e 
+object-oriented analysis |  n  | analizë e 
 orientuar në objekte 
-object-oriented architecture n 
+object-oriented architecture |  n  | 
 arkitekturë e orientuar në objekte 
-object-oriented database n bazë e 
+object-oriented database |  n  | bazë e 
 të dhënave e orientuar në objekte 
-object-oriented design n dizajn i 
+object-oriented design |  n  | dizajn i 
 orientuar në objekte 
-object-oriented graphics n grafikë 
+object-oriented graphics |  n  | grafikë 
 e orientuar në objekte 
-object-oriented interface n ndërfaqe 
+object-oriented interface |  n  | ndërfaqe 
 (ose interfejs) e orientuar në objekt 
  
-object-oriented language [OOL] n 
+object-oriented language [OOL] |  n  | 
 gjuhë e orientuar objekt 
-object-oriented operating system n 
+object-oriented operating system |  n  | 
 sistem operativ i orientuar në 
 objekte 
-object-oriented programming n 
+object-oriented programming |  n  | 
 programim i orientuar në objekte 
 object-oriented programming 
-[OOP] n programim i orientuar 
+[OOP] |  n  | programim i orientuar 
 objekt 
 object-oriented programming 
-language [OOPL] n gjuhë 
+language [OOPL] |  n  | gjuhë 
 programimi e orientuar në objekte 
-object-oriented technology n 
+object-oriented technology |  n  | 
 teknologji e orientuar në objekte 
-obscure v errësoj [mbuloj pjesërisht] 
-occlude v fsheh [mbuloj plotësisht] 
-octal nuber system n sistem oktal 
+obscure |  v  | errësoj [mbuloj pjesërisht] 
+occlude |  v  | fsheh [mbuloj plotësisht] 
+octal nuber system |  n  | sistem oktal 
 i numrave 
-octal numeral n numër oktal 
-octal system n sistem oktal 
-octet n oktet [bajt, tetëbitësh] 
-odd adj tek [joçift] 
-odd number n numër tek 
-odd page n faqe tek 
-odd parity n joçiftësi [paritet tek] 
+octal numeral |  n  | numër oktal 
+octal system |  n  | sistem oktal 
+octet |  n  | oktet [bajt, tetëbitësh] 
+odd |  adj  | tek [joçift] 
+odd number |  n  | numër tek 
+odd page |  n  | faqe tek 
+odd parity |  n  | joçiftësi [paritet tek] 
  
 189
 operand field 
  odd parity check 
-odd parity check n kontroll i 
+odd parity check |  n  | kontroll i 
 joçiftësisë [kontroll i paritetit tek] 
-odd-even check n kontroll i 
+odd-even check |  n  | kontroll i 
 joçiftësisë-çiftësisë 
 OEM [original equipment 
-manufacturer] n prodhues i 
+manufacturer] |  n  | prodhues i 
 pajisjeve origjinale 
-office n zyrë 
-ohm [Ω] n om [Ω] 
+office |  n  | zyrë 
+ohm [Ω] |  n  | om [Ω] 
 OK adv në rregull [miratim] 
 omit triling periods ph përjashto 
 pikat e ndërprerjes 
-OMR (1) [optical mark reader] n 
+OMR (1) [optical mark reader] |  n  | 
 lexues optik i shenjave 
-OMR (2) [optical mark reading] n 
+OMR (2) [optical mark reading] |  n  | 
 lexim optik i shenjave 
 OMR (3) [optical mark recognition] 
 n njohje optike e shenjave 
-one-adress instruction n urdhër 
+one-adress instruction |  n  | urdhër 
 njëadresësh 
-one-adress order n urdhër 
+one-adress order |  n  | urdhër 
 njëadresësh 
 one-for-one ph një për një 
-online processing n përpunim në-
+online processing |  n  | përpunim në-
 linjë [përpunim i drejtpërdrejtë me 
 kompjuter, përpunim në kohë reale] 
-on-line processing n përpunim në-
+on-line processing |  n  | përpunim në-
 linjë [përpunim i drejtpërdrejtë me 
 kompjuter, përpunim në kohë reale] 
 on-th-fly adv fluturimthi 
-OO [object oriented] abbr orientuar 
+OO [object oriented] |  abbr  | orientuar 
 (i) në objekte 
-OO [object-oriented] abbr orientuar 
+OO [object-oriented] |  abbr  | orientuar 
 (i) në objekte 
  
 OOL [object-oriented language] 
@@ -12310,168 +12280,168 @@ OOP [object-oriented programming]
 abbr programim i orientuar në 
 objekte 
 OOPL [object-oriented 
-programming language] abbr gjuhë 
+programming language] |  abbr  | gjuhë 
 programimi e orientuar objekt 
-opacity n patejdukshmëri 
-op-amp [operational amplifier] n 
+opacity |  n  | patejdukshmëri 
+op-amp [operational amplifier] |  n  | 
 amplifikator (ose përforcues) 
 operacional 
-opcode [operation code] n kod i 
+opcode [operation code] |  n  | kod i 
 operacionit 
-op-code [operation code] n kod i 
+op-code [operation code] |  n  | kod i 
 operacionit 
-op-code fetch n sjellje [prurje] e 
+op-code fetch |  n  | sjellje [prurje] e 
 kodit të operacionit 
-op-code field n fushë e kodit të 
+op-code field |  n  | fushë e kodit të 
 operacionit 
-open v hap [hap një fajl; hap një 
+open |  v  | hap [hap një fajl; hap një 
 dritare] 
-open adj hapur (i) 
-open architecture n arkitekturë e 
+open |  adj  | hapur (i) 
+open architecture |  n  | arkitekturë e 
 hapur 
-open file n fajl i hapur 
-open standard n standard i hapur 
-open subroutine n nënprogram i 
+open file |  n  | fajl i hapur 
+open standard |  n  | standard i hapur 
+open subroutine |  n  | nënprogram i 
 hapur 
-open system n sistem i hapur 
+open system |  n  | sistem i hapur 
 open systems interconnection [OSI] 
- n ndërlidhje e sistemeve të hapura 
-operand n operand 
-operand field n fushë e operandit 
+ |  n  | ndërlidhje e sistemeve të hapura 
+operand |  n  | operand 
+operand field |  n  | fushë e operandit 
  operating system 
  
 190
-operating system n sistem operativ 
-operation n operacion [veprim] 
-operation code n kod i operacionit 
-operation cycle n cikël i operacionit 
-operation decoder n dekodues i 
+operating system |  n  | sistem operativ 
+operation |  n  | operacion [veprim] 
+operation code |  n  | kod i operacionit 
+operation cycle |  n  | cikël i operacionit 
+operation decoder |  n  | dekodues i 
 operacionit 
-operation number n numër i 
+operation number |  n  | numër i 
 operacionit 
-operation part n pjesë e operacionit 
-operational adj operacional 
-operational amplifier [OA] n 
+operation part |  n  | pjesë e operacionit 
+operational |  adj  | operacional 
+operational amplifier [OA] |  n  | 
 amplifikator operacional 
-operational research [OR] n 
+operational research [OR] |  n  | 
 hulumtim operacional 
-operations analysis n analizë e 
+operations analysis |  n  | analizë e 
 operacioneve 
-operator n operator 
-operator hierachy n hierarki e 
+operator |  n  | operator 
+operator hierachy |  n  | hierarki e 
 operatorëve 
-operator interrupt n ndërprerje e 
+operator interrupt |  n  | ndërprerje e 
 operatorit 
-optical cable n kabëll optike 
-optical cable assembly n kabëll 
+optical cable |  n  | kabëll optike 
+optical cable assembly |  n  | kabëll 
 optik me konektorë 
-optical character n karakter optik 
-optical character reader [OCR] n 
+optical character |  n  | karakter optik 
+optical character reader [OCR] |  n  | 
 lexues optik i karaktereve 
 [shenjave] 
-optical character reading [OCR] n 
+optical character reading [OCR] |  n  | 
 lexim optik i karaktereve 
 [shenjave] 
 optical character recognition 
-[OCR] n njohje optike e 
+[OCR] |  n  | njohje optike e 
 karaktereve [shenjave] 
  
 optical processing 
-optical communication n 
+optical communication |  n  | 
 komunikim optik 
-optical communications n 
+optical communications |  n  | 
 komunikime optike 
-optical computer n kompjuter optik 
-optical coupler n optoçiftues 
+optical computer |  n  | kompjuter optik 
+optical coupler |  n  | optoçiftues 
 [çiftues optik] 
-optical digital disc n disk optik 
+optical digital disc |  n  | disk optik 
 digjital 
-optical disc n disk optik 
-optical disk storage n memorie me 
+optical disc |  n  | disk optik 
+optical disk storage |  n  | memorie me 
 disk optik 
-optical drive n lexues i diskut optik, 
+optical drive |  n  | lexues i diskut optik, 
 njësi e diskut optik 
-optical encoder n kodues optik 
-optical fiber n fije optike (fibër 
+optical encoder |  n  | kodues optik 
+optical fiber |  n  | fije optike (fibër 
 optike) 
-optical fiber cable n kabllo me fije 
+optical fiber cable |  n  | kabllo me fije 
 optike 
-optical isolation n izolim optik 
-optical isolator n izolator optik 
-optical mark reader [OMR] n 
+optical isolation |  n  | izolim optik 
+optical isolator |  n  | izolator optik 
+optical mark reader [OMR] |  n  | 
 lexues optik i shenjave [simboleve] 
-optical mark reading [OMR] n 
+optical mark reading [OMR] |  n  | 
 lexim optik i shenjave [simboleve] 
-optical mark recognition [OMR] n 
+optical mark recognition [OMR] |  n  | 
 njohje optike e shenjave 
-optical mask n maskë optike 
-optical memory n memorie optike 
-optical mode n mënyrë (ose regjim) 
+optical mask |  n  | maskë optike 
+optical memory |  n  | memorie optike 
+optical mode |  n  | mënyrë (ose regjim) 
 optik 
-optical mouse n mi optik 
-optical processing n përpunim optik 
+optical mouse |  n  | mi optik 
+optical processing |  n  | përpunim optik 
  
-OR n OSE [operacion logjik, 
+OR |  n  | OSE [operacion logjik, 
 operator logjik] 
-OR [operational research] n 
+OR [operational research] |  n  | 
 hulumtim operacional 
-orbit n orbitë 
-ordered pair n çift i renditur 
-ordered set n bashkësi e renditur 
-ordered tree n pemë e renditur 
-ordinal number n numër rendor 
-ordinate n ordinatë [boshti y] 
-orientation n orientim 
-originator n dërgues 
-orphan n jetim [bonjak] 
-orphan file n fajl jetim 
-orthogonal adj kënddrejtë 
-oscillate n lëkundet [oscilon] 
-oscilloscope n oshiloskop 
+orbit |  n  | orbitë 
+ordered pair |  n  | çift i renditur 
+ordered set |  n  | bashkësi e renditur 
+ordered tree |  n  | pemë e renditur 
+ordinal number |  n  | numër rendor 
+ordinate |  n  | ordinatë [boshti y] 
+orientation |  n  | orientim 
+originator |  n  | dërgues 
+orphan |  n  | jetim [bonjak] 
+orphan file |  n  | fajl jetim 
+orthogonal |  adj  | kënddrejtë 
+oscillate |  n  | lëkundet [oscilon] 
+oscilloscope |  n  | oshiloskop 
 OSI [open systems interconnection] 
 abbr ndërlidhje e sistemeve të 
 hapura 
 out of serviceadj jashtë përdorimi 
 [prishur (i)] 
-outdated adj vjetruar (i) 
-output (1) n dalje 
-output (2) n dhënat (të) dalëse 
-overstrike n sipërshtypje 
-overwrite v mbishkruaj 
-ownership n pronësi 
+outdated |  adj  | vjetruar (i) 
+output (1) |  n  | dalje 
+output (2) |  n  | dhënat (të) dalëse 
+overstrike |  n  | sipërshtypje 
+overwrite |  v  | mbishkruaj 
+ownership |  n  | pronësi 
  optical reader 
-optical reader n lexues optik 
-optical recognition n njohje optike 
-optical recognition device n pajisje 
+optical reader |  n  | lexues optik 
+optical recognition |  n  | njohje optike 
+optical recognition device |  n  | pajisje 
  
 191
 për njohje optike 
-optical scanner n skaner optik 
-optical scanning n skanim optik 
-optical storage n memorie optike 
-opticals n efekte vizuale ose efekte 
+optical scanner |  n  | skaner optik 
+optical scanning |  n  | skanim optik 
+optical storage |  n  | memorie optike 
+opticals |  n  | efekte vizuale ose efekte 
 pamore 
-optics n optikë 
-optimization n optimizim 
-optimize n optimizoj 
-optimizer n optimizues 
-optimizing compiler n kompilues 
+optics |  n  | optikë 
+optimization |  n  | optimizim 
+optimize |  n  | optimizoj 
+optimizer |  n  | optimizues 
+optimizing compiler |  n  | kompilues 
 optimizues 
-optimum code n kod optimal 
-optimum programming n 
+optimum code |  n  | kod optimal 
+optimum programming |  n  | 
 programim optimal 
-option v mundësi ose opsion 
-optocoupler n optoçiftues 
-optoelectronic elements n elemente 
+option |  v  | mundësi ose opsion 
+optocoupler |  n  | optoçiftues 
+optoelectronic elements |  n  | elemente 
 optoelektronike 
-optoelectronics n optoelektronikë 
-optoelectronics scanner n skaner 
+optoelectronics |  n  | optoelektronikë 
+optoelectronics scanner |  n  | skaner 
 optoelektronik 
-optoisolator n optoizolator [izolator 
+optoisolator |  n  | optoizolator [izolator 
 optik] 
-optomechanical mouse n mi 
+optomechanical mouse |  n  | mi 
 optomekanik 
-optotronics n optotronikë 
+optotronics |  n  | optotronikë 
 [optoelektronikë] 
  
  
@@ -12484,739 +12454,739 @@ optotronics n optotronikë
  
 192
 P 
-p [peta] abbr p [peta] 
-p [piko] abbr p [piko] 
-P flag [parity flag] n flamur i paritetit 
-P5 abbr P5 [emri që e përdor Intel-i 
+p [peta] abbr |  p  | [peta] 
+p [piko] abbr |  p  | [piko] 
+P flag [parity flag] |  n  | flamur i paritetit 
+P5 |  abbr  | P5 [emri që e përdor Intel-i 
 për mikroprocesorët Pentium] 
-packed adj paketuar (i) 
-packet n paketë 
-packet assembly n asemblim i 
+packed |  adj  | paketuar (i) 
+packet |  n  | paketë 
+packet assembly |  n  | asemblim i 
 paketave 
-packet disassembly n deasemblim i 
+packet disassembly |  n  | deasemblim i 
 paketave 
-packet switching network n rrjet 
+packet switching network |  n  | rrjet 
 me komutim të paketës 
-packet switching system n sistem 
+packet switching system |  n  | sistem 
 me komutim të paketës 
-packing density n dendësi e 
+packing density |  n  | dendësi e 
 paketimit 
-packing routine n rutinë e paketimit 
-page n faqe 
-page v faqos 
-page boundary n kufi i faqes 
-page footer n fund i faqes 
-page number n numër i faqes 
-page zero addressing n adresim i 
+packing routine |  n  | rutinë e paketimit 
+page |  n  | faqe 
+page |  v  | faqos 
+page boundary |  n  | kufi i faqes 
+page footer |  n  | fund i faqes 
+page number |  n  | numër i faqes 
+page zero addressing |  n  | adresim i 
 faqes zero 
-painting n ngjyrosje [lyerje, 
+painting |  n  | ngjyrosje [lyerje, 
 pikturim] 
-pairing n çiftim ose çiftëzim 
-PAL [phase alternate line] abbr 
+pairing |  n  | çiftim ose çiftëzim 
+PAL [phase alternate line] |  abbr  | 
 PAL [sistemi PAL: standard i 
 televizionit me ngjyra] 
-palette (1) n paletë [paletë e 
+palette (1) |  n  | paletë [paletë e 
 ngjyrave] 
-panel n panel 
-paper tape n shirit letre 
-paper tray n sirtar i letrës 
-paper tray linking n lidhje e 
+panel |  n  | panel 
+paper tape |  n  | shirit letre 
+paper tray |  n  | sirtar i letrës 
+paper tray linking |  n  | lidhje e 
 sirtarëve të letrës 
-paperless office n zyrë pa letër 
-paper-white adj bardhë e zi 
-paper-white monitor n monitor 
+paperless office |  n  | zyrë pa letër 
+paper-white |  adj  | bardhë e zi 
+paper-white monitor |  n  | monitor 
 bardhë e zi 
-paradigm n paradigmë 
-paragraph n paragraf 
-parallel adj paralel [i njëkohshëm] 
-parallel access n akses paralel 
-parallel adapter n përshtatës ose 
+paradigm |  n  | paradigmë 
+paragraph |  n  | paragraf 
+parallel |  adj  | paralel [i njëkohshëm] 
+parallel access |  n  | akses paralel 
+parallel adapter |  n  | përshtatës ose 
 adapter paralel 
-parallel adder n mbledhës paralel 
-parallel adition n mbledhje paralele 
+parallel adder |  n  | mbledhës paralel 
+parallel adition |  n  | mbledhje paralele 
  
  parallel algorithm 
-parallel algorithm n algoritëm 
+parallel algorithm |  n  | algoritëm 
 paralel 
-parallel buffer n bufer paralel 
-parallel by character adj paralel 
+parallel buffer |  n  | bufer paralel 
+parallel by character |  adj  | paralel 
 me karakter 
-parallel circuit n qark paralel 
-parallel computation n llogaritje 
+parallel circuit |  n  | qark paralel 
+parallel computation |  n  | llogaritje 
 paralele 
-parallel computer n kompjuter 
+parallel computer |  n  | kompjuter 
 paralel 
-parallel computing n llogaritje 
+parallel computing |  n  | llogaritje 
 paralele 
 Parallel Data Structure [PDS]n 
 strukturë paralele e të dhënave 
-parallel database n bazë e të 
+parallel database |  n  | bazë e të 
 dhënave paralele 
-parallel digital computer n 
+parallel digital computer |  n  | 
 kompjuter digjital paralel 
-parallel execution n ekzekutim 
+parallel execution |  n  | ekzekutim 
 paralel 
-parallel input/output [P I/O] n 
+parallel input/output [P I/O] |  n  | 
 hyrje-dalje paralele 
-parallel interface n ndërfaqe (ose 
+parallel interface |  n  | ndërfaqe (ose 
 interfejs) paralele 
-parallel port n port paralel 
-parallel printer n printer paralel 
-parallel processing n përpunim 
+parallel port |  n  | port paralel 
+parallel printer |  n  | printer paralel 
+parallel processing |  n  | përpunim 
 paralel 
-parallel processor n procesor paralel 
-parallel representation n paraqitje 
+parallel processor |  n  | procesor paralel 
+parallel representation |  n  | paraqitje 
 paralele [prezantim paralel] 
-parallel running n ekzekutim 
+parallel running |  n  | ekzekutim 
 paralel [punë paralele] 
  
  
 193
 pasword 
-parallel search storage n memorie 
+parallel search storage |  n  | memorie 
 me kërkim paralel 
-parallel server n server paralel 
-parallel storage n memorie paralele 
-parallel transfer n transfer paralel 
-parallel transmission n transmetim 
+parallel server |  n  | server paralel 
+parallel storage |  n  | memorie paralele 
+parallel transfer |  n  | transfer paralel 
+parallel transmission |  n  | transmetim 
 paralel 
-parallel-in serial-out [PISO] n hyrje 
+parallel-in serial-out [PISO] |  n  | hyrje 
 paralele – dalje në seri [PISO] 
-parameter n parametër 
-parameter RAM [PRAM] n RAM 
+parameter |  n  | parametër 
+parameter RAM [PRAM] |  n  | RAM 
 parametrik [PRAM] 
-parameter word n fjalë parametrike 
-parameter-driven adj udhëhequr (i) 
+parameter word |  n  | fjalë parametrike 
+parameter-driven |  adj  | udhëhequr (i) 
 me parametra 
-parametric adj parametrik 
-parametric keyframe animation n 
+parametric |  adj  | parametrik 
+parametric keyframe animation |  n  | 
 animacion parametrik me anë të 
 figurave çelës 
-parametric statistics n statistikë 
+parametric statistics |  n  | statistikë 
 parametrike 
-parasitic adj parazitar ose parazit 
-parasitic viruse n virus parazitar 
+parasitic |  adj  | parazitar ose parazit 
+parasitic viruse |  n  | virus parazitar 
 (ose parazit) 
-parent/child adj prind-fëmijë 
-parental right n drejtë (e) 
+parent/child |  adj  | prind-fëmijë 
+parental right |  n  | drejtë (e) 
 prindërore 
-parentheses n kllapa 
-parity n paritet [çiftësi; barazi] 
-parser n analizues i sintaksës 
-partial adj pjesshëm (i) 
-partition n ndarje 
-pasword n fjalëkalimi 
+parentheses |  n  | kllapa 
+parity |  n  | paritet [çiftësi; barazi] 
+parser |  n  | analizues i sintaksës 
+partial |  adj  | pjesshëm (i) 
+partition |  n  | ndarje 
+pasword |  n  | fjalëkalimi 
  pathname 
-pathname n emër i shtegut 
-pattern n model 
-PB [petabyte] abbr PB [petabajt] 
-p-code [pseudocode] n pseudokod 
-peer n pajisje të barabarta 
-peer-to-peer adj barabartë (të) 
-peer-to-peer architecture n 
+pathname |  n  | emër i shtegut 
+pattern |  n  | model 
+PB [petabyte] |  abbr  | PB [petabajt] 
+p-code [pseudocode] |  n  | pseudokod 
+peer |  n  | pajisje të barabarta 
+peer-to-peer |  adj  | barabartë (të) 
+peer-to-peer architecture |  n  | 
 arkitekturë e kompjuterëve të 
 barabartë 
-peer-to-peer communications n 
+peer-to-peer communications |  n  | 
 komunikim i kompjuterëve të 
 barabartë 
-peer-to-peer network n rrjet i 
+peer-to-peer network |  n  | rrjet i 
 kompjuterëve të barabartë 
-pel [picture element] abbr element i 
+pel [picture element] |  abbr  | element i 
 figurës [piksel] 
-pen n penë [laps] 
-pen carriage n mbajtëse e penës 
-pen down v ule penën [instruksion] 
-pen holder n mbajtëse e penës 
-pen movement n zhvendosje e penës 
-pen up v ngrije penën [instruksion] 
-penetration n depërtim 
-Pentium [586; P5] n Pentium 
+pen |  n  | penë [laps] 
+pen carriage |  n  | mbajtëse e penës 
+pen down |  v  | ule penën [instruksion] 
+pen holder |  n  | mbajtëse e penës 
+pen movement |  n  | zhvendosje e penës 
+pen up |  v  | ngrije penën [instruksion] 
+penetration |  n  | depërtim 
+Pentium [586; P5] |  n  | Pentium 
 [mikroprocesor i brezit të pestë i 
 “Intel”-it] 
-Pentium Pro [686; P6] n Pentium 
+Pentium Pro [686; P6] |  n  | Pentium 
 Pro [mikroprocesor i brezit të 
 gjashtë i “Intel”-it; 686; P6] 
-performer n interpretues 
-period n periodë 
-peripheral adj periferik [i jashtëm] 
+performer |  n  | interpretues 
+period |  n  | periodë 
+peripheral |  adj  | periferik [i jashtëm] 
  
  
 194
 PgDnb 
-peripheral device n pajisje 
+peripheral device |  n  | pajisje 
 periferike 
-peripheral equipment n pajime 
+peripheral equipment |  n  | pajime 
 periferike 
-peripheral processor n procesor 
+peripheral processor |  n  | procesor 
 periferik 
-peripheral storage n memorie 
+peripheral storage |  n  | memorie 
 periferike 
-peripheral unit n njësi periferike 
-permanent error n gabim i 
+peripheral unit |  n  | njësi periferike 
+permanent error |  n  | gabim i 
 përhershëm [gabim permanent] 
-permanent swap file n memorie e 
+permanent swap file |  n  | memorie e 
 përhershme ose permanente 
-permanent virtual circuit n qark 
+permanent virtual circuit |  n  | qark 
 virtual i përhershëm ose permanent 
-permission n leje 
-permutation n permutacion 
-perpendicular recording n 
+permission |  n  | leje 
+permutation |  n  | permutacion 
+perpendicular recording |  n  | 
 regjistrim vertikal (ose pingul) 
-persistance n persistencë [vazhdim] 
-personal computer [PC] n 
+persistance |  n  | persistencë [vazhdim] 
+personal computer [PC] |  n  | 
 kompjuter personal [PC] 
-personal digital assistant n 
+personal digital assistant |  n  | 
 asistent digjital personal 
-personalize v personalizoj ose 
+personalize |  v  | personalizoj ose 
 individualizoj [vetësoj] 
 peta [= 1015; 250] pref peta [= 1015; 
 250] 
-petabit [Pb] n petabit [= 250 b] 
-petabyte [PB] n petabajt [=250 B] 
-petahertz [PHz] n petaherc [=1015 
+petabit [Pb] |  n  | petabit [= 250 b] 
+petabyte [PB] |  n  | petabajt [=250 B] 
+petahertz [PHz] |  n  | petaherc [=1015 
 Hz, një kuadrilon herc] 
-PgDnb abbr një faqe (dritare) më 
+PgDnb |  abbr  | një faqe (dritare) më 
 poshtë 
  PgUp 
-PgUp [Page Up] abbr një faqe 
+PgUp [Page Up] |  abbr  | një faqe 
 (dritare) më lartë 
  
 195
 pirate 
-physical record n regjistrim fizik 
-physical risk n rrezik fizik 
-physical storage n memorie fizike 
-physical threat (1) n kërcënim fizik 
-physical threat (2) n kërcënim 
+physical record |  n  | regjistrim fizik 
+physical risk |  n  | rrezik fizik 
+physical storage |  n  | memorie fizike 
+physical threat (1) |  n  | kërcënim fizik 
+physical threat (2) |  n  | kërcënim 
 natyror 
-physics n fizikë 
+physics |  n  | fizikë 
 pico- [p, 10–12] pref piko- [p, 10–12] 
-picoJava n picoJava [mikroprocesor 
+picoJava |  n  | picoJava [mikroprocesor 
 i prodhuesit Sun Microsystems 
 Inc.] 
-picosecond [psec] n pikosekondë 
-picture cell n pikselë [qelizë ose 
+picosecond [psec] |  n  | pikosekondë 
+picture cell |  n  | pikselë [qelizë ose 
 element i figurës] 
-picture element n element i 
+picture element |  n  | element i 
 figurës [piksel] 
-picture tube n gyp katodik [ekran 
+picture tube |  n  | gyp katodik [ekran 
 i televizorit] 
-pie chart n diagram rrethor 
-pie graph n diagram rrethor 
-piezoelectric adj piezoelektrik 
-pin n këmbëz (konektori) [thumb] 
+pie chart |  n  | diagram rrethor 
+pie graph |  n  | diagram rrethor 
+piezoelectric |  adj  | piezoelektrik 
+pin |  n  | këmbëz (konektori) [thumb] 
 PIN [Personal Identification 
-Number] abbr PIN [numër 
+Number] |  abbr  | PIN [numër 
 personal i identifikimit] 
-pin diagram n diagram i këmbëzave 
-pin functions n funksione të 
+pin diagram |  n  | diagram i këmbëzave 
+pin functions |  n  | funksione të 
 këmbëzave 
-pinout diagram n diagram i 
+pinout diagram |  n  | diagram i 
 këmbëzave 
-pipeline n tuburë ose tubacion 
-pirate n piratim 
-phase n fazë 
-phase alternate line [PAL] n PAL 
+pipeline |  n  | tuburë ose tubacion 
+pirate |  n  | piratim 
+phase |  n  | fazë 
+phase alternate line [PAL] |  n  | PAL 
 [standard i televizionit me ngjyra] 
-phase encoding [PE] n kodim në 
+phase encoding [PE] |  n  | kodim në 
 fazë [PE] 
-phase modulation [PM] n modulim 
+phase modulation [PM] |  n  | modulim 
 në fazë [PM] 
-phone [telephone] n telefon 
-phone connector n lidhëzor (ose 
+phone [telephone] |  n  | telefon 
+phone connector |  n  | lidhëzor (ose 
 konektor) telefoni 
-phoneme n fonemë [njësia më e 
+phoneme |  n  | fonemë [njësia më e 
 vogël e të folurit, në të cilën 
 mbështetet të folurit kompjuterik] 
-phonetic system n sistem fonetik 
-phosphor n fosfor [P] 
-photo cell n fotoqelizë 
-photoconductor n fotopërçues 
-photodiode n fotodiodë 
-photolitography n fotolitografi 
-photomask n fotomaskë 
-photoresist n fotorezist 
-photosensor n fotosensor 
-phototransistor n fototransistor 
-phototypesetter n fotoshtypës 
-physical n fizik [real, material] 
-physical disk drive n disk real [disk 
+phonetic system |  n  | sistem fonetik 
+phosphor |  n  | fosfor [P] 
+photo cell |  n  | fotoqelizë 
+photoconductor |  n  | fotopërçues 
+photodiode |  n  | fotodiodë 
+photolitography |  n  | fotolitografi 
+photomask |  n  | fotomaskë 
+photoresist |  n  | fotorezist 
+photosensor |  n  | fotosensor 
+phototransistor |  n  | fototransistor 
+phototypesetter |  n  | fotoshtypës 
+physical |  n  | fizik [real, material] 
+physical disk drive |  n  | disk real [disk 
 fizik] 
-physical layer n shtresë fizike 
+physical layer |  n  | shtresë fizike 
 [shtresa e parë] 
-physical memory n memorie fizike 
+physical memory |  n  | memorie fizike 
  
  pixel 
  
 196
-pixel [picture element] n pikselë 
+pixel [picture element] |  n  | pikselë 
 [element i figurës] 
 polymorphism 
-point of sale [POS] n pikë e 
+point of sale [POS] |  n  | pikë e 
 shitjes [POS] 
-planar adj planar [i rrafshët] 
-planar transistor n transistor planar 
+planar |  adj  | planar [i rrafshët] 
+planar transistor |  n  | transistor planar 
 [i rrafshët] 
-plasma n plazmë 
-plasma display n ekran [displej] 
+plasma |  n  | plazmë 
+plasma display |  n  | ekran [displej] 
 plazma 
-plasma panel n ekran [panel] 
+plasma panel |  n  | ekran [panel] 
 plazma 
-platform n platformë 
-plus [+] n plus [shenja +] 
-PM [Phase Modulation] abbr PM 
+platform |  n  | platformë 
+plus [+] |  n  | plus [shenja +] 
+PM [Phase Modulation] |  abbr  | PM 
 [modulim i fazës, modulim në fazë] 
-P-machine [pseudomachine] n 
+P-machine [pseudomachine] |  n  | 
 pseudomakinë 
 PMOS [P-channel Metal-Oxide 
-Semiconductor] abbr PMOS 
+Semiconductor] |  abbr  | PMOS 
 [transistor MOS me kanal P] 
-PMOS [P–Channel MOS] abbr 
+PMOS [P–Channel MOS] |  abbr  | 
 PMOS [transistor MOS me kanal 
 p] 
-PNP abbr transistor PNP 
-PNP transistor n transistor PNP 
-pocket computer [PC] n 
+PNP |  abbr  | transistor PNP 
+PNP transistor |  n  | transistor PNP 
+pocket computer [PC] |  n  | 
 kompjuter xhepi 
-point (1) n pikë 
-point (1) n pikë tipografike 
-point and click n shënoj dhe 
+point (1) |  n  | pikë 
+point (1) |  n  | pikë tipografike 
+point and click |  n  | shënoj dhe 
 klikoj (shkrep) 
-point and shoot n shënoj dhe qëlloj 
-point of presence [POP] n pikë e 
+point and shoot |  n  | shënoj dhe qëlloj 
+point of presence [POP] |  n  | pikë e 
 pranisë (ose prezencës) [lidhjes] 
 [POP] 
  
-point of sale printer n printer i 
+point of sale printer |  n  | printer i 
 pikës shitëse 
-pointer (1) n tregues ose pointer ose 
+pointer (1) |  n  | tregues ose pointer ose 
 shënjues ose pikatës 
-point-to-point adj nga-pika-në-pikë 
+point-to-point |  adj  | nga-pika-në-pikë 
 [pikë-më-pikë] 
-point-to-point linking n lidhje nga-
+point-to-point linking |  n  | lidhje nga-
 pika-në-pikë [lidhje pikë-më-pikë] 
-point-to-point protocol [PPP] n 
+point-to-point protocol [PPP] |  n  | 
 protokoll nga-pika-në-pikë 
-Poisson distribution n shpërndarje 
+Poisson distribution |  n  | shpërndarje 
 (ose distribucion) e Puasonit 
-polar coordinates n koordinata 
+polar coordinates |  n  | koordinata 
 polare 
-polarity n polaritet 
-polarization n polarizim 
-polarized component n 
+polarity |  n  | polaritet 
+polarization |  n  | polarizim 
+polarized component |  n  | 
 komponente e polarizuar (ose 
 përbërës i polarizuar) 
-polarizing filter n filtër polarizues 
-policy n parim drejtues [linjë 
+polarizing filter |  n  | filtër polarizues 
+policy |  n  | parim drejtues [linjë 
 veprimi] 
-poligon n shumëkëndësh 
-polimorphism n polimorfizëm 
-Polish notation n shënim polak 
+poligon |  n  | shumëkëndësh 
+polimorphism |  n  | polimorfizëm 
+Polish notation |  n  | shënim polak 
 [shënim parashtesor] 
-poll n sondazh [anketë] 
-polygon n shumëkëndësh [poligon] 
-polygon mesh n shumëkëndëzim 
-polyhedron n shumëfaqësh [poliedër] 
-polymorphism n polimorfizëm 
+poll |  n  | sondazh [anketë] 
+polygon |  n  | shumëkëndësh [poligon] 
+polygon mesh |  n  | shumëkëndëzim 
+polyhedron |  n  | shumëfaqësh [poliedër] 
+polymorphism |  n  | polimorfizëm 
  polynom 
-polynom n polinom 
-polynomial equation n ekuacion 
+polynom |  n  | polinom 
+polynomial equation |  n  | ekuacion 
  
 197
 polinomial 
-polynomial number n numër 
+polynomial number |  n  | numër 
 polinomial 
-polynomial space n hapësirë 
+polynomial space |  n  | hapësirë 
 polinomial 
-portable adj bartshëm (i) [portabël] 
-portable computer [PC] n 
+portable |  adj  | bartshëm (i) [portabël] 
+portable computer [PC] |  n  | 
 kompjuter i bartshëm [portabël] 
-portable electronic document n 
+portable electronic document |  n  | 
 dokument elektronik i bartshëm 
 [portabël] 
-portal n portal 
+portal |  n  | portal 
 portrait adv për së gjati 
-portrait n portret 
-portrait orientation n orientim 
+portrait |  n  | portret 
+portrait orientation |  n  | orientim 
 portret, orientim vertikal 
-POS [Point Of Sale] abbr pikë e 
+POS [Point Of Sale] |  abbr  | pikë e 
 shitjes 
 POS terminal [Point Of Sale 
-terminal] n terminal i pikës shitëse 
-positional adj pozicional 
-positional numeral system n 
+terminal] |  n  | terminal i pikës shitëse 
+positional |  adj  | pozicional 
+positional numeral system |  n  | 
 sistem numerik pozicional 
-positional system n sistem 
+positional system |  n  | sistem 
 pozicional 
-positional-independent code n 
+positional-independent code |  n  | 
 kod i pavarur nga pozicioni 
-positioning n pozicionim 
-positive (1) adj pozitiv 
-positive (2) adj pohues 
+positioning |  n  | pozicionim 
+positive (1) |  adj  | pozitiv 
+positive (2) |  adj  | pohues 
  
 PPM 
-positive acknowledgement n 
+positive acknowledgement |  n  | 
 pohim pranimi [vërtetim pozitiv] 
-positive logia n logjikë pozitive 
-positive zero n zero pozitive 
-positivism n pozitivizëm 
-postal n postar 
-postal code n kod postar 
-postfix (1) n prapashtesë 
-postfix (2) n shënim prapashtesor 
-postfix notation n shënim 
+positive logia |  n  | logjikë pozitive 
+positive zero |  n  | zero pozitive 
+positivism |  n  | pozitivizëm 
+postal |  n  | postar 
+postal code |  n  | kod postar 
+postfix (1) |  n  | prapashtesë 
+postfix (2) |  n  | shënim prapashtesor 
+postfix notation |  n  | shënim 
 prapashtesor 
-postindexing n postindeksimi 
-postmortem adj pas ndërprerjes 
+postindexing |  n  | postindeksimi 
+postmortem |  adj  | pas ndërprerjes 
 [pas fundit] 
-postmortem dump n shfletim i 
+postmortem dump |  n  | shfletim i 
 memories pas ndërprerjes 
-postmortem routine n rutinë pas 
+postmortem routine |  n  | rutinë pas 
 ndërprerjes 
-postprocessor n postprocesor 
-postulate n postulat 
-pot [potenciometer] n potenciometër 
-potential n potencial 
-potentiometer n potenciometër 
-power (1) n fuqi (fiz.) 
-power (1) n fuqi (mat.) 
-power consuming n konsumim i 
+postprocessor |  n  | postprocesor 
+postulate |  n  | postulat 
+pot [potenciometer] |  n  | potenciometër 
+potential |  n  | potencial 
+potentiometer |  n  | potenciometër 
+power (1) |  n  | fuqi (fiz.) 
+power (1) |  n  | fuqi (mat.) 
+power consuming |  n  | konsumim i 
 energjisë elektrike 
-power consumptiom n konsum i 
+power consumptiom |  n  | konsum i 
 energjisë elektrike 
-PPM [pages per minute] abbr faqe 
+PPM [pages per minute] |  abbr  | faqe 
 për minutë 
  ppm 
-ppm [pages per minute] abbr faqe 
+ppm [pages per minute] |  abbr  | faqe 
 për minutë 
  
 198
 primitive data type 
-presentation n paraqitje 
-primary adj parësor [primar] 
-primary accumulator n akumulator 
+presentation |  n  | paraqitje 
+primary |  adj  | parësor [primar] 
+primary accumulator |  n  | akumulator 
 primar 
-primary channel n kanal parësor 
+primary channel |  n  | kanal parësor 
 (ose primar) 
-primary color n ngjyrë parësore 
+primary color |  n  | ngjyrë parësore 
 (ose primare) [e kuqe, e kaltër, e 
 gjelbër; e rimtë, e purpurt, e 
 verdhë] 
-primary copy n kopje parësore ose 
+primary copy |  n  | kopje parësore ose 
 primare 
-primary detector n detektor 
+primary detector |  n  | detektor 
 parësor (ose primar) 
-primary key n çelës parësor (ose 
+primary key |  n  | çelës parësor (ose 
 primar) 
-primary link n lidhje parësore 
+primary link |  n  | lidhje parësore 
 (ose primare) 
-primary memory n memorie 
+primary memory |  n  | memorie 
 parësore (ose primare) 
-primary move n zhvendosje 
+primary move |  n  | zhvendosje 
 parësore (ose primare) 
-primary selection n përzgjedhje 
+primary selection |  n  | përzgjedhje 
 parësore (ose primare) 
-primary sensing element n element 
+primary sensing element |  n  | element 
 ndjesor parësor (ose primar) 
-primary storage n memorie 
+primary storage |  n  | memorie 
 parësore (ose primare) 
-primary transfer n transfer parësor 
+primary transfer |  n  | transfer parësor 
 (ose primar) 
-primary window n dritare 
+primary window |  n  | dritare 
 parësore (ose primare) 
-primitive data type n tip fillestar 
+primitive data type |  n  | tip fillestar 
 (primitiv) i të dhënave 
-PPP [point-to-point protocol] abbr 
+PPP [point-to-point protocol] |  abbr  | 
 protokolli nga-pika-në-pikë 
-pragmatism n pragmatizëm 
-precision n saktësi 
-precoding n parakodim 
-precondition n parakusht 
-predetermined address n adresë 
+pragmatism |  n  | pragmatizëm 
+precision |  n  | saktësi 
+precoding |  n  | parakodim 
+precondition |  n  | parakusht 
+predetermined address |  n  | adresë 
 e parapërcaktuar 
-predicate n kallëzues [simbol 
+predicate |  n  | kallëzues [simbol 
 predikativ] 
-predicate calculus n njehsim 
+predicate calculus |  n  | njehsim 
 predikativ 
-pre-emptive adj parandalues; 
+pre-emptive |  adj  | parandalues; 
 mbrojtës 
-preference n parapëlqim, 
+preference |  n  | parapëlqim, 
 preferencë 
-preferred mode n mënyrë e 
+preferred mode |  n  | mënyrë e 
 parapëlqyer 
-prefix n parashtesë 
-prefix code n kod parashtesor 
-premise n premisë 
-prepared code page n faqe e 
+prefix |  n  | parashtesë 
+prefix code |  n  | kod parashtesor 
+premise |  n  | premisë 
+prepared code page |  n  | faqe e 
 përgatitur e kodit 
-prescription n rekomandim 
+prescription |  n  | rekomandim 
 [urdhër, rregull] 
-present adj tanishëm (i), aktual, 
+present |  adj  | tanishëm (i), aktual, 
 vijues 
-present page addressing n 
+present page addressing |  n  | 
 adresim i faqes së tanishme 
-present value [PV] n vlerë e 
+present value [PV] |  n  | vlerë e 
 tanishme 
  
  primitive recursive function 
-primitive recursive function n 
+primitive recursive function |  n  | 
 funksion rekursiv fillestar 
-principle n parim 
-print n shtyp 
-print v shtyp [printoj] 
-print color n ngjyrat e shtypit 
-print density n dendësia e shtypit 
-print quality n cilësi e shtypjes 
+principle |  n  | parim 
+print |  n  | shtyp 
+print |  v  | shtyp [printoj] 
+print color |  n  | ngjyrat e shtypit 
+print density |  n  | dendësia e shtypit 
+print quality |  n  | cilësi e shtypjes 
 (ose printimit) 
-print queue n radhë e shtypjes (ose 
+print queue |  n  | radhë e shtypjes (ose 
 printimit) 
-print rewiew n pamje para shtypjes 
+print rewiew |  n  | pamje para shtypjes 
 (ose printimit) [parapamje] 
-print screen v shtyp përmbajtjen e 
+print screen |  v  | shtyp përmbajtjen e 
 ekranit 
-print space n hapësira për shtypje 
-print speed n shpejtësi e shtypjes [e 
+print space |  n  | hapësira për shtypje 
+print speed |  n  | shpejtësi e shtypjes [e 
 printimit] 
-printed board n pllakë e shtypur 
-printed circuit [PC] n qark (elektrik) 
+printed board |  n  | pllakë e shtypur 
+printed circuit [PC] |  n  | qark (elektrik) 
 i shtypur 
-printed circuit board [PC board] n 
+printed circuit board [PC board] |  n  | 
 pllakë e qarkut të shtypur 
-printer command n urdhër shtypësi 
-printer server n server i shtypësit 
+printer command |  n  | urdhër shtypësi 
+printer server |  n  | server i shtypësit 
 [printerit] 
-printing n shtypje (printim) 
-priority indicator n indikator i 
+printing |  n  | shtypje (printim) 
+priority indicator |  n  | indikator i 
 prioritetit 
-priority interrupt n ndërprerje për 
+priority interrupt |  n  | ndërprerje për 
 prioritet 
-priority phase n fazë e prioritetit 
+priority phase |  n  | fazë e prioritetit 
  
  
 199
 procedure 
-priority processing n përpunimi 
+priority processing |  n  | përpunimi 
 me prioritet 
 private automatic branch exchange 
-[PABX] n central telefonik 
+[PABX] |  n  | central telefonik 
 automatik 
-private channel n kanal privat 
-private network n rrjet privat 
-privatization n privatizim 
-privilege n privilegj 
-privileged instruction n 
+private channel |  n  | kanal privat 
+private network |  n  | rrjet privat 
+privatization |  n  | privatizim 
+privilege |  n  | privilegj 
+privileged instruction |  n  | 
 instruksion i privilegjuar 
-privileges n privilegjet 
-probability n probabilitet ose gjasë 
-probability theory n teori e 
+privileges |  n  | privilegjet 
+probability |  n  | probabilitet ose gjasë 
+probability theory |  n  | teori e 
 probabilitet (gjasës) 
-problem n problem 
-problem check n kontrollimi i 
+problem |  n  | problem 
+problem check |  n  | kontrollimi i 
 problemit 
-problem definition n përkufizim i 
+problem definition |  n  | përkufizim i 
 problemit 
-problem description n përshkrim 
+problem description |  n  | përshkrim 
 i problemit 
-problem file n fajl i problemit 
-problem folder n folder i problemit 
-problem mode n mënyrë e problemit 
-problem solving n zgjidhje e 
+problem file |  n  | fajl i problemit 
+problem folder |  n  | folder i problemit 
+problem mode |  n  | mënyrë e problemit 
+problem solving |  n  | zgjidhje e 
 problemit 
-procedural programming n 
+procedural programming |  n  | 
 programim procedural 
 procedural–oriented language 
-[POL] n gjuhë e orientuar në 
+[POL] |  n  | gjuhë e orientuar në 
 procedura 
-procedure n procedurë 
+procedure |  n  | procedurë 
  
 200
  process 
-process v përpunoj [trajtoj] 
-process n proces 
-process control n kontroll i procesit 
-process-bound adj kufizuar (i) 
+process |  v  | përpunoj [trajtoj] 
+process |  n  | proces 
+process control |  n  | kontroll i procesit 
+process-bound |  adj  | kufizuar (i) 
 me përpunimin 
-processing n përpunim [trajtim] 
-processing interrupt n ndërprerje 
+processing |  n  | përpunim [trajtim] 
+processing interrupt |  n  | ndërprerje 
 e përpunimit 
-processing section n sektor i 
+processing section |  n  | sektor i 
 përpunimit 
-process-limited n kufizuar (i) me 
+process-limited |  n  | kufizuar (i) me 
 përpunimin 
-processor n procesor [njësi qendrore 
+processor |  n  | procesor [njësi qendrore 
 e përpunimit] 
-product (1) n produkt 
-product (2) n prodhim [mat.] 
-production n prodhim 
-production rules n rregulla të 
+product (1) |  n  | produkt 
+product (2) |  n  | prodhim [mat.] 
+production |  n  | prodhim 
+production rules |  n  | rregulla të 
 prodhimit 
-production system n sistem i 
+production system |  n  | sistem i 
 prodhimit 
-productivity n prodhimtari 
-professional adj profesional 
-professional n profesionist [njeri i 
+productivity |  n  | prodhimtari 
+professional |  adj  | profesional 
+professional |  n  | profesionist [njeri i 
 zanatit] 
-program n program 
-program v programoj 
-program branching n degëzim i 
+program |  n  | program 
+program |  v  | programoj 
+program branching |  n  | degëzim i 
 programit 
-program check n kontrollim i 
+program check |  n  | kontrollim i 
 programit 
-program correctnes proof n 
+program correctnes proof |  n  | 
 vërtetim i saktësisë së programit 
  
 program proving 
-program counter n numërues i 
+program counter |  n  | numërues i 
 programit [numërues i 
 instruksioneve] 
-program counter [PC] n numërues 
+program counter [PC] |  n  | numërues 
 programi 
-program creation n krijim i 
+program creation |  n  | krijim i 
 programit 
-program development steps n 
+program development steps |  n  | 
 hapa të zhvillimit të programit 
-program development system n 
+program development system |  n  | 
 sistem i zhvillimit të programit 
-program development time n 
+program development time |  n  | 
 kohë e zhvillimit të programit 
-program editor n editor i programit 
-program element n element i 
+program editor |  n  | editor i programit 
+program element |  n  | element i 
 programit 
 program evaluation and review 
-technique [PERT] n teknikë e 
+technique [PERT] |  n  | teknikë e 
 vlerësimit dhe rishikimit (ose 
 kontrollit) të programit [teknika 
 PERT] 
-program library n bibliotekë e 
+program library |  n  | bibliotekë e 
 programeve 
-program listing n listim (ose 
+program listing |  n  | listim (ose 
 listing) i programit 
-program logic n logjikë e programit 
-program maintenance n 
+program logic |  n  | logjikë e programit 
+program maintenance |  n  | 
 mirëmbajtje e programit 
-program memory n memorie 
+program memory |  n  | memorie 
 programi 
-program module n modul programi 
-program parameter n parametër 
+program module |  n  | modul programi 
+program parameter |  n  | parametër 
 programi 
-program proving n verifikim i 
+program proving |  n  | verifikim i 
 programit 
  program register 
-program register n regjistër i 
+program register |  n  | regjistër i 
 programit 
-program spacification n 
+program spacification |  n  | 
 specifikim i programit 
-program state n gjendje e programit 
-program statement n urdhër 
+program state |  n  | gjendje e programit 
+program statement |  n  | urdhër 
 programi 
-program storage n memorie e 
+program storage |  n  | memorie e 
 programit 
-program structure n strukturë e 
+program structure |  n  | strukturë e 
 programit 
-program synthesis n sintezë e 
+program synthesis |  n  | sintezë e 
 programit 
-program testing n testim i programit 
-program verification n verifikim i 
+program testing |  n  | testim i programit 
+program verification |  n  | verifikim i 
 programit 
-programmable adj 
+programmable |  adj  | 
 programueshëm (i) 
-programmable device n pajisje e 
+programmable device |  n  | pajisje e 
 programueshme 
 programmable peripheral 
-interface [PPI] n ndërfaqe (ose 
+interface [PPI] |  n  | ndërfaqe (ose 
 interfejs) periferike e 
 programueshme [PPI] 
 programmable read-only memory 
-[PROM] n memorie e 
+[PROM] |  n  | memorie e 
 programueshme vetëm për lexim 
 [memorie ROM e programueshme; 
 PROM] 
-programmed I/O n hyrje–dalje e 
+programmed I/O |  n  | hyrje–dalje e 
 programueshme 
-programmed input/output n 
+programmed input/output |  n  | 
 hyrje-dalje e programueshme 
-programming standards n 
+programming standards |  n  | 
 standarde të programimit 
  
  
 201
 pseudo- 
-programming theory n teori e 
+programming theory |  n  | teori e 
 programimit 
-progress-indicator n tregues 
+progress-indicator |  n  | tregues 
 përparimi 
-project n projekt 
-PROM [Programmable ROM] abbr 
+project |  n  | projekt 
+PROM [Programmable ROM] |  abbr  | 
 PROM [ROM i programueshëm] 
-proof n vërtetim 
-propagation n përhapje 
-propagation delay n vonesë e 
+proof |  n  | vërtetim 
+propagation |  n  | përhapje 
+propagation delay |  n  | vonesë e 
 përhapjes 
-property n veti 
-property detector n detektor i vetive 
-property list n listë e vetive 
-property sheet n fletë e vetive 
-proportion n përpjesëtim 
+property |  n  | veti 
+property detector |  n  | detektor i vetive 
+property list |  n  | listë e vetive 
+property sheet |  n  | fletë e vetive 
+proportion |  n  | përpjesëtim 
 [proporcion] 
-proporcional n përpjesëtimor 
+proporcional |  n  | përpjesëtimor 
 [proporcional] 
-proportional font n font 
+proportional font |  n  | font 
 përpjesëtimor [proporcional] 
-proposed standard n standard i 
+proposed standard |  n  | standard i 
 propozuar 
-protected memory n memorie e 
+protected memory |  n  | memorie e 
 mbrojtur 
-protection n mbrojtje 
-protocol n protokoll 
-protocol hierarchy n hierarki e 
+protection |  n  | mbrojtje 
+protocol |  n  | protokoll 
+protocol hierarchy |  n  | hierarki e 
 protokollit 
-Prt Sc [print screen] abbr Prt Sc 
+Prt Sc [print screen] |  abbr  | Prt Sc 
 [shtype përmbajtjen e ekranit] 
-psec [picosecond] n pikosekondë 
+psec [picosecond] |  n  | pikosekondë 
 pseudo- pref pseudo- [i rremë] 
  pseudocode 
-pseudocode n pseudokod 
-pseudocomputer n 
+pseudocode |  n  | pseudokod 
+pseudocomputer |  n  | 
 pseudokompjuter 
-pseudoinstruction n 
+pseudoinstruction |  n  | 
 pseudoinstruksion 
-pseudolanguage n pseudogjuhë 
-pseudomachine n pseudomakinë 
-pseudo-op [pseudo-operation] n 
+pseudolanguage |  n  | pseudogjuhë 
+pseudomachine |  n  | pseudomakinë 
+pseudo-op [pseudo-operation] |  n  | 
 pseudooperacion 
-pseudo-operation [pseudo-op] n 
+pseudo-operation [pseudo-op] |  n  | 
 pseudooperacion 
-pseudo-random adj 
+pseudo-random |  adj  | 
 pseudorastësishëm (i) 
  
 202
  
-p-system [pseudosystem] n 
+p-system [pseudosystem] |  n  | 
 pseudosistem 
-P-type semiconductor n 
+P-type semiconductor |  n  | 
 gjysmëpërçues i tipit P 
-pub n publik 
-public adj publik 
-public data n dhëna (të) publike 
-public data network [PDN] n 
+pub |  n  | publik 
+public |  adj  | publik 
+public data |  n  | dhëna (të) publike 
+public data network [PDN] |  n  | 
 rrjet publik i të dhënave 
-public domain n domen publik 
+public domain |  n  | domen publik 
 [pronësi publike] 
-public domain software n softuer i 
+public domain software |  n  | softuer i 
 domenit publik 
-pseudorandom numbers n 
+pseudorandom numbers |  n  | 
 numra pseudo të rastit 
-public key n çelës publik (i 
+public key |  n  | çelës publik (i 
 shifrimit) 
-public line n linjë publike 
-public network n rrjet publik 
-publication n botim [publikim] 
-publish v botoj [publikoj] 
-pulse train n varg impulsesh 
+public line |  n  | linjë publike 
+public network |  n  | rrjet publik 
+publication |  n  | botim [publikim] 
+publish |  v  | botoj [publikoj] 
+pulse train |  n  | varg impulsesh 
 pseudorandom-number generator 
 n gjenerator i numrave të 
 pseudorastësishëm 
-pseudosystem [p-system] n 
+pseudosystem [p-system] |  n  | 
 pseudosistem 
  
  
@@ -13229,32 +13199,32 @@ pseudosistem
  
 203
 Q 
-quad word n fjalë e katërfishtë 
-quadbit n bit i katërfishtë 
-quadratic adj katror ose kuadratik 
-quadratic programming n 
+quad word |  n  | fjalë e katërfishtë 
+quadbit |  n  | bit i katërfishtë 
+quadratic |  adj  | katror ose kuadratik 
+quadratic programming |  n  | 
 programim katror (ose kuadratik) 
-qualifier n kualifikator 
-quality control n kontroll i 
+qualifier |  n  | kualifikator 
+quality control |  n  | kontroll i 
 cilësisë [kualitetit] 
-quantifiers n kuantifikuesit 
-quantity of information n sasi e 
+quantifiers |  n  | kuantifikuesit 
+quantity of information |  n  | sasi e 
 informacionit 
-quantization n kuantizim 
-quantization error n gabim i 
+quantization |  n  | kuantizim 
+quantization error |  n  | gabim i 
 kuantizimit 
-quantization noise n zhurmë e 
+quantization noise |  n  | zhurmë e 
 kuantizimit 
-quantize v kuantizim 
-quantizer n kuantizues 
-quartz crystal n kristal kuarci 
-quaternary adj katërsor 
+quantize |  v  | kuantizim 
+quantizer |  n  | kuantizues 
+quartz crystal |  n  | kristal kuarci 
+quaternary |  adj  | katërsor 
 (kuaternar) 
-QUERTY keyboard n tastierë 
+QUERTY keyboard |  n  | tastierë 
 QUERTY 
-query processing n përpunim i 
+query processing |  n  | përpunim i 
 pyetjeve 
-questionnaire n pyetësor 
+questionnaire |  n  | pyetësor 
  
  
  
@@ -13266,318 +13236,318 @@ questionnaire n pyetësor
  
 204
 R 
-radian n radian 
-radix n rrënjë 
-radix complement n komplement 
+radian |  n  | radian 
+radix |  n  | rrënjë 
+radix complement |  n  | komplement 
 (ose plotës) i bazës 
 RAM [Random-Access Memory] 
 abbr RAM (memorie me akses të 
 rastësishëm] 
-random adj rastësishëm (i) [rastit 
+random |  adj  | rastësishëm (i) [rastit 
 (i)] 
-random access method n metodë 
+random access method |  n  | metodë 
 e aksesit të rastësishëm 
-random algorithm n algoritëm i 
+random algorithm |  n  | algoritëm i 
 rastësishëm 
-random error n gabim i rastit 
-range swipe selection n përzgjedhje 
+random error |  n  | gabim i rastit 
+range swipe selection |  n  | përzgjedhje 
 me shënim 
-rate (1) n përqindje 
-rate (1) n prurje [debit] 
-rate (2) n shpejtësi 
-reachable n arritshëm (i) 
+rate (1) |  n  | përqindje 
+rate (1) |  n  | prurje [debit] 
+rate (2) |  n  | shpejtësi 
+reachable |  n  | arritshëm (i) 
 [kapshëm (i)] 
-reactivation n riaktivizim 
-read v lexoj 
+reactivation |  n  | riaktivizim 
+read |  v  | lexoj 
 read aborted ph leximi i ndërprerë 
 [leximi është ndërprerë] 
-read device n pajisje leximi 
+read device |  n  | pajisje leximi 
  
-read options n mundësi (ose 
+read options |  n  | mundësi (ose 
 opsione) leximi 
-read process n proces i leximit 
+read process |  n  | proces i leximit 
 read tracks ph lexo gjurmët (ose 
 shtigjet) 
-readable adj lexueshëm (i) 
-read-access time n kohë e aksesit 
+readable |  adj  | lexueshëm (i) 
+read-access time |  n  | kohë e aksesit 
 për lexim 
-reader n lexues 
-read-error n gabim leximi 
-read-only storage [ROS] n memorie 
+reader |  n  | lexues 
+read-error |  n  | gabim leximi 
+read-only storage [ROS] |  n  | memorie 
 vetëm për lexim 
-read-only terminal n terminal 
+read-only terminal |  n  | terminal 
 vetëm për lexim 
-read-only text n tekst vetëm për 
+read-only text |  n  | tekst vetëm për 
 lexim [që nuk mund të ndryshohet] 
-read-write head n kokë për lexim-
+read-write head |  n  | kokë për lexim-
 shkrim 
-real n real 
-real time n kohë reale 
-real-time data processing n 
+real |  n  | real 
+real time |  n  | kohë reale 
+real-time data processing |  n  | 
 përpunim i të dhënave në kohë 
 reale 
-real-time input n hyrje në kohë 
+real-time input |  n  | hyrje në kohë 
 reale 
 real-time output 
  
 205
-real-time output n dalje në kohë 
+real-time output |  n  | dalje në kohë 
 reale 
-real-time processing n përpunim 
+real-time processing |  n  | përpunim 
 në kohë reale 
-real-time program n program i 
+real-time program |  n  | program i 
 kohës reale 
-real-time programming n 
+real-time programming |  n  | 
 programim në kohë reale 
-real-time system n sistem në 
+real-time system |  n  | sistem në 
 kohë reale 
-real-time testing n testim në kohë 
+real-time testing |  n  | testim në kohë 
 reale 
-recalculation n rillogaritje 
-receipt notification n njoftim për 
+recalculation |  n  | rillogaritje 
+receipt notification |  n  | njoftim për 
 pranimin 
-receiver n marrës 
-recently used v përdorur (i) së fundi 
-recharge the batteries n rimbush 
+receiver |  n  | marrës 
+recently used |  v  | përdorur (i) së fundi 
+recharge the batteries |  n  | rimbush 
 (ose ringarkoj) bateritë 
-recipient n marrësi (i një letre etj.) 
+recipient |  n  | marrësi (i një letre etj.) 
 [i adresuari] 
-record v regjistroj 
-record (1) n regjistresë 
-record (2) n regjistrim 
-recordable adj regjistrueshëm (i) 
-recording n regjistrim 
-recording density n dendësi e 
+record |  v  | regjistroj 
+record (1) |  n  | regjistresë 
+record (2) |  n  | regjistrim 
+recordable |  adj  | regjistrueshëm (i) 
+recording |  n  | regjistrim 
+recording density |  n  | dendësi e 
 regjistrimit 
-rectangle n drejtkëndësh 
+rectangle |  n  | drejtkëndësh 
 reding data track ph leximi i 
 gjurmës së të dhënave 
-redirect n riorientoj [ridrejtoj] 
-redundance n redundancë 
+redirect |  n  | riorientoj [ridrejtoj] 
+redundance |  n  | redundancë 
  
 register 
-redundancy n redundancë 
-redundancy check n kontrollim i 
+redundancy |  n  | redundancë 
+redundancy check |  n  | kontrollim i 
 redundancës 
-redundant adj redundant 
-redundant code n kod reduntant 
-reel (1) n rrotull [bobinë (shiriti)] 
-reel (1) v rrotulloj 
-reel (2) v mbështjell 
-reel (2) n rrotullim 
-reel (3) n mbështjellje 
-referential adj referenca 
-reflected adj reflektuar (i), 
+redundant |  adj  | redundant 
+redundant code |  n  | kod reduntant 
+reel (1) |  n  | rrotull [bobinë (shiriti)] 
+reel (1) |  v  | rrotulloj 
+reel (2) |  v  | mbështjell 
+reel (2) |  n  | rrotullim 
+reel (3) |  n  | mbështjellje 
+referential |  adj  | referenca 
+reflected |  adj  | reflektuar (i), 
 pasqyruar (i) 
-reflected code n kod i reflektuar 
-reflected light n dritë e reflektuar 
+reflected code |  n  | kod i reflektuar 
+reflected light |  n  | dritë e reflektuar 
 [dritë e pasqyruar] 
-reflecting software n softuer 
+reflecting software |  n  | softuer 
 reflektues 
-reflection (1) n reflektim [pasqyrim] 
-reflection (2) n hije [figurë e 
+reflection (1) |  n  | reflektim [pasqyrim] 
+reflection (2) |  n  | hije [figurë e 
 reflektuar, figurë dyshe] 
-reformat v riformatoj 
-refracted light n dritë e thyer 
-refresh v rifreskoj 
-refresh (1) v freskoj 
-refresh (1) v rigjeneroj, përtërij 
-refresh (2) n freskim 
-refresh (2) n rigjenerim, përtëritje 
-refresh memory v rifreskoj 
+reformat |  v  | riformatoj 
+refracted light |  n  | dritë e thyer 
+refresh |  v  | rifreskoj 
+refresh (1) |  v  | freskoj 
+refresh (1) |  v  | rigjeneroj, përtërij 
+refresh (2) |  n  | freskim 
+refresh (2) |  n  | rigjenerim, përtëritje 
+refresh memory |  v  | rifreskoj 
 memorien 
-regenerator n regjenerator 
-register n regjistër 
+regenerator |  n  | regjenerator 
+register |  n  | regjistër 
 register 
-register v regjistroj 
-register addressing n adresim 
+register |  v  | regjistroj 
+register addressing |  n  | adresim 
 regjistror [adresim nëpërmjet 
 regjistrave] 
 register addressing subtract 
-instruction n urdhër i zbritjes me 
+instruction |  n  | urdhër i zbritjes me 
 adresim regjistror 
-register capacity n kapacitet i 
+register capacity |  n  | kapacitet i 
 regjistrit 
-register circuit n qark i regjistrit 
-register length n gjatësi e regjistrit 
-registered adj regjistruar (i) 
-registration n regjistri 
-registration card n kartelë 
+register circuit |  n  | qark i regjistrit 
+register length |  n  | gjatësi e regjistrit 
+registered |  adj  | regjistruar (i) 
+registration |  n  | regjistri 
+registration card |  n  | kartelë 
 regjistrimi 
-registration number n numër 
+registration number |  n  | numër 
 regjistrimi 
-regresion n prapavajtje [kthim prapa, 
+regresion |  n  | prapavajtje [kthim prapa, 
 regres] 
-regular adj rregullt (i) 
-regular expression n shprehje e 
+regular |  adj  | rregullt (i) 
+regular expression |  n  | shprehje e 
 rregullt 
-regular grammar n gramatikë e 
+regular grammar |  n  | gramatikë e 
 rregullt 
-regular language n gjuhë e rregullt 
-regular matrix n matricë e rregullt 
-regulation (1) n rregull 
-regulation (2) n rregullim 
-relational adj relacional [që i 
+regular language |  n  | gjuhë e rregullt 
+regular matrix |  n  | matricë e rregullt 
+regulation (1) |  n  | rregull 
+regulation (2) |  n  | rregullim 
+relational |  adj  | relacional [që i 
 përket relacionit] 
-relational database n bazë 
+relational database |  n  | bazë 
 relacionale e të dhënave 
  
 206
 removed 
-relational operator n operator 
+relational operator |  n  | operator 
 relacional 
-relationship n relacion, marrëdhënie 
-relative adj relativ 
-relative address n adresë relative 
-relative addressing n adresim 
+relationship |  n  | relacion, marrëdhënie 
+relative |  adj  | relativ 
+relative address |  n  | adresë relative 
+relative addressing |  n  | adresim 
 relativ 
-relative code n kod relativ 
-relative coding n kodim relativ 
-relative command n komandë 
+relative code |  n  | kod relativ 
+relative coding |  n  | kodim relativ 
+relative command |  n  | komandë 
 relative [urdhër relativ] 
-relative complement n komplement 
+relative complement |  n  | komplement 
 (ose plotës) relativ 
-relative coordinates n koordinata 
+relative coordinates |  n  | koordinata 
 relative 
-relative data n dhëna (të) relative 
-relative frequency n denduri 
+relative data |  n  | dhëna (të) relative 
+relative frequency |  n  | denduri 
 [frekuencë] relative 
-relative instruction n instruksion 
+relative instruction |  n  | instruksion 
 relativ [komandë relative, urdhër 
 relativ] 
-relative movement n lëvizje 
+relative movement |  n  | lëvizje 
 relative 
-relative path n shteg relativ 
-relative pathname n shteg relativ 
+relative path |  n  | shteg relativ 
+relative pathname |  n  | shteg relativ 
 i direktorisë 
-relative vector n vektor relativ 
-relay n rele [releja] 
+relative vector |  n  | vektor relativ 
+relay |  n  | rele [releja] 
 reliably adv besueshëm 
-removable disk n disk i 
+removable disk |  n  | disk i 
 ndërrueshëm (ose portabël ose i 
 bartshëm) 
-relational model n model relacional 
-removed adj hequr (i) 
+relational model |  n  | model relacional 
+removed |  adj  | hequr (i) 
  
 renew the key 
-renew the key v ripërtërij (ose 
+renew the key |  v  | ripërtërij (ose 
 rivendos) çelësin 
-repair n riparim 
-repair v riparoj [ndreq] 
-repair time n kohë e riparimit 
-repeat v përsëris 
-Repeat n Repeat [urdhri 
+repair |  n  | riparim 
+repair |  v  | riparoj [ndreq] 
+repair time |  n  | kohë e riparimit 
+repeat |  v  | përsëris 
+Repeat |  n  | Repeat [urdhri 
 "përsëritje"] 
-repeat key n tasti për përsëritje 
-repeat operator n operator i 
+repeat key |  n  | tasti për përsëritje 
+repeat operator |  n  | operator i 
 përsëritjes 
-repeatability n përsëritshmëri 
-repeated adj përsëritur (i) 
-repeated-addition method n 
+repeatability |  n  | përsëritshmëri 
+repeated |  adj  | përsëritur (i) 
+repeated-addition method |  n  | 
 metodë e mbledhjes së përsëritur 
-repeater n përsëritës 
-replace v zëvendësoj [vë në vend të] 
-replication n kopjim 
-reply v përgjigjem 
-report n raport [gjendje] 
-report v raportoj [njoftoj] 
-report footer n fund i raportit 
-report generator n gjenerator i 
+repeater |  n  | përsëritës 
+replace |  v  | zëvendësoj [vë në vend të] 
+replication |  n  | kopjim 
+reply |  v  | përgjigjem 
+report |  n  | raport [gjendje] 
+report |  v  | raportoj [njoftoj] 
+report footer |  n  | fund i raportit 
+report generator |  n  | gjenerator i 
 raportit 
-reports generator [RPG] n 
+reports generator [RPG] |  n  | 
 gjenerator i raporteve 
 reprogrammable PROM [RPROM] 
 n PROM i riprogramueshëm 
 [RPROM] 
-request n kërkesë [lutje] 
-reserve n rezervë 
+request |  n  | kërkesë [lutje] 
+reserve |  n  | rezervë 
  
  
 207
 ring network 
-reserve accumulator n 
+reserve accumulator |  n  | 
 akumulator rezervë 
-reserved adj rezervuar (i) 
-reserved character n karakter i 
+reserved |  adj  | rezervuar (i) 
+reserved character |  n  | karakter i 
 rezervuar 
-reserved keyword n fjalë çelës e 
+reserved keyword |  n  | fjalë çelës e 
 rezervuar 
-reserved memory n memorie e 
+reserved memory |  n  | memorie e 
 rezervuar 
-reserved word n fjalë e rezervuar 
-resident adj rezident [me qëndrim 
+reserved word |  n  | fjalë e rezervuar 
+resident |  adj  | rezident [me qëndrim 
 të përhershëm] 
-resistance n rezistencë 
-resolution n rezolucion [zbërthim, 
+resistance |  n  | rezistencë 
+resolution |  n  | rezolucion [zbërthim, 
 definicion, definicion grafik] 
-restart v rinis 
-restriction n kufizim [restrikcion] 
-result n rezultat [përfundim, 
+restart |  v  | rinis 
+restriction |  n  | kufizim [restrikcion] 
+result |  n  | rezultat [përfundim, 
 zgjidhje] 
-retrieve v gjej 
-return n kthim (mbrapsht) 
-return channel n kanal kthimi 
-reveal v zbuloj [nxjerr në shesh] 
-RF [radio fequency] abbr RF 
+retrieve |  v  | gjej 
+return |  n  | kthim (mbrapsht) 
+return channel |  n  | kanal kthimi 
+reveal |  v  | zbuloj [nxjerr në shesh] 
+RF [radio fequency] |  abbr  | RF 
 [radiofrekuencë] 
-ridirect v ridrejtoj 
+ridirect |  v  | ridrejtoj 
 right adv djathtas 
-right margin n margjinë e djathtë 
-right subtree n nënpemë e djathtë 
-ring n unazë [hallkë, dredhë] 
-ring counter n numërues rrethor 
-ring network n rrjet unazor 
+right margin |  n  | margjinë e djathtë 
+right subtree |  n  | nënpemë e djathtë 
+ring |  n  | unazë [hallkë, dredhë] 
+ring counter |  n  | numërues rrethor 
+ring network |  n  | rrjet unazor 
  
 208
  
 rotate right through carry 
 instruction ph urdhër i rrotullimit 
 djathtas nëpërmjet bartjes 
-rotating n rrotullarit (të) [rrotullim] 
-rotating adj rrotullueshëm (i) 
+rotating |  n  | rrotullarit (të) [rrotullim] 
+rotating |  adj  | rrotullueshëm (i) 
 [rrotullues] 
-rotation n rrotullim 
-rounding n rrumbullakim 
-roundoff error n gabim i 
+rotation |  n  | rrotullim 
+rounding |  n  | rrumbullakim 
+roundoff error |  n  | gabim i 
 rrumbullakimit 
-routine n rutinë [nënprogram] 
-routine library n bibliotekë e 
+routine |  n  | rutinë [nënprogram] 
+routine library |  n  | bibliotekë e 
 rutinave 
-row n rresht 
-row address n adresa e rreshtit 
+row |  n  | rresht 
+row address |  n  | adresa e rreshtit 
 RPROM [Reprogrammable PROM] 
 abbr RPROM [PROM i 
 riprogramueshëm] 
 RSA encryption [Rivest-Shamir-
-Adleman encryption] n shifrim 
+Adleman encryption] |  n  | shifrim 
 RSA [shifrimi Rivest-Shamir-
 Adleman] 
-ruler n vizore 
-run n ekzekutim 
-run v ekzekutoj 
+ruler |  n  | vizore 
+run |  n  | ekzekutim 
+run |  v  | ekzekutoj 
 ring shift 
-ring shift n zhvendosje rrethore 
-ring structure n strukturë unazore 
-ring topology n topologji unazore 
-riorder v rirendit 
-rise time n kohë e ngritjes 
-risk n rrezik 
-risk analysis n analizë e rreziqeve 
-robot n robot 
-robotics n robotikë 
+ring shift |  n  | zhvendosje rrethore 
+ring structure |  n  | strukturë unazore 
+ring topology |  n  | topologji unazore 
+riorder |  v  | rirendit 
+rise time |  n  | kohë e ngritjes 
+risk |  n  | rrezik 
+risk analysis |  n  | analizë e rreziqeve 
+robot |  n  | robot 
+robotics |  n  | robotikë 
 Rock Ridge only ph vetëm Rock 
 Ridge 
-ROM programmer n programues i 
+ROM programmer |  n  | programues i 
 memorieve ROM 
-root n rrënjë [zanafillë] 
-rooted tree n pemë me rrënjë 
+root |  n  | rrënjë [zanafillë] 
+rooted tree |  n  | pemë me rrënjë 
 rotate accumulator left instruction 
 n urdhër i rrotullimit majtas të 
 akumulatorit 
 rotate accumulator right 
-instruction n urdhër i rrotullimit 
+instruction |  n  | urdhër i rrotullimit 
 djathtas të akumulatorit 
-rotate instruction n urdhër i 
+rotate instruction |  n  | urdhër i 
 rrotullimit 
 rotate left through carry 
 instruction ph urdhër i rrotullimit 
@@ -13593,85 +13563,85 @@ majtas nëpërmjet bartjes
  
 209
 S 
-Sad Mac n Sad Mac [tregues i 
+Sad Mac |  n  | Sad Mac [tregues i 
 gabimit në kompjuterët Apple 
 Macintosh] 
-safe adj sigurt (i) 
-safe mode n regjim i sigurt 
-safety n sigurim 
-sample n mostër 
-sample v mostroj 
-sampler n mostrues 
-sampling n mostrim 
-sampling theorem n teoremë e 
+safe |  adj  | sigurt (i) 
+safe mode |  n  | regjim i sigurt 
+safety |  n  | sigurim 
+sample |  n  | mostër 
+sample |  v  | mostroj 
+sampler |  n  | mostrues 
+sampling |  n  | mostrim 
+sampling theorem |  n  | teoremë e 
 mostrimit 
-saphire n safir 
-satellite n satelit 
-saturate v ngop 
-saturated v ngopur (i) 
-saturation n ngopur (i) 
-save v ruaj 
-save as v ruaj si [ruaj nën emrin] 
-save in v ruaje në 
-save list v ruaj listën 
-save output v ruaj rezultatin 
-save to disk v ruaj në disk 
-scalar n skalar 
+saphire |  n  | safir 
+satellite |  n  | satelit 
+saturate |  v  | ngop 
+saturated |  v  | ngopur (i) 
+saturation |  n  | ngopur (i) 
+save |  v  | ruaj 
+save as |  v  | ruaj si [ruaj nën emrin] 
+save in |  v  | ruaje në 
+save list |  v  | ruaj listën 
+save output |  v  | ruaj rezultatin 
+save to disk |  v  | ruaj në disk 
+scalar |  n  | skalar 
  
-scale up v rris përpjesëtimisht 
-scaling n shkallëzim 
-scan n skanim 
-scan code n numri i kodit 
-scan head n kokë e skanerit 
-scan line n vijë e skanimit 
-scanner n skaner 
-scanning head n kokë skanuese 
-scene n skenë 
-schedule n plan ose orar 
-schedule v planifikoj 
-scheduled adj planifikuar (i) 
-scheduled maintenance n 
+scale up |  v  | rris përpjesëtimisht 
+scaling |  n  | shkallëzim 
+scan |  n  | skanim 
+scan code |  n  | numri i kodit 
+scan head |  n  | kokë e skanerit 
+scan line |  n  | vijë e skanimit 
+scanner |  n  | skaner 
+scanning head |  n  | kokë skanuese 
+scene |  n  | skenë 
+schedule |  n  | plan ose orar 
+schedule |  v  | planifikoj 
+scheduled |  adj  | planifikuar (i) 
+scheduled maintenance |  n  | 
 mirëmbajtje e rregullt (e 
 planifikuar) 
-scheduler n planifikues 
-scheduling n planifikim 
-scheduling algorithm n algoritëm 
+scheduler |  n  | planifikues 
+scheduling |  n  | planifikim 
+scheduling algorithm |  n  | algoritëm 
 planifikimi 
-schema n skemë 
-schematic adj skematik 
-Schmitt trigger n triger (qark 
+schema |  n  | skemë 
+schematic |  adj  | skematik 
+Schmitt trigger |  n  | triger (qark 
 shkrehës) i Shmitit 
  Schottky TTL 
 Schottky transistor-transistor logic 
-[Schottky TTL] n logjikë 
+[Schottky TTL] |  n  | logjikë 
 transistor-transistor Shotki 
 Schottky TTL [Schottky Transistor-
-Transistor Logic] n logjikë 
+Transistor Logic] |  n  | logjikë 
 transistor-transistor Shotki 
-science n shkencë 
-scientific adj shkencor 
-scientific calculator n kalkulator 
+science |  n  | shkencë 
+scientific |  adj  | shkencor 
+scientific calculator |  n  | kalkulator 
 shkencor 
-scientific computer n kompjuter 
+scientific computer |  n  | kompjuter 
 shkencor 
-scientific notation n notacion 
+scientific notation |  n  | notacion 
 [shënim] shkencor [shkruarje e 
 numrave në formë eksponenciale] 
-scientific system n sistem shkencor 
-scissoring n prerje 
-scope [oscilloscope] n oshiloskop 
+scientific system |  n  | sistem shkencor 
+scissoring |  n  | prerje 
+scope [oscilloscope] |  n  | oshiloskop 
 SCR [silicon-controlled rectifier] 
 abbr rrymëdrejtues i kontrolluar 
 nga silici [SCR] 
-scratch disk n disk punues 
-screen n ekran [monitor] 
-screen coordinates n koordinata 
+scratch disk |  n  | disk punues 
+screen |  n  | ekran [monitor] 
+screen coordinates |  n  | koordinata 
 të ekranit 
-screen editor n editor [redaktor] i 
+screen editor |  n  | editor [redaktor] i 
 ekranit 
-screen resolution n rezolucion i 
+screen resolution |  n  | rezolucion i 
 ekranit 
-SCSI-Bus n bus (ose magjistrale) 
+SCSI-Bus |  n  | bus (ose magjistrale) 
 SCSI 
 SDRAM [synchronous DRAM] 
 abbr SDRAM [RAM dinamik 
@@ -13680,741 +13650,741 @@ sinkron]
  
 210
 security file 
-search n kërkim 
-search v kërkoj 
-search algorithm n algoritëm i 
+search |  n  | kërkim 
+search |  v  | kërkoj 
+search algorithm |  n  | algoritëm i 
 kërkimit 
-search and replace v kërkoj dhe 
+search and replace |  v  | kërkoj dhe 
 zëvendësoj 
-search mask n maskë kërkimi 
-search memory n memorie kërkimi 
-search tree n pemë kërkimi 
-searching n kërkim 
-searching time n kohë e kërkimit 
-second adj dytë (i) 
-second n sekondë 
-second generation computer n 
+search mask |  n  | maskë kërkimi 
+search memory |  n  | memorie kërkimi 
+search tree |  n  | pemë kërkimi 
+searching |  n  | kërkim 
+searching time |  n  | kohë e kërkimit 
+second |  adj  | dytë (i) 
+second |  n  | sekondë 
+second generation computer |  n  | 
 kompjuter i gjeneratës (brezit) së 
 dytë 
-section break n ndarës i seksioneve 
-sector n sektor 
-sectors per request n sektorë për 
+section break |  n  | ndarës i seksioneve 
+sector |  n  | sektor 
+sectors per request |  n  | sektorë për 
 kërkesë 
-secure adj sigurt (i) 
+secure |  adj  | sigurt (i) 
 Secure Transaction Technology 
-[STT] n teknologji e 
+[STT] |  n  | teknologji e 
 transaksioneve të sigurta [STT] 
-security n siguri [sigurim] 
-security administrator n 
+security |  n  | siguri [sigurim] 
+security administrator |  n  | 
 administrator sigurimi 
-security class n klasë e sigurimit 
+security class |  n  | klasë e sigurimit 
 [nivel i sigurimit] 
-security control n kontroll sigurimi 
-security cosultant n këshilltar i 
+security control |  n  | kontroll sigurimi 
+security cosultant |  n  | këshilltar i 
 sigurimit 
-security file n fajl i sigurimit 
+security file |  n  | fajl i sigurimit 
 sequential organization 
  security label 
  
 211
-security label n etiketë e sigurimit 
-security level n nivel i sigurimit 
-security log n nivel i sigurimit 
+security label |  n  | etiketë e sigurimit 
+security level |  n  | nivel i sigurimit 
+security log |  n  | nivel i sigurimit 
 [klasë e sigurimit] 
-security rating n shkallë e sigurimit 
-segment (1) n segment [mat.] 
-select v zgjedh [përzgjedh] 
-select all v zgjedh të gjitha 
+security rating |  n  | shkallë e sigurimit 
+segment (1) |  n  | segment [mat.] 
+select |  v  | zgjedh [përzgjedh] 
+select all |  v  | zgjedh të gjitha 
 [përzgjedh të gjitha] 
 select all ph zgjidh të gjitha 
-select bit n biti për zgjedhje 
+select bit |  n  | biti për zgjedhje 
 [përzgjedhje] 
-select non v mos zgjidh 
-selected adj zgjedhur (i) 
+select non |  v  | mos zgjidh 
+selected |  adj  | zgjedhur (i) 
 [përzgjedhur (i)] 
-selected adj zgjedhur (i) 
+selected |  adj  | zgjedhur (i) 
 self- pref vetë- 
-self-checking code n kod 
+self-checking code |  n  | kod 
 vetëkontrollues 
-self-compiling compiler n 
+self-compiling compiler |  n  | 
 kompilues vetëkompilues 
-self-learning adj autodidakt 
+self-learning |  adj  | autodidakt 
 [vetëpërshtatës] 
-self-replicating virus n virus i 
+self-replicating virus |  n  | virus i 
 vetëriprodhueshëm 
-semantic error n gabim semantik 
-semantic extension n zgjerim 
+semantic error |  n  | gabim semantik 
+semantic extension |  n  | zgjerim 
 semantik 
-semantics n semantikë 
-semaphore n semafor 
-semiconductor n gjysmëpërçues 
-semiconductor counter n numërues 
+semantics |  n  | semantikë 
+semaphore |  n  | semafor 
+semiconductor |  n  | gjysmëpërçues 
+semiconductor counter |  n  | numërues 
 gjysmëpërçues 
  
-semiconductor memory n 
+semiconductor memory |  n  | 
 memorie gjysmëpërçuese 
-send v dërgoj 
-sender–receiver terminal v 
+send |  v  | dërgoj 
+sender–receiver terminal |  v  | 
 terminal dërgues-marrës 
-sensitive adj ndjeshëm (i) 
-sensitive data n dhëna (të) të 
+sensitive |  adj  | ndjeshëm (i) 
+sensitive data |  n  | dhëna (të) të 
 ndjeshme 
-sensitivity n ndjeshmëri 
-sequential adj sekuencial 
+sensitivity |  n  | ndjeshmëri 
+sequential |  adj  | sekuencial 
 [njëpasnjëshëm (i), vijues] 
-sequential algorithm n algoritëm 
+sequential algorithm |  n  | algoritëm 
 sekuencial 
-sequential computer n kompjuter 
+sequential computer |  n  | kompjuter 
 sekuencial 
-sequential execution n ekzekutim 
+sequential execution |  n  | ekzekutim 
 sekuencial 
-sequential file n fajl sekuencial 
-sequential list n listë sekuenciale 
-sequential logic n logjikë 
+sequential file |  n  | fajl sekuencial 
+sequential list |  n  | listë sekuenciale 
+sequential logic |  n  | logjikë 
 sekuenciale 
-sequential logic circuit n qark 
+sequential logic circuit |  n  | qark 
 logjik sekuencial 
-sequential logic network n rrjet 
+sequential logic network |  n  | rrjet 
 logjik sekuencial 
-sequential memory n memorie 
+sequential memory |  n  | memorie 
 sekuenciale 
-sequential network n rrjet 
+sequential network |  n  | rrjet 
 sekuencial 
-sequential operation n punë 
+sequential operation |  n  | punë 
 sekuenciale 
-sequential organization n 
+sequential organization |  n  | 
 organizim sekuencial 
  sequential processing 
-sequential processing n 
+sequential processing |  n  | 
 përpunim sekuencial 
-sequential scheduling system n 
+sequential scheduling system |  n  | 
 sistem i orarit sekuencial 
-sequential search n kërkim 
+sequential search |  n  | kërkim 
 sekuencial 
-sequential search algorithm n 
+sequential search algorithm |  n  | 
 algoritëm për kërkim sekuencial 
-sequential searching n kërkim 
+sequential searching |  n  | kërkim 
 sekuencial 
-sequential storage n memorie 
+sequential storage |  n  | memorie 
 sekuenciale 
-serial I/O port n port serik hyrës-
+serial I/O port |  n  | port serik hyrës-
 dalës 
-serial interface n ndërfaqe serike 
+serial interface |  n  | ndërfaqe serike 
 ose interfejs serik [në seri] 
-serial port n port serik 
-serial printer n shtypës serik 
-serial processing n përpunim serik 
-series n seri [seritë] 
-serif n serif [shkronja me zbukurime] 
-server n server [shërbyes] 
-server error n gabim i serverit 
-servo [servomotor] n servomotor 
-servo system n servosistem 
-servomechanism n 
+serial port |  n  | port serik 
+serial printer |  n  | shtypës serik 
+serial processing |  n  | përpunim serik 
+series |  n  | seri [seritë] 
+serif |  n  | serif [shkronja me zbukurime] 
+server |  n  | server [shërbyes] 
+server error |  n  | gabim i serverit 
+servo [servomotor] |  n  | servomotor 
+servo system |  n  | servosistem 
+servomechanism |  n  | 
 servomekanizëm 
-servomotor n servomotor 
-session n sesion [interval kohor për 
+servomotor |  n  | servomotor 
+session |  n  | sesion [interval kohor për 
 ekzekutimin e programit] 
-session layer n shtresë sesion 
-set (1) n bashkësi [mat.] 
-set (2) n set [komplet,takëm] 
+session layer |  n  | shtresë sesion 
+set (1) |  n  | bashkësi [mat.] 
+set (2) |  n  | set [komplet,takëm] 
  
  
 212
 show control palette 
-set algebra n algjebër e bashkësive 
-set carry flag instruction n urdhër 
+set algebra |  n  | algjebër e bashkësive 
+set carry flag instruction |  n  | urdhër 
 i vendosjes së flamurit të mbartjes 
-set difference n ndryshim i 
+set difference |  n  | ndryshim i 
 bashkësive 
-set interrupt mask instruction n 
+set interrupt mask instruction |  n  | 
 urdhër i vendosjes së maskës së 
 ndërprerjes 
-set the language v cakto gjuhën 
-set theory n teori e bashkësive 
-setup (1) v konfiguroj (harduerin) 
-setup (2) v instaloj (softuerin) 
-shading n hijezim 
-shadow n hije 
-shape n formë [trajtë] 
-shared access n akses i përbashkët 
-shared database n bazë e përbashkët 
+set the language |  v  | cakto gjuhën 
+set theory |  n  | teori e bashkësive 
+setup (1) |  v  | konfiguroj (harduerin) 
+setup (2) |  v  | instaloj (softuerin) 
+shading |  n  | hijezim 
+shadow |  n  | hije 
+shape |  n  | formë [trajtë] 
+shared access |  n  | akses i përbashkët 
+shared database |  n  | bazë e përbashkët 
 e të dhënave 
-sheet feed n ushqim me fletë 
-shift instruction n urdhër i 
+sheet feed |  n  | ushqim me fletë 
+shift instruction |  n  | urdhër i 
 zhvendosjes 
-Shift key n tasti Shift [për 
+Shift key |  n  | tasti Shift [për 
 zhvendosje] 
-shift operation n operacion i 
+shift operation |  n  | operacion i 
 zhvendosjes 
-short [short circuit] n lidhje e 
+short [short circuit] |  n  | lidhje e 
 shkurtër 
-short circuit n lidhje e shkurtër 
-short menu n meny e shkurtuar 
-shortest path algorithm n 
+short circuit |  n  | lidhje e shkurtër 
+short menu |  n  | meny e shkurtuar 
+shortest path algorithm |  n  | 
 algoritëm i rrugës më të shkurtër 
-show control palette v shfaq 
+show control palette |  v  | shfaq 
 paletën e kontrollit 
  show rulers 
-show rulers v shfaq vizoret 
-shrink v tkurr 
-shrinkage n tkurrje 
-Si [silicon] abbr Si [silic] 
-sig [signature] block n blloku i 
+show rulers |  v  | shfaq vizoret 
+shrink |  v  | tkurr 
+shrinkage |  n  | tkurrje 
+Si [silicon] |  abbr  | Si [silic] 
+sig [signature] block |  n  | blloku i 
 nënshkrimit (elektronik) 
-sign n shenjë [simbol] 
-sign bit n bit i parashenjës 
-sign flag n flamur i parashenjës 
-sign off v çregjistrohem [lajmëroj 
+sign |  n  | shenjë [simbol] 
+sign bit |  n  | bit i parashenjës 
+sign flag |  n  | flamur i parashenjës 
+sign off |  v  | çregjistrohem [lajmëroj 
 largimin, dal nga sistemi] 
-sign on v regjistrohem [paraqitem, 
+sign on |  v  | regjistrohem [paraqitem, 
 hy në sistem] 
-sign pozition n vend i parashenjës 
-signal n sinjal 
-signaling n sinjalizim 
-signaling rate n shpejtësi e 
+sign pozition |  n  | vend i parashenjës 
+signal |  n  | sinjal 
+signaling |  n  | sinjalizim 
+signaling rate |  n  | shpejtësi e 
 sinjalizimit 
-signal-to-noise ratio [SNR] n 
+signal-to-noise ratio [SNR] |  n  | 
 raport sinjal-zhurmë [SNR] 
-signature n nënshkrim 
-signature block n bllok i 
+signature |  n  | nënshkrim 
+signature block |  n  | bllok i 
 nënshkrimit 
-signature file n fajl i nënshkrimit 
-signed number n numër me 
+signature file |  n  | fajl i nënshkrimit 
+signed number |  n  | numër me 
 parashenjë 
-silicon [Si] n silic [Si] 
-silicon chip n çip silici 
-silicon dioxide n dyoksid silici 
+silicon [Si] |  n  | silic [Si] 
+silicon chip |  n  | çip silici 
+silicon dioxide |  n  | dyoksid silici 
 [SiO2] 
-silicon foundry n shkritore silici 
+silicon foundry |  n  | shkritore silici 
  
  
 213
 single density 
 silicon-on sapphire circuitry [SOS 
-circuitry] n qarqe silic–mbi-safir 
+circuitry] |  n  | qarqe silic–mbi-safir 
 [qarqe SOS] 
-silicon-on-sapphire [SOS] n silic–
+silicon-on-sapphire [SOS] |  n  | silic–
 mbi-safir [SOS] 
 SIM [Society for Information 
-Management] abbr SIM [Shoqata 
+Management] |  abbr  | SIM [Shoqata 
 për menaxhim të informacioneve] 
-simplex n simpleks [lidhje 
+simplex |  n  | simpleks [lidhje 
 njëkahshe] 
-simplex method n metodë simpleks 
+simplex method |  n  | metodë simpleks 
 [metodë e lidhje njëkahshe] 
-simulate n simuloj 
-simulation n simulim 
-simulator n simulator [simulues] 
-simultaneous adj njëkohshëm (i) 
+simulate |  n  | simuloj 
+simulation |  n  | simulim 
+simulator |  n  | simulator [simulues] 
+simultaneous |  adj  | njëkohshëm (i) 
 [simultan] 
-simultaneous acces n akses i 
+simultaneous acces |  n  | akses i 
 njëkohshëm 
-simultaneous carry n bartje e 
+simultaneous carry |  n  | bartje e 
 njëkohshme 
-simultaneous computer n 
+simultaneous computer |  n  | 
 kompjuter i njëkohshëm [simultan] 
-simultaneous input/output n 
+simultaneous input/output |  n  | 
 hyrje-dalje e njëkohshme 
-simultaneous processing n 
+simultaneous processing |  n  | 
 përpunim i njëkohshëm [përpunim 
 paralel, përpunim simultan] 
-simultaneous working n punë 
+simultaneous working |  n  | punë 
 simultane [operacione paralele] 
-sine wave n valë sinusoidale 
-single adj njësh [vetëm (i)] 
-single address adj njëadresësh 
-single density n dendësi e njëfishtë 
+sine wave |  n  | valë sinusoidale 
+single |  adj  | njësh [vetëm (i)] 
+single address |  adj  | njëadresësh 
+single density |  n  | dendësi e njëfishtë 
  single field 
-single field n me një fushë 
-single in-line [SIL] n njërreshtor 
-single-address code n kod 
+single field |  n  | me një fushë 
+single in-line [SIL] |  n  | njërreshtor 
+single-address code |  n  | kod 
  
 214
 njëadresësh 
-single-address instruction n 
+single-address instruction |  n  | 
 instruksion njëadresësh 
-single-address instruction n 
+single-address instruction |  n  | 
 urdhër njëadresësh 
-single-address machine n makinë 
+single-address machine |  n  | makinë 
 njëadresëshe 
-single-address message n mesazh 
+single-address message |  n  | mesazh 
 njëadresësh 
-single-cycle key n tast për një cikël 
-single-density adj dendësi e 
+single-cycle key |  n  | tast për një cikël 
+single-density |  adj  | dendësi e 
 njëfishtë 
-single-keystroke access n akses 
+single-keystroke access |  n  | akses 
 me një shkelje [shtypje] të tastit 
-single-length n gjatësi e njëfishtë 
-single-precision adj saktësi e 
+single-length |  n  | gjatësi e njëfishtë 
+single-precision |  adj  | saktësi e 
 njëfishtë 
-single-precision number n numër 
+single-precision number |  n  | numër 
 me saktësi të njëfishtë 
-single-shot n monostabël 
-single-sided adj njëanësh 
-single-sided disk n disk i njëanshëm 
-singular matrix n matricë singulare 
-sinus n sinus [sin] 
-site name n emër i sajtit 
-sitename n emër i sajtit 
-size n madhësi 
-skeleton n skelet (i figurës) 
+single-shot |  n  | monostabël 
+single-sided |  adj  | njëanësh 
+single-sided disk |  n  | disk i njëanshëm 
+singular matrix |  n  | matricë singulare 
+sinus |  n  | sinus [sin] 
+site name |  n  | emër i sajtit 
+sitename |  n  | emër i sajtit 
+size |  n  | madhësi 
+skeleton |  n  | skelet (i figurës) 
 [paraqitje e thjeshtësuar (e figurës)] 
-skip v anashkaloj 
+skip |  v  | anashkaloj 
  
 softmodem 
-skip perforation n kapërcim i 
+skip perforation |  n  | kapërcim i 
 perforacionit 
-slanted n pjerrët (i) 
-slanted letter n shkronjë e pjerrët 
-slash [/] n fraksion (vijë e pjerrët [/]) 
-slot n fole (me konektor) ose slot 
-slotted ring n unazë e ndarë 
-slow memory n memorie e 
+slanted |  n  | pjerrët (i) 
+slanted letter |  n  | shkronjë e pjerrët 
+slash [/] |  n  | fraksion (vijë e pjerrët [/]) 
+slot |  n  | fole (me konektor) ose slot 
+slotted ring |  n  | unazë e ndarë 
+slow memory |  n  | memorie e 
 ngadalshme 
-slow storage n memorie e 
+slow storage |  n  | memorie e 
 ngadalshme 
 SLSI [Super Large Scale Integration] 
- abbr shkallë super e lartë e 
+ |  abbr  | shkallë super e lartë e 
 integrimit 
 SLSI [super-large-scale-integration] 
 abbr SLSI [shkallë super e lartë e 
 integrimit] 
-small adj vogël (i) 
-small scale integration [SSI] n 
+small |  adj  | vogël (i) 
+small scale integration [SSI] |  n  | 
 integrim i shkallës së ulët [SSI] 
-small-scale integration [SSI] n 
+small-scale integration [SSI] |  n  | 
 integrim i shkallës së ulët [SSI] 
-smart n inteligjent [zgjuar(i)] 
-smooth adj lëmuar (i) 
-SNR [Signal–to–Noise Ratio] abbr 
+smart |  n  | inteligjent [zgjuar(i)] 
+smooth |  adj  | lëmuar (i) 
+SNR [Signal–to–Noise Ratio] |  abbr  | 
 raporti sinjal–zhurmë 
-soft (1) adj butë (i) 
-soft (2) adj programuar (i) 
-soft (3) adj programit (i) 
-soft (4) adj programueshëm (i) 
-soft keyboard n tastierë e 
+soft (1) |  adj  | butë (i) 
+soft (2) |  adj  | programuar (i) 
+soft (3) |  adj  | programit (i) 
+soft (4) |  adj  | programueshëm (i) 
+soft keyboard |  n  | tastierë e 
 programueshme 
-softmodem n modem softuerik 
+softmodem |  n  | modem softuerik 
  
 215
 space 
-source address n adresë burimore 
-source code n kod burimor 
-source computer n kompjuter 
+source address |  n  | adresë burimore 
+source code |  n  | kod burimor 
+source computer |  n  | kompjuter 
 burimor 
  software 
-software n softuer [programet e 
+software |  n  | softuer [programet e 
 kompjuterit] 
-software piracy n piratëri softuerike 
-software program n program 
+software piracy |  n  | piratëri softuerike 
+software program |  n  | program 
 softuerik [program] 
-software protection n mbrojtje 
+software protection |  n  | mbrojtje 
 softuerike 
-software publisher n publikues 
+software publisher |  n  | publikues 
 softueri 
-software publishing n publikim 
+software publishing |  n  | publikim 
 softueri 
-software specification n specifikim 
+software specification |  n  | specifikim 
 softuerik 
-Solaris n Solaris [sistem operativ i 
+Solaris |  n  | Solaris [sistem operativ i 
 familjes së S.O. UNIX] 
-solenoid n solenoid 
+solenoid |  n  | solenoid 
 SONET [Synchronous Optical 
-NETwork] n SONET [rrjet optik 
+NETwork] |  n  | SONET [rrjet optik 
 sinkron] 
-SOS [silicon-on-saphire] n silic mbi 
+SOS [silicon-on-saphire] |  n  | silic mbi 
 safir 
-sound n zë 
-sound board n kartelë e zërit 
-sound buffer n bufer i zërit 
-sound card n kartelë zëri 
-sound clip n rrjedhë [sekuencë] 
+sound |  n  | zë 
+sound board |  n  | kartelë e zërit 
+sound buffer |  n  | bufer i zërit 
+sound card |  n  | kartelë zëri 
+sound clip |  n  | rrjedhë [sekuencë] 
 tingullore 
-sound editor n editor i zërit 
-sound file n fajl i zërit 
-sound generator n gjenerator i zërit 
-sound recorder n magnetofon 
-soundcard n kartelë e zërit 
-source n burim 
+sound editor |  n  | editor i zërit 
+sound file |  n  | fajl i zërit 
+sound generator |  n  | gjenerator i zërit 
+sound recorder |  n  | magnetofon 
+soundcard |  n  | kartelë e zërit 
+source |  n  | burim 
  
-source data n dhëna (të) burimore 
-source data acquisition n 
+source data |  n  | dhëna (të) burimore 
+source data acquisition |  n  | 
 grumbullim i të dhënave burimore 
-source data automation n 
+source data automation |  n  | 
 automatizim i të dhënave burimore 
 source data automation equipment 
 n pajisje për automatizimin e të 
 dhënave burimore 
-source data capture n kapje e të 
+source data capture |  n  | kapje e të 
 dhënave burimore 
-source data entry n përfshirje e të 
+source data entry |  n  | përfshirje e të 
 dhënave burimore 
-source directory n direktorium 
+source directory |  n  | direktorium 
 burimor 
-source disk n disk burimor 
-source document n dokument 
+source disk |  n  | disk burimor 
+source document |  n  | dokument 
 burimor 
-source drive n njësi burimore 
-source file n fajl burimor 
-source language n gjuhë burimore 
-source library n bibliotekë burimore 
-source module n modul burimor 
-source program n program burimor 
-source program optimizer n 
+source drive |  n  | njësi burimore 
+source file |  n  | fajl burimor 
+source language |  n  | gjuhë burimore 
+source library |  n  | bibliotekë burimore 
+source module |  n  | modul burimor 
+source program |  n  | program burimor 
+source program optimizer |  n  | 
 optimizues i programit burimor 
-source statement n urdhër burimor 
-source time n kohë burimore 
-space (1) n distancë [largësi] 
-space (2) n hapësirë 
+source statement |  n  | urdhër burimor 
+source time |  n  | kohë burimore 
+space (1) |  n  | distancë [largësi] 
+space (2) |  n  | hapësirë 
  space 
-space (3) n hapësirë [kozmos, 
+space (3) |  n  | hapësirë [kozmos, 
 gjithësi] 
-space-division switching n komutim 
+space-division switching |  n  | komutim 
 me ndarje të hapësirës 
-speaker n altoparlant [zëdhënës] 
-spec [specification] n specifikim 
-special information tone n ton i 
+speaker |  n  | altoparlant [zëdhënës] 
+spec [specification] |  n  | specifikim 
+special information tone |  n  | ton i 
 veçantë i informacionit 
-specific routine n rutinë specifike 
-specification n specifikim 
-spectral color n ngjyrë spektrale 
-spectral response n përgjigje 
+specific routine |  n  | rutinë specifike 
+specification |  n  | specifikim 
+spectral color |  n  | ngjyrë spektrale 
+spectral response |  n  | përgjigje 
 spektrale 
-spectrum n spektër (i frekuencave) 
-speech analysis n analizë e të folurit 
-speech recognition n njohje e të 
+spectrum |  n  | spektër (i frekuencave) 
+speech analysis |  n  | analizë e të folurit 
+speech recognition |  n  | njohje e të 
 folurit 
-speech recognition API n API për 
+speech recognition API |  n  | API për 
 njohje të të folurit 
-speed n shpejtësi 
-spider n merimangë 
-spiral n spirale 
-split v ndaj [çaj] 
-split cells v ndaj qelizat 
-split screen n ekran i ndarë 
-split window v ndaj dritaren 
-splitter n ndarës 
-sponge n shpuzë [sfungjer] 
-sponge tool n mjet i shpuzës 
+speed |  n  | shpejtësi 
+spider |  n  | merimangë 
+spiral |  n  | spirale 
+split |  v  | ndaj [çaj] 
+split cells |  v  | ndaj qelizat 
+split screen |  n  | ekran i ndarë 
+split window |  v  | ndaj dritaren 
+splitter |  n  | ndarës 
+sponge |  n  | shpuzë [sfungjer] 
+sponge tool |  n  | mjet i shpuzës 
 [sfungjerit] 
-spoofing n mashtrim [tallje] 
-spot n njollë (e ndritshme në ekran) 
+spoofing |  n  | mashtrim [tallje] 
+spot |  n  | njollë (e ndritshme në ekran) 
  
  
 216
 standard 
-square adj katror; kënddrejtë 
-square (1) n katror [figurë 
+square |  adj  | katror; kënddrejtë 
+square (1) |  n  | katror [figurë 
 gjeometrike] 
-square (2) n katror [fuqi e dytë] 
+square (2) |  n  | katror [fuqi e dytë] 
 [mat.] 
-square matrix n matricë katrore 
-square root n rrënjë katrore 
+square matrix |  n  | matricë katrore 
+square root |  n  | rrënjë katrore 
 SRAM [static RAM]abbr SRAM 
 [RAM statik] 
 SRAPI [speech Recognition 
 Application Programming 
-Interface] abbr SRAPI [ndërfaqe 
+Interface] |  abbr  | SRAPI [ndërfaqe 
 ose interfejs e ose i programit 
 aplikativ për njohje të të folurit] 
 SSA [Serial Storage Architecture] 
 abbr SSA [arkitekturë serike e 
 memories] 
-SSD [Solid-State Disk] abbr SSD 
+SSD [Solid-State Disk] |  abbr  | SSD 
 [disk gjysmëpërçues] 
-SSI [small-scale integration] abbr 
+SSI [small-scale integration] |  abbr  | 
 SSI [shkallë e ulët e integrimit] 
-SSL [Secure Socket Layer] abbr 
+SSL [Secure Socket Layer] |  abbr  | 
 SSL [shtresë e prizave të sigurta] 
-ST506 interface n ndërfaqe (ose 
+ST506 interface |  n  | ndërfaqe (ose 
 interfejs) ST506 [ndërfaqe (ose 
 nterfejs) për konektor dhe 
 kontrollor të disqeve të firmës 
 Seagate Technologies] 
-stability n qëndrueshmëri [stabilitet] 
-stand-alone adj pavarur (i) 
+stability |  n  | qëndrueshmëri [stabilitet] 
+stand-alone |  adj  | pavarur (i) 
 [mëvetësishëm (i), autonom] 
-stand-alone system n sistem i 
+stand-alone system |  n  | sistem i 
 pavarur 
-standard adj standard [i rregullt; i 
+standard |  adj  | standard [i rregullt; i 
 rëndomtë] 
  standard 
-standard n standard 
-standard architecture n arkitekturë 
+standard |  n  | standard 
+standard architecture |  n  | arkitekturë 
  
 217
 standarde 
-standard boot device n pajisje 
+standard boot device |  n  | pajisje 
 nisëse standarde 
-standard subroutine n nënprogram 
+standard subroutine |  n  | nënprogram 
 standard 
-standardization n standardizim 
-standby adj në pritje [në 
+standardization |  n  | standardizim 
+standby |  adj  | në pritje [në 
 gatishmëri, disponibël] 
-star network n rrjet yll 
-star topology n topologji yll 
-start n lëshim (në punë) 
-start bit n bit fillestar 
-Start button n bit fillestar 
-start cluster n grup fillestar 
-start page n faqe fillestare 
-start page # v fillo me faqen numër 
-start time n kohë e lëshimit (në 
+star network |  n  | rrjet yll 
+star topology |  n  | topologji yll 
+start |  n  | lëshim (në punë) 
+start bit |  n  | bit fillestar 
+Start button |  n  | bit fillestar 
+start cluster |  n  | grup fillestar 
+start page |  n  | faqe fillestare 
+start page # |  v  | fillo me faqen numër 
+start time |  n  | kohë e lëshimit (në 
 punë) 
-start up v nis ose aktivizoj [lëshoj 
+start up |  v  | nis ose aktivizoj [lëshoj 
 në punë] 
-startup n nisje ose aktivizim [lëshim 
+startup |  n  | nisje ose aktivizim [lëshim 
 në punë] 
-stat mux [statistical multiplexer] n 
+stat mux [statistical multiplexer] |  n  | 
 multiplekser statistikor 
-state n gjendje [status] 
-state diagram n diagram i gjendjeve 
-state table n tabelë e gjendjeve 
-state transition table n tabelë e 
+state |  n  | gjendje [status] 
+state diagram |  n  | diagram i gjendjeve 
+state table |  n  | tabelë e gjendjeve 
+state transition table |  n  | tabelë e 
 kalimit të gjendjeve 
-static adj statik 
+static |  adj  | statik 
  
 stochastic procedure 
-static algorithm n algoritëm statik 
-static binding n lidhje statike 
-static check n kontroll statik 
-static data structure n strukturë 
+static algorithm |  n  | algoritëm statik 
+static binding |  n  | lidhje statike 
+static check |  n  | kontroll statik 
+static data structure |  n  | strukturë 
 statike e të dhënave 
-static electricity n elektricitet statik 
-static electricity charge n ngarkesë 
+static electricity |  n  | elektricitet statik 
+static electricity charge |  n  | ngarkesë 
 elektrostatike 
-static image n figurë statike 
-static memory n memorie statike 
+static image |  n  | figurë statike 
+static memory |  n  | memorie statike 
 static RAM [static Random–Access 
-Memory] n RAM statik 
-static storage n memorie statike 
-static subroutine n nënprogram 
+Memory] |  n  | RAM statik 
+static storage |  n  | memorie statike 
+static subroutine |  n  | nënprogram 
 statik 
-station n stacion 
-statistical adj statistik 
-statistical analysis n analizë 
+station |  n  | stacion 
+statistical |  adj  | statistik 
+statistical analysis |  n  | analizë 
 statistike 
-statistical multiplexer [stat mux] n 
+statistical multiplexer [stat mux] |  n  | 
 multiplekser statistikor 
-statistics n statistikë 
-status n status [gjendje, pozitë] 
-status area n zonë e gjendjes 
-status bar n shirit i statusit 
-status codes n kode të statusit 
-status line n rresht i gjendjeve 
-status register n regjistër i gjendjeve 
-step n hap 
-stochastic adj stokastik 
-stochastic procedure n procedurë 
+statistics |  n  | statistikë 
+status |  n  | status [gjendje, pozitë] 
+status area |  n  | zonë e gjendjes 
+status bar |  n  | shirit i statusit 
+status codes |  n  | kode të statusit 
+status line |  n  | rresht i gjendjeve 
+status register |  n  | regjistër i gjendjeve 
+step |  n  | hap 
+stochastic |  adj  | stokastik 
+stochastic procedure |  n  | procedurë 
 stokastike 
  stochastic process 
  
 218
-stochastic process n proces stokastik 
-stohastic adj stokastik 
-stop frame n kuadër i ngrirë [i 
+stochastic process |  n  | proces stokastik 
+stohastic |  adj  | stokastik 
+stop frame |  n  | kuadër i ngrirë [i 
 ndalur] 
 structure of a system 
-store v memoroj [fus ose vendos në 
+store |  v  | memoroj [fus ose vendos në 
 memorie, ruaj] 
-store (1) n memorie 
-store (2) n pajisje për memorim 
+store (1) |  n  | memorie 
+store (2) |  n  | pajisje për memorim 
 [memorie] 
-store (3) n memorizim [vendosje 
+store (3) |  n  | memorizim [vendosje 
 ose futje në memorie] 
 store and forward ph memoroje 
 dhe përcille (dërgoje) 
-store device n pajisje memorizuese 
+store device |  n  | pajisje memorizuese 
 [memorie, njësi e memorimit] 
-store instruction n urdhër 
+store instruction |  n  | urdhër 
 memorizimi 
-stored procedure n procedurë e 
+stored procedure |  n  | procedurë e 
 memoruar 
-stored program concept n koncept i 
+stored program concept |  n  | koncept i 
 programit të memoruar 
-stored program logic n logjikë e 
+stored program logic |  n  | logjikë e 
 memoruar e programit 
-stored routine n rutinë e memoruar 
-stored word n fjalë e memoruar 
-stored-program computer n 
+stored routine |  n  | rutinë e memoruar 
+stored word |  n  | fjalë e memoruar 
+stored-program computer |  n  | 
 kompjuter me program të 
 memoruar 
-stored-program concept n 
+stored-program concept |  n  | 
 koncept i programit të memoruar 
-storetrieval system n sistem për 
+storetrieval system |  n  | sistem për 
 ruajtje dhe kërkim 
-straight-line adj drejtvizor 
-structure n strukturë 
-structure v strukturoj 
-structure of a system n strukturë e 
+straight-line |  adj  | drejtvizor 
+structure |  n  | strukturë 
+structure |  v  | strukturoj 
+structure of a system |  n  | strukturë e 
 sistemit 
-storage n memorie 
-storage archive n arkiv i memories 
-storage area n hapësirë e memories 
-storage block n bllok i memories 
-storage capacity n kapacitet i 
+storage |  n  | memorie 
+storage archive |  n  | arkiv i memories 
+storage area |  n  | hapësirë e memories 
+storage block |  n  | bllok i memories 
+storage capacity |  n  | kapacitet i 
 memories 
-storage cell n qelizë e memories 
-storage compacting n ngjeshje e 
+storage cell |  n  | qelizë e memories 
+storage compacting |  n  | ngjeshje e 
 memories 
-storage cycle n cikël i memories 
-storage cycle n kohë e ciklit të 
+storage cycle |  n  | cikël i memories 
+storage cycle |  n  | kohë e ciklit të 
 memories 
-storage density n dendësi e 
+storage density |  n  | dendësi e 
 memorimit 
-storage element n element i 
+storage element |  n  | element i 
 memories 
-storage fill n mbushje e memories 
-storage hierarchy n hierarki e 
+storage fill |  n  | mbushje e memories 
+storage hierarchy |  n  | hierarki e 
 memories 
-storage key n çelës i memories 
-storage location n lokacion i 
+storage key |  n  | çelës i memories 
+storage location |  n  | lokacion i 
 memories 
-storage protection n mbrojtje e 
+storage protection |  n  | mbrojtje e 
 memories 
-storage register n regjistër i 
+storage register |  n  | regjistër i 
 memories 
-storage surface n sipërfaqe për 
+storage surface |  n  | sipërfaqe për 
 memorim 
  
  structured cablling 
-structured cablling n kabllim i 
+structured cablling |  n  | kabllim i 
 strukturuar 
-structured coding n kodim i 
+structured coding |  n  | kodim i 
 strukturuar 
-structured data type n tip i 
+structured data type |  n  | tip i 
 strukturuar i të dhënave 
-structured graphics n grafikë e 
+structured graphics |  n  | grafikë e 
 strukturuar 
-structured programming n 
+structured programming |  n  | 
 programim i strukturuar 
-style n stil 
-style sheet n fletë e stileve 
-stylus n penë shkruese 
-subchannel n nënkanal [kanal 
+style |  n  | stil 
+style sheet |  n  | fletë e stileve 
+stylus |  n  | penë shkruese 
+subchannel |  n  | nënkanal [kanal 
 ndihmës] 
-subchannel n nënkanal 
-subcommand n nënkomandë 
-subdatabase n nënbazë e të dhënave 
-subdevice bit n biti i nënpajisjes 
-subdirectory n nëndirektorium 
-subdivision n nënndarje 
-subgroup n nëngrup 
-subheading n nëntitull 
-subject drift n zhvendosje nga tema 
-subject tree n pemë e temave 
-submenu n nënmeny 
-submit (1) v nënshtroj 
-submit (1) v paraqes [parashtroj] 
-subnet n nënrrjet 
-subprogram n nënprogram 
-subroutine n nënprogram 
+subchannel |  n  | nënkanal 
+subcommand |  n  | nënkomandë 
+subdatabase |  n  | nënbazë e të dhënave 
+subdevice bit |  n  | biti i nënpajisjes 
+subdirectory |  n  | nëndirektorium 
+subdivision |  n  | nënndarje 
+subgroup |  n  | nëngrup 
+subheading |  n  | nëntitull 
+subject drift |  n  | zhvendosje nga tema 
+subject tree |  n  | pemë e temave 
+submenu |  n  | nënmeny 
+submit (1) |  v  | nënshtroj 
+submit (1) |  v  | paraqes [parashtroj] 
+subnet |  n  | nënrrjet 
+subprogram |  n  | nënprogram 
+subroutine |  n  | nënprogram 
 [nënrutinë] 
  
  
 219
 supercomputer 
-subroutine call instruction n 
+subroutine call instruction |  n  | 
 urdhër i thirrjes së nënrutinës 
-subschema n nënskemë 
-subscript n indeks [nënshenjë] 
-subsequence n nënsekuencë 
+subschema |  n  | nënskemë 
+subscript |  n  | indeks [nënshenjë] 
+subsequence |  n  | nënsekuencë 
 [nënvarg] 
-substitute n zëvendësoj 
-substitute fonts n fonte 
+substitute |  n  | zëvendësoj 
+substitute fonts |  n  | fonte 
 zëvendësuese 
-substitution n zëvendësim 
-subtraction n zbritje 
-subtrahend n zbritës 
-subtransaction n nëntransaksion 
-subtree n nënpemë 
-subtype n nënlloj ose nëntip 
+substitution |  n  | zëvendësim 
+subtraction |  n  | zbritje 
+subtrahend |  n  | zbritës 
+subtransaction |  n  | nëntransaksion 
+subtree |  n  | nënpemë 
+subtype |  n  | nënlloj ose nëntip 
 successfull adv me sukses 
-successive adj njëpasnjëshëm (i) ose 
+successive |  adj  | njëpasnjëshëm (i) ose 
 suksesiv 
 successive approximation A/D 
-converter n shndërrues 
+converter |  n  | shndërrues 
 (konvertor) A-D me përafrim të 
 njëpasnjëshëm ose suksesiv 
-sum n shumë [mbledhje] 
-summarize v përmbledh 
-summary n përmbledhje 
-SunOs [Sun Operating System] n 
+sum |  n  | shumë [mbledhje] 
+summarize |  v  | përmbledh 
+summary |  n  | përmbledhje 
+SunOs [Sun Operating System] |  n  | 
 SunOs [sistemi operativ Sun] 
 super large scale integration [SLSI] 
- n shkallë super e lartë e integrimit 
-super VGA [SVGA] n super VGA 
+ |  n  | shkallë super e lartë e integrimit 
+super VGA [SVGA] |  n  | super VGA 
 [SVGA] 
-supercomputer n superkompjuter 
+supercomputer |  n  | superkompjuter 
  
 220
 symmetric list 
-switching algebra n algjebër logjike 
+switching algebra |  n  | algjebër logjike 
 [algjebër e Bulit, algjebër e 
 ndërprerësve] 
-switching technique n teknikë e 
+switching technique |  n  | teknikë e 
 komutimit 
-switch-off v shkyç 
-switch-on v kyç 
-swivel v rrotulloj 
-syllable n rrokje 
-symbol n simbol 
-symbolic address n adresë 
+switch-off |  v  | shkyç 
+switch-on |  v  | kyç 
+swivel |  v  | rrotulloj 
+syllable |  n  | rrokje 
+symbol |  n  | simbol 
+symbolic address |  n  | adresë 
 simbolike 
-symbolic addressing n adresim 
+symbolic addressing |  n  | adresim 
 simbolik 
-symbolic language n gjuhë 
+symbolic language |  n  | gjuhë 
 simbolike 
-symbolic logic n logjikë simbolike 
-symbollic coding n kodim simbolik 
-symbollic language n gjuhë 
+symbolic logic |  n  | logjikë simbolike 
+symbollic coding |  n  | kodim simbolik 
+symbollic language |  n  | gjuhë 
 simbolike 
-symbollic link n lidhje simbolike 
-symbollic logic n logjikë simbolike 
-symbollic number n numër simbolik 
-symbollic programming n 
+symbollic link |  n  | lidhje simbolike 
+symbollic logic |  n  | logjikë simbolike 
+symbollic number |  n  | numër simbolik 
+symbollic programming |  n  | 
 programim simbolik 
-symlink [symbollic link] n lidhje 
+symlink [symbollic link] |  n  | lidhje 
 simbolike 
 symmetric digital subscriber line 
-[SDSL] n linjë digjitale simetrike 
+[SDSL] |  n  | linjë digjitale simetrike 
 e abonentit 
-symmetric list n lista simetrike 
+symmetric list |  n  | lista simetrike 
  superconducting memory 
-superconducting memory n 
+superconducting memory |  n  | 
 memorie superpërçuese 
-superconductivity n 
+superconductivity |  n  | 
 superpërçueshmëri 
-superconductor n superpërçues 
-SuperDrive n SuperDrive [(njësia 
+superconductor |  n  | superpërçues 
+SuperDrive |  n  | SuperDrive [(njësia 
 e disketave 3.5" e cila përdoret te 
 kompjuterët Apple Macintosh] 
 super-large-scale integration 
-[SLSI] n shkallë super e lartë e 
+[SLSI] |  n  | shkallë super e lartë e 
 integrimit [SLSI] 
-superminicomputer n 
+superminicomputer |  n  | 
 superminikompjuter 
-superscalar adj superskalar 
-superscript n eksponent [fuqi] 
-superserver n superserver 
-superuser n superpërdorues ose 
+superscalar |  adj  | superskalar 
+superscript |  n  | eksponent [fuqi] 
+superserver |  n  | superserver 
+superuser |  n  | superpërdorues ose 
 supershfrytëzues 
-superuser n superpërdorues 
-surface modeling n modelim i 
+superuser |  n  | superpërdorues 
+surface modeling |  n  | modelim i 
 sipërfaqeve 
-surface-mount technology [SMT] n 
+surface-mount technology [SMT] |  n  | 
 teknologji e montimit sipërfaqësor 
-SVGA [super VGA] abbr SVGA 
+SVGA [super VGA] |  abbr  | SVGA 
 [super-VGA] 
-switchboard n panel komutimi 
-switched n komutuar (i) 
-switched Ethernet n Ethernet i 
+switchboard |  n  | panel komutimi 
+switched |  n  | komutuar (i) 
+switched Ethernet |  n  | Ethernet i 
 komutuar 
-switched line n linjë e komutuar 
-switched modem n modem i 
+switched line |  n  | linjë e komutuar 
+switched modem |  n  | modem i 
 komutuar 
-switching n komutim 
+switching |  n  | komutim 
  
  symmetric multiprocessing 
 symmetric multiprocessing [SMP] 
@@ -14423,116 +14393,116 @@ symmetric multiprocessing [SMP]
 n përpunimi shumprocesorik 
 simetrik [SMP] 
 symmetric multiprocessing server 
-[SMP server] n server 
+[SMP server] |  n  | server 
 shumprocesorik simetrik [server 
 SMP] 
 SYN [SYNchronous idle character] 
 abbr SYN [karakter sinkronizues 
 i punës pa ngarkesë] 
-sync character n karakter për 
+sync character |  n  | karakter për 
 sinkronizim 
 sync signal [SYNchronization 
-signal] n sinjal sinkronizues 
-synchronization n sinkronizim 
-synchronization pulse n impuls 
+signal] |  n  | sinjal sinkronizues 
+synchronization |  n  | sinkronizim 
+synchronization pulse |  n  | impuls 
 sinkronizimi 
-synchronization signal n sinjal 
+synchronization signal |  n  | sinjal 
 sinkronizues 
-synchronize v sinkronizoj 
-synchronizer n sinkronizues 
-synchronizing input n hyrje 
+synchronize |  v  | sinkronizoj 
+synchronizer |  n  | sinkronizues 
+synchronizing input |  n  | hyrje 
 sinkronizuese 
-synchronous adj sinkron (i 
+synchronous |  adj  | sinkron (i 
 njëkohshëm) 
-synchronous communications n 
+synchronous communications |  n  | 
 komunikime sinkrone 
-synchronous computer n kompjuter 
+synchronous computer |  n  | kompjuter 
 sinkron 
-synchronous operation n 
+synchronous operation |  n  | 
 protokoll [operacion] sinkron 
-synchronous protocol n 
+synchronous protocol |  n  | 
 protokoll sinkron 
-synchronous transmission n 
+synchronous transmission |  n  | 
 transmetim sinkron 
  
 system analysis 
 synchronous UART [synchronous 
 universal asynchronous receiver-
-transmitter] n UART sinkron 
-synchronous working n punë 
+transmitter] |  n  | UART sinkron 
+synchronous working |  n  | punë 
 sinkrone 
-synonym n sinonim 
-syntactic analysis n analizë 
+synonym |  n  | sinonim 
+syntactic analysis |  n  | analizë 
 sintaktike 
-syntactic extension n zgjerim 
+syntactic extension |  n  | zgjerim 
 sintaktik 
-syntactic model n model sintaktik 
-syntax n sintaksë 
-syntax analyser n analizator 
+syntactic model |  n  | model sintaktik 
+syntax |  n  | sintaksë 
+syntax analyser |  n  | analizator 
 sintaksor 
-syntax analysis n analizë sintaksore 
-syntax checker n kontrollues i 
+syntax analysis |  n  | analizë sintaksore 
+syntax checker |  n  | kontrollues i 
 sintaksës 
-syntax error n gabim sintaksor 
-syntax rule n rregull i sintaksës 
-synthesis n sintezë 
-synthesis image n figurë e 
+syntax error |  n  | gabim sintaksor 
+syntax rule |  n  | rregull i sintaksës 
+synthesis |  n  | sintezë 
+synthesis image |  n  | figurë e 
 sintetizuar 
-synthesis voice n zë i sintetizuar 
-synthesizer n sintetizues 
-synthetic language n gjuhë sintetike 
-SYSIN [system input] abbr hyrje e 
+synthesis voice |  n  | zë i sintetizuar 
+synthesizer |  n  | sintetizues 
+synthetic language |  n  | gjuhë sintetike 
+SYSIN [system input] |  abbr  | hyrje e 
 sistemit 
-sysop [system operator] n operator i 
+sysop [system operator] |  n  | operator i 
 sistemit 
-system n sistem 
-system administrator n 
+system |  n  | sistem 
+system administrator |  n  | 
 administrator i sistemit 
-system analysis n analizë e sistemit 
+system analysis |  n  | analizë e sistemit 
  
-systems analyst n analist sistemi 
+systems analyst |  n  | analist sistemi 
 Systems Appliaction Architecture 
-[SAA] n arkitekturë e aplikacioneve 
+[SAA] |  n  | arkitekturë e aplikacioneve 
 sistemore [SAA] 
-systems definition n përkufizim i 
+systems definition |  n  | përkufizim i 
 sistemit 
-systems integration n integrim i 
+systems integration |  n  | integrim i 
 sistemit 
 Systems Network Architecture 
-[SNA] n arkitektura rrjetore e 
+[SNA] |  n  | arkitektura rrjetore e 
 sistemit [SNA] 
-systems programmer n programues 
+systems programmer |  n  | programues 
 i sistemit 
-systems programming n programim 
+systems programming |  n  | programim 
 i sistemit 
-systems software n softuer sistemi 
-systems specification n specifikim i 
+systems software |  n  | softuer sistemi 
+systems specification |  n  | specifikim i 
 sistemit 
-systems study n studim i sistemit 
-systems test n testim i sistemit 
+systems study |  n  | studim i sistemit 
+systems test |  n  | testim i sistemit 
  system analyst 
  
 222
-system analyst n analizues i sistemit 
-system board n pllakë e sistemit 
+system analyst |  n  | analizues i sistemit 
+system board |  n  | pllakë e sistemit 
 [pllakë amë] 
-system check n kontrollim i sistemit 
-system control n kontroll 
+system check |  n  | kontrollim i sistemit 
+system control |  n  | kontroll 
 [komandim] i sistemit 
-system crash n rënie e sistemit 
-system defaults n parazgjedhje të 
+system crash |  n  | rënie e sistemit 
+system defaults |  n  | parazgjedhje të 
 sistemit 
-system disk n disk i sistemit 
-system integrity n integritet i 
+system disk |  n  | disk i sistemit 
+system integrity |  n  | integritet i 
 sistemit 
-system operator [sysop] n operator 
+system operator [sysop] |  n  | operator 
 i sistemit 
-system parameter n parametër i 
+system parameter |  n  | parametër i 
 sistemit 
-system security n sigurim i sistemit 
+system security |  n  | sigurim i sistemit 
 [siguri e sistemit] 
-system unit n njësi e sistemit 
-System V n Sistem V [version i 
+system unit |  n  | njësi e sistemit 
+System V |  n  | Sistem V [version i 
 sistemit UNIX] 
  
  
@@ -14546,54 +14516,54 @@ sistemit UNIX]
 223
 T 
 T [tera = 1012] pref T [tera = 1012] 
-T-1 carrier n lidhja T-1, linja T-1 
+T-1 carrier |  n  | lidhja T-1, linja T-1 
 [44.746 Mbps, 24 kanale 
 telefonike] 
-T-3 carrier n lidhja T-3, linja T-3 
+T-3 carrier |  n  | lidhja T-3, linja T-3 
 [1.544 Mbps, 672 kanale 
 telefonike] 
-tab [tabulator] abbr tabulator 
+tab [tabulator] |  abbr  | tabulator 
 [tabelar] 
-table n tabelë 
-table look-up n kontrollim i tabelës 
-table-driven compiler n kompilues 
+table |  n  | tabelë 
+table look-up |  n  | kontrollim i tabelës 
+table-driven compiler |  n  | kompilues 
 (përkthyes) i udhëhequr me tabelë 
-tablet n tabletë 
-tabular adj tabelor 
-tabular language n gjuhë tabelore 
-tabulate v hedh në tabelë (të 
+tablet |  n  | tabletë 
+tabular |  adj  | tabelor 
+tabular language |  n  | gjuhë tabelore 
+tabulate |  v  | hedh në tabelë (të 
 dhënat) ose formoj tabelën 
-tabulator n tabulator [tabelar] 
-tactile adj prekjes (i) [me prekje] 
-tactile screen n ekran me prekje 
-tag n etiketë [shenjë dalluese] 
-tag image file format [TIFF] n 
+tabulator |  n  | tabulator [tabelar] 
+tactile |  adj  | prekjes (i) [me prekje] 
+tactile screen |  n  | ekran me prekje 
+tag |  n  | etiketë [shenjë dalluese] 
+tag image file format [TIFF] |  n  | 
 format TIFF [TIFF] 
-tail n bisht ose fund 
-talk v bisedoj (flas) 
-talking n që flet 
-talking computer n kompjuter që 
+tail |  n  | bisht ose fund 
+talk |  v  | bisedoj (flas) 
+talking |  n  | që flet 
+talking computer |  n  | kompjuter që 
 flet 
-tandem adj në varg [dysh, tandem] 
-tangent n tangjent 
-tape cassete n kasetë me shirit 
+tandem |  adj  | në varg [dysh, tandem] 
+tangent |  n  | tangjent 
+tape cassete |  n  | kasetë me shirit 
 (magnetik) 
-tape file n fajl në shiritin magnetik 
-tape format n format i shiritit 
+tape file |  n  | fajl në shiritin magnetik 
+tape format |  n  | format i shiritit 
 magnetik 
-tape header n krye i shiritit 
+tape header |  n  | krye i shiritit 
 magnetik 
-tape label n etiketë e shiritit 
+tape label |  n  | etiketë e shiritit 
 magnetik 
-tape library n bibliotekë e shiritave 
+tape library |  n  | bibliotekë e shiritave 
 magnetikë [bandotekë] 
-tape mark n shenjë në shiriti 
-tape punch n shpues [birues] ose 
+tape mark |  n  | shenjë në shiriti 
+tape punch |  n  | shpues [birues] ose 
 perforues i shiritit 
-tape reader n lexues i shiritit 
-tape tree n pemë e shiritit 
+tape reader |  n  | lexues i shiritit 
+tape tree |  n  | pemë e shiritit 
 TAPI [Telephony Application 
-Programming Interface] abbr TAPI 
+Programming Interface] |  abbr  | TAPI 
 [ndërfaqe ose interfejs programor i 
 aplikacioneve për telefoni] 
  
@@ -14601,356 +14571,356 @@ aplikacioneve për telefoni]
 224
 Telescript 
  target language 
-target language n gjuhë objektiv 
+target language |  n  | gjuhë objektiv 
 [shënjestër; e synuar] 
-target program n program objektiv 
+target program |  n  | program objektiv 
 [shënjestër; i synuar] 
-target routine n rutinë objektiv 
+target routine |  n  | rutinë objektiv 
 [shënjestër; e synuar] 
-task n detyrë ose punë 
-task description n përshkrim i 
+task |  n  | detyrë ose punë 
+task description |  n  | përshkrim i 
 detyrës (ose punës) 
-task management n menaxhimi me 
+task management |  n  | menaxhimi me 
 punët [menaxhimi me detyrat] 
-task swapping n ndërrimi i detyrave 
+task swapping |  n  | ndërrimi i detyrave 
 [punëve] 
-task switching n komutim i punëve 
+task switching |  n  | komutim i punëve 
 [kalimi prej njërës punë në tjetrën] 
-taskbar n shiriti i punëve [detyrave] 
-tautology n tautologji 
-TB [Tera Byte] abbr TB [terabajt] 
-T-carrier n bartëse (ose bartës) T 
-TEAC/Traxdata writer n shkrues 
+taskbar |  n  | shiriti i punëve [detyrave] 
+tautology |  n  | tautologji 
+TB [Tera Byte] |  abbr  | TB [terabajt] 
+T-carrier |  n  | bartëse (ose bartës) T 
+TEAC/Traxdata writer |  n  | shkrues 
 TEAC/Traxdata 
-technical adj teknik 
-technical documentation n 
+technical |  adj  | teknik 
+technical documentation |  n  | 
 dokumentacion teknik 
-technique n teknikë 
-technology (1) n teknologji 
-technology (1) n teknikë 
-technology transfer n transferim 
+technique |  n  | teknikë 
+technology (1) |  n  | teknologji 
+technology (1) |  n  | teknikë 
+technology transfer |  n  | transferim 
 i teknologjisë 
-technophile n dashamir i teknikës 
-telco [telephone company] n 
+technophile |  n  | dashamir i teknikës 
+telco [telephone company] |  n  | 
 telekom [kompani telefonike] 
 tele- pref tele- [në largësi] 
  
-telecommand n telekomandë 
-telecommunications n 
+telecommand |  n  | telekomandë 
+telecommunications |  n  | 
 telekomunikacione 
-telecomunications network n rrjet i 
+telecomunications network |  n  | rrjet i 
 telekomunikacionit 
 Telecomunications 
-Standardization Sector [TSS] n 
+Standardization Sector [TSS] |  n  | 
 TSS [Sektori i Standardizimit të 
 Telekomunikacionit: organizëm 
 ndërkombëtar] 
-teleconferencing n telekonferencim 
-telecopying n telekopjim [faksimil] 
-telefax n telefaks 
-telegraph n telegraf 
-telegraphy n telegrafi 
-telekonference n telekonferencë 
-telematics n telematikë 
-telemetering n telematje 
-telemetry n telematje [telemetri] 
-telemonitoring n televëzhgim 
+teleconferencing |  n  | telekonferencim 
+telecopying |  n  | telekopjim [faksimil] 
+telefax |  n  | telefaks 
+telegraph |  n  | telegraf 
+telegraphy |  n  | telegrafi 
+telekonference |  n  | telekonferencë 
+telematics |  n  | telematikë 
+telemetering |  n  | telematje 
+telemetry |  n  | telematje [telemetri] 
+telemonitoring |  n  | televëzhgim 
 [telemonitorim] 
-telephone n telefon 
-telephone-directory n numërator 
+telephone |  n  | telefon 
+telephone-directory |  n  | numërator 
 telefonik [libër me emrat dhe 
 numrat e telefonave të abonentëve] 
-telephony n telefoni 
-telephony device n pajisje 
+telephony |  n  | telefoni 
+telephony device |  n  | pajisje 
 telefonike 
-telephoto n telefoto 
-telephotography n telefofotografi 
-Telescript n Telescript [gjuhë 
+telephoto |  n  | telefoto 
+telephotography |  n  | telefofotografi 
+Telescript |  n  | Telescript [gjuhë 
 programuese e orientuar në 
 komunikime] 
  telesignalization 
-telesignalization n telesinjalizim 
-Teletype n Teletype [prodhues i 
+telesignalization |  n  | telesinjalizim 
+Teletype |  n  | Teletype [prodhues i 
 teleprinterëve dhe pajisjeve të tjera 
 që përdoren te sistemet 
 komunikuese] 
-teletypewriter [TTY] n teleprinter 
-television n televizion 
-television receiver n televizor 
+teletypewriter [TTY] |  n  | teleprinter 
+television |  n  | televizion 
+television receiver |  n  | televizor 
 [marrës televiziv] 
-television screen n ekran televizori 
-television set n televizor [marrës 
+television screen |  n  | ekran televizori 
+television set |  n  | televizor [marrës 
 televiziv] 
-telex [teleprinter exchange] abbr 
+telex [teleprinter exchange] |  abbr  | 
 teleks 
-telnet n Telnet [program për punë në 
+telnet |  n  | Telnet [program për punë në 
 Telnet] 
-template n model (shabllon, gjedhe) 
-temporary adj përkohshëm (i) 
-temporary directory n direktorium 
+template |  n  | model (shabllon, gjedhe) 
+temporary |  adj  | përkohshëm (i) 
+temporary directory |  n  | direktorium 
 i përkohshëm 
-temporary file n fajl i përkohshëm 
-temporary memory n memorie e 
+temporary file |  n  | fajl i përkohshëm 
+temporary memory |  n  | memorie e 
 përkohshme 
-temporary registers n regjistra të 
+temporary registers |  n  | regjistra të 
 përkohshëm 
 tera- [T, =1012] pref tera- [T, = 1012] 
-terabit memory n memorie 
+terabit memory |  n  | memorie 
 terabitëshe 
-terabyte n terabajt 
-terminal (1) n terminal [skaj, bornë] 
-terminal (2) n terminal [stacion 
+terabyte |  n  | terabajt 
+terminal (1) |  n  | terminal [skaj, bornë] 
+terminal (2) |  n  | terminal [stacion 
 fundor] 
-terminal node n nyjë terminali 
+terminal node |  n  | nyjë terminali 
  
  
 225
 thermal printer 
-termination n mbarim [fund, 
+termination |  n  | mbarim [fund, 
 përfundim] 
-terminology n terminologji 
-ternary adj trijar ose ternar [me 
+terminology |  n  | terminologji 
+ternary |  adj  | trijar ose ternar [me 
 bazë 3] 
-testing n testim [provë, të provuarit] 
-texel [texture element] n element i 
+testing |  n  | testim [provë, të provuarit] 
+texel [texture element] |  n  | element i 
 teksturës 
-text n tekst 
-text processing [TP] n përpunim i 
+text |  n  | tekst 
+text processing [TP] |  n  | përpunim i 
 tekstit 
-text processor n procesor 
+text processor |  n  | procesor 
 [përpunues] i tekstit 
-text system n sistem i tekstit 
-texture n teksturë 
-texture element n element i 
+text system |  n  | sistem i tekstit 
+texture |  n  | teksturë 
+texture element |  n  | element i 
 teksturës 
-TFLOPS [teraflops] abbr TFLOPS 
+TFLOPS [teraflops] |  abbr  | TFLOPS 
 [teraflops: një bilion operacione 
 elementare me pikë të lëvizshme në 
 sekondë] 
-TFT [thin film transistor] abbr 
+TFT [thin film transistor] |  abbr  | 
 TFT [transistor shtresëhollë] 
-theorem n teoremë 
-theorem proving n vërtetim i 
+theorem |  n  | teoremë 
+theorem proving |  n  | vërtetim i 
 teoremës 
-theory n teori 
-theory of models n teori e 
+theory |  n  | teori 
+theory of models |  n  | teori e 
 modeleve 
-theory of number n teori e numrave 
-theory of types n teori e tipave 
-thermal adj termik 
-thermal printer n printer termik 
+theory of number |  n  | teori e numrave 
+theory of types |  n  | teori e tipave 
+thermal |  adj  | termik 
+thermal printer |  n  | printer termik 
  thermal resistor 
  
 226
-thermal resistor n termorezistues 
+thermal resistor |  n  | termorezistues 
 [termistor] 
 threshold 
-third normal form n formë e tretë 
+third normal form |  n  | formë e tretë 
 normale 
-thermal wax printer n printer 
+thermal wax printer |  n  | printer 
 termik me dyllë 
-thermistor [thermal resistor] n 
+thermistor [thermal resistor] |  n  | 
 termistor [termorezistues] 
-third-generation computer n 
+third-generation computer |  n  | 
 kompjuter i brezit të tretë 
-third-generation language n gjuhë e 
+third-generation language |  n  | gjuhë e 
 brezit të tretë 
-thesaurus n thesaurus [fjalor 
+thesaurus |  n  | thesaurus [fjalor 
 sinonimesh] 
-thesis n tezë 
-thick adj trashë (i) 
-thick-film adj shtresëtrashë 
+thesis |  n  | tezë 
+thick |  adj  | trashë (i) 
+thick-film |  adj  | shtresëtrashë 
 [cipëtrashë] 
-thin client n klient i pangarkuar 
-thin Ethernet n Ethernet i hollë 
-thin film adj shtresëhollë 
-thin film memory n memorie 
+thin client |  n  | klient i pangarkuar 
+thin Ethernet |  n  | Ethernet i hollë 
+thin film |  adj  | shtresëhollë 
+thin film memory |  n  | memorie 
 shtresëhollë 
-thin film transistor n transistor 
+thin film transistor |  n  | transistor 
 shtresëhollë 
-thin magnetic film n shtresë e hollë 
+thin magnetic film |  n  | shtresë e hollë 
 magnetike 
-thin server n server i pangarkuar 
-thin space n zhvendosje e vogël 
-thin system n sistem i pangarkuar 
-thin-film adj shtresëhollë [cipëhollë] 
-thin-film memory n memorie 
+thin server |  n  | server i pangarkuar 
+thin space |  n  | zhvendosje e vogël 
+thin system |  n  | sistem i pangarkuar 
+thin-film |  adj  | shtresëhollë [cipëhollë] 
+thin-film memory |  n  | memorie 
 shtresëhollë [cipëhollë] 
-ThinNet n ThinNet [Ethernet i 
+ThinNet |  n  | ThinNet [Ethernet i 
 hollë] 
-ThinWire n ThinWire [lidhje e 
+ThinWire |  n  | ThinWire [lidhje e 
 hollë, Ethernet i hollë] 
-third generation computer n 
+third generation computer |  n  | 
 kompjuter i brezit të tretë 
  
-thousand's separator n ndarës 
+thousand's separator |  n  | ndarës 
 [veçor] i mijësheve 
-three-address instruction n 
+three-address instruction |  n  | 
 instruksion treadresësh 
-three-dimensional [3D] adj 
+three-dimensional [3D] |  adj  | 
 tridimensional [me tri përmasa, 3D] 
-three-dimensional array n tablo 
+three-dimensional array |  n  | tablo 
 tripërmasore 
-three-dimensional audio n audio 
+three-dimensional audio |  n  | audio 
 tridimensionale 
-three-dimensional graphic n 
+three-dimensional graphic |  n  | 
 grafika tridimensionale 
 three-dimensional graphics [3D 
-graphics] n grafikë tridimensionale 
+graphics] |  n  | grafikë tridimensionale 
 [grafikë me tri përmasa, grafikë 
 3D] 
-three-dimensional model n model 
+three-dimensional model |  n  | model 
 tridimensional 
 three-dimensional modeling [3D 
-modeling] n modelim 
+modeling] |  n  | modelim 
 tridimensional [modelim me tri 
 përmasa, modelim 3D] 
-three-phase adj trifazësh 
-three-phase current n rrymë 
+three-phase |  adj  | trifazësh 
+three-phase current |  n  | rrymë 
 trifazëshe 
-three-state adj me tri gjendje 
-three-state control [TSC] n 
+three-state |  adj  | me tri gjendje 
+three-state control [TSC] |  n  | 
 kontroll me tri gjendje 
-threshold n prag 
+threshold |  n  | prag 
  thyristor 
-thyristor n tiristor 
-tilde n tildë [shenja ~] 
-time n kohë 
-time quantum n kuant (pjesë) i 
+thyristor |  n  | tiristor 
+tilde |  n  | tildë [shenja ~] 
+time |  n  | kohë 
+time quantum |  n  | kuant (pjesë) i 
 kohës 
-time slicing n rriskim (ndarje) i kohës 
+time slicing |  n  | rriskim (ndarje) i kohës 
 time-division multiplexing [TDM] 
 n multipleksim me ndarje kohe 
-time-division switching n komutim 
+time-division switching |  n  | komutim 
 me ndarje kohe 
 time-multiplexed switching [TMS] 
 n komutim me multipleksim kohor 
-timing signal n sinjal i sinkronizimit 
-tint n ngjyrim [nuancë (e shkrimit)] 
-title n titull 
-tone n ton [zë] 
-tools n meny e mjeteve (të punës) 
+timing signal |  n  | sinjal i sinkronizimit 
+tint |  n  | ngjyrim [nuancë (e shkrimit)] 
+title |  n  | titull 
+tone |  n  | ton [zë] 
+tools |  n  | meny e mjeteve (të punës) 
 [meny e veglave] 
-topic group n grup tematik 
-touch display n ekran me prekje 
-touch-sensitive adj ndjeshëm (i) 
+topic group |  n  | grup tematik 
+touch display |  n  | ekran me prekje 
+touch-sensitive |  adj  | ndjeshëm (i) 
 në prekje 
-touch-sensitive screen n ekran i 
+touch-sensitive screen |  n  | ekran i 
 ndjeshëm në prekje [ekran me 
 prekje] 
-TP [text processing] abbr 
+TP [text processing] |  abbr  | 
 përpunim i tekstit 
-track n gjurmë ose shteg [rruginë] 
-track v ndjek gjurmën (ose shtegun) 
-track label n emër i shtegut 
-track tail n fund i shtegut 
+track |  n  | gjurmë ose shteg [rruginë] 
+track |  v  | ndjek gjurmën (ose shtegun) 
+track label |  n  | emër i shtegut 
+track tail |  n  | fund i shtegut 
 tracks successfully written ph 
 shtigje të shkruajtura me sukses 
  
  
 227
 transmission rate 
-traffic n trafik [qarkullim, 
+traffic |  n  | trafik [qarkullim, 
 komunikacion] 
-traffic control n kontrollim i trafikut 
-transaction n transaksion 
-transaction file n fajl i 
+traffic control |  n  | kontrollim i trafikut 
+transaction |  n  | transaksion 
+transaction file |  n  | fajl i 
 transaksioneve 
-transfer [XTR] n transfer [tejçim] 
-transfer control protocol n protokoll 
+transfer [XTR] |  n  | transfer [tejçim] 
+transfer control protocol |  n  | protokoll 
 i kontrollit të transferit 
-transform v transformoj ose 
+transform |  v  | transformoj ose 
 shndërroj 
-transformation (1) n transformim 
+transformation (1) |  n  | transformim 
 ose shndërrim 
-transformer n transformator 
-transistor n transistor 
-transistor-transistor logic [TTL] n 
+transformer |  n  | transformator 
+transistor |  n  | transistor 
+transistor-transistor logic [TTL] |  n  | 
 logjikë transistor-transistor [TTL] 
-translation (1) n përkthim 
-translation algorithm n algoritëm 
+translation (1) |  n  | përkthim 
+translation algorithm |  n  | algoritëm 
 përkthyes 
-translation software n softuer i 
+translation software |  n  | softuer i 
 përkthimit 
-translator n përkthyes 
-translator routine n rutinë 
+translator |  n  | përkthyes 
+translator routine |  n  | rutinë 
 përkthyese 
 Transmission Control Protocol 
-[TCP] n protokoll për kontroll të 
+[TCP] |  n  | protokoll për kontroll të 
 transmetimit [protokoll TCP] 
-transmission device n pajisje 
+transmission device |  n  | pajisje 
 transmetuese 
-transmission path n shteg i 
+transmission path |  n  | shteg i 
 transmetimit 
-transmission rate n shpejtësi e 
+transmission rate |  n  | shpejtësi e 
 transmetimit 
  transmit 
-transmit v transmetoj 
-transmitter n transmetues, dhënës 
-transponder n transponder 
-transport n transport 
-transport layer n shtresë 
+transmit |  v  | transmetoj 
+transmitter |  n  | transmetues, dhënës 
+transponder |  n  | transponder 
+transport |  n  | transport 
+transport layer |  n  | shtresë 
 transportuese 
-transport protocol n protokoll i 
+transport protocol |  n  | protokoll i 
 transportit 
-transportability n bartshmëri 
+transportability |  n  | bartshmëri 
 [transportueshmëri] 
-transportable adj bartshëm (i) 
+transportable |  adj  | bartshëm (i) 
 [transportueshëm (i)] 
-transpose n zhvendosje 
-transversal adj tërthor 
-transverse adj tërthor 
-transverse axis n bosht tërthor 
-trash bin n kosh (ose shportë) 
+transpose |  n  | zhvendosje 
+transversal |  adj  | tërthor 
+transverse |  adj  | tërthor 
+transverse axis |  n  | bosht tërthor 
+trash bin |  n  | kosh (ose shportë) 
 hedhurinash 
-trash can n kosh (ose shportë) 
+trash can |  n  | kosh (ose shportë) 
 hedhurinash 
-tree n pemë 
-tree diagram n diagram i pemës 
-tree search n kërkim i pemës 
-tree structure n strukturë e pemës 
-tree topology n topologji pemë 
-trichromatic adj tringjyrësh 
+tree |  n  | pemë 
+tree diagram |  n  | diagram i pemës 
+tree search |  n  | kërkim i pemës 
+tree structure |  n  | strukturë e pemës 
+tree topology |  n  | topologji pemë 
+trichromatic |  adj  | tringjyrësh 
 (sistem i cili për përftimin e 
 ngjyrave i shfrytëzon tri ngjyra: të 
 kuqen, blunë dhe të gjelbrën) 
-trigger v shkreh 
-trigger n shkrehës 
-trigonometry n trigonometri 
+trigger |  v  | shkreh 
+trigger |  n  | shkrehës 
+trigonometry |  n  | trigonometri 
  
  
 228
 Turing test 
 triple register [triple-length register]
- n regjistër i trefishtë 
-triple-address [three-address] adj 
+ |  n  | regjistër i trefishtë 
+triple-address [three-address] |  adj  | 
 treadresësh 
-triple-length register n regjistër i 
+triple-length register |  n  | regjistër i 
 trefishtë 
-triple-length working n punë me 
+triple-length working |  n  | punë me 
 gjatësi të trefishtë 
-triple-pass scanner n skaner me tri 
+triple-pass scanner |  n  | skaner me tri 
 kalime 
-triple-precision adding n 
+triple-precision adding |  n  | 
 mbledhje me saktësi të trefishtë 
-triplet n bajt trebitësh 
-tripple adj trefishtë (i) 
-tripple-precision addition n 
+triplet |  n  | bajt trebitësh 
+tripple |  adj  | trefishtë (i) 
+tripple-precision addition |  n  | 
 mbledhje me përpikëri ose saktësi 
 të trefishtë 
-troubleshooting n gjetje e gabimit 
+troubleshooting |  n  | gjetje e gabimit 
 (defektit, prishjes) 
-true adj vërtetë (i) 
-truncate v cungoj [shkurtoj] 
-truncation n cungim [shkurtim] 
-truth n vërteta (e) 
-tryout n provë 
-try-out n provë 
-tube n tub ose gyp 
-Turing machine n makinë e Turing-
+true |  adj  | vërtetë (i) 
+truncate |  v  | cungoj [shkurtoj] 
+truncation |  n  | cungim [shkurtim] 
+truth |  n  | vërteta (e) 
+tryout |  n  | provë 
+try-out |  n  | provë 
+tube |  n  | tub ose gyp 
+Turing machine |  n  | makinë e Turing-
 ut [paraardhëse e kompjuterëve 
 digjital aktual] 
-Turing test n test i Turing-ut [test i 
+Turing test |  n  | test i Turing-ut [test i 
 inteligjencës, te i cili personi që 
 testohet shtron pyetje dhe duhet të 
 gjejë se a është përgjigjur 
@@ -14958,38 +14928,38 @@ kompjuteri ose njeriu]
  
 229
  
-two-dimensional array n fushë 
+two-dimensional array |  n  | fushë 
 dydimensionale 
-two-dimensional model n model 
+two-dimensional model |  n  | model 
 dydimensional 
-two-word adj dyfjalësh 
-two-word instruction n instruksion 
+two-word |  adj  | dyfjalësh 
+two-word instruction |  n  | instruksion 
 (urdhër) dyfjalësh 
-type n shtyp (në makinë shkrimi, 
+type |  n  | shtyp (në makinë shkrimi, 
 tastierë) 
-type n tip (lloj) 
-type checking n kontrollim i tipit 
-type declaration n deklarim i tipit 
-type font n font 
-typesize n madhësi e shenjave 
+type |  n  | tip (lloj) 
+type checking |  n  | kontrollim i tipit 
+type declaration |  n  | deklarim i tipit 
+type font |  n  | font 
+typesize |  n  | madhësi e shenjave 
 (shkronjave) 
-typography n tipografi (shtypshkrim) 
+typography |  n  | tipografi (shtypshkrim) 
  turn off 
-turn off v shkyç 
-turn on v kyç 
-turnaround v kthej mbrapsht 
-twin arithmetic unit n njësi 
+turn off |  v  | shkyç 
+turn on |  v  | kyç 
+turnaround |  v  | kthej mbrapsht 
+twin arithmetic unit |  n  | njësi 
 aritmetikore e dyfishtë 
-twin check n kontrollim i dyfishtë 
-twin-address code n kod dyadresësh 
-twinaxial adj dyaksial (dyboshtor), 
+twin check |  n  | kontrollim i dyfishtë 
+twin-address code |  n  | kod dyadresësh 
+twinaxial |  adj  | dyaksial (dyboshtor), 
 dyfijësh 
-twisted adj përdredhur (i) 
-twisted pair cable n kabëll me 
+twisted |  adj  | përdredhur (i) 
+twisted pair cable |  n  | kabëll me 
 çiftore të përdredhura 
-two-address instruction n 
+two-address instruction |  n  | 
 instruksion dyadresësh 
-two-dimensional [2D] adj 
+two-dimensional [2D] |  adj  | 
 dydimensional [dypërmasor, 2D] 
  
  
@@ -15002,196 +14972,196 @@ unconditional
  
  
 U 
-UA [user agent] abbr agjent i 
+UA [user agent] |  abbr  | agjent i 
 përdoruesit (ose shfrytëzuesit) 
 UART [Universal Asiynchronous 
-Reciever/Transmitter] abbr 
+Reciever/Transmitter] |  abbr  | 
 UART [marrës-dhënës universal 
 asinkron] 
-UHF [Ultra High Frequency] abbr 
+UHF [Ultra High Frequency] |  abbr  | 
 UHF [frekuenca ultra të larta] 
-UKnet abbr UKnet [rrjeti i 
+UKnet |  abbr  | UKnet [rrjeti i 
 Universitetit në Kentaki, provajder 
 në Britani të Madhe] 
 ULSI [Ultra Large Scale Integration]
- abbr ULSI [integrim me shkallë 
+ |  abbr  | ULSI [integrim me shkallë 
 ultra të lartë] 
 ULSI [ultra-large-scale integration] 
 abbr ULSI [integrim me shkallë 
 ultra të lartë] 
 ultra- pref ultra- [tepër] 
 ultra large scale integration [ULSI]
- n integrim me shkallë ultra të 
+ |  n  | integrim me shkallë ultra të 
 lartë [ULSI] 
-Ultra WideSCSI n Ultra WideSCSI 
-ultrafiche n ultrafish [mikrofish me 
+Ultra WideSCSI |  n  | Ultra WideSCSI 
+ultrafiche |  n  | ultrafish [mikrofish me 
 dendësi të madhe, ku fotografitë 
 ruhen të zvogëluara për së paku 90 
 herë] 
 ultra-large-scale integration [ULSI] 
- n integrim me shkallë ultra të 
+ |  n  | integrim me shkallë ultra të 
 lartë [ULSI] 
-ultralight computer n kompjuter 
+ultralight computer |  n  | kompjuter 
 ultra i lehtë 
-UltraSCSI n UltraSCSI 
-ultrasonic adj ultratingullor 
-UMB [upper memory block] abbr 
+UltraSCSI |  n  | UltraSCSI 
+ultrasonic |  adj  | ultratingullor 
+UMB [upper memory block] |  abbr  | 
 UMB [bllok i pjesës së sipërme të 
 memories] 
 UMI [Universal Musical Interface] 
 abbr UMI [ndërfaqe (ose interfejs) 
 muzikore universale] 
-unary adj unar [operacion (ose 
+unary |  adj  | unar [operacion (ose 
 veprim) matematikor me një 
 operand] 
-unary operation n operacion unar 
-unary operator n operator unar 
-unavailable adj padisponueshëm (i) 
+unary operation |  n  | operacion unar 
+unary operator |  n  | operator unar 
+unavailable |  adj  | padisponueshëm (i) 
 [që nuk është në dispozicion, që 
 nuk mund të aktivizohet] 
-unavailable option n opsion i 
+unavailable option |  n  | opsion i 
 padisponueshëm [mundësi që nuk 
 është në dispozicion] 
-unconditional adj pakushtëzuar 
+unconditional |  adj  | pakushtëzuar 
 (i), pa kusht (i) 
  
  unconditional branch 
  
 231
-unconditional branch n degëzim i 
+unconditional branch |  n  | degëzim i 
 pakusht 
 unrecoverable 
 për standarde i Shteteve të 
 Bashkuara të Amerikës 
-unconditional jump n kapërcim i 
+unconditional jump |  n  | kapërcim i 
 pakusht 
-unconditional transfer n transfer i 
+unconditional transfer |  n  | transfer i 
 pakusht 
-uncontrolled loop n lak (ose unazë) i 
+uncontrolled loop |  n  | lak (ose unazë) i 
 pakontrolluar 
-underline n nënvizë 
-underline v nënvizoj 
-underline adj nënvizuar 
-undersampling n nënmostrim 
-underscore n nënvijë 
-undo v zhbëj ose anuloj (veprimin)] 
-undo n zhbërje ose anulim (i 
+underline |  n  | nënvizë 
+underline |  v  | nënvizoj 
+underline |  adj  | nënvizuar 
+undersampling |  n  | nënmostrim 
+underscore |  n  | nënvijë 
+undo |  v  | zhbëj ose anuloj (veprimin)] 
+undo |  n  | zhbërje ose anulim (i 
 veprimit)] 
-unformatted adj paformatuar (i) 
-unfreeze v shkrij 
-unfreeze all columns v shkrij të 
+unformatted |  adj  | paformatuar (i) 
+unfreeze |  v  | shkrij 
+unfreeze all columns |  v  | shkrij të 
 gjitha shtyllat 
-ungroup v zhgrupoj 
-uninterruptible adj pandërprershëm 
+ungroup |  v  | zhgrupoj 
+uninterruptible |  adj  | pandërprershëm 
 (i) 
-union n union 
-unipolar adj njëpolësh, unipolar 
-unique adj unik [i vetëm, i 
+union |  n  | union 
+unipolar |  adj  | njëpolësh, unipolar 
+unique |  adj  | unik [i vetëm, i 
 njëkuptimtë] 
-unit n njësi 
-unit matrix n matricë njësi 
+unit |  n  | njësi 
+unit matrix |  n  | matricë njësi 
 (matricë e njësheve) 
-unit of measure n njësi matëse 
+unit of measure |  n  | njësi matëse 
 United States of America 
-Standards Institute n Instituti 
+Standards Institute |  n  | Instituti 
  
 UNIVAC I [Universal Automatic 
-Calculator] n UNIVAC I 
+Calculator] |  n  | UNIVAC I 
 [kalkulator universal automatik - 
 kompjuteri i parë elektronik që 
 është përdorur për qëllime 
 komerciale] 
-universal adj universal [i 
+universal |  adj  | universal [i 
 përgjithshëm] 
 universal asiynchronous reciever/ 
-transmitter [UART] n marrës- 
+transmitter [UART] |  n  | marrës- 
 transmetues universal asinkron 
 [UART] 
-universal quantifier n 
+universal quantifier |  n  | 
 kuantifikues universal 
-universal set n bashkësi universale 
-unknown adj panjohur (i) 
-unknown CD n CD e panjohur 
-unmodified adj pamodifikuar (i) 
+universal set |  n  | bashkësi universale 
+unknown |  adj  | panjohur (i) 
+unknown CD |  n  | CD e panjohur 
+unmodified |  adj  | pamodifikuar (i) 
 [pandryshuar (i)] 
-unmodified instruction n instruksion 
+unmodified instruction |  n  | instruksion 
 i pamodifikuar (urdhër bazë) 
-unordered adj parenditur (i) 
-unordered tree n pemë e parenditur 
-unpack v shpaketoj [dekomprimoj] 
-unreadable CD n CD e 
+unordered |  adj  | parenditur (i) 
+unordered tree |  n  | pemë e parenditur 
+unpack |  v  | shpaketoj [dekomprimoj] 
+unreadable CD |  n  | CD e 
 palexueshme 
-unreasonable adj paarsyeshëm (i) 
+unreasonable |  adj  | paarsyeshëm (i) 
 [papranueshëm (i), patolerueshëm 
 (i)] 
-unreasonable risk n rrezik i 
+unreasonable risk |  n  | rrezik i 
 papranueshëm (i patolerueshëm) 
-unrecoverable adj pariparueshëm (i) 
+unrecoverable |  adj  | pariparueshëm (i) 
 [parikuperueshëm (i)] 
  
 232
  
-Usenet n Usenet [është pjesa më e 
+Usenet |  n  | Usenet [është pjesa më e 
 vjetër e Internetit dhe shfrytëzohet 
 si sistem i tabelave për shpallje nga 
 grupet diskutuese] 
-Usenet news n lajme në Usenet 
-Usenet site n sajti Usenet 
-user n përdorues ose shfrytëzues 
-user coordinates n koordinata të 
+Usenet news |  n  | lajme në Usenet 
+Usenet site |  n  | sajti Usenet 
+user |  n  | përdorues ose shfrytëzues 
+user coordinates |  n  | koordinata të 
 përdoruesit 
-user documentation n 
+user documentation |  n  | 
 dokumentacion i përdoruesit 
-user name n emër i përdoruesit 
+user name |  n  | emër i përdoruesit 
 (ose shfrytëzuesit) 
-user profile n profil i përdoruesit 
+user profile |  n  | profil i përdoruesit 
 (ose shfrytëzuesit) 
-user state n status i përdoruesit 
+user state |  n  | status i përdoruesit 
 (ose shfrytëzuesit) 
-user terminal n terminal i 
+user terminal |  n  | terminal i 
 përdoruesit (ose shfrytëzuesit) 
-username n emër përdoruesi 
+username |  n  | emër përdoruesi 
 USRT [universal synchronous 
-receiver-transmitter] n marrës- 
+receiver-transmitter] |  n  | marrës- 
 dhënës universal sinkron 
-UTC [Universal Time Coordinate] n 
+UTC [Universal Time Coordinate] |  n  | 
 koordinatë kohore universale 
-utility program n program 
+utility program |  n  | program 
 shërbyes [program përdoruesi] 
-utility routine n rutinë shërbyese 
-UV light [ultraviolet light] n dritë 
+utility routine |  n  | rutinë shërbyese 
+UV light [ultraviolet light] |  n  | dritë 
 ultravjollcë 
  unreserve a track 
-unreserve a track v çrezervo një 
+unreserve a track |  v  | çrezervo një 
 gjurmë 
 unselect all ph deselekto (ose 
 zhzgjidh) të gjitha 
-untitled adj patitulluar (i) 
-untreanslated adj papërkthyer (i) 
-UPC [Universal Product Code] abbr 
+untitled |  adj  | patitulluar (i) 
+untreanslated |  adj  | papërkthyer (i) 
+UPC [Universal Product Code] |  abbr  | 
 UPC [kod universal i prodhimeve] 
-update v përditësoj ose azhurnoj 
-update (1) n përditësim 
-update (2) n version i përditësuar 
+update |  v  | përditësoj ose azhurnoj 
+update (1) |  n  | përditësim 
+update (2) |  n  | version i përditësuar 
 (ose i azhurnuar) 
-updated adj përditësuar (i) ose 
+updated |  adj  | përditësuar (i) ose 
 azhurnuar (i) 
-updating n përditësim ose azhurnim 
-upgrade n përmirësim ose 
+updating |  n  | përditësim ose azhurnim 
+upgrade |  n  | përmirësim ose 
 mbindërtim 
-upgrade v përmirësoj ose 
+upgrade |  v  | përmirësoj ose 
 mbindërtoj [i shtoj i pjesë 
 kompjuterit] 
-upgraded n përmirësuar (i) ose 
+upgraded |  n  | përmirësuar (i) ose 
 mbindërtuar (i) 
-upper adj sipërm (i) 
-upper bound n kufi i sipërm 
-uppercase n shkronja të mëdha 
-upright adj vertikal [për së gjati], 
+upper |  adj  | sipërm (i) 
+upper bound |  n  | kufi i sipërm 
+uppercase |  n  | shkronja të mëdha 
+upright |  adj  | vertikal [për së gjati], 
 portret 
-usability n përdorshmëri 
-usable adj përdorshëm (i) 
-usage n përdorim 
+usability |  n  | përdorshmëri 
+usable |  adj  | përdorshëm (i) 
+usage |  n  | përdorim 
  
  
  
@@ -15204,169 +15174,169 @@ usage n përdorim
  
  
 V 
-V [voltage] abbr V [tension] 
-V series [V.xxx] n Seritë V [standard 
+V [voltage] |  abbr  | V [tension] 
+V series [V.xxx] |  n  | Seritë V [standard 
 i CCITT-së] 
-V.17 abbr V.17 [standard i 
+V.17 |  abbr  | V.17 [standard i 
 CCITT-së] 
-V.21 abbr V.21 [standard i 
+V.21 |  abbr  | V.21 [standard i 
 CCITT-së] 
-V.22 abbr V.22 [standard i 
+V.22 |  abbr  | V.22 [standard i 
 CCITT-së] 
-V.23 abbr V.23 [standard i 
+V.23 |  abbr  | V.23 [standard i 
 CCITT-së] 
-V.25 abbr V.25 [standard i 
+V.25 |  abbr  | V.25 [standard i 
 CCITT-së] 
-V.27 abbr V.27 [standard i 
+V.27 |  abbr  | V.27 [standard i 
 CCITT-së] 
-V.29 abbr V.29 [standard i 
+V.29 |  abbr  | V.29 [standard i 
 CCITT-së] 
-V.32 abbr V.32 [standard i 
+V.32 |  abbr  | V.32 [standard i 
 CCITT-së] 
-V.33 abbr V.33 [standard i 
+V.33 |  abbr  | V.33 [standard i 
 CCITT-së] 
-V.34 abbr V.34 [standard i 
+V.34 |  abbr  | V.34 [standard i 
 CCITT-së] 
-V.42 abbr V.42 [standard i 
+V.42 |  abbr  | V.42 [standard i 
 CCITT-së] 
-V.90 abbr V.90 [standard i 
+V.90 |  abbr  | V.90 [standard i 
 CCITT-së] 
  
-V.91 abbr V.91 [standard i 
+V.91 |  abbr  | V.91 [standard i 
 CCITT-së] 
-VAB [voice answer back] abbr VAB 
+VAB [voice answer back] |  abbr  | VAB 
 [përgjigje me zë] 
-valid program n program i vlefshëm 
+valid program |  n  | program i vlefshëm 
 (valid) 
-validate v vërtetoj 
-validation n vërtetim, miratim 
-validity n vlefshmëri 
-validity check n kontrollim i 
+validate |  v  | vërtetoj 
+validation |  n  | vërtetim, miratim 
+validity |  n  | vlefshmëri 
+validity check |  n  | kontrollim i 
 vlefshmërisë 
-valuator n valorizues 
-valuator device n pajisje 
+valuator |  n  | valorizues 
+valuator device |  n  | pajisje 
 valorizuese 
-value n vlerë 
-value list n listë e vlerave 
-variable n ndryshore (variabël) 
-variable expression n shprehje e 
+value |  n  | vlerë 
+value list |  n  | listë e vlerave 
+variable |  n  | ndryshore (variabël) 
+variable expression |  n  | shprehje e 
 ndryshueshme 
-variable point n pikë e 
+variable point |  n  | pikë e 
 ndryshueshme 
-vector n vektor 
-vector font n font vektorial 
-vector generator n gjenerator i 
+vector |  n  | vektor 
+vector font |  n  | font vektorial 
+vector generator |  n  | gjenerator i 
 vektorëve 
  vector graphics 
  
 234
-vector graphics n grafikë vektoriale 
-vector interrupt n ndërprerje 
+vector graphics |  n  | grafikë vektoriale 
+vector interrupt |  n  | ndërprerje 
  
 vektoriale 
-vector processor n procesor vektorial 
-vector product n prodhim ose 
+vector processor |  n  | procesor vektorial 
+vector product |  n  | prodhim ose 
 produkt vektorial 
-vector table n tabelë vektoriale 
-vectorization n vektorizim 
-vendee n blerës 
-vendor n shitës 
-Venn diagram n diagram i Venit 
-verbose adj fjalëshumë 
-verification n verifikim 
-verify v verifikoj 
+vector table |  n  | tabelë vektoriale 
+vectorization |  n  | vektorizim 
+vendee |  n  | blerës 
+vendor |  n  | shitës 
+Venn diagram |  n  | diagram i Venit 
+verbose |  adj  | fjalëshumë 
+verification |  n  | verifikim 
+verify |  v  | verifikoj 
 verify aborted ph verifikim i 
 ndërprerë [verifikimi është 
 ndërprerë] 
 verify tracks ph verifiko gjurmët 
-verifying audio track n verifikimi i 
+verifying audio track |  n  | verifikimi i 
 gjurmës audio 
-verifying data track n verifikimi i 
+verifying data track |  n  | verifikimi i 
 gjurmës së të dhënave 
-Veronica n Veronika [shih: 
+Veronica |  n  | Veronika [shih: 
 VERONICA] 
 VERONICA [Very Easy Rodent 
 Oriented Netwide Index to 
-Computerized Archives] abbr 
+Computerized Archives] |  abbr  | 
 Veronica [Veronika – servis ose 
 shërbim i Internetit për kërkim në 
 arkiva të Gopher-it] 
-Veronica server n serveri Veronica 
+Veronica server |  n  | serveri Veronica 
 [Veronika] 
-version n version (variant) 
+version |  n  | version (variant) 
  
 Very Large Database 
-version control n kontrollim i 
+version control |  n  | kontrollim i 
 versionit 
-version number n numër i versionit 
-vertex n kulm 
-vertical adj vertikal 
-vertical application n aplikacion 
+version number |  n  | numër i versionit 
+vertex |  n  | kulm 
+vertical |  adj  | vertikal 
+vertical application |  n  | aplikacion 
 vertikal 
-vertical case n shtëpizë vertikale 
+vertical case |  n  | shtëpizë vertikale 
 (e kompjuterit) 
-vertical format n format vertikal 
+vertical format |  n  | format vertikal 
 [format portret, portret] 
-vertical projection n projektesë 
+vertical projection |  n  | projektesë 
 [projeksion] vertikale 
-vertical recording n regjistrim 
+vertical recording |  n  | regjistrim 
 vertikal 
-vertical redundancy check n 
+vertical redundancy check |  n  | 
 kontroll i redundancës vertikale 
-vertical resolution n rezolucion 
+vertical resolution |  n  | rezolucion 
 vertikal 
-vertical ruler n vizore vertikale 
-vertical scroll n rrëshqitës vertikal 
-vertical sync n sinkronizim vertikal 
-vertical sync signal n sinjal i 
+vertical ruler |  n  | vizore vertikale 
+vertical scroll |  n  | rrëshqitës vertikal 
+vertical sync |  n  | sinkronizim vertikal 
+vertical sync signal |  n  | sinjal i 
 sinkronizimit vertikal 
-very high adj shumë i lartë 
-very high frequency [VHF] n 
+very high |  adj  | shumë i lartë 
+very high frequency [VHF] |  n  | 
 denduri [frekuenca] shumë të larta 
 [VHF] 
-very high-level language [VHLL] n 
+very high-level language [VHLL] |  n  | 
 gjuhë e nivelit shumë të lartë 
 [VHLL] 
-very large adj shumë e madhe 
-Very Large Database [VLDB] n 
+very large |  adj  | shumë e madhe 
+Very Large Database [VLDB] |  n  | 
 bazë shumë e madhe e të dhënave 
  Very Large Memory 
-Very Large Memory [VLM] n 
+Very Large Memory [VLM] |  n  | 
 memorie shumë e madhe [VLM] 
  
 very large scale integration [VLSI] 
 n shkallë shumë e lartë e 
 integrimit [VLSI] 
 Very Long Instruction Word 
-[VLIW] n fjalë shumë e gjatë e 
+[VLIW] |  n  | fjalë shumë e gjatë e 
 instruksionit [VLIW] 
-very low adj shumë i ulët 
-very low frequency [VLF] n 
+very low |  adj  | shumë i ulët 
+very low frequency [VLF] |  n  | 
 denduri [frekuenca] shumë të ulëta 
 [VLF] 
 very tight adv shumë ngjeshur 
-very-high-level language [VHLL] n 
+very-high-level language [VHLL] |  n  | 
 gjuhë e nivelit shumë të lartë 
 very-high-speed integrated circuit 
-[VHSIC] n qark i integruar i 
+[VHSIC] |  n  | qark i integruar i 
 shpejtësisë shumë të madhe 
 very-large-scale integration [VLSI] 
- n shkallë shumë e lartë e 
+ |  n  | shkallë shumë e lartë e 
 integrimit [VLSI] 
 very-low-frequency 
-electromagnetic radiation n 
+electromagnetic radiation |  n  | 
 rrezatim elektromagnetik i 
 frekuencës shumë të ulët 
 VESA [Video Electronics Standards 
-Association] abbr VESA 
+Association] |  abbr  | VESA 
 [Shoqata për Standarde në Video-
 Elektronikë] 
-VGA adapter n përshtatës ose 
+VGA adapter |  n  | përshtatës ose 
 adapter [kartelë] VGA 
-VGA card n kartelë VGA 
-VHD [Very High Density] abbr 
+VGA card |  n  | kartelë VGA 
+VHD [Very High Density] |  abbr  | 
 VHD [dendësi shumë e lartë] 
-VHF [Very High Frequency] abbr 
+VHF [Very High Frequency] |  abbr  | 
 VHF [frekuenca shumë të larta] 
  
  
@@ -15376,172 +15346,172 @@ VHLL [very-high-level language]
 abbr VHLL [gjuhë e nivelit shumë 
 të lartë] 
 VHSIC [very-high-speed integrated 
-circuit] abbr VHSIC [qark i 
+circuit] |  abbr  | VHSIC [qark i 
 integruar i shpejtësisë së madhe] 
-vi [visual] abbr vi [editor i tekstit 
+vi [visual] |  abbr  | vi [editor i tekstit 
 te sistemet UNIX] 
-video n video 
+video |  n  | video 
 video- pref video- 
-video catalog n katalog video 
-video clip n videoklip [sekuencë 
+video catalog |  n  | katalog video 
+video clip |  n  | videoklip [sekuencë 
 video] 
-video conferencing n video-
+video conferencing |  n  | video-
 konferencë 
-video DRAM n video-DRAM, 
+video DRAM |  n  | video-DRAM, 
 video-RAM dinamik 
-video editor n video-editor 
-video game n videolojë 
-video lookup table [VLT] n tabelë 
+video editor |  n  | video-editor 
+video game |  n  | videolojë 
+video lookup table [VLT] |  n  | tabelë 
 e ngjyrave 
-video memory n videomemorie 
-video monitor n monitor video 
-video RAM n video-RAM 
-video screen n ekran video 
-video server n videoserver 
-video signal n videosinjal 
-video terminal n videoterminal 
-videocatalog n videokatalog 
-videoconferencing n 
+video memory |  n  | videomemorie 
+video monitor |  n  | monitor video 
+video RAM |  n  | video-RAM 
+video screen |  n  | ekran video 
+video server |  n  | videoserver 
+video signal |  n  | videosinjal 
+video terminal |  n  | videoterminal 
+videocatalog |  n  | videokatalog 
+videoconferencing |  n  | 
 videokonferencë 
-videodisc n videodisk 
+videodisc |  n  | videodisk 
  videodisc player 
-videodisc player n lexues i 
+videodisc player |  n  | lexues i 
 videodiskut 
-videography n videografi 
-videophone n videofon 
-video-port n videoport 
-videotape n videoshirit (shirit video) 
-videotex n videoteks 
-videotext n videotekst 
-view volume n vollum i pamjes 
-viewing pyramid n piramidë e 
+videography |  n  | videografi 
+videophone |  n  | videofon 
+video-port |  n  | videoport 
+videotape |  n  | videoshirit (shirit video) 
+videotex |  n  | videoteks 
+videotext |  n  | videotekst 
+view volume |  n  | vollum i pamjes 
+viewing pyramid |  n  | piramidë e 
 shikimit 
-virtual adj virtual 
-virtual 8086 mode n mod virtual 
+virtual |  adj  | virtual 
+virtual 8086 mode |  n  | mod virtual 
 8086 
-virtual 86 mode n mod virtual 86 
-virtual address n adresë virtuale 
-virtual channel n kanal virtual 
-virtual circuit n qark virtual 
-virtual community n komunitet 
+virtual 86 mode |  n  | mod virtual 86 
+virtual address |  n  | adresë virtuale 
+virtual channel |  n  | kanal virtual 
+virtual circuit |  n  | qark virtual 
+virtual community |  n  | komunitet 
 virtual 
-virtual desktop n desktop virtual 
-virtual device n pajisje virtuale 
-virtual device driver [VxD] n 
+virtual desktop |  n  | desktop virtual 
+virtual device |  n  | pajisje virtuale 
+virtual device driver [VxD] |  n  | 
 drajver (ngasës) i pajisjes virtuale 
 [VxD] 
-virtual direct-address storage n 
+virtual direct-address storage |  n  | 
 memorie virtuale me adresë direkte 
-virtual disk n disk virtual 
+virtual disk |  n  | disk virtual 
 Virtual File Allocation Table 
-[VFAT] n tabelë virtuale e 
+[VFAT] |  n  | tabelë virtuale e 
 vendosjes së fajlave [VFAT] 
-virtual image n fotografi virtuale 
+virtual image |  n  | fotografi virtuale 
  
  
  
 236
 virtuality 
-virtual LAN n LAN virtual 
-virtual machine n makinë virtuale 
-virtual memory n memorie virtuale 
-virtual monitor n monitor virtual 
-virtual name space n hapësirë 
+virtual LAN |  n  | LAN virtual 
+virtual machine |  n  | makinë virtuale 
+virtual memory |  n  | memorie virtuale 
+virtual monitor |  n  | monitor virtual 
+virtual name space |  n  | hapësirë 
 virtuale e emrave 
-virtual network n rrjet virtual 
-virtual path n shteg virtual 
-virtual peripheral n pajisje 
+virtual network |  n  | rrjet virtual 
+virtual path |  n  | shteg virtual 
+virtual peripheral |  n  | pajisje 
 periferike virtuale 
-virtual printer n printer virtual 
-virtual printer device driver n 
+virtual printer |  n  | printer virtual 
+virtual printer device driver |  n  | 
 drajver (ose ngasës) i shtypësit (ose 
 printerit) virtual 
-virtual private network [VPN] n 
+virtual private network [VPN] |  n  | 
 rrjet privat virtual 
-virtual real mode n regjim virtual i 
+virtual real mode |  n  | regjim virtual i 
 (ose mënyrë virtuale e) përdoruesit 
-virtual reality [VR] n realitet virtual 
+virtual reality [VR] |  n  | realitet virtual 
 Virtual Reality Modeling 
-Language [VRML] n gjuhë për 
+Language [VRML] |  n  | gjuhë për 
 modelim të realitetit virtual 
 [VRML] 
-virtual root n rrënjë virtuale 
-virtual screen n ekran virtual 
-virtual sector n sektor virtual 
-virtual server n server virtual 
-virtual space n hapësirë virtuale 
-virtual storefront n vitrinë virtuale 
-virtual terminal n terminal virtual 
-virtual world n botë virtuale 
-virtuality n virtualitet 
+virtual root |  n  | rrënjë virtuale 
+virtual screen |  n  | ekran virtual 
+virtual sector |  n  | sektor virtual 
+virtual server |  n  | server virtual 
+virtual space |  n  | hapësirë virtuale 
+virtual storefront |  n  | vitrinë virtuale 
+virtual terminal |  n  | terminal virtual 
+virtual world |  n  | botë virtuale 
+virtuality |  n  | virtualitet 
  
 237
  
 VLSI [Very Large Scale Integration] 
- abbr VLSI [integrim i shkallës 
+ |  abbr  | VLSI [integrim i shkallës 
 shumë të lartë] 
-voice n zë 
-voice output n dalje e zërit 
-volt n volt 
-voltage n tension 
-voltage regulator n rregullues (ose 
+voice |  n  | zë 
+voice output |  n  | dalje e zërit 
+volt |  n  | volt 
+voltage |  n  | tension 
+voltage regulator |  n  | rregullues (ose 
 rregullator) tensioni 
-volume (1) n vëllim 
-volume (2) n volum (zëri) 
-volume label n etiketë e volumit 
-volume name n emër i volumit 
-volume reference number n numër 
+volume (1) |  n  | vëllim 
+volume (2) |  n  | volum (zëri) 
+volume label |  n  | etiketë e volumit 
+volume name |  n  | emër i volumit 
+volume reference number |  n  | numër 
 referues i volumit 
-volume serial number n numër 
+volume serial number |  n  | numër 
 serik i volumit 
-volume test n testim i volumit 
-von Neumann architecture n 
+volume test |  n  | testim i volumit 
+von Neumann architecture |  n  | 
 arkitekturë e Fon Nojmanit 
-VPN [virtual private network] n 
+VPN [virtual private network] |  n  | 
 rrjet privat virtual 
-VR [virtual reality] abbr realitet 
+VR [virtual reality] |  abbr  | realitet 
 virtual 
-VRAM [video-RAM] abbr VRAM 
+VRAM [video-RAM] |  abbr  | VRAM 
 [video-RAM] 
-VS [virtual storage] abbr memorie 
+VS [virtual storage] |  abbr  | memorie 
 virtuale 
-v-sync [vertical synchronization] n 
+v-sync [vertical synchronization] |  n  | 
 sinkronizim vertikal 
  
  virus 
-virus n virus (informatik) 
-visible page n faqe e dukshme 
-visual adj vizual ose pamor 
-Visual Basic [VB] n Visual Basic 
+virus |  n  | virus (informatik) 
+visible page |  n  | faqe e dukshme 
+visual |  adj  | vizual ose pamor 
+Visual Basic [VB] |  n  | Visual Basic 
 [VB] 
 Visual Basic for Applications 
-[VBA] n Visual Basic për 
+[VBA] |  n  | Visual Basic për 
 aplikacione [VBA] 
-Visual Basic Script n Visual Basic 
+Visual Basic Script |  n  | Visual Basic 
 Script 
-Visual Basic-Scripting Edition n 
+Visual Basic-Scripting Edition |  n  | 
 Visual Basic-edicion për shkruarje 
 të skriptit 
-visual interface n ndërfaqe vizuale 
-Visual J++ n Visual J++ 
-visual programming n programim 
+visual interface |  n  | ndërfaqe vizuale 
+Visual J++ |  n  | Visual J++ 
+visual programming |  n  | programim 
 vizual 
-visualization n vizualizim 
-VL bus [VESA Local bus] n 
+visualization |  n  | vizualizim 
+VL bus [VESA Local bus] |  n  | 
 magjistrale VL [magjistrale lokale 
 VESA] ose bus VL [bus lokal 
 VESA] 
-VLAN [virtual LAN] n VLAN, lan 
+VLAN [virtual LAN] |  n  | VLAN, lan 
 virtual 
 VLB [VESA Local Bus]n VLB, 
 magjistralë lokale VESA 
-VLF [Very Low Frequency] abbr 
+VLF [Very Low Frequency] |  abbr  | 
 VLF [frekuenca shumë të ulëta] 
 VLF radiation [very-low-frequency 
-radiation] abbr rrezatim i 
+radiation] |  abbr  | rrezatim i 
 frekuencave shumë të ulëta 
 VLIW [Very Long Instruction 
-Word] abbr fjalë shumë e gjatë 
+Word] |  abbr  | fjalë shumë e gjatë 
 e instruksionit 
  
  
@@ -15554,27 +15524,27 @@ e instruksionit
  
 238
 W 
-W [wat] abbr W [vat] 
-wait n pritje 
-wait condition n gjendje e pritjes 
-wait list n listë e pritjes 
-wait state n gjendje e pritjes 
-wait time n kohë e pritjes 
-warning n paralajmërim 
-warning n kujdes 
-warning message n mesazh 
+W [wat] |  abbr  | W [vat] 
+wait |  n  | pritje 
+wait condition |  n  | gjendje e pritjes 
+wait list |  n  | listë e pritjes 
+wait state |  n  | gjendje e pritjes 
+wait time |  n  | kohë e pritjes 
+warning |  n  | paralajmërim 
+warning |  n  | kujdes 
+warning message |  n  | mesazh 
 paralajmërimi 
-Warnock algorithm n algoritëm i 
+Warnock algorithm |  n  | algoritëm i 
 Warnock-ut 
-warranty n garanci 
-wat [W] n vat [W] 
-Watkins algorithm n algoritëm i 
+warranty |  n  | garanci 
+wat [W] |  n  | vat [W] 
+Watkins algorithm |  n  | algoritëm i 
 Watkins-it 
-wave n valë 
-waveform n formë valore 
-wavelength n gjatësi vale, gjatësi 
+wave |  n  | valë 
+waveform |  n  | formë valore 
+wavelength |  n  | gjatësi vale, gjatësi 
 valore 
-wavelet n valëz [valë elementare] 
+wavelet |  n  | valëz [valë elementare] 
 WDEF [window definition function] 
 abbr WDEF [funksioni për 
 përkufizim të dritares] 
@@ -15582,30 +15552,30 @@ përkufizim të dritares]
 WDL [Windows Driver Library] 
 abbr bibliotekë e drajverave të 
 Windows-it 
-Web n Ueb 
-Web address n adresë në Ueb 
-web administrator n administrator 
+Web |  n  | Ueb 
+Web address |  n  | adresë në Ueb 
+web administrator |  n  | administrator 
 uebi [administrator i një serveri 
 ueb] 
-web analytics n analizë ueb 
+web analytics |  n  | analizë ueb 
 [kibermetri] 
-web magazine [WEBZINE] n 
+web magazine [WEBZINE] |  n  | 
 revistë ueb-i 
-web television [WEBTV] n 
+web television [WEBTV] |  n  | 
 televizion ueb [WEBTV] 
-web terminal n uebterminal 
-web TV n ueb-TV 
-webarian n uebarian [quhet kështu, 
+web terminal |  n  | uebterminal 
+web TV |  n  | ueb-TV 
+webarian |  n  | uebarian [quhet kështu, 
 p.sh., një robot që jeton në ueb] 
-webart n uebart [art uebi, kiberart] 
-webcamer n uebkamer [përdorues i 
+webart |  n  | uebart [art uebi, kiberart] 
+webcamer |  n  | uebkamer [përdorues i 
 uebkamit, përdorues i kamerës ueb] 
 webcast [World Wide Web 
-broadcasting] n uebpërhapje 
+broadcasting] |  n  | uebpërhapje 
 [uebdifuzion: ngjarje e përhapur 
 nëpërmjet uebit - internetit] 
 webcaster [World Wide Web 
-broadcaster] n uebpërhapës 
+broadcaster] |  n  | uebpërhapës 
 webcastingwireless 
  webcasting 
  
@@ -15613,178 +15583,178 @@ broadcaster] n uebpërhapës
 [uebdifuzer: gazetar ose krijues që 
 e përhap një ngjarje nëpërmjet 
 internetit] 
-webcasting n uebpërhapje 
+webcasting |  n  | uebpërhapje 
 [uebdifuzion: përhapja e një 
 ngjarjeje nëpërmjet internetit nga 
 një ekip gazetarësh dhe krijuesish] 
-webphone n telefon ueb 
-webring n unazë ueb [faqe ueb 
+webphone |  n  | telefon ueb 
+webring |  n  | unazë ueb [faqe ueb 
 zinxhir] 
-website n uebsajt [ueblokacion, vend 
+website |  n  | uebsajt [ueblokacion, vend 
 në ueb] 
-WEBTV [web television] abbr 
+WEBTV [web television] |  abbr  | 
 televizion ueb 
-weight n peshë 
-welcome page n faqe mirëseardhëse 
-well-ordered n plotësisht i renditur 
-well-ordered set n bashkësi 
+weight |  n  | peshë 
+welcome page |  n  | faqe mirëseardhëse 
+well-ordered |  n  | plotësisht i renditur 
+well-ordered set |  n  | bashkësi 
 plotësisht e renditur 
 what-if evaluation ph vlerësim 
 "çka nëse" 
-white noise n zhurmë e bardhë 
-white pages n faqet e bardha 
-white paper n letër e bardhë 
-whole number n numër i tërë (i 
+white noise |  n  | zhurmë e bardhë 
+white pages |  n  | faqet e bardha 
+white paper |  n  | letër e bardhë 
+whole number |  n  | numër i tërë (i 
 plotë) 
-wideband adj brezgjerë 
-widow n vejushë [rresht i futur] 
-width n gjerësi 
-Win32 n Win32 
-win32s n Win32s 
-winchester disk n disk Vinçester 
-window n dritare 
+wideband |  adj  | brezgjerë 
+widow |  n  | vejushë [rresht i futur] 
+width |  n  | gjerësi 
+Win32 |  n  | Win32 
+win32s |  n  | Win32s 
+winchester disk |  n  | disk Vinçester 
+window |  n  | dritare 
  
-window border n kufi i dritares 
-window definition function n 
+window border |  n  | kufi i dritares 
+window definition function |  n  | 
 funksion për përkufizimin e dritares 
-window menu n meny e dritares 
-window title n titull i dritares 
-window-manager n administrues 
+window menu |  n  | meny e dritares 
+window title |  n  | titull i dritares 
+window-manager |  n  | administrues 
 (ose menaxhues) dritaresh 
-Windows n Windows 
-Windows 95 n Windows 95 
-Windows application n aplikacion 
+Windows |  n  | Windows 
+Windows 95 |  n  | Windows 95 
+Windows application |  n  | aplikacion 
 për Windows 
-Windows CE n Windows CE 
-Windows Driver Library n 
+Windows CE |  n  | Windows CE 
+Windows Driver Library |  n  | 
 bibliotekë e drajverave (ose 
 ngasësve) për Windows 
-Windows Explorer n Windows 
+Windows Explorer |  n  | Windows 
 Explorer 
 windows Metafile Format [WMF] 
 n format i Windows-it për metafajl 
 [WMF] 
-Windows NT n Windows NT 
-Windows-based accelerator n 
+Windows NT |  n  | Windows NT 
+Windows-based accelerator |  n  | 
 përshpejtues i bazuar në Windows 
-WinG [Windows Games] abbr 
+WinG [Windows Games] |  abbr  | 
 WinG [lojëra të Windows-it] 
 WINS [Windows Internet Name 
-Service] abbr WINS [shërbimi i 
+Service] |  abbr  | WINS [shërbimi i 
 Windows-it për emërtim në 
 internet] 
-Wintel adj Wintel [(Windows dhe 
+Wintel |  adj  | Wintel [(Windows dhe 
 Intel] 
-wired adj lidhur (i) me tel 
-wire-frame model n model me tel 
-wireless adj pa tel 
+wired |  adj  | lidhur (i) me tel 
+wire-frame model |  n  | model me tel 
+wireless |  adj  | pa tel 
  wireless LAN 
  
 240
-wireless LAN n rrjet lokal pa tel 
+wireless LAN |  n  | rrjet lokal pa tel 
 wireless LAN 
-World-Wide Web n World Wide 
+World-Wide Web |  n  | World Wide 
 [LAN pa tel] 
 Ueb 
-wire-pin printer n shtypës (ose 
+wire-pin printer |  n  | shtypës (ose 
 printer) matricor 
-wizard n magjistar 
-WMF [Windows Meta File] abbr 
+wizard |  n  | magjistar 
+WMF [Windows Meta File] |  abbr  | 
 WMF [metafajl i Windows-it] 
-WOM [web object manager] abbr 
+WOM [web object manager] |  abbr  | 
 menaxher i objekteve ueb [WOM 
-word n fjalë [fjalë kompjuteri] 
-word length n gjatësi e fjalës 
-word processing n përpunim i 
+word |  n  | fjalë [fjalë kompjuteri] 
+word length |  n  | gjatësi e fjalës 
+word processing |  n  | përpunim i 
 tekstit (fjalëve) 
-word processor n procesor i 
+word processor |  n  | procesor i 
 tekstit (fjalëve) [program për 
 përpunimin e fjalëve] 
-word register n regjistër i fjalëve 
+word register |  n  | regjistër i fjalëve 
 (regjistër i bitëve) 
-word size n gjatësi e fjalës 
-work n punë 
-work year n vit pune 
-workbook n libër pune 
-workflow application n aplikacion 
+word size |  n  | gjatësi e fjalës 
+work |  n  | punë 
+work year |  n  | vit pune 
+workbook |  n  | libër pune 
+workflow application |  n  | aplikacion 
 për përcjellje të përparimit të punës 
-workgroup n grup punues 
-workgroup computing n llogaritje 
+workgroup |  n  | grup punues 
+workgroup computing |  n  | llogaritje 
 grupore 
-workspace n hapësirë pune 
-world coordinates n koordinata 
+workspace |  n  | hapësirë pune 
+world coordinates |  n  | koordinata 
 universale 
 World Wide Web Consortium 
-[W3C] n Konsorciumi W3 
+[W3C] |  n  | Konsorciumi W3 
 [Konsorciumi World Wide Ueb] 
  
 WORM [Write Once, Read Many] 
 abbr shkruaj një herë, lexo shumë 
 herë 
-WORM optical disc n disk optik 
+WORM optical disc |  n  | disk optik 
 WORM 
-WP [word processing] abbr 
+WP [word processing] |  abbr  | 
 përpunim i tekstit 
-write v shkruaj (regjistroj) 
-write n shkruarje [shkruarit (të); 
+write |  v  | shkruaj (regjistroj) 
+write |  n  | shkruarje [shkruarit (të); 
 shkrim (regjistrim)] 
-write access n akses për shkrim 
-write cache n keshi i shkrimit 
-write cycle time n koha e ciklit të 
+write access |  n  | akses për shkrim 
+write cache |  n  | keshi i shkrimit 
+write cycle time |  n  | koha e ciklit të 
 të shkruarit 
-write device n pajisje shkruese 
-write error n gabim i shkruarjes 
+write device |  n  | pajisje shkruese 
+write error |  n  | gabim i shkruarjes 
 [gabim i të shkruarit] 
-write instruction n urdhër ose 
+write instruction |  n  | urdhër ose 
 instruksion për shkruarje 
-write menu n menyja e shkrimit 
-write mode n mënyrë shkrimi ose 
+write menu |  n  | menyja e shkrimit 
+write mode |  n  | mënyrë shkrimi ose 
 mod [regjim] i shkruarjes] 
 write once read many times 
-memory [WORM] n memorie 
+memory [WORM] |  n  | memorie 
 shkruaj një herë lexo shumë herë 
 [WORM] 
-write parameters n parametra 
+write parameters |  n  | parametra 
 shkrimi 
-write process n proces i shkruarjes 
+write process |  n  | proces i shkruarjes 
 [proces i të shkruarit] 
 write protect 
-writer n shkrues 
+writer |  n  | shkrues 
 writing aborted ph shkrimi i 
 ndërprerë [të shkruarit është 
 ndërprerë] 
-WWW [world wide web] abbr 
+WWW [world wide web] |  abbr  | 
 rrjet kompjuterik mbarëbotëror 
 [WWW, ueb: sistem botëror/global 
 për gjetje dhe akses tek 
 informacionet në Internet] 
 WYSBYGI [what you see before 
-you get it] abbr do të kesh çfarë 
+you get it] |  abbr  | do të kesh çfarë 
 ke parë [çfarë ke parë në ekran, atë 
 do ta kesh të shkruar] 
 WYSIWYG [what you see is what 
-you get] abbr do të kesh çfarë 
+you get] |  abbr  | do të kesh çfarë 
 sheh [çfarë sheh në ekran, atë do ta 
 kesh të shkruar] 
  write protect 
  
 241
-write protect adj mbrojtur (i) nga 
+write protect |  adj  | mbrojtur (i) nga 
 të shkruarit [mbrojtur (i) nga 
 regjistrimi] 
-write pulse time n kohëzgjatje e 
+write pulse time |  n  | kohëzgjatje e 
 impulsit për shkruarje 
-write pulse width n gjerësi e 
+write pulse width |  n  | gjerësi e 
 impulsit për shkruarje 
-write/read process n procesi i 
+write/read process |  n  | procesi i 
 shkrim-leximit 
-writeable adj shkruajtshëm (i) 
-write-error n gabim shkrimi 
-write-once adj regjistrueshëm (i) 
+writeable |  adj  | shkruajtshëm (i) 
+write-error |  n  | gabim shkrimi 
+write-once |  adj  | regjistrueshëm (i) 
 vetëm njëherë 
-write-protect notch n vrima për 
+write-protect notch |  n  | vrima për 
 mbrotje nga shkruarja (te disketa) 
-write-protect tab n dhëmbi për 
+write-protect tab |  n  | dhëmbi për 
 mbrojtje nga shkruarja (te disketa) 
  
  
@@ -15797,68 +15767,68 @@ mbrojtje nga shkruarja (te disketa)
  
 242
 X 
-X [extension] abbr X [zgjerim, 
+X [extension] |  abbr  | X [zgjerim, 
 zgjatim, zgjatje] 
-x button n butoni x (tasti x) 
-X Consortium n Konsorciumi X 
-x ray n rreze rëntgen [rreze x] 
-X terminal n terminali X 
-X Window n Window X [ndërfaqe 
+x button |  n  | butoni x (tasti x) 
+X Consortium |  n  | Konsorciumi X 
+x ray |  n  | rreze rëntgen [rreze x] 
+X terminal |  n  | terminali X 
+X Window |  n  | Window X [ndërfaqe 
 grafike e UNIX-it] 
-X Window System n Sistemi 
+X Window System |  n  | Sistemi 
 Window X 
-x.21 n x.21 [rekomandime të CCITT] 
-x.25 n x.25 [rekomandime të CCITT] 
-x.32 n x.32 [rekomandime të CCITT] 
-x.400 n x.400 [rekomandime të 
+x.21 |  n  | x.21 [rekomandime të CCITT] 
+x.25 |  n  | x.25 [rekomandime të CCITT] 
+x.32 |  n  | x.32 [rekomandime të CCITT] 
+x.400 |  n  | x.400 [rekomandime të 
 CCITT] 
-x.445 n x.445 [rekomandime të 
+x.445 |  n  | x.445 [rekomandime të 
 CCITT] 
-x.500 n x.500 [rekomandime të 
+x.500 |  n  | x.500 [rekomandime të 
 CCITT] 
-x.75 n x.75 [rekomandime të CCITT] 
-x86 n x86 [familje e procesorëve 
+x.75 |  n  | x.75 [rekomandime të CCITT] 
+x86 |  n  | x86 [familje e procesorëve 
 të Intelit] 
-x-axis n boshti x [abshisa] 
-XCMD [external command] abbr 
+x-axis |  n  | boshti x [abshisa] 
+XCMD [external command] |  abbr  | 
 XCMD [komandë e jashtme] 
  
-X-coordinate n koordinata X 
-XENIX n XENIX [version i UNIX-it 
+X-coordinate |  n  | koordinata X 
+XENIX |  n  | XENIX [version i UNIX-it 
 për PC] 
-xerographic paper n letër 
+xerographic paper |  n  | letër 
 kserografike 
-xerographic printer n shtypës 
+xerographic printer |  n  | shtypës 
 (ose printer) kserografik 
-xerography n kserografi 
-XFCN [external function] abbr 
+xerography |  n  | kserografi 
+XFCN [external function] |  abbr  | 
 XFCN [funksion i jashtëm] 
 XGA [Extended Graphics Array] 
 abbr XGA [fushë e zgjeruar 
 grafike] 
-x-height n lartësi e shkronjës x 
-Xmodem n X-modem [protokoll i 
+x-height |  n  | lartësi e shkronjës x 
+Xmodem |  n  | X-modem [protokoll i 
 punës së modemit] 
-X-modem n X-modem [protokoll i 
+X-modem |  n  | X-modem [protokoll i 
 punës së modemit] 
 XMS [Extended Memory System] 
 abbr XMS [sistem i memories së 
 zgjeruar] 
-XMT abbr XMT [transmetim] 
-XNOR [exclusive NOR] gate n 
+XMT |  abbr  | XMT [transmetim] 
+XNOR [exclusive NOR] gate |  n  | 
 portë [qark logjik] JO-OSE 
 përjashtuese (ose ekskluzive) 
 XNOR 
-XT [extended technology] abbr 
+XT [extended technology] |  abbr  | 
 teknologji e përparuar (ose 
 avancuar) 
-XT keyboard n tastierë XT 
-XTR [transfer] abbr transfer 
-X-Y display n displej X-Y 
-x-y matrix n matricë x-y 
-x-y plotter n ploter (ose vizatues) 
+XT keyboard |  n  | tastierë XT 
+XTR [transfer] |  abbr  | transfer 
+X-Y display |  n  | displej X-Y 
+x-y matrix |  n  | matricë x-y 
+x-y plotter |  n  | ploter (ose vizatues) 
 x-y 
-x-y-z coordinate system n sistemi 
+x-y-z coordinate system |  n  | sistemi 
 koordinativ x-y-z 
  XNOR 
 XNOR [exclusive NOR] operation 
@@ -15866,14 +15836,14 @@ XNOR [exclusive NOR] operation
 243
 n operacion JO-OSE përjashtues 
 (ose ekskluziv) 
-XON/XOFF n XON/XOFF 
+XON/XOFF |  n  | XON/XOFF 
 [protokoll komunikimi] 
 XOR [exclusive NOR] instruction 
 n urdhër OSE përjashtues (ose 
 ekskluzive) 
-XOR [exclusive NOR] operation n 
+XOR [exclusive NOR] operation |  n  | 
 operacion OSE përjashtues 
-XOR [exclusive OR] gate n portë 
+XOR [exclusive OR] gate |  n  | portë 
 [qark logjik] OSE përjashtuese (ose 
 ekskluzive) 
  
@@ -15886,25 +15856,25 @@ ekskluzive)
  
  
  
-Y2K [year 2000] n viti 2000 
-Yahoo! n Yahoo [uebsajt në 
+Y2K [year 2000] |  n  | viti 2000 
+Yahoo! |  n  | Yahoo [uebsajt në 
 Internet] 
-yank and put v shkëput [nduk] 
+yank and put |  v  | shkëput [nduk] 
 dhe vë 
-Yanoff list n listë e Janofit 
+Yanoff list |  n  | listë e Janofit 
 [listë e serviseve të Internetit] 
-yaw n shmangie [nga kursi] 
-y-axis n boshti y [ordinata] 
+yaw |  n  | shmangie [nga kursi] 
+y-axis |  n  | boshti y [ordinata] 
 Y 
-year 2000 n viti 2000 
-Yellow Pages n faqe të verdha 
+year 2000 |  n  | viti 2000 
+Yellow Pages |  n  | faqe të verdha 
 [faqe me informata për biznese] 
 YES prep PO 
 YHBT [you have been trolled] ph e 
 pranuat provokimin (e qëllimshëm) 
 YHT [you have lost] ph humbët 
 [përdoret zakonisht pas YHBT] 
-Y-position n pozicioni Y 
+Y-position |  n  | pozicioni Y 
  
  
 245
@@ -15916,70 +15886,70 @@ Y-position n pozicioni Y
  
  
 Z 
-zero-level address n adresë e 
-Z [impedance] abbr Z [impedancë] 
-z80 n z80 [procesori Z80] 
+zero-level address |  n  | adresë e 
+Z [impedance] |  abbr  | Z [impedancë] 
+z80 |  n  | z80 [procesori Z80] 
 zepto [10-21] pref zepto [10-21] 
-zero [0] n zero [0] 
-zero fill n mbushje me zero 
-zero flag n flamur zero 
-zero function n funksion zero 
-zero insertion force [ZIF] n forcë 
+zero [0] |  n  | zero [0] 
+zero fill |  n  | mbushje me zero 
+zero flag |  n  | flamur zero 
+zero function |  n  | funksion zero 
+zero insertion force [ZIF] |  n  | forcë 
 me zero kalime [lak (ose unazë) pa 
 asnjë kalim] 
-zero-trip loop n lak (ose unazë) 
-zero-page addressing n adresim i 
+zero-trip loop |  n  | lak (ose unazë) 
+zero-page addressing |  n  | adresim i 
 nivelit zero 
 faqes zero 
 e futjes zero [vendosje pa forcë] 
-zero level tasks n detyra të nivelit 
+zero level tasks |  n  | detyra të nivelit 
 zero 
-zero matrix n matricë zero 
+zero matrix |  n  | matricë zero 
 zero out ph vendose në zero 
-zero point n pikë zero 
-zero suppresion n heqje (ose 
+zero point |  n  | pikë zero 
+zero suppresion |  n  | heqje (ose 
 fshirje) e zerove [zerot e 
 parëndësishme zëvendësohen me 
 zbrazëtira] 
-zero wait state n gjendje e pritjes 
+zero wait state |  n  | gjendje e pritjes 
 zero 
-zero-address instruction format n 
+zero-address instruction format |  n  | 
 format i instruksionit pa adresë 
-zero-insertion-force [ZIF] socket n 
+zero-insertion-force [ZIF] socket |  n  | 
 prizë ZIF [prizë për vendosjen (e 
 procesorit) pa forcë] 
-zeroize v zerozoj [mbush me zero] 
+zeroize |  v  | zerozoj [mbush me zero] 
  
 zetta pref zeta [1021] 
-z-folded paper n letër e pandërprerë 
+z-folded paper |  n  | letër e pandërprerë 
 ZIF socket [zero-insertion-force 
-socket] n prizë ZIF [prizë për 
+socket] |  n  | prizë ZIF [prizë për 
 vendosjen (e procesorit) pa forcë] 
-zip code n kod postar [prefiks 
+zip code |  n  | kod postar [prefiks 
 telefonik, numër zone] 
-ZIP drive n njësi ZIP [njësi e 
+ZIP drive |  n  | njësi ZIP [njësi e 
 disketave ZIP] 
-Zmodem n Z-modem [protokoll i 
+Zmodem |  n  | Z-modem [protokoll i 
 punës së modemit] 
-zone n zonë 
-zoom v zumoj [zmadhoj/zvogëloj 
+zone |  n  | zonë 
+zoom |  v  | zumoj [zmadhoj/zvogëloj 
 pamjen] 
-zoom n zumues [zmadhues/ 
+zoom |  n  | zumues [zmadhues/ 
 zvogëlues i pamjes] 
-zoom box n kornizë për zumim 
+zoom box |  n  | kornizë për zumim 
 [kornizë për zmadhim/zvogëlim të 
 pamjes] 
-zoom in v afrim i pamjes 
+zoom in |  v  | afrim i pamjes 
  zoom out 
-zoom out v largim i pamjes 
-zoom to v zumoj në [zvogëloj/ 
+zoom out |  v  | largim i pamjes 
+zoom to |  v  | zumoj në [zvogëloj/ 
 zmadhoj pamjen në: …%] 
  
 246
  
-zooming n zumim [zmadhim/ 
+zooming |  n  | zumim [zmadhim/ 
 zvogëlim i pamjes] 
-Zulu time n kohë Zulu [koha 
+Zulu time |  n  | kohë Zulu [koha 
 universale e koordinuar] 
  
  
@@ -15992,59 +15962,59 @@ universale e koordinuar]
 247
  
 1-9 
-101-key keyboard n tastierë me 
+101-key keyboard |  n  | tastierë me 
 101 taste 
-12-hour clock n orë 12-orëshe 
-16-bit adj 16-bitësh 
-16-bit application n aplikacion 16-
+12-hour clock |  n  | orë 12-orëshe 
+16-bit |  adj  | 16-bitësh 
+16-bit application |  n  | aplikacion 16-
 bitësh 
-16-bit color n ngjyrë 16-bitëshe 
-16-bit machine n makinë 16-
+16-bit color |  n  | ngjyrë 16-bitëshe 
+16-bit machine |  n  | makinë 16-
 bitëshe 
-24-bit color n ngjyrë 24-bitëshe 
-24-hour clock n orë 24-orëshe 
-256-bit adj 256-bitësh 
-3.5 inch floppy disk n disketë 
+24-bit color |  n  | ngjyrë 24-bitëshe 
+24-hour clock |  n  | orë 24-orëshe 
+256-bit |  adj  | 256-bitësh 
+3.5 inch floppy disk |  n  | disketë 
 3.5-inçëshe 
-32-bit application n aplikacion 32-
+32-bit application |  n  | aplikacion 32-
 bitësh 
-32-bit color n ngjyrë 32-bitëshe 
-32-bit driver n ngasës 32-bitësh 
-32-bit machine n makinë 32-
+32-bit color |  n  | ngjyrë 32-bitëshe 
+32-bit driver |  n  | ngasës 32-bitësh 
+32-bit machine |  n  | makinë 32-
 bitëshe 
-32-bit operating system n sistem 
+32-bit operating system |  n  | sistem 
 operativ 32-bitësh 
-3-D [three-dimensional] abbr 3-D 
+3-D [three-dimensional] |  abbr  | 3-D 
 [tridimensional] 
 3-D audio [three-dimensional audio] 
 n audio 3-D [audio 
 tridimensionale] 
 3-D graphic [three-dimensional 
-graphic] n grafikë 3-D [grafikë 
+graphic] |  n  | grafikë 3-D [grafikë 
 tridimensionale] 
 3-D model [three-dimensional 
-model] n model 3-D [model 
+model] |  n  | model 3-D [model 
 tridimensional] 
-3-D sound n zë 3-D [zë 
+3-D sound |  n  | zë 3-D [zë 
 tridimensional] 
 3GL [third-generation language] 
 abbr 3GL [gjuhë e brezit të tretë] 
 4GL [fourth-generation language] 
 abbr 4GL [gjuhë e brezit të 
 katërt] 
-4GL architecture n arkitekturë 
+4GL architecture |  n  | arkitekturë 
 4GL [arkitekturë e gjuhës së brezit 
 të katërt] 
-4mm tape n shirit 4mm 
-64-bit adj 64-bitësh 
-64-bit machine n makinë 64-
+4mm tape |  n  | shirit 4mm 
+64-bit |  adj  | 64-bitësh 
+64-bit machine |  n  | makinë 64-
 bitëshe 
-7-bit ASCII n ASCII 7-bitësh 
-80-character line length n rresht 
+7-bit ASCII |  n  | ASCII 7-bitësh 
+80-character line length |  n  | rresht 
 me gjatësi 80-karakterësh 
 3-D array [three-dimensional array] 
 n fushë 3-D [fushë tridimensionale] 
-8-bit adj 8-bitë
+8-bit |  adj  | 8-bitë
  
  
 248
@@ -16177,14 +16147,14 @@ SHQIP – ANGLISHT
  
  
  
- abbr – abbrevation 
- adj – adjective 
+ |  abbr  | – abbrevation 
+ |  adj  | – adjective 
  
  adv – adverb 
  
  
  matt – mathematics 
- n – noun 
+ |  n  | – noun 
  
  ph – phrase 
  
@@ -17197,7 +17167,7 @@ bartësi i të dhënave i detektuar fr
 bartësja e të dhënave e detektuar fr
  Data Carrier Detected [DCD] 
 bartje (e një shifre) e carry 
-bartje ciklike e end-around carry 
+bartje ciklike e |  end | -around carry 
 bartje e bit-bllokut e bit block 
 transfer 
 bartje e fajlave binarë e binary file 
@@ -17212,7 +17182,7 @@ file transmission [BFT]
 bartje paketore e të dhënave e
  batch file transmission [BFT] 
 bartje paralele e bitëve e bit parallel 
-bartje rrethore e end-around-carry 
+bartje rrethore e |  end | -around-carry 
 bartje seri e bitëve e bit serial 
 bartshëm (i) [portabël] mb portable 
 bartshëm (i) [transportueshëm (i)]
@@ -18697,7 +18667,7 @@ domen ferromagnetik e
  ferromagnetic domain 
 domen i dijes e knowledge domain 
 domen i gabimit e fault domain 
-domen i nyjës së fundit e end node 
+domen i nyjës së fundit e |  end |  node 
 domain 
 domen magnetik e magnetic 
 domain 
@@ -19599,7 +19569,7 @@ fjalë çelës e rezervuar e reserved
 keyword 
 fjalë e dyfishtë e doubleword, double 
 word 
-fjalë e fundit të regjistrimit e end-
+fjalë e fundit të regjistrimit e |  end | -
 of-record word 
 fjalë e identifikatorit e identity unit 
 fjalë e instruksionit e instruction 
@@ -19949,32 +19919,32 @@ ftohës i CPU-së e CPU fan
 FTP [protokoll për transferin e 
 fajlaveanonim] e anonymous FTP 
 fund e tail 
-fund [mbarim] e end 
-fund i bllokut e end of block [EB] 
-fund i fajlit e end of file [EF]; end-
+fund [mbarim] e |  end |  
+fund i bllokut e |  end |  of block [EB] 
+fund i fajlit e end of file [EF]; |  end | -
 of-file [EOF] 
-fund i faqes (1) e end of page [EP] 
+fund i faqes (1) e |  end |  of page [EP] 
 fund i faqes (së tekstit) (2) e page 
 footer 
-fund i fushës e end field 
+fund i fushës e |  end |  field 
 fund i punës 
-fund i punës e end of job [EJ] 
+fund i punës e |  end |  of job [EJ] 
 fund i raportit e report footer 
-fund i regjistresës e end of record 
-[ER]; end-of-record [EOR] 
-fund i regjistrimit e end of record 
-[ER]; end-of-record [EOR] 
-fund i rreshtit e end of line [EL] 
-fund i shiritit e end of tape [ET] 
-fund i të dhënave e end of data 
+fund i regjistresës e |  end |  of record 
+[ER]; |  end | -of-record [EOR] 
+fund i regjistrimit e |  end |  of record 
+[ER]; |  end | -of-record [EOR] 
+fund i rreshtit e |  end |  of line [EL] 
+fund i shiritit e |  end |  of tape [ET] 
+fund i të dhënave e |  end |  of data 
 [ED] 
-fund i tekstit [ETX] e end-of-text 
+fund i tekstit [ETX] e |  end | -of-text 
 [ETX] 
-fund i transmetimit e end of 
-transmission, end-of-transmission 
+fund i transmetimit e |  end |  of 
+transmission, |  end | -of-transmission 
 [ET] 
 fund i trasesë e track tail 
-fund i vargut e end string 
+fund i vargut e |  end |  string 
 fundit (i) mb last 
 fundit (i) hyn – i fundit-del [sistemi 
 LILO] e last-in last-out [LILO] 
@@ -19982,7 +19952,7 @@ fundit (i)-hyn – i pari-del [sistemi
 LIFO] e last-in first-out, last in 
 first out [LIFO] 
 fundmë (i) mb finite 
-fundshënim e endnote 
+fundshënim e |  end | note 
 funksion e function 
 funksion ABS e ABS function 
 funksion eksponencial e 
@@ -21055,7 +21025,7 @@ indikator i kontrollit me makinë e
 indikator i prioritetit 
 indikator i prioritetit e priority 
 indicator 
-indikatori i fundit të fajlit e end-of-
+indikatori i fundit të fajlit e |  end | -of-
 file indicator 
 individualizoj [vetësoj] f 
 personalize 
@@ -21721,7 +21691,7 @@ characters
 karakteret për mbushje e fill 
 characters 
 karakteri i fundit të transmetimit 
-[EOT] e end-of-transmission 
+[EOT] e |  end | -of-transmission 
 [EOT] character 
 karakteristikë e characteristic 
 kartelë e card 
@@ -22002,7 +21972,7 @@ code
 kod i drejtpërdrejtë [kod i makinës]
  e direct code 
 kod i flamurit e flag code 
-kod i fundit të transmetimit e end-
+kod i fundit të transmetimit e |  end | -
 of-transmission [EOT] code 
 kod i gjuhës së makinës e machine 
 language code 
@@ -23511,7 +23481,7 @@ listë e parametrave aktualë e
  
 363
 listë e përndarjes e distribution list 
-listë e pikës fundore e endpoint list 
+listë e pikës fundore e |  end | point list 
 listë e pritjes e wait list 
 listë e veprimeve e action list 
 listë e vetive e property list 
@@ -23807,9 +23777,9 @@ margjinë e majtë e left margin
 margjinë e poshtme e bottom 
 margin 
 markë (e një prodhimi) e brand 
-marker i fundit të fajlit e end-of-
+marker i fundit të fajlit e |  end | -of-
 file mark 
-marker i fundit të fushës e end-of-
+marker i fundit të fushës e |  end | -of-
 field-mark 
 marker i fundit të të dhënave e 
 end-of-data-mark 
@@ -23832,10 +23802,10 @@ asiynchronous reciever/
 transmitter [UART] 
 marrëveshje e convention 
 marrëveshje me përdoruesin e 
-fundit për licencim e end-user 
+fundit për licencim e |  end | -user 
 license agreement 
 marrëveshje me shfrytëzuesin e 
-fundit për licencim e end-user 
+fundit për licencim e |  end | -user 
 license agreement 
 mbështetje klientëve 
 matricë e rregullt e regular matrix 
@@ -23903,8 +23873,8 @@ pen holder
 mbarim [fund, përfundim] e 
 termination 
 mbarim jonormal (i programit) e 
-abnormal end [abend] 
-mbaroj f end 
+abnormal |  end |  [abend] 
+mbaroj f |  end |  
 mbështetje klientëve e customer 
 support 
 mbështetje shfrytëzuesve 
@@ -24294,7 +24264,7 @@ menaxher i përpunimit të të
 dhënave [DPM] e data 
 processing manager [DPM] 
 menaxher i pikës fundore e
- endpoint manager 
+ |  end | point manager 
 menaxheri i memories së zgjeruar 
 [EMM] e Expanded Memory 
 Manager [EMM] 
@@ -24481,7 +24451,7 @@ metodë e aksesit të rastësishëm e
  random access method 
 metodë e mbledhjes së përsëritur e
  repeated-addition method 
-metodë e pikës fundoree endpoint 
+metodë e pikës fundoree |  end | point 
 method 
 metodë e shtegut kritik e critical 
 path method [CPM] 
@@ -24939,8 +24909,8 @@ mysafir e guest
  
  
  
-n [nano] pref n 
-n [nano] shk n [nano] 
+n [nano] pref |  n  | 
+n [nano] shk |  n  | [nano] 
 nano- [= 10–9 – në Evropë; = 10–12 – 
 në SHBA] pref nano- [= 10–9 – 
 UK; = 10–12 – USA] 
@@ -25341,7 +25311,7 @@ neutral mb neutral
 nga lart [i bërë nga ajri] mb aerial 
 nga poshtë lart [që ngjitet përpjetë]
  mb bottom-up 
-nga skaji më i madh mb big endian 
+nga skaji më i madh mb big |  end | ian 
 nga të dy skajet mb bi-endian 
 nga-pika-në-pikë 
 nga-pika-në-pikë [pikë-më-pikë]
@@ -25655,7 +25625,7 @@ nxjerr f derive
 nxjerr [ekstraktoj] f extract 
 nyjë [pikëdegëzim] e node 
 nyjë aktive e active node, active hub 
-nyjë e fundit e end node [EN] 
+nyjë e fundit e |  end |  node [EN] 
 nyjë e jashtme e external node 
 nyjë rrjeti e network node [NN] 
 nyjë terminali e terminal node 
@@ -25775,7 +25745,7 @@ njohje e dorëshkrimit e
  handwriting recognition 
 njohje e figurës e image recognition 
 njohje e fundit të transmetimit e
- end-of-transmission recognition 
+ |  end | -of-transmission recognition 
 njohje e gjuhës natyrore e natural-
 language recognition 
 njohje e karaktereve e character 
@@ -25817,7 +25787,7 @@ objektiv i emërtuar e named target
 oksid magnetik e magnetic oxide 
 oksidi i hekurit e ferric oxide 
 oktet [bajt, tetëbitësh] e octet 
-om [Ω] e ohm [Ω] 
+om [Ω] e ohm [Ω] 
 opcion në dispozicion e available 
 choice 
 operacion (logjik) JO-DHE e
@@ -25988,8 +25958,8 @@ oshiloskop e oscilloscope, scope
  
 402
 P 
-p [peta] shk p [peta] 
-p [piko] shk p [piko] 
+p [peta] shk |  p  | [peta] 
+p [piko] shk |  p  | [piko] 
 p.d. [paradite] shk a. m. [lat. ante 
 meridiem] 
 p.sh. [për shembull] shk e.g. [lat. 
@@ -26007,7 +25977,7 @@ padisponueshëm (i) [që nuk është në
 dispozicion, që nuk mund të 
 aktivizohet] mb unavailable 
 paformatuar (i) mb unformatted 
-pafund (i) e endless 
+pafund (i) e |  end | less 
 pafundësi e infinity 
 pagesë [shpenzime] e fee 
 pagesë elektronike e electronic 
@@ -26447,7 +26417,7 @@ përdorues admin në MAC OS X e
  MAC OS X admin user 
 përdorues i avancuar e advanced 
 user 
-përdorues i fundit e end user, end-
+përdorues i fundit e end user, |  end | -
 user 
 përdorues i ekstranetit e extranet 
 user 
@@ -26482,7 +26452,7 @@ përfundim [konkluzion] e
  conclusion 
 përfundim jonormal e abnormal 
 termination; blow up 
-përfundoj f end 
+përfundoj f |  end |  
 përfundues i busit e bus terminator 
 përfundues i segmentit të të 
 dhënave e data segment 
@@ -26899,7 +26869,7 @@ pikë e aksesit [lidhjes] e access
 point 
 pikë e aksesit në rrjet [NAP] e
  network access point [NAP] 
-pikë e fundit e endpoint 
+pikë e fundit e |  end | point 
 pikë e hyrjes [EP] e entry point [EP] 
 pikë e indeksit e index point 
 pikë e ndryshueshme e variable 
@@ -26912,7 +26882,7 @@ pikë e shitjes [POS] e point of sale
 [POS] 
 pikë e të dhënave e data point 
 pikë fikse e fixed point 
-pikë fundore e endpoint 
+pikë fundore e |  end | point 
 pikë hyrëse e entry point, entrance 
 pikë hyrëse [EP] e entry point [EP] 
 pikë kontrolli e checkpoint 
@@ -28361,15 +28331,15 @@ synuar] e target routine
 rutinë pas ndërprerjes e
  postmortem routine 
 rutinë për fund të përpunimit e 
- end-of-run routine 
-rutinë për fund të shiritit e end-of-
+ |  end | -of-run routine 
+rutinë për fund të shiritit e |  end | -of-
 tape routine 
 rutinë për ndreqjen [mënjanimin] e 
 gabimeve e debugging routine 
 rutinë për organizim të fajlit e file 
 organization routine 
 rutinë për përpunim të fundit e
- end-of-file routine 
+ |  end | -of-file routine 
 rutinë për renditje të adresave e 
  address sort routine 
 rutinë për rinisje automatike e
@@ -29770,7 +29740,7 @@ defragmenter
 shfrytëzim i përbashkët [kolektiv] i 
 fajlit e files sharing 
 shfrytëzues e user 
-shfrytëzues i fundit e end user, end-
+shfrytëzues i fundit e end user, |  end | -
 user 
 shifër e digit 
 shifër [çelës] e key (3) 
@@ -30307,7 +30277,7 @@ shtypje [printim] e detajizuar e
  detail printing 
 shtypje [printim] e drejtpërdrejtë e
  immediate printing 
-shtypje [printim] në fund e end 
+shtypje [printim] në fund e |  end |  
 printing 
 shtypje [printim] në më shumë 
 kalime e multiple-pass printing 
@@ -30901,7 +30871,7 @@ gjysmëpërçues me efekt fushe
 [MOSFET] e metal-oxide 
 semiconductor field-effect 
 transistor [MOSFET] 
-transistor MOS me kanal n 
+transistor MOS me kanal |  n  | 
 [NMOS] e N-channel MOS 
 [NMOS] 
 transistor NMOS e NMOS 
@@ -31525,7 +31495,7 @@ veprimtari e activity
 verifikim e verification 
 verifikim automatik e auto verify 
 verifikim i përdoruesit të fundit e
- end-user verification 
+ |  end | -user verification 
 verifikim i programit e program 
 proving; program verification 
 verifikim i të dhënave e data 
@@ -31948,10 +31918,10 @@ zbrazët (i) mb empty; null
 zbrazët (i) [paplotësuar (i), bardhë 
 (i)] mb blank 
 zbrazëtirë e blank 
-zbrazëtirë e fundit të fajlit e end-of-
+zbrazëtirë e fundit të fajlit e |  end | -of-
 file gap 
 zbrazëtirë e fundit të shiritit e
- end-of-tape mark 
+ |  end | -of-tape mark 
 zbrazëtirë em [sa gjerësia e 
 shkronjës M] e em space 
 zbrazëtirë en [sa gjysma e gjerësisë 
@@ -32141,7 +32111,7 @@ zhvendosje absolute e absolute
 movement 
 zhvendosje aritmetike e arithmetic 
 shift 
-zhvendosje ciklike e end-around 
+zhvendosje ciklike e |  end | -around 
 shift 
 zhvendosje dinamike e programit
  e dynamic program relocation 
