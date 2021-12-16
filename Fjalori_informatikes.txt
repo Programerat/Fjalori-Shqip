@@ -332,8 +332,7 @@ acoustical adj akustik
 acoustical feedback n riveprim 
 akustik
 acoustics n akustikë
-acquisition of information n 
-mbledhje e informacioneve
+acquisition of information  n mbledhje e informacioneve
 ACR [Audio Cassette Recorder] n
 magnetofon kasetor
 ACR interface [Audio Cassette
