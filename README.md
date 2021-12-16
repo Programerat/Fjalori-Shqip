@@ -2,4 +2,4 @@
 //...
 Fjalori shqip i teknologjise
 
-[Fjalori shqip](https://logs.internal.billie.io/_dashboards/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-15m,to:now))&_a=(columns:!(_source),filters:!(),index:'5e5248e0-1885-11eb-ba42-f91f41e7d58a',interval:auto,query:(language:kuery,query:''),sort:!()))
+[Fjalori shqip](http://www.ashak.org/repository/docs/Fjalori_i_informatikes_NebiCaka_413239.pdf)
